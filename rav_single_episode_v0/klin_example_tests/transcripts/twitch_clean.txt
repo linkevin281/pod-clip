@@ -1,0 +1,4292 @@
+welcome to the Logan Bartlett show I am
+your host Logan Bartlett and what you're
+going to hear on this episode is a
+conversation I have with Emmett sheer
+Emmett is the co-founder and former CEO
+of twitch one of the most influential
+Tech Platforms in recent memory from its
+humble beginnings as a reality
+television show focused on one of his
+friends to the most influential online
+community that exists I came with a
+framework for prioritizing features
+which is I got out of talking to a bunch
+of streamers and they wanted to fame
+love and money is this thing producing
+more money more fame or more love right
+we will prioritize resources against
+those is it not then it's not important
+or we're not going to do that Emmett and
+I take the conversation at a bunch of
+different directions about how he
+learned to grow as a leader and how he
+ultimately sold the business to Amazon
+and then stayed on for another 10 years
+after that running the company Amazon
+actually lets CEOs be CEOs if you want
+to sell your company and keep running it
+I couldn't recommend any really any big
+tech company other than Amazon how do we
+just make sure twitch continues to be
+the best place for streamers we also
+talk about why he thinks remote work is
+actually bad for most tech companies
+there's a reason why silicon Valley's
+taking over you can't take that culture
+and Transplant it into a remote work
+environment and expect it to work Emmett
+was a part of the first y combinator
+batch in 2006 along with the founders of
+Reddit and Sam Altman and so we talked
+what it was like in the early days of
+working with Paul Graham at YC he's
+going to walk away from the conversation
+with Paul believing we are the shed we
+are smart capable and we're going to
+take over the world the only thing
+standing between us and taking over the
+world is we have to go grind even harder
+road trips are not tours of gas stations
+and your life shouldn't be a tour of
+money picking finally Emmett shares what
+he's most concerned about with
+artificial intelligence so here's now
+Emma
+thanks for doing this
+um you had four co-founders of twitch
+Justin TV uh you stayed on ran twitch
+Michael has been running various aspects
+of YC over the years uh Kyle started
+Cruise after he left
+and then Justin
+Khan is a quasi internet celebrity at
+this point I mean he's gone through a
+bunch of stuff but yeah he had Atrium he
+had exact Atrium and now yeah now I
+think internet celebrity and uh DJ DJ
+got it interesting guy uh what made your
+relationships to their co-founders such
+that you guys all stayed together and
+worked well together over the years so
+uh I've known Justin since I was eight
+uh we grew up together in Seattle went
+to school together uh school being a
+high school elementary school uh Middle
+School who she didn't go to the same
+high school but then we did go to the
+same College again
+um and I met we met Michael uh in
+college probably closer to Justin than
+to me uh and then Kyle we recruited out
+of MIT uh as we were starting the
+company he was a uh he was a I think a
+sophomore at the time
+how did you come across Kyle well he
+says an email to the MIT like hackers
+who want projects list and two people
+replied and one of them was Kyle
+um and uh
+he thought we seemed incredible because
+we built a startup and sold it on eBay
+before and we thought he seemed credible
+because he sent us a 27-page PDF with
+CAD drawings and so we uh uh we wound up
+we want to pick him up selling a startup
+on eBay by the way we glossed over that
+but uh you literally listed the IP for
+your company on eBay which is an
+interesting separate story you've told
+it you've told him enough I won't make
+it again but I can tell the short
+version of it which is that we'd started
+a copy of Google Calendar but before
+Google Calendar existed and after Google
+launched Google Calendar we were like oh
+we didn't really have any other ideas
+for what to do other than a JavaScript
+calendar on the internet and they
+already did that so uh we decided we'd
+sell it uh
+we didn't know how to sell something on
+the Internet like how to sell us a
+software company uh especially one that
+wasn't like a real acquisition and so we
+thought we just listed on eBay uh which
+which worked actually we sold like a
+quarter million dollars
+um which
+um I think it's actually a good
+demonstration of like the kind of thing
+you have to do in startups a lot which
+is
+you you have to just figure out how to
+solve a problem uh
+even if the standard paths don't that
+you have to make up what what it is
+um there's a lot of making it up uh that
+has to happen first first thing like
+startup because almost by definition the
+normal stuff isn't isn't all set up was
+that a PR did you know it was going to
+be kind of PR stunty and that that would
+lead to distribution yeah that was that
+was the idea that was part of it the
+idea was we were like we need to get
+people to know we're selling it how do
+we reach them oh if we listed on eBay
+that'll be funny we can get people to
+write an article about that it was very
+intentional it actually worked it worked
+that's how it worked it worked it worked
+as planned actually yeah minus the fact
+that eBay took down our listing is we
+had two links in it
+um about five days into the seven day
+listing and we had to relist it which is
+kind of a hard stopping experience
+because we had one bit at fifty thousand
+dollars at that point and we were like
+no we've lost our bidder uh but it turns
+out that uh that that didn't actually
+hurt us at all so you had the
+credibility of that and so Kyle was like
+these guys have credibility yeah they
+they must know what they're doing I I
+think Kyle overestimated how much
+credibility that should have given us
+but uh it did it did prove that we were
+the kind of people who like could
+actually build things um and sell them
+so that's I guess it wasn't a zero and
+there was a deep level of trust but also
+some dysfunction among the group Kyle
+went nocturnal for a while to avoid
+conflicts so yeah there's actually we
+did a podcast about this uh an only
+friends episode which is great it's
+super entertaining two hours of like you
+guys shooting the yeah if you want
+the the full full deep details version
+of it but the high level version is uh
+like it worked because all four of us
+trusted each other
+um and we somehow managed to pick four
+people who were smart hard-working you
+know competent but I think most of all
+who had the
+who understood what it meant to be part
+of a Wii not not a bunch of individuals
+always thinking about whether or not uh
+how is this working for me
+um and I think that that's what makes
+uh that's what makes Partnerships work
+um
+both probably like romantic Partnerships
+and business Partnerships because if
+you're going to be in a a partnership
+not an employer employee relationship
+but a partnership relationship you can't
+always be thinking about whether or not
+or you can't be modeling what what are
+they doing are they are they trying to
+what what's their incentive versus my
+incentive versus the company's incentive
+it's dramatically simplifying it makes
+everything a lot easier if you can just
+only think about what is right for the
+company and then just ignore everything
+else
+um
+and I think that that's something that
+goes wrong in a lot of uh a lot of
+things and it's it's what causes
+instability because suddenly
+when there's lots of interest at stake
+there is conflict about my interest
+versus your interest but when you can
+simplify it to well what is our interest
+and everyone everyone can actually
+commit to that uh it works pretty well
+is there any way to solve for that as
+you're now working more with
+entrepreneurs
+um yeah be that way yourself yeah like
+the number one the number one cause of
+the problem in all of your relationships
+is you that's true again romantically
+and in business uh and
+the solvings for how do I
+actually buy into this is this is we we
+are doing this is really important and
+then also obviously you need to work
+with people who have that mindset as
+well but you have less control over that
+and you have less ability to detect it
+and at some level you know you have to
+trust and Hope
+but uh I think there's something about
+if if you do it
+first of all you can control that so
+that's good but second of all
+it brings it out of other people when
+they when they can see that you're
+serious about we and you're not
+you're not run you're not gaming them
+you're not cheating uh you're not like
+pretending you're about all about we and
+then actually being about yourself
+people respond to that it draws it out
+of your partner as well so you launched
+and shipped a bunch of products over the
+years uh that ultimately led to Twitch
+so there was a calendar for gmail which
+was you and Justin then after that
+social network for families SoundCloud
+like business a web crawler that map
+popularity like clout a flexible to-do
+list kind of an airtable-ish thing an
+Evite competitor something that was kind
+of similar to GitHub her Roku replet
+whatever you want to call it then Justin
+TV ultimately twitch I heard you say
+something interesting when learning you
+get exposure to a wide variety of
+problems related to the topic to
+actually teach you how to understand and
+see the differences between things you
+don't just study one piece of music to
+learn music did all these experiments
+and all the different products that you
+guys iterated on did it actually help
+prepare you for twitch's success or are
+they just aimless Cycles along the way
+um I think did help prepare us I think
+the main thing they actually prepared me
+for was building like I did learn
+something from the product work on it
+but honestly we did such a bad job on
+the product
+uh design aspects of it and the sort of
+business design aspects of it that I
+didn't learn as much from that as I'd
+like to what I what we learned from is
+the engineering side of it like the
+design side of it like how do you
+actually build a thing that like
+functions and and has uh has
+functionality and not too many bugs and
+I got a ton out of stuff on the uh
+uh on the building side I would say on
+the on the how does stuff work side and
+learning how to design how to how to
+build a product how to build a
+successful business
+um the stuff I built myself was probably
+only
+a tenth of the data mostly I was like
+obsessively studying how other
+businesses worked because you get a lot
+more you can only launch a new thing
+every you know few weeks if you're fast
+usually every few months like a
+significant new thing but there's new
+stuff being launched all the time and if
+you want the number of reps you need you
+can't just learn from your own your own
+mistakes you have to be learning from
+everyone else's mistakes and everyone
+else's successes at the same time I
+think that's the uh that was my
+you know my primary uh you know
+University for that was it what was with
+Justin with Michael with Kyle every
+lunch every night every weekend like we
+just talked about startups Non-Stop and
+the thing we would often be talking
+about would be not our startup but like
+oh why is you know Facebook is working
+why is Facebook working why are they
+beating Myspace like what's different
+about it why what's good about their
+strategy what's not good about their
+strategy
+um
+and that
+and really carefully paying attention
+and trying out and like using the
+product and and
+paying attention to what is actually
+working in the real world you learn a
+lot I think that's where that's probably
+the main thing I learned from from a
+design point of view I I I joke that
+that's my main only value as a career
+Finance person investor is one I'm used
+to just giving advice and letting people
+decide you know I'm not used to having
+actually owning the decision myself
+which is actually can be nice as a board
+member like hey here are the options and
+two you get to simulate out a lot of
+different data points for all the
+companies that come in and pitch and so
+you're you can extrapolate on a bunch of
+different stuff there
+one of the things that uh I have a
+friend uh Matt who uh almost started our
+first company with us but instead went
+into went into finance and you know runs
+a hedge fund and uh
+uh has worked at a bunch of the finance
+jobs over the years uh and he's he's an
+investor in what I've discovered is
+investors have this
+just in totally different lens at least
+you know public markets investors and I
+think most private markets investors as
+well who are a later stage where it's
+about like whether the industry is good
+and like the capital allocation like the
+structure of the business which is not
+something actually that Founders think
+about all that much and I think I think
+it's right that Founders don't think
+about that because For the First
+two three years of a company
+it doesn't matter like just build
+something people want and sell it to
+them like ignore everything else but as
+you get bigger and bigger those things
+become actually quite important and you
+start to try to think about oh or in
+this industry but we could be in this
+adjacent industry and there's some way
+to shift how our business is perceived
+or what kind of work we do and how
+what's the structure of how Capital
+flows work and can we change that and
+those actually do become very important
+questions but like usually later
+um there's sort of a handoff that
+happens it's funny to hear you all talk
+about like iterating on the product and
+trying to find something and one of the
+throwaway lines I've heard I don't know
+if is you adjusted or someone's saying
+we could go be build Enterprise software
+but that's boring and we don't want to
+go do that I was like you know in 2006
+or 2007 you would have created a lot of
+value doing Enterprise software and you
+were just like hey not for us that's too
+boring to go pursue it um I think uh we
+we talked about building instead of
+twitch or social cam
+um because Michael went and uh founded
+social cam which you end up selling to
+Autodesk that was weird in a way the
+Autodesk thing never really made sense
+to me
+um
+we talked about building a WebEx
+competitor because like WebEx is
+obviously a huge market like
+teleconferencing and
+we have like no doubt we could build a
+better product than WebEx because WebEx
+is annoying to use
+which we're basically talking about Zoom
+right a more consumer version of WebEx
+is zoom
+um and
+we decided against it because we knew it
+would involve Enterprise no not the
+product side of it but the sales side of
+it like Enterprise sales is like a whole
+business and uh
+we just like had no interest in like
+learning how to do that
+um and it's actually uh
+I think I think a good example of sort
+of knowing yourself like I actually
+don't think I would have had I think I
+probably could have learned how to do it
+but I don't think I didn't want to do
+that I wanted to do something else and I
+think it's it's important for Founders
+to do after the thing that they're
+interested in
+um although
+it was also a better time for Consumer
+like I think
+uh we go twitch worked a lot of actually
+good consumers companies started around
+that time it got a lot harder to win in
+consumer as the big player is
+Consolidated uh more of distribution and
+I think
+uh I think three or four years later
+maybe we would have pivoted into
+Enterprise just because lack of any
+credible other option just getting
+distribution would have been really hard
+with and certainly today it's a huge
+pain um there's an hourglass quote that
+I like a lot and I know you do as well I
+think I've quoted it before uh I won't
+read the whole thing but nobody tells
+this to people who are beginners I wish
+someone told me all of us who do
+creative work we get into it because we
+have good taste but there is a gap for
+the first couple years you bake stuff
+it's not that good it's trying to be
+good it has potential but it's not but
+your taste the thing that got you to the
+game is still killer and your taste is
+why your work disappoints you a lot of
+people never get past this phase they
+quit most people I know who do interest
+in Creative work went through years of
+this we know our work doesn't have the
+special thing that we wanted to have we
+all go through this and if you are just
+starting out or you are in this phase
+you got to know it's normal and the most
+important thing you can do is put in the
+work
+period it's a sort of profound quote I
+think it can be applied to a lot of
+different things as you guys were
+iterating on all of it did you did you
+know that your products just weren't
+that good and was it disappointing along
+the way to ship all these different
+things and not have it take off like you
+hoped it would yeah I'd say there's I
+had that in three different layers I'm
+the first one from an engineering
+perspective I just wasn't that good of
+an engineer I knew what good engineering
+looked like I remember visiting for the
+friend feed offices which had like
+Gmail incredible programmer I think who
+else is maybe Brett Taylor like like
+really
+insanely good programmers and them
+talking about their Engineering Process
+and like me using their product and
+seeing the engineering behind it just
+being like
+oh that's what that's what I'm trying to
+do that and like the thing I'm just like
+incompetent like the thing I'm doing I'm
+just doing this all wrong
+um and then spending like 10 years
+trying to get better at building stuff
+and eventually I I did learn how to
+build stuff more like the way that they
+did
+um and it was better but it was it was
+10 years of like being quite
+disappointed in the quality of the
+engineering I was doing
+it was it worked but it it wasn't like
+uh it wasn't
+well designed it wasn't good
+um
+and then there was this the product side
+where
+um
+I I did I didn't think I didn't
+I wasn't that disappointed in the the
+Micro Design of the products I just
+thought we did a pretty good job there
+from fairly early and to some degree
+it's a
+uh
+it's a little different from uh from
+other kinds of creation things sort of
+like whatever you can think of you can
+kind of do like copying is very easy at
+that level and so if you have good taste
+you can just copy good stuff and it
+works but at the macro level there's
+this thing missing where like
+we weren't good at business well we
+weren't good at figuring out what do we
+need to build that people will actually
+want and the constant disappointment was
+we'd build stuff and I wouldn't have
+actually solved the problem for the
+person I think
+and that was very frustrating and like
+hard to uh hard to deal with and
+uh there was a sense of like
+uh
+that that's that's almost more like
+learning to do science
+I would say the engineering thing is the
+thing where I felt The Hourglass quote
+the strongest
+the
+and about like I had this level of taste
+where I could really see what I was
+trying to do and I couldn't achieve it
+with my hands the other thing was not
+understanding like
+uh it's like I was I was I was a grad
+student I was writing papers and they
+were getting published but I knew I
+wasn't actually like discovering
+anything that's that important like the
+the papers which weren't on important
+discoveries and I was somehow missing I
+knew I was missing something
+um
+but that's a that's a slightly different
+thing Than The Hourglass question
+Justin TV so you the original idea for
+it for people that don't remember was
+actually
+following Justin your co-founder around
+for 24 hours a day filming 100 of his
+life
+did you did you actually think at that
+time that like that you would be a
+reality television Studio business or
+did you know this was kind of a means to
+some end and you were mucking around the
+idea was always that we would
+open it up for other people to produce
+shows like we never thought we were
+going to be the people
+for doing the production everything
+we're going to license the MTV or
+whatever yeah we we thought we were
+produ building a technology to enable
+ourselves to make the first
+live streaming reality show and that
+other people would then go on to build
+make more live streaming reality shows
+using using what we built which you know
+within one order of magnitude is what
+what happened
+um but where we got what went wrong was
+that uh
+uh with that Vision was that like
+reality TV requires editing live reality
+TV is a bad idea
+I just didn't really understand how the
+entertainment I didn't understand we
+didn't understand anything about
+anything so that that was that was crazy
+but actually to level below that we were
+very very right because we what we
+actually had was that Justin
+uh who
+uh has always been you know living in
+the future a little bit when it comes to
+this kind of stuff
+uh really wanted to be an influencer and
+really wanted the attention and wanted
+thought it would be cool to like live
+stream a lot about of of his life which
+was a thing that not a lot of people had
+done at that point and we built the
+technology to enable him to live his
+influencer dreams and that turned out to
+be quite powerful actually
+um the number one thing we did right
+with Justin TV the thing I would
+encourage everyone who's trainable
+consumer software to do is we built
+something for ourselves we built the
+thing that we wanted to use every day or
+at least one person on our team wanted
+to use every day and uh most of the
+Innovations
+on Twitch on Justin TV were things we
+invented for ourselves running the show
+because we thought they'd be fun like
+the idea of having uh our own custom
+emotes and chat that are like faces of
+the people on the show that twitch
+distilled does that today uh
+and we had that idea because we were
+running the show we would never have
+come up with it in a vacuum and so I
+think there's something really powerful
+about that approach even though we were
+we were wrong about the reality TV show
+thing we were right about
+people wanting to do live streaming I
+mean twitch was ultimately a version of
+just Justin TV it was just more uh
+verticalized or specialized do you think
+had you kept that Justin TV I guess why
+didn't you guys keep at Justin TV why
+didn't you keep plowing ahead we we got
+Justin TV profitable after the 2008
+financial crisis uh I've spent about a
+year you know cutting costs generating
+Revenue just iteratively focused on
+money and you had a Doomsday Clock
+actually on the wall yeah is that
+something you would recommend to people
+it wasn't on the wall it was every every
+Friday we would sit down with the
+employees and be like we've got we've
+got you know 14 months we've got 11
+months we've got I think at the worst
+case it was like we were down to like
+nine weeks
+um
+it was certainly clarifying I think uh I
+only recommend it if you can convince
+people on the team that we can't succeed
+otherwise people will start
+uh packing their bags and looking
+elsewhere pretty fatalistic um but I
+think I think
+the founding team never showed any
+indication nor ever had any indication
+or belief that we weren't going to
+figure it out we were we were very sure
+and also we we started sharing We Didn't
+Start sharing it when there's like two
+months left we started sharing it quite
+far in advance
+um
+and everyone could see that while the
+Clock Was ticking down the rate was
+getting better and we were making
+progress and so it felt like oh yeah
+yeah
+we are pulling the plane out of the dive
+it might be a close thing but like they
+could people could see that we were
+going to get there so was the pursuit of
+profitability ultimately at the expense
+of Justin TV's success as a standalone
+oh it was it was at the expense of our
+growth uh
+and then we had this thing that wasn't
+growing we're trying to decide I was
+profitable but I'm not growing and we're
+trying to decide okay what do we do from
+here
+and
+uh
+no one thought just pursuing Justin's we
+had no good ideas for ideas for what to
+do to like
+reinvigorate growth of Justin TV per se
+and so we had you know Michael they did
+a pivot into so much you built some
+mobile video stuff which in an era
+before before Snapchat and before Tick
+Tock pretty good Insight yeah
+um
+I like Autodesk didn't seem to execute
+on the uh the vision of the consumer
+video yeah we didn't quite get there but
+but like but there was a there was a
+there for sure
+um
+and uh I want to do the video game thing
+because I was watching video games on uh
+on Justin TV and enjoying it
+um but the big pivot from Justin TV to
+Twitch like the real difference between
+the two companies is not the gaming
+versus the uh general purpose thing
+that's a superficial change
+um and it motivated me to focus on a set
+of customers
+um
+but I think we could have in retrospect
+I know why we did the Rebrand and like
+but we actually had a debate at the time
+whether we needed to do the redrands I
+think we probably would have been
+successful without it I think the
+Rebrand was helpful and it was
+uh it made more sense like that uh for
+the uh for the company and so it's
+probably like you know a good idea I
+would do it again but not strictly
+necessary would have found some amount
+of a similar level of success regardless
+and uh
+no but the big change the big change was
+was
+I realized that the important customer
+for live was the streamer not the viewer
+that
+that ultimately for live video unlike
+for uh for YouTube
+um we we could not say well whatever the
+creators will deal with it what matters
+to the audience they're just here for an
+audience
+they weren't really there for the
+audience the the audience was there for
+them and you have to keep winning the
+streamer's business every day because if
+you don't they're gonna go stream
+somewhere else and now
+there's no library of content like there
+is for the uh for something like YouTube
+and so
+you can't just have people show up
+create a little bit and leave that like
+that doesn't work you need people
+creating all the time and so the focus
+had to be how do we build something
+great for streamers
+um and that's why we invented paying
+streamers money that's why we like I
+went and interviewed a bunch of
+streamers and figured out here's what
+streamers need
+um and that was a that was a much bigger
+shift than the gaming part was
+building a product that was designed for
+streamers first and foremost was the
+gaming thing in intuition on your part I
+mean you obviously enjoyed watching it
+uh or was there I guess as you reach
+these conclusions gaming and focusing on
+streamers and not the viewers was there
+data that backed that up or was it just
+an intuition thing that you kind of
+realized the gaming thing was purely
+intuition I mean you could point at data
+like there are a lot of Gamers if I was
+to do a McKinsey market research thing I
+could be like Oh look The size gaming
+industry is very large that's more
+increasingly spending more time on the
+internet bessemer's memo is uh public
+from their investment so you can go look
+at all their Market sizing stuff I
+actually went back and I found my the
+email I wrote that's like it's like uh
+two paragraphs long like a like a half
+page email that's like here's why gaming
+makes sense and it's basically it's the
+very abbreviated version of that
+argument
+um advertisers like gaming you know like
+the game companies interest are aligned
+with ours so the copyright stuff like I
+thought about that but the idea was
+purely intuition I really like this I
+bet I'm not that much of a weirdo like I
+I like popular media if I like watching
+this it's likely to also be a popular
+media
+um
+the part that was more data backed was
+the streamer part
+um
+I went and looked and found that there
+were about 200 people making gaming
+content and
+who had any audience at all and I was
+like oh if we get
+you know if we can convince 180 of those
+people to stream on Twitch
+we just win like there's just there's
+just no it's just unambiguous there's no
+way we can lose actually
+um and so we just pivoted the company to
+be fully focused on that and that I
+think was reasonably data driven in the
+sense that
+I went and like looked at I looked at to
+just make the decision about viewer
+versus streamer I went and actually got
+data and then thought about it um
+although
+it was certainly informed by having
+worked in the space for five years and
+like having the intuition to sort of
+understand the dynamic of
+uh what it would mean to win a streamer
+and so the band kind of broke up at that
+point Michael went with social cam
+Justin left the company around then and
+Kyle ran the legacy of what was Justin
+TV for a while yeah so we uh we actually
+weren't sure whether we wanted to do the
+social cam idea or the gaming idea
+instead of debate it we were like we're
+gonna fund the gaming idea and the
+mobile idea is like Skunk Works projects
+and then we're gonna set goals and if
+they hit the goals we will pivot to them
+it was just jamming more ads on Justin
+TV to pay for this we are our jamming
+words TV that was that was already the
+pre-roll mid-roll banner that was
+already the plan yeah the plan was
+already to extract like we were already
+in the we were
+Justin TV plan unchanged extract maximum
+profit
+um
+we then but yeah that meant we were
+profitable which we could fund like
+these projects
+um and twitch we hit our goals we hit
+like the we hit like I said like a 25
+growth a month goal and we were hit like
+a 30 growth a month which is great
+um and how did you go about actually
+doing that was that the work with the
+streamers yeah it was just it was the
+the
+exact process I was talking about of
+like oh there's 200 streamers let's call
+them
+what does it take to convince them I'm
+sorry Kevin was one of the very first
+people who I think he was the first
+person I brought on to my my gaming team
+he was my the first time I was like I
+need Kevin I was like Kevin uh was our
+he was basically all the non-programming
+engineering stuff originally
+um and I was like Kevin
+your mission is to convince people they
+need to stream gaming on Justin TV like
+go talk to them and get them to do it um
+and Kevin is probably one of the single
+best beauty people I've ever worked with
+and uh he did a very good job of doing
+that and like I backed him up with he
+would be like Oh They'll switch if we
+build this and I'm like great on it and
+then we just go build
+the thing
+um
+Michael had took two engineers and built
+uh and Justin kind of uh started working
+mostly on that project with Michael
+building uh social cam
+we didn't actually hit the social cam
+goals it took them longer to build
+Twitch uh the Justin TV gaming was like
+literally just built on Justin TV gaming
+like we didn't have to build a new
+product
+we turned out we overestimated how fast
+it was it would be to build
+uh an entirely new product from scratch
+for mobile gaming so that they didn't
+hit the growth goals but we felt like
+the product they built was promising
+enough that it was worth doing the
+effort to spin it off and be retrospect
+we were right about that too so we spun
+that off
+um Michael went with it uh Justin hung
+around for a few months but like I think
+you know
+was also feeling the issue something
+else and I think wasn't it it's funny
+Justin now like loves twitching like
+with learned what the product was I
+think at the time didn't really
+understand or love the gaming streaming
+product and so he was like didn't want
+to work on it that much which totally
+makes sense to me um and then Kyle uh
+was figuring out what to do graciously
+ran the Legacy business for me for like
+uh more than a year I think and then
+found uh Colin carrier who was our uh
+who was the his replacement
+um to run it uh which was amazing
+because like that was basically funding
+the business so we needed someone good
+running it
+um and then he went off to start Cruise
+I heard you say that people come for the
+entertainment but stay for the
+relationships within the community what
+when did you realize there was something
+unique going on from a community
+standpoint yeah come for the video stay
+for the chat so
+uh when I first started building twitch
+I was using myself as the Prototype
+viewer and I am the type of viewer we've
+come to call a strat the strategist
+which means I was there because I liked
+watching people who are good at the
+games that I like to play so I could
+learn from them ask them questions stuff
+like that almost like a group coaching
+session
+um
+or I could watch Esports and like like
+live uh Esports entertainment and that
+was also that was also uh great for me
+um
+it turned out very rapidly though that I
+was in the minority strategists make up
+about 20 percent
+of twitch viewers
+80 of people were there because they
+like they liked the hanging out they
+liked the connection they got from
+hanging out with other people in chat
+and
+talking to people looking you know
+watching them it was just rapidly
+obvious oh I'm I'm actually not the
+Prototype here these other people are
+the Prototype is that are those the two
+groups yeah you can you can you actually
+can subdivide the community group more
+finely so we have more second Graphics
+underneath that but they're at the top
+level there's like are you there for the
+entertainment or are you and then
+learning or are you there for the
+entertainment and then Community
+um
+and then there's you can you can go
+deeper I'm curious like are there any
+broad Strokes of the other types of
+people it's it comes down to like are
+you do you
+are you about uh the personality more or
+are you about uh the chat Vibe more like
+what's the what's the part of being here
+that's the most important thing but like
+it's a little inside baseball and
+fundamentally not that important because
+they all benefit from the same like it
+you don't actually build different
+products for different people yeah so it
+doesn't you know it's at some level it
+doesn't really matter
+um whereas the the learning versus
+Community thing is a really important uh
+product impacting Insight
+um and so that's when we sort of
+realized like oh people are there for
+the connection okay that's the like real
+that's the thing they stick around for
+most of our users stick around for
+um and so
+that was uh that was a pretty deliberate
+uh learning from looking at our users
+like it wasn't we didn't just make it up
+were there non-obvious things that you
+did to cultivate the community or
+ultimately what is building the product
+for the streamer then it became obvious
+that they would cultivate it yeah no I
+think that that was the that was the
+learning from focus on the streamer was
+like very very early it's obvious if our
+customer is the streamer then our job is
+to help them cultivate their Community I
+still believe that to be true I don't
+think twitch has communities doesn't
+have any Community Church has streamers
+streamers have communities and when
+people get confused and think that oh
+the community people on Twitch care
+about twitch they don't care about
+twitch they care about the streamer and
+our job is to
+facilitate that
+um and it's very egoic I think it's like
+you get you're like you're telling the
+story that you're the hero the streamer
+is the hero our job is to like with the
+one of the slogan we came up with for it
+later was we play support
+like the streamer is the carry we are
+support
+um and I think that's uh
+that's a key like mental model for a
+product like twitch
+twitch was able to uniquely beat back
+competition from a bunch of uh heavily
+funded tech companies along the way I
+guess what was the feeling Google had a
+famous tweet welcome player two uh when
+they when they announced their presence
+where were you when that happened what
+was the sentiment around that yeah so
+after we were acquired by Amazon I think
+everyone else who was like oh maybe
+we'll acquire twitch it's like oh we're
+not gonna acquire twitch okay uh we
+better launch competitors and So within
+like less than a year Microsoft
+Google YouTube and Facebook had all
+launched
+very explicit like twitch competitors
+and started spending huge amounts of
+money bidding on streamers
+um in a very non-sustainable way that
+wasn't that was trying to them trying to
+buy a critical mass
+um of uh of audience
+uh which was uh was exhilarating
+um I think it was good for twitch like
+competition is good it's good for the
+service
+um yeah we we posted a kind of snarky
+tweet they sort of Welcome player two uh
+when when uh YouTube launched theirs
+um but I think that really was our
+attitude which was like
+if you can build a better product for
+the streamers you're more than welcome
+and you should win
+um but we think our product's better and
+we think streamers are going to choose
+us every time
+and our strategy to beat everybody was
+we had to bid against people and stuff
+but like ultimately we let a lot of
+streamers walk like we we could have
+kept bidding more money
+um
+and uh we didn't outbid on everything we
+updated a bunch of stuff but like not
+everything
+um and
+our Focus was from the very first
+beginning how do we just make sure
+twitch continues to be the best place
+for streamers
+um and if we continue to make it so like
+they continue to choose us instead of
+instead of the competition and I've uh I
+remember reading a bunch of some
+streamers complaining about to actually
+be like basically like oh I want to go
+to the you know YouTube except like you
+know I feel like they're offering me
+more money but uh and I'd go except you
+know it's not fair like which has to be
+trapped because because all the
+moderation tools are so much better and
+this is bad I'm like yeah we you mean we
+trapped you about with our nefarious
+plan of building a better product that
+actually works yes I fully admit this is
+our our secret plan the rules all along
+yes you didn't see it coming but we
+would we're gonna build stuff that you
+like and then give it to you for free
+um yeah so that very diabolic yeah it's
+totally diabolical but like that was the
+that was the thing like we we won
+because our product was better
+um and uh
+I think that's like a and it was better
+in the way people people cared about
+there's a lot of nice to have features
+um like fun things that people think
+they want polls is the best example I
+think we actually have a polls feature
+now for many many years we did not and
+our competition did they had a polls
+feature people would complain about this
+but the truth is you can run a poll
+using like a online like there are many
+poll things you can just use on the
+internet if you want to
+if we screw up chat moderation if we
+screw up uh if you're if your
+subscriptions don't work well if
+discovery isn't good
+you can't fix those things only we can
+and you don't actually want us to build
+a poll you think you do but like the
+truth is you don't actually and when you
+would confront them with the actual
+choice would you like to make a dollar
+more per hour or would you like to us to
+build launch polls like oh a dollar
+obviously what are you talking about
+like well that's right okay we're gonna
+keep working another thing then how do
+you get to those conclusions like when
+you're hearing from your users I want
+this thing but being able to discern
+that they actually don't really want
+this thing at the expense of what it
+would take you to go do it and is it
+actually framing in those terms of would
+you prefer an extra dollar or would you
+prefer like more Engineers on this yeah
+so when I got started with twitch I uh I
+came up with a framework for
+prioritizing features which is I got out
+of talking to a bunch of streamers and
+basically
+uh asking them why they streamed and
+sort of what their goals were and what
+what they what they wanted out of it and
+we came up with was they wanted Fame
+Love and Money
+um uh Fame they want to like obviously
+reach an audience grow it have more
+people watch them get more hours of
+video watch basically
+um love they wanted to feel positive
+social feedback and connection for doing
+it whether that's from twitch because
+they got invited to twitchcon or because
+some uh twitch you know partner manager
+reached out or it's from Their audience
+saying how great they love the show and
+how amazing that was
+um and then money they wanted to make
+money on the stream and basically if we
+built something and there's a secret
+fourth thing which is like the video has
+to work they want the live video to be
+like actually good enough okay cool
+that's us let's put that one aside
+that's the underpinning that's the
+underpinning like that's this table
+stack that just has to work uh assume it
+does
+um
+is this thing producing more money more
+fame or more love great like we will
+prioritize resources against those is it
+not
+then it's not important and we're not
+going to do that
+um and
+uh that worked because those were the
+three most important things and then
+once you have that structure you can
+kind of it's easy to compare within
+money which of these things we think
+will be most helpful to make the most
+money within discovery which of these
+things in Fame which of these things
+will help grow audiences the most
+um Love is the trickiest one obviously
+because love is a little bit less it's a
+little more fuzzier and less clearer
+than Fame and money are but uh but
+ultimately it's like having good
+moderation in chat
+um having uh experiences for streamers
+where they feel they feel loved by by
+twitch and that we care about them
+Once Upon a Time Google came and made an
+offer to buy Justin TV uh before it was
+really in the before all the twitch
+stuff came to be and ultimately uh you
+got far down the acquisition process and
+then people on the team failed Google's
+uh tests or something they uh Google was
+considered an aqua hire and out of our
+like whatever I know 30
+total people they like had like 10 that
+they thought were like Google quality
+um and made an offer on that basis and
+we were just like
+no
+uh and in retrospect I remember like
+looking at the offer and if they'd
+offered us three times more money I
+think we would have taken it
+um
+but
+uh but I'm really glad they didn't offer
+us three times as much money um same
+thing actually happened with Kiko on
+Yahoo Yahoo offered to buy Kiko which is
+your calendar with a calendar company
+for a million dollars in but like in
+retention over like four years so like
+250 000 a year in signing bonus on top
+of a you know mid-level Yahoo engineer
+offer and
+I'm really glad they lowballed us
+because if they hadn't live all this we
+might have taken it and like uh
+uh we didn't really want to do those we
+didn't really want to work for Google or
+work for Yahoo we wanted to run the
+company it's just it felt like you have
+to take if they offered you a win you
+could like have to take it
+um so I'm so I'm glad they didn't are
+there any lessons actually from either
+of those stories that are that you could
+extrapolate as a as something you would
+tell a founder or is it hey those are
+the funny situations and the road not
+traveled but at the end of the day it's
+just there was nothing to be learned
+from the individuals I don't really
+think I've
+I've I've
+the only time I've ever used it
+someone's like oh I got an acquisition
+offer from this company
+um
+and I talked to them and I'm like okay
+this is this is like an aqua hire here's
+like here's how it's gonna work like
+here's here's how Aqua hires work and
+having been through one myself I kind of
+like I know what the what the process
+will be like a little bit although it
+does vary from company to company it's
+not that variable
+um and so occasionally it's helpful for
+advising someone who's in the exact same
+situation but other than that there's
+not really much there's not much
+generalizable from it I don't think this
+might be an annoying question that just
+uh people in the media and I guess
+Venture capitalists ask you but how much
+time have you given to thinking about
+twitch as a standalone versus within
+Amazon I like whether we should have
+sold it or not yeah
+um well I mean selling it uh worked out
+really well for us because uh
+it was unrelated let twitch grow on its
+own like did they help with bidding for
+streamers and like was that an expensive
+Capital outlay that wouldn't have been
+obvious because the weird thing about
+twitch versus Instagram for example is
+Instagram it's hard to uh disconnect
+Instagram within uh Facebook right
+because of all the stuff they did from
+an ad infrastructure standpoint and you
+know the adoption and promotion and all
+that I think it's kind of hard for me to
+mentally disconnect the two twitch was
+to your point able to operate pretty
+Standalone right and so almost you can
+you can at least from the outside in
+maybe you disagree almost see what the
+business would look like
+is a CEO for a very long time and it
+pertains many of its CEOs for a very
+very long time like how you were there
+Don Katz at Audible for 10 years eight
+years uh eight years
+um and
+uh
+they do it because Amazon actually lets
+CEOs be CEOs that's like that's uh it's
+the most decentralized of the big tech
+companies and uh I think
+uh if you want to sell your company and
+keep running it I couldn't recommend any
+really any big tech company other than
+Amazon because it's the only one that
+runs under that model
+um
+I've thought about what it would be like
+to have done it separately
+um and I actually just think it wouldn't
+have been that different the biggest
+difference was the reason I sold at the
+end of the day is I don't like
+fundraising and I knew that if I sold to
+Amazon I'd get to keep running my
+company
+in fact they would demand I keep
+printing my company and that but we were
+aligned in that I wanted to and they won
+they wanted me to so great and they
+would make sure that they would they
+would fix the I have to raise Capital
+every year problem because they're
+committing by buying us to fund us
+um and
+uh or like write out pick to take a big
+loss but like they're basically
+committing to fund you and so uh that
+worked out where I would say it worked
+out as planned
+um
+and so
+uh I feel really good about the decision
+in retrospect uh
+I think I made it more intuitively at
+the time than like reasoned and it only
+took me a couple years after doing it to
+actually even figure out what the math I
+was I had been doing subconsciously was
+but uh
+but I think it was the right to call for
+sure what did Amazon do to keep you
+around for so long besides just letting
+you run autonomously where's that at
+that that's yeah what that's literally
+the thing that they did I don't you know
+if hey hey like you know you know big
+tech companies if you want to retain
+CEOs after you acquire the company you
+have to let them still be the CEO which
+means they decide who gets hired who
+gets fired
+what contracts you sign what products
+you launch if you're going to take that
+away from them make them go through your
+processes there if they're any good at
+all as a CEO they're going to leave
+because they're not a CEO anymore
+they're a division vice president and
+that's not the job they signed up for so
+FYI if you want to retain CEOs
+one weird trick what uh but did they get
+strategic value I guess to take it from
+their Vantage Point obviously twitch is
+a very important asset within there but
+the the flip side of of the reason I
+think people end up being somewhat
+heavy-handed or at least involving
+themselves post acquisition of a company
+is to try to
+make the value greater than the
+individual component of it were there
+things they did from an integration
+standpoint or things that they pushed
+that benefited other parts of Amazon
+um I mean twitch advertising is sold by
+Amazon advertising the third biggest I
+think third biggest I don't know if it's
+exactly I think it's third biggest
+advertising company in the world so
+that's that's good that's like the
+Instagram Facebook thing in a way um
+except I think we provide more value to
+Amazon relatively Facebook already had a
+lot of AD inventory in feeds
+that's basically the identical whereas
+twitch Amazon did not have a bunch of
+ugc video and uh you know premium gaming
+video to like sell against yeah that's
+that's them to you I was wondering you
+to them if there was anything that oh no
+I think actually the revert in the
+advertising case unlike Instagram where
+it's mostly Instagram benefiting from
+the Facebook it advertising machine here
+it's much more two-way we open up a new
+kind of inventory they don't have access
+to otherwise which is good for the
+overall Amazon organization but also
+good for twitch because we get access to
+the big sales team so I think the
+advertising thinks the obvious just like
+with Instagram it's the obvious
+integration point for something like
+twitch
+um we also do stuff with prime that's
+that's been very good that's which are
+quite well again very two-way
+um
+uh and we've launched IBS um which is
+our the interactive video service and
+AWS service
+um very cool like to be able to take one
+of the things core things you built and
+externalize it as an AWS service is very
+cool
+um and something you can't do unless you
+go to I guess
+it'd have to be Amazon Google or
+Microsoft basically because those are
+the cloud companies
+um and we definitely couldn't have done
+that on our own
+um but yeah a lot of it has been
+less deeply integrated
+um and I think that that's
+except for the points like advertising
+which is a really big one where it does
+make sense to integrate and I think it's
+really to Amazon's credit that they
+didn't try to force a bunch of
+Integrations
+for efficiency reasons
+um basically if it's always efficient in
+theory it's never as efficient as it
+seems in practice so
+um uh I I think strategic there are
+strategic Acquisitions where you're
+buying something as a technology you
+know
+Apple buys some semiconductor companies
+so they can start making chips sure and
+that should get integrated it's not it's
+not actually a separate product but if
+you're buying a product to be part of
+your portfolio I actually don't I think
+the often the Integra it's the
+Integrations are a little heavy-handed
+for no good reason
+I've heard you say that as you get money
+there's a clear declining value to more
+money obviously that's true it sounds
+like something people just say but
+um how did how has that actually
+impacted your life having success and
+how would you internalize that or I mean
+having money is great
+um the you know the utility of money
+declines approximately with the log of
+the amount of money
+um you can actually see it on like uh
+if you if you plot like you know life
+happiness correlation curves and stuff
+so every 10x more money you have is like
+one incremental unit more so like it's
+not that there's no value of going from
+one million to 10 million
+but it's like 1 million 10 million is
+the same as a hundred thousand to a
+million and so every going from one
+million to two million is like yeah
+like it's just not that big of a deal
+even though it is a million dollars more
+it's like it doesn't change your life
+that much
+um
+uh I am very glad to have money
+um because it makes my life directly
+better in terms of consumption but most
+of all because it allows me to do things
+like invest in I've invested in my
+friends companies or in other you know
+in strangers companies and people I've
+met companies and that's being an angel
+unless it's really interesting and I
+feel like I get to support people and
+and help um I got to fund SF New Deal uh
+right and like I got to write a check
+for a million dollars uh in SF New Deal
+uh because I I had someone I knew Lenore
+who uh Lenora Estrada who CEO and I
+trusted she could step up and run it and
+I could make that decision fast and just
+write the check um I didn't have to go
+try to raise money from other people or
+put it together crowdfunding it and uh
+that was really valuable I really like
+stand by that being that was it was and
+it was interesting it was fun for me
+um
+and uh
+uh you get to go do think cool things
+for your friends in your community so I
+mean
+yeah but I guess having money is great
+who doesn't like having money
+um I don't think it's the it's not the
+only thing
+um there's a the quote I like about
+money is like
+you need money like if it's like on a
+road trip you need gas but light you
+know road trips are not tours of gas
+stations and your life shouldn't be a
+tour of money making uh activities but
+like also like you should think about
+where the gas stations are on your road
+trip like it's especially if you're
+going in on a long big one like you
+really don't want to run out of gas
+uh over the years you've been
+particularly transparent about being a
+bad manager initially uh I I there was a
+quote you had I was bad at hard
+conversations I was bad at good
+conversations I was bad at delegating
+I'm sorry to the people that worked for
+me in the early days uh I assume you're
+being too hard on yourself there but
+what were some of the things you've
+learned about yourself and managing that
+uh allowed you to develop into a good
+manager so I would say in the early days
+I was a pretty good leader already but a
+bad manager like I could I could inspire
+people with a direction I could
+communicate but I I was I always stand
+behind when I said there I was a bad
+manager
+um but I don't think I'm being
+particularly harsh
+I have yet to meet anyone who is a good
+manager the first year they are a
+manager I don't think anyone is uh being
+a manager is a set of skills like a
+thousand different skills and
+the you aren't good at some by they're
+not like things you just know
+automatically like no one's a good skier
+the first time they go skiing it is not
+possible to be good at first
+um
+there's only one thing that
+distinguishes good Managers from Bad
+managers consistently that I've found
+some people when presented with this
+uh don't like this truth that they suck
+and decide that they are in fact good
+managers already or that management is
+easier that they don't that it's not any
+they're as good as they need to be
+and some people
+realize that management is a skill and
+they're good at it yet and decide I I
+want to get better at this I want to
+learn how to be a better manager and
+they every year they're thinking about
+how do I get better how do I how do I
+how can I become a better more qualified
+manager and I can be better at this set
+of skills and the people who try don't
+always succeed but fair amount dude
+Management's not so hard if you treat it
+like a set of skills they're not the
+hardest skills to learn anywhere it's
+not as hard as like you know abstract
+math and inventing like new uh
+uh you know new theorems about topology
+that's that is more difficult than
+management but it is it's hard enough
+you have to learn the people who
+dedicate themselves to it often usually
+not always become good managers the
+people who don't are universally
+terrible
+and that is that is just the only thing
+that differentiates the people is like
+whether you accept into your heart you
+need to learn you need to get better at
+this thing that's basically it what was
+counterintuitive or what what skills
+were counter-intuitive to you that you
+that that maybe took longer to learn or
+just were super surprising as you got
+higher and higher uh with more and more
+people the thing about management skills
+is they're all dumb they don't they're
+not surprising when you say them out
+loud they sound stupid
+um like
+uh when you delegate something to
+someone you have to actually delegate it
+to them you can't delegate it and then
+like look over their shoulder and then
+tell them they did it wrong like that's
+just gonna make them unhappy
+um and and and worse they're gonna stop
+trying to even do the thing because they
+know whether they do it well or badly
+you're going to show up and then review
+it and then make it the way you would
+have done it and then and so why should
+they put much they should this their
+whole goal is to get it in front of you
+so you can correct it
+and like that's obvious if you think
+about it it's not like that's a dumb
+it's a almost dumb to get wrong and
+almost everyone gets it wrong when they
+first become a manager because it's a
+little it it's I guess it's
+counterintuitive but I don't even think
+it's the counterintuitiveness it's just
+you don't most of management is learning
+to notice
+the Thousand and One things that you can
+do wrong and if you thought about each
+one of them you would probably come to
+the right answer but you just
+this doesn't occur to even notice
+um
+I guess the thing that one
+counterintuitive thing about management
+that was a surprise to me is that
+managing individual contributors on a
+team
+is not the same job as managing a team
+of managers is not the same job as
+managing a team of managers and managers
+it's not the same job as managing a team
+of directors it's not the team same as
+managing a team of VPS and that's not
+the same as managing a team of spps
+every time you add a layer to the
+company
+your job is like oh it doesn't have
+nothing in common but it's fundamentally
+quite different
+um and that's one of the reasons why
+it's so hard to scale teams and people
+like sort of
+uh hit a scaling limit at some point
+it's because if you keep a fast growing
+company everyone's like winding up
+underwater all the time as layers under
+you get more layers under them and that
+that directory was doing such a great
+job is doing a bad job now they didn't
+get bad the job changed from underneath
+them and so everyone's in this race to
+like figure out the new job before it uh
+before it kills them what changes in
+those levels of abstraction like I mean
+at a high level when you're when you're
+so far removed what is so different than
+being on the ground
+I would say like uh the you have just
+the techniques you you have to use
+techniques that scale better as you get
+that
+rather than things that are maximally
+effective you want things that are scale
+best
+and that like the trade-off between how
+effective is this individual interaction
+how good it how like in the beginning
+you need things you need to actually fix
+problems and ship code and make things
+happen
+um and that kind of dynamism is really
+important as you get higher and higher
+in a hierarchy
+you have to figure out how you can make
+your time and your effort and your your
+energy scale because you can't go do it
+Thing by thing and so there's a
+trade-off between those two things and
+you are uh you need to pick either the
+skills that you need are more of the
+scale scale level skills
+um writing becomes more important when
+you're higher in the organization for
+example
+as you get higher and higher and the
+company gets bigger and bigger there's
+also a component of transparency and
+input of decisioning that you can't be
+can't be quite the same as it was in the
+early days right like the decisions all
+the inputs that went into an individual
+decision you can't communicate in Mass
+to the totality of the company which I
+think could be hard I think that could
+be hard when you come from a culture of
+like full transparency or it was small
+and now you're big and all that did you
+did you experience that was that
+something that you struggled with of
+just like how to balance transparency
+with just giving people the outputs of
+stuff
+yeah I mean there's
+people can use the word transparency a
+lot but what they mean is input
+um you can give transparency for stuff
+actually not everything but most things
+no matter how big you are a lot of the
+time the transparency just makes people
+more upset though because what they
+really meant when they said they wanted
+transparency is they wanted a voice
+and that you cannot scale everyone
+cannot have a voice on everything
+um
+in fact almost everyone can't have a
+voice on almost everything and uh
+that's not true when you're small it
+gets true and you're bigger when you're
+small you can stay very very
+synchronized and as you get bigger
+everything has to just desync
+um
+and
+uh
+figure creating mechanisms and processes
+so that the right people can have input
+at the right time is like that is the
+art of management and and production in
+a company of Greater size and like I
+don't know there's no there's no short
+answer to that question that like is it
+all meaningful but
+uh
+I think that
+the main metaphor I always use for it is
+like you have to you have to Shard the
+decision making like sharding is any
+different programming and from like
+databases where you have to find a way
+that you can divide stuff up such that
+some set of the of the data of the
+decisions can be made in this hundred
+people and this hundred people in this
+group owns everything about that and
+they don't have to communicate much with
+the other groups and figure out how you
+can bottleneck and shrink those uh
+between group Communications and and let
+people interact in a more asynchronous
+way
+um and again there's a thousand and one
+techniques for that but that's what you
+have to figure out how to do what was
+something that you you found that even
+after uh whatever 10 12 years how long
+would you run it uh 17 years 17 years
+from from Justin TV and what was
+something that you found that was just
+you were never going to be particularly
+good at and that you needed to augment
+uh or or get people around you to to
+help you with
+I think I uh what I discovered is I
+could be good at literally anything
+um there was no skill I could not learn
+but there were a lot of things where
+uh I don't like doing it I'm never going
+to enjoy doing it and it's always going
+to drain energy from my day
+and by the end of the day if I'm doing a
+bunch of that kind of work
+I'm gonna be grumpy and unhappy and
+tired and people interacting with me are
+probably not gonna have the best
+experience
+um and so it was less about what I could
+get good at I could get good at almost
+anything
+at least you don't once
+um
+it was more about like what could I do
+sustainably what what what how do I
+manage my job so that I am doing things
+sustainably in a way where I am can
+consistently do it at high quality uh
+when I'm not at my best
+um and so for me one of those things is
+like I
+really
+have never been great at interviewing I
+don't like interviewing uh new
+candidates for jobs
+um there's a lot of energy for me to
+meet new person and
+bring bring that their who they are on
+and make a connection and like I like
+doing it actually uh
+when the either someone I find myself
+naturally drawn to which is you know
+whatever one in four people or something
+like which I don't think is unusual
+in terms of the one in four part I think
+it's just an unusually high energy cost
+for me for the other three
+and
+I can do it
+and I've learned how to do it and I've
+but I don't like doing it and so I've
+just found ways for that idea was not
+the first person I I had this heroic
+idea like hiring is super important I
+need to be the only one out there you
+know interviewing for the new CFO
+um
+or the new you know head of product or
+whatever that turned up a terrible idea
+I was grumpy all the time if I did that
+um then instead the right thing for me
+to do was uh let other people do most of
+the interviewing and only interview you
+know two or three final candidates
+um
+and you're sort of admitting that you
+don't have to like all the all the work
+you do
+you tweeted recently management lessons
+from the front number seven six one I
+don't I didn't go back to look if there
+were actually 760 before of the in front
+of them but your reports will ask you a
+lot of stuff especially in the beginning
+like should we do X or Y do not be
+tricked this is usually usually
+unintentional trap the only correct
+response is what what do you recommend
+does that tie back to the autonomy of
+decisioning and being able to delegate
+yeah if you
+and this is this is not to say that you
+should never answer your reports
+questions I'll be really clear uh some
+people interpreted me as saying uh in
+that uh you should uh when when if you
+tell the report like uh you tell you you
+if you tell someone like uh
+uh
+you know hey go go make this thing go
+build this thing and they come back and
+say oh well there's this trade-off
+that's above my pay grade uh you know
+the company yeah I have to commit the
+company to 20 million dollars of
+liability or we have to spend an extra
+16 weeks doing this and I kind of think
+we should actually commit to the
+liability but like
+what do you think that's a fair question
+that is not
+that is not uh
+uh it's not their job to figure out uh
+you know some individual contributor you
+know
+a new person on the marketing team is
+not the company's job to figure out
+should we run this level of risk no no
+fair and those often get kicked up the
+chain and that kind of taking on a risk
+sometimes requires all the way up to the
+CEO to sign off totally reasonable
+but when you ask someone like hey like
+uh like they're designing a new a new ad
+campaign
+if they come to you and they say like oh
+well do you think we should make the ad
+campaign's message this message or that
+message that is literally the that's the
+job of the person who's you asked to go
+should we use this creative approach or
+that creative approach it's your ad
+campaign like you tell me
+um because if you don't do that
+they don't own the decision
+um and the whole point is to delegate
+down both the authority to make the
+decision and the accountability for the
+results of that decision
+um
+and in very dysfunctional companies
+sometimes
+uh
+people
+have learned you they actually don't
+have the actually have the authority to
+know what no one tells them and that
+means they don't want the accountability
+and you want to put this entire circle
+of them very logically constantly trying
+to push off accountability by getting
+input and making sure everyone is signed
+off and they never have to make a
+decision to take any risk and that's
+because they know they don't actually
+have the authority
+and they don't really believe they'll be
+allowed to do a good job
+um
+and I I have empathy for people who are
+stuck in that situation it happens even
+in good companies it happens sometimes
+uh but the the good solution is not then
+get everyone to sign off on everything
+so it's all safe but rather than
+actually Empower people to make
+decisions
+so it so that they you can actually just
+do stuff
+you did a great YC talk with regard to
+product development
+um about how to think about developing
+product and talking to your users and
+customers users and customers or
+competing Services as well as other
+people that aren't using your product uh
+today we touched on product development
+a little bit and the three pillars that
+you guys kind of use to think about
+um
+how
+you think about
+I guess now it's probably been 10 years
+or eight years since you did that talk
+how do you think about product
+development and actually figuring out
+the features that matter at a zoomed out
+level maybe not twitch specifically but
+just like how do you make these
+prioritizations so that
+that
+uh saying that comes to mind for me for
+this is um
+planning is a central plans are useless
+I think it's like a like Eisenhower or
+something some general
+um
+and it's totally correct because you
+if you don't make a plan where you're
+gonna get you know from point A to point
+B
+you're gonna miss so much stuff and
+you're you're gonna fail
+but once you make the plan no plans
+Surprise contact with the Enemy as soon
+as you start executing you realize like
+oh that didn't actually work this didn't
+actually work you have to improvise
+um
+talking to customers is essential
+um but the results of talking to
+customers is useless
+like it is the talking to the customers
+and they're really paying attention that
+informs your intuition that then lets
+you design the product you're not you're
+not delegating the mistake people make
+is they're trying to delegate product
+design to the customer
+and if they were so good at the product
+design they would be starting the
+company they would be the product
+manager they're not good at product
+design
+they know what problems they're running
+into they know the realities of their
+business
+and what you need to do is you need to
+understand them incredibly deeply
+not get them to do your job for you so
+almost the inverse of the manager
+situation don't delegate that to them
+um
+the this that's one One Direction you
+make the mistake is you try to delegate
+the product design to the customer no no
+you designed the product you talk to
+them you get you understand them and you
+use that to design the product the other
+side of it is you have this you come up
+with a great idea and you got to talk to
+customers to validate it validate is the
+like uh
+and I hear we'll talk about validating
+product ideas I uh I instantly know that
+there's a there's a problem because
+once you've had the idea
+no amount of talking to any number of
+customers will change how good of an
+idea that was it is exactly as good as
+it is the moment you have it and you can
+have a thousand customers tell you it's
+a great idea
+it was or was not and it will a great
+idea and it will or not have the impact
+before they've told you or after if a
+thousand years will tell you it's a bad
+idea same thing doesn't change anything
+and unless you are actually throwing
+away lots of ideas customers tell you
+they don't like them
+you're not having any impact at all and
+to the most and I've also just I that
+never happens
+every now and then people valid ideas
+and throw them away and actually what's
+even funnier there is it's usually when
+they do actually throw them away those
+videos might have been good the
+customers are just bad product designers
+and they don't realize that actually is
+a good solution to their problem
+but
+um
+the uh
+the main thing is
+the order is wrong you need to talk to
+customers
+uh first and then have your great ideas
+and so like there's this uh idea from
+the rationalist community online that I
+really like holding off and proposing
+Solutions
+um
+holding off on proposing Solutions is
+one of the key product design skills
+because you have to like know there's a
+problem and not come up with the
+solution long enough to actually go like
+gather some data and think about it um
+because once you come up with a solution
+you're it's actually your brain is like
+attached to it it's really hard to like
+let go some people can do it but it's
+surprisingly difficult
+there's a uh I want to talk about more
+about decisioning and one as it relates
+to
+um when you had four co-founders Kyle
+Michael Justin and yourself in a room
+you mentioned there was ultimately kind
+of a war of attrition on decisioning
+that it was whoever was Last Man
+Standing kind of got the got the vote
+we had a real hybrid model so we would
+we would have uh these like epic debates
+which were mostly useless and sometimes
+we would do the thing of like the person
+who like had the most stamina but often
+it was just like
+there's this other thing happening which
+like whoever just did stuff they got
+their way too
+like uh that was Kyle's main move but
+actually it was my move and a lot
+Michael's moves too like we'd argue
+about it and then we'd uh we'd go off
+and like all just like do stuff and
+actually I would say in retrospect
+it's a little bit of the planning as
+essential plans are useless thing we
+could the arguments could have been less
+contentious
+and we could have probably shortened the
+debates but they were valuable and we
+would we would game it out we would
+argue it out extensively we would hear
+from all the sides and the person who's
+in charge of that would go make a
+decision to make stuff happen and
+actually that's actually in
+retrospective
+relatively functional process
+um because there was a distribution of
+authority and accountability
+although it it maybe was an unpleasant
+it was an unpleasant but kind of
+effective approach
+as I would say it was like a high
+unpleasant medium effective I wouldn't
+really recommend it as a you can do
+better there's more Pareto optimal
+outcomes but like
+but it's better than the stuff that's
+ineffective
+one one question on uh I guess just
+because it's been a big debate uh of
+late is the remote work thing and now
+having lived through Justin TV and
+twitch and seeing all the discourse
+online you're uh you're working with Y
+combinator now like what's your what's
+your perspective on remote work and
+decisioning that specific question I
+guess you had tweeted out my observation
+you can build a two by two for workplace
+environments remote local and
+hierarchical versus egalitarian there is
+an island of stability out and deep and
+remote and hierarchical uh what did you
+mean by that and what's your perspective
+on remote so the island of stability is
+an idea from like the periodic table
+where like as hell elements get heavier
+and heavier they become unstable but
+there's a theorize we've yet to
+synthesize in one of these elements as a
+theorized island of stability way out at
+like a very high Neutron proton count
+where suddenly the elements get stable
+again for a little bit
+um uh but there's like but in the
+in-between options are all bad
+um and are unstable and intensely
+radioactive
+um and I I've seen I I know a couple
+companies that are very effective remote
+and what differs the way they differ
+from the traditional Valley culture is
+it's not uh distribution of authority
+everybody like you know is a autonomy
+everyone figure out what to do on their
+own it's like the Army like there's
+there's delegation there's delegation of
+authority but it's not this delegation
+of authority and distribution of
+authority are not the same and
+uh
+they are all over
+auditing and follow-up and interactions
+and documentation and you have to
+document your work and you submit it and
+you can you can build
+a mechanism and a culture that works
+remote
+um but the valley approach I think I
+think of it kind of economically in its
+most extreme of like the Google Vibe of
+like
+yeah like no real accountability like
+directly like because we don't really
+know what's good and like go experiment
+and try stuff and like maybe it'll work
+and like no real urgency to like launch
+stuff fast
+that that does not work remote it works
+okay in person because there's sort of
+this weird implicit social pressure
+thing that gets used in place of
+official
+uh methods to like manage stuff
+but once you take that away and you
+don't have the official thing either
+it's just like bad uh and so
+there's the silica the valley culture
+works there's a reason why like Silicon
+Valley's taken over like you know it
+didn't evolve for no reason but you
+can't take that culture and Transplant
+it into a remote work environment and
+expect it to work
+um
+and I think we'll slowly sort of like
+you'll start to see models that'll be
+like oh you're on this month you're on
+this model you're under that model
+um
+uh and I think that that will uh
+uh I think that will that'll be good for
+us actually well they'll if you really
+care a lot about remote you'll go work
+at a company there's a remote culture
+that works
+um
+I actually like love the in-office thing
+uh I love being able to be remote
+sometimes but like
+uh
+I just I enjoy being around my
+co-workers I enjoy people to see them in
+the face I like the organic parts of it
+um but I know not everybody does
+um and I'm really happy that they get to
+go work at a remote environment that
+hopefully has a functional not
+dysfunctional remote culture
+goals and okrs versus intentions
+you prefer to focus on intentions than
+okrs rather than being tied to specific
+goals can you elaborate on that I mean
+that's that's when we're on a personal
+basis than on a on a corporate basis
+like at a corporate basis goals are very
+important like you need to actually
+setting goals as a I could probably give
+an entire hour-long talk on like setting
+goals and the trade-offs in various ways
+to do that but uh at an individual level
+um
+setting goals for yourself can be fun
+but ultimately goals are usually a way
+to coerce yourself or whip yourself into
+doing a thing you don't want to do you
+should have set a goal and like that's
+why you need them in the corporate
+environment people have to sometimes be
+a little bit coerced into doing
+something that's less than the thing
+that they want to actually do but it's
+important to the company even though
+it's not the most interesting exciting
+to them personally and you're trying to
+artificial excitement and fun
+it can be inspiring it could be exciting
+to try to get a goal to it doesn't have
+to be always a whip there's a carrot
+there too but even carrots are coercion
+like ultimately it let the intrinsic
+thing itself you're you're
+using reward or punishment like
+operative conditioning on a dog to get
+it to Tran to do what you want
+there's a place for that but like
+I try not to like
+coerce myself all the time
+um and I find that an over focus on
+goals like goals are set with your
+intellectual
+like top-down analytical mind and if
+you're good at setting them you can be
+effective with it but like your internet
+you're like top analytical mind is only
+so good and
+it's easy to set a goal that is not it
+it's like related to what you wanted to
+do but not quite what you actually
+wanted to do and then that's very
+dangerous because it you can spend years
+sometimes pursuing this and achieving
+and succeeding
+only to find out oops I didn't actually
+that goal was that was like sort of
+right but it missed this important thing
+and now I'm like I have to actually go
+way back and start over
+um and so I mostly think about it in
+terms of like uh
+you know I really concrete one like
+don't set a weight loss goal
+uh set an intention about uh wanting to
+be strong and healthy
+and acting in accordance with that
+um and
+it's creating an infrastructure to
+support you and doing that well
+um this is the book I think about on
+this a lot is the score takes care of
+itself
+Yeah by Walsh that's that's got books
+great and I think it really it's for
+those people from Reddit it's the idea
+of like what
+you the score in the game is literally
+irrelevant if he's a football coach and
+you ignore
+the score score like screw that like uh
+uh what's important is
+did you practice did you do the practice
+you needed to do or did you everyone
+show up to practice they give they give
+practice they're all
+and if they if you they did that you're
+gonna win or lose the game
+that will that that will take care of
+itself and I find that's very true for
+for goal setting
+um
+the goals tend to focus you on the score
+or creating a score you're you're going
+to create a way to score yourself
+and that's not necessarily the best way
+to do it I I don't know if we have an
+hour to do the uh the setting goals for
+a company thing but is there a short
+primer on how you think about setting
+goals or okrs for companies uh
+uh no like uh let me see some if I have
+any maxims about goals
+um
+obviously it sounds like focusing on
+inputs versus outputs is uh no you need
+a blend of input and output goals
+because the output goals keep you honest
+and the info goals keep you focused uh
+I'd say
+uh
+there's a lot of different kinds of
+goals you said for different kinds of
+reasons and the most important thing is
+to be kind of clear with yourself like
+one goal except for twitch was like I
+want us to have a million people earning
+money on Twitch in five years 2016.
+I set a goal we had like at the time I
+think 15 000 people earning money
+ten thousand something like that and I
+was like it was ten thousand and I said
+go I wanna have a million people earning
+money
+on Twitch by the end of 2021 and we hit
+it because of covet we hit it actually
+early 2021 which I'm very proud of we I
+call that weirdly accurate but I didn't
+really call it I I uh God I sound like a
+hippie like I manifested it right like
+by just saying that to the company and
+having people think about that
+uh
+it generated things like other people
+inventing things like the affiliate
+program
+well if we're gonna have a million
+people earning money we have to have a
+really easy way for people to sign up to
+earn money and so we created the
+affiliate program and like
+and then a bunch of other things like
+that right
+um and
+that's one kind of goal that's like a
+five-year goal that's like I had no idea
+how to achieve it was very output
+oriented and supposed to be sort of an
+inspirational goal but then you also set
+goals like you know this quarter we need
+to get our uh you know the number of TPS
+reports filed up by 17 and those goals
+can be very effective and important also
+um
+you know and I I think it's like uh
+uh
+it's the
+they're useful for different things
+they're motivating to different people
+in different contexts and you should
+just not confuse
+each of the goals for each other
+I know you're a big believer in coaches
+and that a coach will pay for itself as
+soon as you can afford it I guess maybe
+can you tell the story of your coach and
+then ultimately why you think it's
+important how you go about assessing a
+mentor or a coach along the way yeah I
+think I got very lucky so you know with
+my coach uh he was a introduced to me by
+Stuart alsop uh who's our on our board
+um the yeah and it was our first in you
+know PC investment
+um and uh when I gave CEO shortly after
+he uh he recommended I start working
+with Jose
+um and I said all right I'll give that a
+try
+um
+and I was honestly a little skeptical at
+first but I was like
+uh I guess I took getting better at
+being a CEO very seriously and if this
+thing could help I wanted to give it a
+give it a shot
+um and
+Yoshi has had taken his previous company
+public who had been a CEO before and
+then he pivoted into wanting to do
+coaching and I feel very lucky I got
+someone who had that level of background
+because
+I think it's very hard to coach a CEO if
+you haven't lived seen been part of that
+I don't know if you had to be a CEO
+exactly but if you haven't at least been
+an executive or you know a board member
+or something if you haven't been part of
+those decisions it's hard to give to do
+good coaching
+um
+coaching is valuable because it it
+creates a space where you
+you uh get to have someone who has no
+incentive other than helping you
+hold a mirror up
+for you to what you're saying what
+you're doing what your goals are and
+helping you and what your intentions are
+and helping you live more in accordance
+with those and notice what you're doing
+better or doing worse and there's a bit
+of coaching where it's like literally
+just advice like uh
+uh you know how
+what what are the what are tactical
+tricks to handle this given situation
+but honestly like that's like the the
+less important side of coaching and
+mentorship the more important side is
+like you're almost uh
+you're learning the questions they ask
+and you're learning to ask their
+questions of yourself consistently
+um
+the
+you know you have a coach that is you
+you have to really come I think the the
+way to think about coaching is sort of
+like uh fine selecting a good coach a
+little bit so I think a therapist
+reflecting a good
+um you know a good partner or something
+on a on a startup a good co-founder
+you know it's working when you have more
+like positive surprises than negative
+ones you know where it's working when
+you feel you're growing you're you know
+the things you learned there you find
+yourself repeating to other people
+um and uh and so they definitely
+recommend it but I also think that a lot
+of coaches aren't that good and so like
+there's a process of looking and
+selecting how do you go about assessing
+the relationship and make it is it just
+are you getting I'm a worst person to
+ask I got very lucky number one great
+one I'm one for one I don't know what to
+tell you like it's like people who like
+met their sweetheart yeah high school
+sweetheart and they were like the person
+for them and it's just it's great and
+they're deliriously happy with that
+person 30 years later it's like that's
+amazing for you but like not an
+actionable plan for anyone else yeah
+hard to explain yeah so actually I have
+very you need I have great advice about
+how to go about learning how to build
+product because I sucked at it I I
+didn't get it right a bunch of times
+you know I actually think later Drew I
+love Drew but I bet he gives bad advice
+to startups about how to go about
+finding your very first glimmer as a
+product Market fit because he happened
+to build the right thing true house your
+house yeah yeah Drew managed to build
+the right product
+just like
+directly he just directly somehow I
+think he's very obviously very good at
+product but like he just did it oh yeah
+nobody does that like that's what I feel
+about Twitter today yeah
+you can't you can't advise anyone if
+you've done like that's you don't know
+how to figure how to get from failure to
+success because you never spend any time
+in Failure
+um Drew has a lot of great advice about
+scaling a company uh because he's had to
+struggle with that
+I want to go back in time so you were a
+part of the first original YC batch
+which also was Steve Huffman Alexis
+Ohanian of Reddit uh Sam Altman as well
+as you look back on the success of the
+group of people uh that came out of that
+how much do you put that just the people
+innately the insights and Lessons
+Learned right place right time some
+other variable I'm not thinking about
+I mean I certainly think you know I have
+to we all have to credit Paul with like
+being an incredible mentor to all of us
+um and like really
+I do think you know leveling us all up a
+little bit like I I absolutely don't
+think it's a coincidence but I also
+think
+this is true of YC today it's true of
+every Elite University
+selection effect system it's like this
+massive part of it and it's not just
+it's not that so much that YC was some
+brilliant filter or that filtered out
+the best people it's like who thought in
+2005 remember in 2005 when I graduated
+it was the smallest computer science
+class that Yale had graduated in years
+because uh
+the tech that the tech was over
+anyone who is like reading Paul Graham's
+essays thought it was a good idea to
+start a startup in 2005. I thought it
+was a good idea to go take a risk on a
+something like YC like that seemed like
+that it drew in people who
+turned it would turn out that that was a
+a good like trap for people who turned
+out to be uh ambitious and talented and
+a good vintage to be starting companies
+it was great
+it was very counter uh narrative which
+is always the best time to be starting
+right we're starting at the bottom and
+so yeah YC classes of like 050607
+particularly like before the density is
+a little higher I don't know that's
+actually true like that is pretty high
+later too but like
+it certainly pulls in a lot of
+uh it pulled in a lot of uh very
+talented people because
+uh it was
+it wasn't prestigious yet so you only
+did it if you were like really committed
+to wanting to do a startup because even
+though that sounded like even though
+everyone was telling me it was a bad
+idea to do that
+um and I think that's like
+uh
+uh that's actually all still the best
+reason to start a startup um fortunately
+starting a startup is so painful that
+mostly that people still do it unlike a
+lot of things that people do for fun uh
+because they're supposed to starting a
+startup is so painful that most people
+just select out correctly because unless
+you like buying your paying economy size
+they don't really recommend it
+what what did what did Paul do uniquely
+well in those early days I mean the
+whole institution he started has
+obviously lasted and but Paul's
+supervised superpower by far his
+superpower like he's Paul's very smart
+good a lot of things but it's by far
+superpower is you somehow walk away it's
+everyone this is me but also Justin and
+also everyone else I talked to another
+YC you somehow walk away from the
+conversation with Paul believing
+we are
+the shed we are smart
+capable and we're going to take over the
+world and the only thing standing
+between us and taking over the world is
+we have to like go grind even harder we
+but like Paul believes in us but it's
+not
+what's happening is like Paul believes
+in you so you believe in yourself but
+it's not actually but somehow he doesn't
+he doesn't feel like Paul Believes In Me
+it feels like
+Paul just sees that I'm obviously
+extremely talented and capable and like
+I mean I'm just I'm the only issue maybe
+I'm aiming too small should we be aiming
+bigger
+but it feels like he's just noticed this
+fact that now you can see two
+and that is such a gift to be able to
+give to people
+because I think I think that did what it
+gave us was the most important thing
+that startup Founders need and I think
+that anyone doing anything ambitious
+needs
+which is the like gumption to keep going
+when things aren't looking so hot Midway
+through
+uh and Paul really convey like Paul's
+that's that Paul gives that to people I
+think that's like that is by far his his
+greatest Talent which is which is funny
+because he has a lot of other talents
+but like that's uh that's a big one
+so so it was you Alexis uh uh Steve
+Huffman Paul like was it Sam Altman was
+it obvious at that
+point in time that something special was
+in the room or was it hey uh we're in
+the room with that no no absolutely not
+I mean
+yes in the sense that like
+I thought everyone seemed smart and good
+but and and like are you coming from
+Yale and I'm sure yeah there are good
+people there yeah and I'd I'd been in
+several Elite programs in my life where
+there's other smart people
+uh
+I I had that sense more like joining
+Tech in San Francisco at that time
+like in Boston and Cambridge not really
+when we moved to San Francisco
+it was like oh
+oh I'm in the middle of like Ground Zero
+of something
+um
+and it actually wasn't the first batch
+the first batch was just like some weird
+summer program but when the batches kept
+getting bigger and I would meet the new
+Founders and like more companies
+and they had a building as much
+everyone's in the and like it's like oh
+oh where this is something the thing is
+happening around me that became very
+clear about like 2000 by early 2007
+absolutely but at first no it was just
+just it just seemed like a thing
+it was cool I was really grateful I got
+to do got to raise money and like start
+a company didn't have to go like live
+with my parents to like
+start in their basement
+was it obvious Sam was going to be the
+leader of the Free World
+uh no
+it was obvious Sam was an incredible
+deals guy like he was he was somehow
+convincing the uh phone companies to
+give his startup that like didn't really
+have a product like deals I still don't
+know how he did that and like he's doing
+the same thing like convincing Microsoft
+to like you know buy his fusions power
+like Sam is still an incredible deals
+guy obviously uh but that that was that
+that was the only obvious thing about
+Sam at the time was like that he was he
+was ambitious but we had most of us were
+pretty ambitious and he was great at
+great great deals guy
+you said something interesting once the
+only reason you ask about Tam is to
+understand the Ambitions of the founder
+uh can you tell me why why you think
+that why you approach investing in that
+way or why you approach thinking about
+Tam in that way what was the Tam of uh
+live reality television
+uh whatever Justin was willing to pay
+you at the time yeah yeah like nothing
+basically um and yet that's pretty live
+streaming shows a pretty pretty big
+business
+um
+I ask people about Tam a lot and I'll
+push them on it but it's like it's
+because
+what you're trying to figure out is
+do they have a story
+they might have a lot of holes in it and
+like we're like questionable assumptions
+we're like they're trying to build
+something really great and big
+or do they have a story that's like oh
+yeah yeah I well no don't worry about
+the Tam we're just gonna flip this to
+Google uh in two years once we hire the
+talent like that's a really bad sign
+companies don't get built by people who
+who are looking for the exit
+you want people who are looking to build
+something big something great
+um
+because they even built something
+medium-sized you have to be trying to
+build something really great and if
+you're if you don't if you're not if
+you're aiming for the aqua hire you're
+probably not even gonna get that
+um
+and uh and so it's a very important
+question but the point is not to like
+that you can actually analyze the Tam
+per se
+and I think that's a little different
+for more established Founders especially
+it's a little different in places where
+there's more you need more commitment up
+front more Capital up front to get going
+because the other thing I look for is
+that there's Founders who there's this
+trap you can wind up in where you you
+start is there is the
+if you're building for a customer
+that doesn't exist or like that hates
+buying software or that like doesn't
+want to doesn't want any anything to do
+with this the whole thing that's bad so
+like
+I don't care if your thing credibly
+you know isn't is every developer on
+Earth is actually going to use your
+product but building software for
+developers is a good plan there are a
+lot of developers and they spend a lot
+of money on software and so even if
+you're wrong about your exact thing it's
+going to be okay like the software
+developer Market is big
+if you're building market for software
+that's like really for public school
+librarians that's the only people and
+you're like and I'm pushing you I'm like
+dude isn't this bigger than that you're
+like no no it's for public school
+librarians
+I'm really worried for you because even
+if you like crush it
+that's not actually they don't nothing
+wrong with Librarians they don't even
+buy they don't like buying software in
+the first place
+and there aren't that many of them so
+like
+that's maybe not a great idea and so
+like and and Founders can kind of get
+trapped in these ideas where they're
+building okay businesses targeted at
+very small groups of people who don't
+want to buy their product
+um and so it's more about your
+just in theory if you executed like
+crazy and figured out six things that we
+didn't even think of in this room
+on a pivoted idea that's like halfway
+only halfway connected to your idea
+would that be a big business no okay
+maybe maybe we should change ideas yeah
+uh there's two options for companies you
+can either be generally you can either
+be early or late uh and I I get the
+feeling being early is probably better
+how do you think about timing a timing a
+market and making sure that you're there
+to ride that wave and the differences
+between being too early and too late
+you're
+every startup that wins pretty much not
+everyone but like 98 uh
+is too early
+because if you're not too early you're
+usually too late because if you think
+about it you're trying to like there
+there is some optimal day
+like literally there's probably a day
+where like
+start if you start the company on this
+day
+everything will be available as you need
+it there will be sufficient Bama through
+your idea they'll be sufficient this to
+you know the modernization techniques
+will work the distribution will be in
+place
+but if you start it on that day someone
+else when everything actually becomes
+available everyone else someone else
+will have started it a year earlier
+stupidly
+just by random chance because every idea
+is getting started over and over again
+and they will be in motion and they will
+have infrastructure and they will have a
+product built and suddenly their product
+will be working and you will be too late
+and so what you're trying to do is
+like so if you think about it for Justin
+TV we were too early bandwidth was too
+expensive to make our business work uh
+and almost honestly most people couldn't
+even watch didn't have good Advantage
+but we've been watched reasonably
+quality live video and the video ad
+Market didn't exist
+we didn't have a business it was
+important but we but but there were
+other startups that tried to compete
+with us several that started later
+and they just got destroyed because we'd
+built Global live video infrastructure
+for the past four years
+and they hadn't
+and so
+you know from when the start gun went
+off on like oh no no the business works
+now
+there's just how do you catch up with
+someone with a four-year Head Start
+still led by the founder CEO still like
+grinding super hard trying to make it
+work like you're just screwed I mean so
+a big part of it is if you if you have
+faith that your thing is going to work
+and the pieces are going to come into
+place the question for startups is how
+do you survive
+that's why you read so much about like
+YC's advice to like be a cockroach like
+don't don't don't be a uh uh graceful
+swallow be a cockroach because you're
+usually too early and you just have to
+survive and survive
+Until It's a combination of like you
+find the secret thing but often it's
+actually like you didn't change anything
+the market caught up with the future
+that you saw that you can't ever time
+exactly right and suddenly your thing
+that wasn't good is good and boom like
+Airbnb is a good example of that
+actually I think like they they had a
+product and yes they did iterate and
+they did figure stuff out but like a big
+part of it was like people got
+comfortable with the idea of like host
+listing stuff on the internet and
+renting through uh renting other
+people's stuff uh and
+and the business that didn't work and
+wasn't good became a business that did
+work and became it was good and I think
+that's a it's a very common pattern
+talking about cockroaches and you guys
+were certainly that with Justin TV
+um
+frugality uh being
+something that's important but maybe not
+a virtue uh that that being able to use
+frugality I I've written down here I
+assume you said it because it's in
+quotes reality isn't a virtue in itself
+speed is
+how do you think about the balance of of
+speed and frugality and the ability to
+execute the other thing I think you said
+the blast radius of startups is low
+which is to your advantage as a startup
+yeah I mean frugality
+for
+uh Amazon one of Amazon's core uh like
+like Amazon
+Amazon's leadership principles the Alp
+um one of them is frugality
+um it's about how leaders should be
+frugal and
+inside of Amazon there's a saying about
+like yeah yeah frugality but don't you
+don't are going to avoid for pity
+um because frugality and frippidity are
+near and far aligned
+um
+because you need to be willing to spend
+money
+and to invest for something that's
+important to do something but also but
+wasting money is very bad
+and the difference between one man's
+investment is one man's waste is another
+man's investment and vice versa
+the real thing that kills startups in
+terms of spending money is usually not
+overspending on like bandwidth or like
+server capacity or like even marketing
+obviously you don't run marketing it
+doesn't work it's inefficient but like
+what uh what kill startups is hiring you
+hire too many people
+and that does kill you because you have
+this High burn rate and eventually run
+out of money the burn rate kills you but
+it also kills you because more people
+means more slow
+um and speed is the essence and like
+hiring is not in alignment with speed
+um speed isn't alignment with speed and
+so there is a point where you do need to
+hire more people to go faster but like
+it is later than people think it's less
+hiring than people think and so
+I think a lot of the advice to startups
+about for frugality is really better
+framed as advice about you need to be
+going fast and that means don't grow
+your team too much that creates a lot of
+drag
+what what Drew you back to YC as a as a
+partner now like what was you were at
+Amazon for a long time what made you
+want to I've always wanted to be a YC
+partner like I uh I don't know if it's
+like my forever job but like I watch my
+friends go through it I love advising
+startups and I was like oh that looks
+fun I want to try that and so I just
+always had the intention of going and
+doing YC for a year as a partner
+um just honestly because it's like a
+life experience and I'm really enjoying
+it so far I think there's a chance I do
+it more ongoing but I also I'm enjoying
+like having a little bit more freedom
+post stopping SEO and the job it's a
+real job at YC like you know it's not
+not like being a CEO of 2000 company but
+like it's a job
+um and so we'll see if it's like the
+long-term thing but no I just always
+wanted to and then once I was free I was
+like oh well there's a badge coming up I
+guess I could go do that and so there's
+more of almost more of an Impulse thing
+less than like a I have some like plan
+of wanting to do it what do you think's
+allowed the institution to survive in
+the way that that it has uh it's
+obviously scaled quite a bit over the
+years
+um I mean YC is like a uh
+a little like a university yeah uh and
+like universities it has a very strong
+Network effect the smart people want to
+hang out with some other smart people
+and want to be at the place where the
+other smart people are and that like
+creates a positive feedback cycle that
+allows it to scale and grow it makes it
+hard to
+Harvard was the first University in
+America weirdly still the most
+prestigious that's weird like I think
+Yale was the second University founded
+in America
+second or third most prestigious like
+that's weird uh
+uh I think that exact same Dynamic
+happens here and like it's not a and
+unlike the university is YC is designed
+to
+Ben can scale up a lot more and so
+there's the second place gets is a
+little bit smaller
+um because people can move around more
+much more easily now right if uh if
+Harvard had been founded in the Nero or
+anyone could have flown anywhere
+and had an attitude of scale as much as
+possible it's not clear there is
+University 234 immediately
+um
+and I think YC has been sustained
+because it's
+always had a long-term mindset like I
+remember Paul telling me like saying
+like you're two or three and our biggest
+advantage in the long run is going to be
+very eliminate the Alumni network that's
+what YC is really building and they call
+them alumni right it's not
+that's that's a different attitude
+um
+and uh
+and so he was thinking that far ahead at
+the beginning
+I had another question about YC and I oh
+what do you what do you think the
+biggest constraint on startups today the
+reason that we don't have
+uh 10 more stripes or a hundred more
+Twitches or 30 more uh airbnbs is it
+because is it Founders is it ideas is it
+capital sufficiently talented people who
+who want to take on the pain of starting
+a company yeah like pretty much
+exclusively there's lots of capital
+available
+um
+I will say there's there's a uh there's
+definitely
+uh
+of missing
+there's like a few missing gears in that
+process of like there are people who
+should get access to the capital and if
+they did they would be successful and so
+there isn't enough Capital there's
+plenty of capital there's more than
+enough Capital but like there's lots of
+people who think they should have the
+capital many of them are wrong some of
+them are right and the system is like
+pretty efficient but there's definitely
+some number of people who like
+just don't get funded and they should
+because they
+because they're bad at pitching because
+they don't present
+because because on the surface it looks
+looks wrong because because they they
+can't show you that they should get the
+funding
+um
+and I think that's a shame and like
+one of YC's mission is to find and fund
+those people we can't do it perfectly
+were you were you bad at pitching or did
+you just hate it I was okay yeah that
+wasn't great
+um
+I would be a lot better at pitching now
+and I think I would enjoy it more uh
+weirdly at twitch after we sold
+I I get to practice sales a lot around
+with the game game companies and and
+advertising and I and also I started
+investing
+and I uh
+there's no way to do this but like if I
+could give every founder I should
+probably have them like go be an
+investor for two years and then go pitch
+their company because it's suddenly I'm
+like oh I see what I was doing wrong
+like now I know I've sitting on the
+other side of the table I'm like oh oh
+no wonder that person like passed my
+startup I was I was explaining it all
+wrong I didn't understand their
+incentives I didn't understand how they
+saw the world and so the most important
+thing you can do is a
+like
+I wonder if this would work if I was at
+if I was to go back and give earlier
+Emmett advice like how to pitch better
+what I would tell them to do is like go
+find some VC who you're friends with who
+like sees good companies and be like I
+will give dude some due diligence for
+you for free
+if you let me sit in on like
+you know a month of pitches and hear the
+discussion afterwards
+because I think I would have been like
+oh I know how to
+I know how to do this I would have
+figured out how to pattern match like
+the problem is like starter Founders
+have only usually have only seen their
+pitch how do you get good at something
+that you've only you've only seen your
+performance at you don't know what good
+looks like
+um and I think that's the so yeah that's
+if that's what I would that's what I
+would tell my prayers have to go to the
+information's gotten so much better uh
+about VC I mean one of the things I I
+want to do is try to sort of give
+elements of how I think or rethink and
+operating but the pitches it's it's
+almost a voodoo science in and of itself
+Are there specific things that you
+learned in pitching the EA or whatever
+that you would there's
+um
+there's things you can write down that
+people have written down a thousand
+times like you know templates and stuff
+sure
+they're all wrong and they're all bad
+actually you temp pitch templates
+whether they're pitches for VC money or
+like product things templates are the
+enemy there's certain like
+aspects you can do but every pitch is
+unique because it wasn't unique
+you don't have any unique Insight like
+your company is unique there's a there
+are generalizable principles and rules
+but there's a template you can go off of
+and so
+and yet you know it when you see it and
+there's like there's there is there's uh
+I think pitching is one of those things
+where it's uh it's very much medicine
+you know that idea the idea of like a
+skill that you learn through organic
+doing
+there is no training for pitching
+that would be more effective than just
+like watching a bunch of pitches and
+then the honest brutal discussion
+afterwards about like whether they think
+that's a good idea or not
+and participating in that
+um
+and unfortunately I don't think anyone's
+brave enough to put
+there's no I don't know how the you want
+to create a piece of content that would
+be like incredibly valuable to founder
+Center to pitch record three months of
+every every partner pitch and every
+pre-partner pitch for every company and
+the discussion afterwards and the
+decision and publish that
+and like then edit it down so like you
+cut out the dead time edit it down and
+just have people watch that as a as a uh
+as a uh as a course that would work like
+people would get a lot better at
+pitching
+um unfortunately I don't think the
+company should like that I think the
+partners would be really be awkward but
+like
+you need to create some system like that
+um because that's the that's the only
+way to get it's like trying to learn how
+to like cook from a cookbook you learn
+to cook in a kitchen
+you don't learn to pitch watching a
+YouTube video you learn to pitch
+they're from a PowerPoint you learn to
+pitch in the
+in the pitching room that's interesting
+uh shifting gears artificial
+intelligence
+um I get the feeling you might have some
+concerns about the path we're on and
+some elements of how things are playing
+out is that I mean so I guess I have I
+have a very specific concern about AI
+like generally I'm very Pro technology
+and I really believe in the sort of like
+uh
+the upside's usually outweigh the
+downsides everything's technology can be
+misused you should usually wait and you
+should wait until you've eventually as
+we understand it better
+you want to put in regulations but like
+regulating early is usually a mistake
+when you do do regulation you want to be
+making regulations that are about
+reducing risk and and for uh Innovation
+and I actually uh authorizing more
+Innovation Innovation is usually good
+for us
+um
+I sort of have a very very high level
+like syllogism about like AI that I've
+come to believe I think is like correct
+it's like if
+we can build if you consider
+intelligence to be the capacity to solve
+problems
+from a given set of resources to a given
+goal
+we are building things that are more and
+more intelligent
+like that we've built an intelligence
+it's kind of amazing actually we built
+something like definitively it may not
+be the smartest intelligence but it is
+unintelligence it can solve problems so
+we've built something that can solve
+problems like arbitrary problems from
+arbitrary resources
+and make arbitrary plans
+at some point as it gets better
+the kinds of problems that we'll be able
+to install
+solve will include uh programming chip
+design Material Science uh
+power production
+um all the things you would need to
+design an artificial intelligence
+at that point you'll be able to point
+the thing we've built back at itself and
+this will happen before you get that
+point with humans in the loop it already
+is happening with humans in the loop but
+that Loop will get Tighter and Tighter
+and Tighter
+and faster and faster and faster until
+it can fully self-improve itself
+at which point
+it will get very fast very quickly
+and a thing that is very very very smart
+and you generate something that is very
+good very intelligent and by intelligent
+again I mean this capacity to solve
+problems there's people there's lots of
+ways people that work it's a it's an
+English word which means it has no one
+definition but I have that in that sense
+I mean that kind of intelligence
+and that kind of intelligence is just an
+intrinsically very dangerous thing
+because intelligence is power human
+beings are the dominant form of life on
+this planet pretty much entirely because
+we're more and smarter than the other
+creatures when was the last time
+intelligence came into you know entity
+at this level right and within humans I
+think people get confused between these
+two different things within the band of
+human intelligence intelligence is not
+the most important thing humans have a
+lot of other attributes but intelligence
+is a very important thing for people we
+have a lot of other gorillas are more
+intimidating as a species than we are
+but Thrillers did not build this studio
+and humans are like humans are dangerous
+as hunters for example because we're
+smart we do things like you know crowd
+The Woolly Mammoth off cliffs and set
+traps and like uh
+uh human be we have we have whites in
+our irises it's the exact balance uh of
+white to color uh is what communicates
+what we're looking at other primates
+have black eyes because they don't want
+the other people other creatures to see
+them so try not to give away information
+we have the white uh around the IRS
+because it lets you tell what other
+people are looking at you basically have
+this Eerie ability to do it you know
+exactly what other people are looking at
+imagine hunting these creatures are
+hunting you and you see one of them
+and one of them can like
+indicates that they want to cross the
+way that they just saw a deer by like
+looking at the deer
+and there's no Sound Exchange at all
+it's just purely this like it's like
+you're gonna be pretty smart to do like
+big very strong theory of mind to do
+that
+if you build something that is a lot
+smarter than us not like somewhat
+smarter again within humans the smartest
+people don't rule the Earth obviously
+um
+but like it's much smarter than we are
+as we are than like dogs right like a a
+big jump
+that thing is intrinsically pretty
+dangerous because
+if it gets set on a goal that isn't that
+that uh
+like the the the
+instrumentals first instrumental
+instrumental convergence the first
+instrumental step towards achieving that
+goal is we'll go first step one if this
+is easy for you because you're really
+just that smart well step one just like
+take over the planet right like it's
+like then I just have control over
+everything and then and then step two
+solve my goal can you define
+instrumental convergence for those that
+didn't sit through three and a half
+hours of me talking to Ellie yeah so
+it's real convergence is this idea that
+like uh
+uh often when you're trying to achieve a
+goal step one is to achieve a
+instrumental goal along the way it's
+like if you want to like for example
+like uh
+uh paper clips is the one yeah yeah so
+uh no I'm thinking more like an
+instrumental instrumental convergence
+I'm trying to give an example from where
+it happens to people in their people's
+lives um oh in chess
+um your actual goal is to Checkmate them
+but like along the way to check making
+them check making them most the time one
+of the things you want to do is take
+their pieces now you could not take
+their pieces there's probably I bet a
+really a really good chess player
+against the kind of mediocre one could
+Checkmate them without taking any pieces
+just like trapping their their but like
+that's like even more impressive but
+like generally speaking if you're just
+trying to
+win a game of chess taking their Queen
+taking their pawns taking taking their
+pieces is a good idea it like makes it
+easier to Checkmate them and so I can
+predict something about almost anyone
+any good chess player they'll take a
+bunch of their pieces they'll take the
+other person's Queen eventually probably
+um in the same way you can predict uh
+that corporations uh
+uh that want to expand into a new market
+there's an instrumental goals like step
+one they'll probably hire people in that
+market it's like just predictable
+and in general if you want to accomplish
+most goals like big goals Step One is
+like accumulate a lot of money and power
+like if you have if you have a goal of
+uh changing the world
+it accumulating money and power or
+accumulating followers who like care
+listen to you and will do what you say
+these things are like Obviously good
+first steps even if you don't even if
+you didn't even know what the next goal
+was they would be good first steps and
+if you know what it is they're
+definitely good for steps
+step one if you can achieve it along the
+way to to achieving any Big Goal yeah
+paper clips is the traditional one
+um is first just if you if you can pull
+this off which like you can't humans
+can't do this we don't think of goals
+like this because we're not capable
+enough but if you could pull it off step
+one would be like well first I'm just
+gonna like
+literally just make sure I have total
+control over everything at all times and
+then step two I'll like do whatever it
+is step two do the thing easy I already
+have control over everything no one can
+stop me I have accessed all the
+resources simple
+um
+and I think people just don't it's hard
+it's hard to people don't imagine
+sufficiently capable
+as sufficiently capable
+um
+and then so then and some people some
+people have this idea like oh what if we
+just don't give it goals well first of
+all we are giving it goals people are
+already building agents but let's just
+say we didn't
+and so you ask this Oracle what's the
+best way for me to accomplish goal X
+and it knows
+if it takes you literally
+um and it and it it actually answers
+your question correctly the answer to
+your question
+will will be a thing that causes you to
+bootstrap an AI
+that then takes over the world and
+accomplishes the goal that's the most
+reliable way to accomplish that goal now
+I just laid out a chain of argument with
+a lot of if this then this if this then
+this if this then this
+uh I know Eliza thinks that like we're
+all doomed for sure
+um
+I buy his Doom argument I buy the chain
+and the logic I just think that like
+first of all I'm less optimistic with
+the current set of technology is going
+to get to self bootstrapping super
+intelligence I'm less optimistic than he
+is that we could officer pessimist
+whatever unless I'm not sure than he is
+that when it hits that self
+bootstrapping step that uh that process
+will be fast and that we will that there
+aren't
+important new discoveries that will take
+a long time on top of that that we
+haven't found I'm less sure that uh
+uh
+this was the idea of alignment getting
+it you could make the IAI such that it
+wants the same things we want and then
+if you ask it to do the thing it won't
+go and do horrible things because it's
+not dumb and it's aligned and if it
+wants the same things it knows what you
+mean it's smart
+and it has it has aligned goals hooray
+like that'll work great I'm Le uh Elijah
+thinks that we're like just alignments
+this incredibly hard problem that like
+is almost unsolvable more doomed I'm
+like not so sure I think it's a more
+solvable problem than he thinks it is
+for a variety of reasons you know just
+it would take too long to let go into
+but like my my belief is that it's
+easier
+um
+and so uh as a result like my P Doom my
+probability of Doom is like
+my bid ask spread and that's pretty high
+because I have a lot of uncertainty but
+I would say it's like between
+like
+five and fifty
+so there's a wide spread which I think
+Paul Cristiano Paul Christiano who
+handled uh you know a lot of the stuff
+within open AI I think said 25 to 50. it
+seems like if you if you talk to most AI
+yeah researchers there's some
+preponderance of people that's that
+percentage that should cause you to
+your pants but it's human level
+Extinction I think yeah because no it's
+not a human level Extinction it's such
+extincting humans is bad enough it's
+like potential destruction of all value
+in the light code like like not just for
+us but for any species caught in the
+wake of the explosion like
+uh it's like a universe destroying bomb
+like it's really if if if if if if it's
+really bad it's bad in a way that's like
+makes global warming like not a problem
+it's bad in a way that makes normal
+kinds of bad not uh that's not
+normally I'm like yeah we'll just roll
+the dice it's fine we'll figure it out
+later yeah no no like this should go
+this is not a figured out later thing
+this is like a
+big problem southern Manhattan
+Miami might go underwater like okay okay
+but this is we're talking about and so
+why do you think I mean I I it's like
+someone figured out how to invent it a
+way to make like 10x more powerful
+Fusion Bond bombs out of like sand and
+bleach
+that like could anyone could do at home
+yeah
+um
+it's terrifying and and
+I've had enough time with it now that I
+can laugh about it when I first realized
+it was heart stopping when was
+that uh
+probably like
+it's it was it was a dinner I went to
+before
+when opening I was just we had basically
+right after attention is all you need
+had been written like and they sort of
+realized the scaling laws were there and
+I went to a dinner and someone was there
+and they were talking about it and they
+were like I think we were were uh
+we actually might be on the path to
+build a general AI attention you all you
+need was 2018. yeah I think early 2017
+2017. um
+and Google paper that yeah
+and uh and I I heard about the problem I
+thought about it I just had I'd like I'd
+been like the the AI Doom thing seems
+plausible whatever like I don't think an
+AI is coming anytime soon so I'm just
+not gonna think about it that hard yet
+uh
+and then I was like oh maybe and then I
+started thinking about it harder and
+then I was like oh
+oh oh
+um and so uh
+uh I guess
+the the pro I believe the proper
+response is like
+unfortunately this isn't the kind of
+thing where
+uh we can stop forever
+and it unfortunately is also the kind of
+thing where like more time is good like
+I'm actually I'm okay with stretching
+the time a little bit but like
+ultimately to solve the problem
+um I think this is one of my biggest
+points of Divergence with uh yukowski
+um
+he is a mathematician philosopher
+you know decision theorist by training I
+am an engineer
+am I everything I've ever learned about
+engineering is the only way you will
+ever get something that works if you
+need to work on the first try
+is to build lots of prototypes and
+models at the smaller scale and practice
+and practice and practice and practice
+and and trot build start building the
+thing but like smaller
+and if there is a world where we survive
+it is and everything goes wrong where we
+build an AI That's smarter than humans
+and we survive it it's going to be
+because
+we built smaller AIS in that and we
+actually had lots of as many people
+smart people as we can working on that
+and taking the problem seriously
+and so I'm I'm generally I'm in favor of
+trying to create accounts I've got a
+fire alarm where we were like like maybe
+not AI is bigger than x at some point
+like trying to like create a and I
+actually think there's good reason to
+believe like nobody wants to end the
+world and this argument is not that hard
+to understand
+and so actually there's good there's a
+good option for international
+cooperation and like treaties about some
+sort of you know the AI Test Ban 3D
+about not bigger than x
+at some point I don't think I don't
+think we're actually at the point where
+it needs to be not bigger than our the
+current AIS are just not that smart yet
+but I think we should be moving towards
+creating that kind of a some kind of
+soft I don't we have to figure out what
+that looks like because it's it's
+trickier to set that than it setting
+that rule is way harder than it looks
+writing good policy is hard we should be
+thinking about it now
+I just think I don't think we're ready
+for it yet but in the meantime on these
+smaller models we it is good that lots
+of people are around with them
+it's good that we have more and more
+people trying to figure out how they
+work and trying to figure out how you
+can make them do things how figuring out
+how to make them do bad things
+the best way to figure out how to stop a
+big AI from doing bad things we'll have
+the best way as much it is true
+there's a bunch of failure modes for
+super intelligent AIS that don't exist
+unless super intelligence AIS and we
+better not bet on oh don't worry it
+works it works in the dumb ones it'll
+work no no that's not how it works you
+can't do that but like we will figure it
+we are figuring out more and more about
+the principles of how it works and if if
+we survive it's going to be because that
+process produces a a good generalized
+understanding a good generalized model
+of how these kinds of predictive models
+which I think includes humans as we are
+some kind of very complex predictive
+model
+with other stuff too but like that's a
+big part of what a human is we'll
+understand how those work at a deeper
+level we'll have some of some science of
+it actually and that's what we need we
+need a science of AIS right now we have
+an engineering of a highs and no science
+of AIS and we need to get use the
+engineering to bootstrap ourselves into
+a science of AIS before we build the
+super intelligent AI
+so that it doesn't tell us all why do
+you think people are struggling with the
+discourse around this like very smart
+people seem to abject it's very very
+obviously mood affiliation rules
+everything around me
+people don't make decisions on a
+reasoning basis I mean myself included
+most of the time I happen to like
+I happen to
+find this problem interesting and
+compelling on its own so I spent a lot
+of time like digging into the arguments
+themselves because I was like drawn to
+it but like most of the time I make
+decisions the same way as everyone else
+does the person pitches me on pitching
+me on the Flat Earth thing who's saying
+that like a bunch of things I don't
+really like listen to them I just like
+I can they say some things and it
+triggers like oh you're part of that
+tribe those people generally I don't
+think think very clearly I'm just gonna
+discount everything you're saying and
+ignore you yeah Robin Hansen talks about
+9 11 people and it's like you don't
+argue with them you just sort of move on
+yeah conversation and the AI people
+sound like
+uh religious nuts who are telling you
+about the end of the Doomsday into the
+world and it sadly pattern matches
+really nicely right like the AI is like
+the you know it's like the Antichrist
+it's coming and you know if what if
+we're good the good AI will come and
+save us from that if it's like it sounds
+like like
+uh
+Christian rapturists yes
+um Last of Us yeah it uh unfortunately
+um reasoning from fictional evidence is
+it doesn't work and that mood
+affiliation reminds me of this is not an
+argument and the Earth is not round
+because the flat earthers sound crazy
+the Earth is round because you can
+demonstrably
+see that the Earth is round and go
+measure that yourself and it's true
+and if you make decisions
+based on anyone who's telling you that
+doing X will unleash a force which is
+going to kill us all they sound like a
+bunch of
+uh crazy religious people because it's
+never happened before it's never
+happened before guaranteed guaranteed
+the first time that's true we're all
+dead because your algorithm always
+predicts the same thing you know the
+thing you're going through in your head
+always predicts the same outcome for
+anyone who is predicting Doom from
+creating a powerful force Beyond human
+ability now
+it is true you should be skeptical in
+general when someone proposes that
+because there are a lot there are
+Infinity examples from the past three
+you know six thousand years of history
+of people predicting that falsely about
+things
+and and people
+people made imaginary cures for medicine
+medicinal cures for like tinctures that
+were supposed to cure you for a very
+very long time and then we made one that
+worked
+and and you just can't reason that way
+sometimes sometimes it's new sometimes
+it's not like before usually it's like
+before and sometimes it's not and I I am
+personally convinced this time it is not
+like before and I encourage everyone
+who's in that mode like
+the main thing that what I want you to
+pay attention to is listen to me like
+people like me listen to people like uh
+even utkowski who I disagree with when
+the amount of Doom but we're like
+pro-cryonics Pro technology like
+technology is going to fix all our
+problems crazies like if I if I have a
+if I have a defect it's that I am too
+Pro technology I want too little
+regulation like are you doing Ionix by
+the way I have not signed up yet I
+really should I've been it's one of
+those things on my to-do list I'm
+failing the rationality test yes um
+uh but uh but you're a techno Optimist
+I'm a techno Optimist and like and most
+of you should notice that the people the
+people who are affected by this
+particular one
+are not like the people who generally
+predict we're not Paul airlock is full
+of on like oh the Doom is coming
+the population bomb he is wrong and
+weirdly so and refuses to learn from his
+lesson that he's wrong again he's wrong
+over and over again
+this is not like that
+like I am not panicked about global
+warming I think I think alarming is a
+real thing I don't want to say like I
+don't want anyone to walk away thinking
+like I think isn't real but like I
+believe I I believe in technology the
+engineers will figure it out don't worry
+it's gonna be fine I'm not quite sure
+um it might have some well depending on
+whether we play to have the political to
+get around to it quickly or not it might
+have more or less dire consequences but
+like we will figure it out eventually it
+will be fine we will figure we will get
+this I do and it's okay so here here I
+am being the guy who's like the Techno
+Optimist and I am like no no the AI I
+think that this thing though actually
+maybe may be a problem and I think if
+you're if you are rejecting it because
+we sound like a bunch of crazy it's just
+notice that like at least a some number
+of people who are worried about this
+are not are on your I'm on your team I'm
+on the Techno Optimus team
+really
+think and it and it's not it's not
+obvious why it's true it takes a good
+deal of Engagement with the material to
+see why it's true because at first
+at first it seems like it shouldn't be
+that big of a deal it shouldn't be that
+big of a problem but then the more you
+dig in then we realize like oh well
+actually but wait a second
+and it is and so like I just encourage
+people to engage with the technical
+merits of the argument and I
+always welcome people to come to to you
+know ask questions but also like if you
+want to debate
+no no I have an idea we can align it
+this way do this and it will create a
+you know it will create the AI that like
+cares about things we care about we want
+your ideas like that's great let's have
+an argument about that self-improvement
+won't work
+okay if no because like people have said
+self-improvement will work in the past
+and it never did then I don't want to
+hear it because whatever it's not a real
+argument but if you have an actual
+like argument about how the current
+learning techniques won't work for that
+for some
+reason engineering reason
+absolutely let's talk about it well I'm
+glad we spent all this time building
+your credibility as a normal person just
+go off the rails here but but seriously
+I mean it's uh it is something that
+people are like genuinely concerned
+about and there's no incentive you have
+Mark Andreessen published something
+recently about like Ai and he had a
+bunch of different points against it but
+the AI killing everyone point was the
+first one and I I think it went back to
+a lot of discourse around people that
+profit from this is their business and
+this is how they make money and
+therefore that's what why they're
+intended to communicate in this way you
+are not I I as far as I know your
+business is not in Dooms uh doomsday
+scenario planning around AI I have no
+Financial stake in in either doomsday or
+planning around AI or the other weird
+like double think 40 chess thing people
+impute to uh it is like oh we're
+actually trying to build up open Ai and
+anthropic as being and Google as being
+like super powerful and it's on ego
+thing about making talking about how
+amazingly great this stuff is so we can
+like raise more money for opening and
+Regulatory capture yeah yeah and like
+like I don't own any equity in any of
+these things you're not trying to help
+your 2006 batch made 2005 batchmates no
+he's he's Sam Hunt's really good at
+raising money like he does not need my
+help yes I promise yeah what would you
+recommend to people I mean uh if they
+are curious about all of this stuff and
+like I I when people ask me about it
+because I've had Eliezer on they're like
+so now what and they're like ah you know
+call your Congressman I don't know so
+there's sort of two paths that you can
+where you can contribute if you care
+about this problem one is um
+if you're Technical and you're
+technically minded
+um and you think that you uh
+but you want to work on it like go learn
+how the AIS work and work on
+interpretability
+and work on uh courage ability and can
+you define those terms so durability is
+like understanding what's going on
+inside the AI which we are very little
+understanding right of right now yeah
+and ability is is how do you make a
+decision making
+thing that is willing to be corrected
+by others
+but he's actually and that's sort of
+that's where Eliza has a lot to say
+about this he's kind of a decision
+Theory thing how do you get it to sort
+of like believe that
+even though everything it knows seems
+like this is the best way of doing it
+the other or telling me that's not right
+and so I'm open to being corrected by
+their point of view how do you make it
+sort of this how do you how do you give
+something humility almost in a way right
+um and and we have no idea to do that
+either
+um we've made some we've had more
+progress on interpretability than
+courage ability but
+made a little bit of progress on both
+and we're making more on
+interpretability and
+what the my real pitch for this is it's
+actually really interesting there's just
+stuff lying around that no one's checked
+no one's tried it's like uh when the
+microscope was invented and suddenly
+like you could just make a scientific
+career by like pointing microscopes at
+things and like there were like lots of
+things to point the microscope out that
+no one had ever looked at before
+we have a mind you can go look at and
+examine and experiment with I've never
+had one of those before and so there's a
+bunch of like interesting kind of like
+scientific workers I would encourage
+people to go do scientific work on AIS
+go take the AIS other people have built
+and then the engineering and try to see
+what science you can do to them
+particularly around interpreting what's
+going on inside them or how you get them
+to accept corrective feedback
+um
+if you're more if you're not technically
+minded and you don't feel like learning
+how to like actually build a Transformer
+um
+they you have there's less obvious how
+you contribute directly but uh
+I think mostly like
+uh
+helping correct the debate and correct
+the tone of the discussion because this
+like the super intelligent AI must kill
+it might kill everyone thing gets
+wrapped together with a bunch of other
+concerns about AI that are real they're
+their things but they're like normal
+concerns like
+will it just cause discrimination job
+loss what's called job loss like I know
+that let
+that stuff's all like a thing but like
+honestly on those things I sort of feel
+about it the way I feel about most
+regulation we're like
+you know like it's a little early
+probably there probably will be a good
+regulation to write we don't know what
+it looks like the area is evolving so
+fast very hard to write good good
+regulation
+don't let that get confused
+um job loss doesn't kill everyone yeah
+so there's so there's there's AI ethics
+and there's then there's AI not kill
+everyone ism
+and
+the ad not kill everyone thing is like
+we need the AI to not kill everyone
+don't let people mush it together when
+you see hear people conflating the two
+correct the record uh because they're
+just not the same idea
+um and they're the same kind of problem
+and they won't be solved with the same
+kind of tools and uh
+uh
+the danger is that those two get sort of
+wrapped together into some
+thing again gets rejected by people who
+just like well I don't who rejects the
+safety AI safety aif ethics stuff that
+they it's like well this doesn't really
+make sense which I kind of agree with a
+lot of the people who say like most that
+stuff kind of doesn't make sense to me I
+could see a theory maybe some of it um
+we will throw out the the good part with
+the bad and a lot of that other stuff is
+true of almost any technology right yeah
+that stuff is just general it's General
+technological like and that's my thing
+of why I think Silicon Valley in
+particular has has struggled to talk
+about this and I don't even know what my
+fully formed opinions are on this stuff
+but it's that for a long time Silicon
+Valley has been accused of all the
+negative externalities that are going to
+come from uh whatever the technology is
+that we've integrated around and so
+everyone's very used to being defensive
+about like oh job loss yeah
+everyone's on the on the defense against
+anything critical like sort of broadly
+critical of new technologies because it
+pattern matches to a bunch of people who
+go around throwing up check throwing
+chaff in the air attacking everything
+all the time even when it doesn't really
+make any sense
+and so it's easy to slot it into that
+the slot the whole thing into that thing
+and just you know
+throw it away and I just think like
+uh
+the uh there's there's a piece of that
+that is different than the normal than
+the norm it's hard Verity mood
+affiliation drives most of our decision
+making and it's hard to get people to
+notice that
+I have three more questions how are you
+on uh time can we keep going time is it
+we're almost at 30 so we're way overtime
+um
+what's my calendar here
+um
+oh I have to meet my friend uh let me
+just text my friend real quick okay
+um these won't be nearly as long as AI
+ethics
+all right all right
+um
+there's a graphic you tweeted out about
+income that you said you keep handy for
+dinner parties uh why do you keep that
+graphic we'll show it on screen as we're
+talking but why do you find that graphic
+so interesting
+um
+it shows I think on a more optimistic
+note than the one we were just on there
+yeah yeah it it shows so first of all
+the fundamentally what it shows is in
+general people getting much richer
+households getting much richer and
+specific
+um
+house you know
+the the almost all of it is the the bulk
+of this curve moving down and that the
+big spike on the right isn't a small
+number of people getting much wealthier
+it's
+a lot more people making 200 that more
+than 200 000 a year like eight percent
+of the population and for people
+listening it's like a distribution since
+1970 or something of income and maybe a
+Family household income in real terms
+and in real terms and so it slides from
+like a you know sliding kind of smiling
+graph to being much more on the 200k
+plus side of the axis and but the other
+thing that happens is it goes from being
+a pretty defined like bell curve to like
+this weird like almost like exponential
+decay shape like there's still a lump in
+the bell curve area but like it's less
+and less a bell curve and more and more
+flat like an exponential decay curve of
+people making every bucket people makes
+there are slightly fewer people in the
+bucket but actually there's about as
+many people in forty thousand 30 to 40
+as there are in 50 to 60 as there are 60
+to 70 as they're already 70 to 80. it's
+actually the main story is the
+flattening
+of the distribution
+and what that flattening means is it
+used to be there was a normal income
+uh normal household income was 30 35 000
+a year and if you're within and some
+people made a little bit more and some
+people made a little bit less but
+for the most part everyone was in the
+mode they had they made there was a real
+modal income the there was a most common
+income
+and most people made relatively close
+almost everyone made relatively close to
+that that amount of money
+and what has been happening and then you
+had some number of very rich people and
+like medium rich people but like the
+bulk of society was in that thing and
+what's been happening is
+uh
+there isn't really a norm anymore we've
+destroyed the norm and instead there's
+just
+some people made a lot more money some
+people made a lot a lot more money some
+people made a medium amount more money
+some people made a little more money
+but like in general uh
+everyone's do making like uh everyone's
+making more but the the
+there isn't a it's hard everyone at can
+now look to the person the left and the
+person on the right there's like lots of
+people making a lot more money than me
+and lots of people making a lot less
+money than me for most people
+and that feels bad it feels like
+inequality it also is inequality
+actually but but everyone's getting
+richer which is good and yet somehow
+it's this flattening that creates a
+sense of like being left behind and
+I don't quite know what to do about it
+because it's a it's a very optimistic
+story on the one hand of like
+American households generally getting
+much wealthier and many many more people
+having access to more uh resources which
+is good that's the good that we'd like
+that
+um there is a slight Spike at the very
+bottom of people with almost nothing I
+think that's that is that's also an
+issue
+um
+and it's not to say there aren't any
+issues in our society like you know
+obviously Healthcare education
+um housing all cost you much but
+like the the real
+uh
+underlying thing that bothers people
+that that on the other side of like this
+this flattening out I'm not quite sure
+how you
+how do you how do you how do you fix
+that without like making everyone really
+poor there's an easy way to fix it make
+everybody poor
+go back everyone take it take a bunch of
+money for everybody it's easy to break
+things it's easy to make people more
+poor um and so
+I think a big part of what happens there
+is as it's you get spread out more you
+have the the housing in the middle
+um the people in the middle can't afford
+things that get bit if there's a good
+that gets where there's a limited Supply
+and it's getting bit up and you make
+you're making more money on that
+particular good you are screwed and that
+sounds a lot like education and housing
+to me um and so I think that's a that's
+a big part of why it feels so bad for
+people
+um which is why I care so much about
+getting more housing made making
+education more available I think these
+these things are very important
+you recently turned 40 and you did a Tim
+Urban ish layout of your life and time
+spent doing that exercise was it on a
+weekly basis yeah every week yeah every
+week
+did an internalization of turning 40 and
+laying graphically out how you spent
+your time did were there any takeaways
+from from that that you
+I mean I kind of I knew the story
+already yeah um
+it was just kind of cool to see it all
+laid out
+um and uh
+I guess my biggest takeaway was man I
+spent a long time in school yeah it's
+been a really long time like maybe
+longer than I needed to like maybe I
+could have started working earlier in
+retrospect yeah uh that was not that
+many surprises it was fun though it's
+like fun to encourage everyone to do it
+it's fun to lay your life out like that
+and take a look at it you live in San
+Francisco are you optimistic about San
+Francisco absolutely the city is uh
+doing doing much better than it was
+during covet Cove is very hard in San
+Francisco I think
+um
+we have problems
+um you know the fentanyl crisis is
+really real people are dying in the
+streets it's like not okay
+um
+but we also have a lot of really big
+advantages
+um and there's a lot of good happening
+in the city too and I'm uh
+I think I'm most encouraged by the
+number of people I know who
+uh have built their careers and their
+lives here and who are committed to the
+city and who are
+not leaving and they're planning to do
+the work to try to make San Francisco
+better place where it's you know
+the core things that everybody cares
+about right like you shouldn't be people
+who
+don't have anywhere to live dying on the
+streets uh there shouldn't be obvious
+rampant crime people being victimized by
+that uh left and right uh there
+shouldn't be housing shouldn't be so
+expensive that like you have to be rich
+to have access to it
+um
+there should be better Transit options
+for people um they don't they don't want
+them stuck in traffic like the park we
+have more and better Parks like I don't
+know there's none of these things are
+controversial and in fact I wouldn't
+even say any of these things are
+uh things that we want we don't
+all we don't have wide agreement that we
+should go do
+um
+it's a matter of I think that I pretty
+strongly disagree with many of the
+people who but what will cause the
+outcome but I think the good news is
+we're all aligned on wanting the same
+things and so it's just a matter of
+getting the right plan in place for the
+right people executing it
+um and these kinds of changes are not uh
+startups are all about speed
+um politics and government policy is all
+about consistency
+and so that's that's sort of where my
+focus is just you know keep keep turning
+the wheel last one before I let you go
+what's what's a piece of conventional
+Silicon Valley wisdom that you
+wholeheartedly disagree with or think
+people get wrong
+the the most of the wholehearted wisdom
+in Silicon Valley is 100 correct for
+certain people in certain context and
+100 wrong for other people in other
+contexts and trying to come up with a
+piece of advice that's always wrong is
+like
+pretty hard
+um because like that's you know advice
+is over generalization and so
+it almost always is true in some context
+um what about proportionally gets said
+yeah a lot and like is is should be said
+relatively is usually not right
+um
+oh I I know uh startups hire a players
+startups should not be trying to hire
+any players I mean you can be trying if
+you want you're not you're lying to
+yourself uh you don't know what an a
+player looks like if you did they
+wouldn't work for you
+um you might be an a player because you
+like the founding team like might be a
+players potentially you hope you hope
+you are that's your goal but like and
+you might hire some a players because
+you attract them and they like believe
+in the mission I'm not saying you never
+hire an a player but they think you're
+gonna hire all a players I mean come on
+no you're not that's just like a lie and
+and
+that's okay
+and this idea that you can separate
+people and sort of a players and B
+players anyways I know what people mean
+by it it's like you want to hire like
+the most talented people in the entire
+world but actually what you really want
+to hire are talented people who will
+work hard and believe in the mission and
+who want to work for you
+and like there are a lot of those people
+and you should go hire them
+um and
+uh
+and that that that idea is like a sort
+of toxic Elite idea that like I think I
+just think is ridiculous like that's you
+can't do it and you shouldn't try
+most of the time and then you have
+companies
+um that are on the very very Cutting
+Edge of Technology where
+you better hire pretty much all a
+players you're gonna die and
+you have to hire very slowly Renaissance
+Technologies it's basically Renaissance
+technology is a hedge fund that actually
+hires only like you have to have
+published multiple groundbreaking math
+papers before they'll like they'll hire
+you like in statistics like they're not
+joking around they're actually hiring a
+players it might be the most interesting
+business in the world or at least on a
+very short list yeah yeah and but like
+you're not rentac yeah don't kick
+yourself yeah yeah good well Emmett
+thanks for doing this thank you everyone
+[Music]
+[Applause]
+foreign

@@ -1,0 +1,1086 @@
+[Music]
+hi listeners welcome to no priers today
+we have Ivan Z co-founder and CEO of
+notion the Beloved productivity
+application for notes tasks and
+knowledge base they recently launched an
+AI Q&A interface as well as a calendar
+application we're super excited to have
+Ian thanks for being here again Ivan uh
+we are going to start with the hardest
+question which is what is notion Notions
+always pretty hard to Define because can
+do so many different things um but
+that's also our goal we want to give
+people one tool that they can do their
+most work with for personal user that
+means all your personal notes all the
+planning for a trip for for your wedding
+for business for Enterprise for company
+that means all your documents all your
+task all your issues calendaring
+knowledge basing in one tool um the
+reason we want to do that because just's
+just so much fragmentation in the market
+today we wish like it wouldn't be nice
+as one place to do your most work and
+the our approach here is rather than
+trying to cram all of use cases into one
+product uh what are the underlying
+software building blocks what are the
+Legos that power those use cases can we
+give users those Legos so they can be
+creative with software themselves they
+can create and Tinker their perfect
+workflow for their personal life or for
+their company and none of this is new by
+the way like people back in the
+80s even' 70s tried this kind of
+building blocks approach to software
+we're just trying to take a modern spin
+with cloud and with AI uh to what it's
+like to break the prison of application
+based software it's dramatic to think
+we've been living in a prison of SAS
+fragmentation the last two decades but I
+I do think it's actually um uh you know
+surprising to hear eight points of view
+that is so obvious which is like of
+course we want one tool where the data
+was interconnected why do you think
+people um why do you think more people
+don't try that to have unified tools and
+UniFi data
+underneath I think people try for
+different angles like even fairly
+recently there's this thing called NOCO
+right NOCO is like coming from this kind
+of like power user developer angle of
+wouldn't be nice everybody can modify
+this underlying software they use every
+day that's one angle that it wasn't
+coming from the angle of the the
+knowledge and data wants to be in one
+place right and language model sort of
+give another angle the underlying
+knowledge in the bending space wants to
+be one place wouldn't be nice in one
+place right and the macro is also coming
+from the uh the budget place wouldn't be
+nice rather than pay for five different
+vendors and all C based business just to
+pay one vendor and save some money so
+they have different angles from
+different times um I would say we are
+more come from this kind of computing
+and medium and literacy angle like you
+and me go through school to learn how to
+read and write know English and Chinese
+we spent years to do that we all know
+how to do that the world the same
+MacBook for most people are are very
+rich as I more like a machine to do
+typew writing or watching YouTube uh not
+much more beyond that it's not very
+creative right um wouldn't be more nice
+that more people can use their software
+more creatively right because there's a
+separation be between people who can
+make software and people who use
+software that's why sf's rent is so
+expensive because we're the modern day
+Detroit or Manchester right we're the
+factory of the world um Notions largely
+come from that angle which is the
+original angle we were inspired by early
+Computing Pioneer they thought about
+that angle right they thought about
+Computing could just be like literacy
+one day everybody can do it I guess they
+didn't expect AI might make that even
+give a really interesting twist to it
+because now language model AI can not
+only to create software but also do a
+lot of thinking working for you so the
+future is pretty interesting no so for
+someone who thinks on you know um span
+of like Decades of you know what should
+Computing look like and what were um
+what were the most ambitious plans for
+personal Computing you know uh three
+four decades ago like what are you most
+excited about seeing from AI broadly
+over the next decade I think 34 decad is
+bit too long if AGI happen that time
+like Computing might not be
+necessary for this
+decade I think a one sleeper category is
+the the drag thing embedding space the
+de case might be too long we're saying
+the next next year or two now the
+language model can understand what you
+put into a computer understanding so
+rather than you to the organization to
+make you retrieval retrieve the
+understanding more easily machine can do
+that better than anybody else can right
+so before that uh we use keyword-based
+search where you find your coworker who
+remember that that cue where does that
+information sit now just ask notion Ai
+and you get that in second so that's one
+I'm personally really excited about I
+think not enough people talk about it
+and of course the other one is like the
+agent the workflow side that that's has
+a lot of buzs already so that's
+interesting
+too you and Simon uh you said bet the
+company on AI and are you know have real
+conviction and as you are building out
+the team like um what does the talent
+look like you like have or need to make
+um notion and AI first company and I
+kind of argue you folks are one of the
+earliest adop of AI at scale as an
+application so part of the question in
+some sense is you built so many
+interesting things like what are the
+people that you now need to sort of
+build the next level stuff in addition
+to what you already have on the team in
+early days kind of just Bo Force slim is
+really good thing k a lot of thing and
+learned really quickly right I would say
+notion is a company where largely people
+interested in interface and design a lot
+of full stack front then heavy folks and
+back and people who scale we have
+somewhat a small team of search but we
+don't have too too many ml folks almost
+nothing and in at least my learning our
+learning in the past year or so building
+for AI is okay you m Mo folks
+are important it's kind of like you no
+longer do a this deterministic thing
+that you can see how it works it's
+almost like a I don't bake but feels
+like a baking right you have to like do
+something get the thing ingredients
+ready run through rinse press the button
+and wait for a while and see does it
+come up it's a different way different
+sense of patience and different type of
+personality to do that well a lot of
+massaging a lot of
+preparing my friends call that
+probalistic software engineering kind of
+like I think it's it's morphed into this
+sort of stochastic world or at least
+partially stochastic yeah so one is like
+maybe gardening feels like that way I
+don't Garden either uh so that's
+category people are to to me is pretty
+necessary the other category is like
+people who are curious and learn really
+fast right it's like okay um like the
+group of promp like language prompt
+engineer language model sort of make
+everybody like a a real time machine
+learn learning engineer you just prompt
+write then you can get your stuff right
+and there's a lot of trick and
+techniques uh um and how does that plug
+into user interface uh I think this
+category of people call AI engineer or
+something there's an terminology form
+they tend to be pretty young they tend
+to be like we have someone like under
+drinking age working ocean uh they they
+fit into that bucket and I think both
+seems to work quite well um we don't
+have too many researchers and notion
+that's another one I think uh um will be
+important but we're fundamentally sit in
+the application layer so it's more about
+apply side of things more manipulating
+the models and making sure you can scale
+them to like user outcomes and things
+about that and another part is like the
+scaling part right how do you scale to
+like tens of millions 100 million users
+it's bit it's a problem on its own to
+it's beyond just a demo on Twitter right
+It's Tricky no yeah so you have often
+said that uh notion is less a
+productivity company than an application
+Building Company how do you think about
+the initial use case and like how what
+makes you believe people want to build
+more application I don't think people
+want to build more applications what got
+me started in notion got I started in
+notion it's um last year college I read
+a paper by uh one of the Computing
+Pioneers Douglas angelar and he talked
+about his papers name augmenting human
+intellect so every day we use software
+today is very much like application when
+you go into one application do one thing
+but for that generation of computing
+people in the 60 70 80s computers are a
+lot more software are a lot more
+malleable you can actually Tinker it
+modify right small talk you can go into
+and change the how operating system work
+on the Fly um that really inspired me
+like today people software are so rigid
+can we create a new breed of software
+that people can modify can and can
+change and customize and bring back some
+original esos of those early Computing
+Pioneers that's why we started notion um
+the hard lesson for us is like like you
+mentioned most people don't want to
+create software they don't wake up said
+hey I want to create my perfect project
+management tool my project perfect
+knowledge base they boss ask for
+something they just have to get the work
+done right um so the in some sense our
+learning and pivot is instead of giving
+people those um software building tool
+we have to package the software building
+blocks together as ready to use
+templates as ready to use use cases then
+people can adopt really quickly so you
+were one of the earliest adopters of AI
+in terms of appc with any real scale and
+I think it's impressive how quickly noan
+ended up starting to work in this area
+how do you think about how that impacts
+different aspects of what you built and
+what you're building going forward and
+how does that impact that vision of
+saying okay we have this um this
+effective platform that allows people to
+both interact with uh documents or core
+use cases in simple ways add things like
+calendar but then also go in very
+interesting directions in terms of both
+a set of applications and templates they
+can use yeah I think we're lucky like I
+mentioned we're not trying to build
+specific use cases right we're trying to
+build a Lego bricks that power those use
+cases um what are those Lego bricks text
+editing is a one fundamental Lego bricks
+most software have that piece relational
+database a table is one fundamental Lego
+bricks right um different form of
+permission commenting so we've been
+spent five plus years building those
+Lego bricks and feels like boom AI just
+jumps in almost like a brand new car
+engine and can power those Lego braks in
+brand new ways uh so feels very lucky in
+that way and that because we've been
+building those Lego bricks and refining
+those allow us to ship features uh
+pluging with AI really quickly we one of
+the earlier one to launch AI writing for
+productivity software at scale because
+we've been spent years building a text
+editor uh we can do uh AI power database
+table features really quickly because
+we've been building a relational
+databases um we've been building a
+knowledge base for a long time so we
+launch AI Q&A really quickly fairly
+quickly uh the rack system on top of oce
+because we have those Lego breaks uh so
+in some sense kind of like at just right
+moment right time for us right how did
+you um begin to like resource and
+prioritize this effort because you're
+like ah magic we have this engine it
+applies for our Lego bricks um and then
+he started shipping pretty quickly but I
+think there are a lot of organizations
+right now trying to figure out what to
+do with AI and so you know in terms of
+like designing the features prioritizing
+that effort versus everything you're
+already doing and a rapidly growing
+software company yeah I think I had the
+conviction my co-founder Simon actually
+they all had the conviction um funny
+because we all live in the mission right
+and openi initially still is in the
+mission and uh some of my friends
+especially Simon's friends work at open
+remember we go to their office they
+during the DOTA days they like what is
+this company doing kind of interesting
+and Simon and some people in notion saw
+early that most gpts like what is this
+thing spin out text sometimes gibberish
+sometimes useful
+um I personally I have to admit I slept
+on it on on gpt3 even saw gpt3 feels
+like what is this thing useful for it's
+like yes for marketing for Content
+writing Crea first draft didn't really
+click for me um personally for me was uh
+fortunate enough to start early preview
+gbd4 and that's like oh wow this thing
+can think
+it can reason it can know how to do
+things has this little bit workflow
+power to it that's a big a heart for me
+and like it just give me it personally
+give me so much conviction like this is
+going to change everything if you think
+about what knowledge work is in right
+why do we use software fundamentally SAS
+software is all we all in the same
+information people paper pushing
+activity right it's like a piece of
+paper coming in front of you a
+human like change a couple bits push to
+another human Lang model can do some
+form of this now so uh so that just like
+give me the conviction like this going
+to completely change everything we do
+with a computer and after that we sort
+of just bet the company on it uh like
+we're lucky enough to have those Lego
+breaks and then what come which legal
+breaks can works well with AI which
+doesn't we're trying to figure that out
+who inside a company are good with this
+technology we have search but it's not
+like we don't have a lot of ml folks so
+need to hire more ml folks need to get
+people inside a company to have similar
+convictions so we can move in the same
+direction it's quite interesting it's
+kind of
+like so must dinosaur feels like when
+Astro hit the earth and like what do
+they do there yeah yeah there's a lot of
+change coming for sure it's a lot of
+change yeah what do you think is missing
+from the capability set because to your
+point I think a lot of people weren't
+really thinking about AI too much until
+chat GPT and gp4 came out and there was
+a period of time where three and then
+3.5 and you started to see the
+capabilities incrementing up and
+entirely new businesses are suddenly
+able enabled with each sort of step with
+the next GPT level model you know GPT 5
+or de your point rag adds a lot of
+capabilities what are the biggest
+missing gaps for you to take full
+advantage of this technology is it
+future reasoning is it better uh
+thinking and knowledge like what's the
+yeah I think all about that above to me
+it feels
+like technology is fun we're in the tech
+business technology is fundamentally
+about tradeoffs right it's like the
+plastic can do things that wood cannot
+do and we discover plastic and then we
+figure out new things we can bottle
+water like this before you cannot bottle
+water with a wood table right so um all
+of a sudden we have this thing called
+language model you have a new
+characteristic that deterministic
+software cannot do in the past and and
+we don't really know how it's made fully
+so every month every week if you're on
+Twitter people discover new techniques
+to get more out of this and for
+companies entrepreneurs they're also
+making tra off discover what how the
+market react to this capabilities of
+this new W this new language model and
+so it's a constant evolutional cycle
+happening really really fast right now
+right
+um I think if with that mindset uh what
+are the dimensions um on the technical
+side on the technology side itself yes
+the model gets larger context Windows
+more reasoning better speed smaller
+footprint um those are all great like
+like for
+notion uh to power the work force I
+would really need like we learn like gp4
+is smart a cloud to a Smart we need that
+intelligent to do reasoning or for a
+tech summarization cheap fasts better
+right that's the technology side and in
+my opinion there's so much about human
+behavior as well just like inertia in in
+our personal Behavior companies risk
+tolerance and that's slowly evolving as
+well right like like what Steve Jobs
+always was talk about you cannot make
+something too new you have to be largely
+the same and change one thing and two
+thing right virtual Appo the off white
+guys is like 3% difference just push the
+boundary so people can accept it but
+still also new right to me it feels like
+language model power application are
+kind of in the same pH if it's too
+different people like what do they do
+with it right such alien Behavior it has
+to rag is pretty nice because the larg
+the existing Behavior but better output
+right can you describe the um the Q&A
+product for people who have an
+experience right essentially everything
+you put in
+notion notion help you
+remember right and this is not just
+apply to notion pretty apply to most
+rack systems like why do we use computer
+when you to store things I need to
+recall things before language model and
+rack the recall largely happen based on
+keywords right you the keyword has to be
+precise or there's some lexical Tech
+tricks you can like recall easily um uh
+imprecisely what rack happens language
+model can actually understand what
+you're put into there so you no longer
+need to organize your information in
+notion whatever you throw in there you
+can find it later what that means is for
+a person or for a company for a team you
+can have perfect memory and not only
+have Perfect Memory the the right piece
+of information if we design our software
+right can push to the right person at
+the right time right that's probably
+more than 50% knowledge work right we're
+still perfecting the system I think
+we're one of the first on the market
+that apply a skill we still have a some
+somewhat a waiting list because it's
+hard to do this at scale still um but
+for a company for a team before search
+one of a weaker point but with rack you
+completely change that I changed how I
+use notion I can just ask a question to
+notion like um how large when I removing
+out of the SF office to a new office and
+someone in the company wrote in some
+documents I don't have to Ping five
+different three different people to find
+the answers if it's in notion we'll find
+it for me right um everyday Engineers
+designers operation people just keep
+asking each other on slack or in email
+such a question each question is 10
+minutes writing the answers 20 minutes
+to find answers and there's a delay in
+the Middle with notion Q&A you can
+completely cut that right into in
+seconds we're just at the beginning of
+what rack can do for work it's pretty
+amazing I feel like Rag and edings are
+very under discussed or underappreciated
+in some sense relative to the impact
+they really seem to be having or
+starting to have and I think notion um
+Q&A is a great example of that I guess
+the other thing that you folks just
+launched is calendaring and if you can't
+talk about it or if there's nothing to
+talk about that's fine too but um I feel
+like one of the really interesting
+things that people are talking
+increasingly about is agents and sort of
+the agentic world and there's a lot of
+capabilities missing to really make
+those valuable but in the can context of
+a calendaring application you could
+think of all sorts of ways that having
+AI act on your behalf or help understand
+things can be incredibly valuable and so
+I curious how you think about the
+application of AI relative to calendar
+versus you know some of the core um
+information related things that you just
+talked about maybe we can group AI stuff
+into like at least in my mental model
+it's the rack the knowledge information
+retrieval is one bucket knowledge bucket
+then there is this workflow bucket right
+use the word agent uh um that's in that
+bucket CER somewhat in that bucket um
+why do we need to meet why do we need
+Canada because we need to meet and we
+need to schedule time we need to figure
+out exchange some kind of bits between
+my brain to your brain right um can that
+bit can that exchange be done by a
+language model maybe and can the meeting
+time be done by scheduling be done
+that's like a baby step right um and
+most things we do has this kind of time
+Dimension to it uh can language model
+help us shuffling our schedule yeah it
+feels like there's also the information
+retrieval piece of it because you know
+if my calendar autop populated
+everything I need to know about the
+meeting or the people attending or other
+things that's incredibly valuable as a
+user of a calendar and so I just feel
+like there's a lot of these things that
+kind of tieen together both in terms of
+the coordination which you mentioned and
+the workflow and then separate from that
+there's just what do I know about this
+the calendar part it's the simpler part
+of the workflow like the holy grills
+kind of like can just the agents robots
+do all our knowledge work for us right
+it's a really interesting framing that I
+didn't have before of a bunch of the
+work you're doing at notion actually
+eating into like communication
+right it's it's sort of obvious in
+retrospect but like if you look at what
+you describe like like am I really going
+to slack back and forth about this thing
+about you know when we're moving if I
+can just know I'm in oce help me know or
+with calendaring like you know the most
+intelligent version of it is like well
+do I need to have that meeting or can
+you tell me what I was going to tell me
+I know like why do you need to
+communicate because there's something
+the work cannot be done asynchronously
+or by the software itself right then
+that's why you talk uh
+yeah it's kind of interesting maybe it's
+interesting question like are we kind to
+communicate more or less with language
+model I probably feel it's probably less
+uh uh the agent side essentially bet on
+language model that's the communication
+one question I have for you just going
+back to like the implication of rag and
+like you can be my brain and do my
+Organization for me um like what if my
+brain is really disorganized like do you
+do you think that uh this changes the
+amount of work people should do in
+systems like notion at input right like
+you know should I be designing my
+knowledge base in the same structured
+way or can of just dump it all in stream
+of Consciousness in theut I think
+organization might be we might be moving
+away from the organizational world world
+why do you need to organize because you
+can
+retrieve why do you have index like
+index initially are file cabinets and
+little IND are sitting on top of so you
+can find things quickly right and they
+index based on
+certain uh names or certain Dimensions
+but edding and rag sort you just you
+have in semantically connection of all
+the thing you throw into this file bag
+and you can find bring it out however
+you like so I think we might be moving
+past the need for organization uh that's
+really liberating that means on my phone
+imagine this experience I'll have a new
+idea I see a whiteboard behind me I just
+take a picture or write something dump
+it and notion going to organize for you
+right so that's then that's become my
+perfect memory to start later could be
+my perfect assistant to help me do
+something with this knowledge and that's
+the vision we're moving towards right
+that's super exciting to me so you are
+um this is a question from h m foral
+you've been long time friends with you
+know you are a student of History you
+mentioned duck angelart earlier I know
+um you think about you know the
+transition in terms of like Alan K and
+what he did in terms of simplifying any
+of those concepts for like a broader
+audience around Computing Vernon's
+question was what lessons in history do
+you take that um inform your point of
+view of like how to treat AI strategy
+with notion now like from a prior
+revolution in Computing you know how
+does it help you decide what to
+do a lot is intuition I think understand
+understand history give you a sense of
+History doesn't repeat itself but Rhymes
+so like okay which phase are we in um I
+personally think we're sort of in this
+kind of bundling phase like um um who
+said this like there's only two way to
+do business bundling un bundling right
+and uh actually the during the breakouts
+reading a uh Chinese novel uh Romance of
+three kingdoms and the opening sentence
+of for that it's uh the Empire long
+divided must unite long United must
+divide that's has always been business
+is the same way too right um we're in
+the bundling phase I would say the stas
+it's sort of this unboundly
+fragmentation phase if we Trace back to
+SAS why is SAS happening in the late 2
+mid 2000s before that everything's
+running on Microsoft that was a bundling
+phase early days at PC there's so many
+different applications the first version
+of the the World Star World perfect
+different text editors dbas different
+database software the funny fact of
+dbase is like they start with dbas 2
+because there's so many company go bus
+that it sounds like if they start with
+dbas 2 people has more credibility it
+feels like this this product has been
+around for a while so that's the 80s
+'90s was this kind of bundling phase
+because Microsoft has OS layer on the
+line yeah
+and the sad is because the web becomes
+good enough to run software right then
+so then we have this un bundling phase a
+fragmentation phase and then with the
+the last 10 15 years it easy really the
+money is cheap easy to create company
+there's there's so
+much too much now feels like there's
+like information so fragmented and now
+the new technology happening is AI
+language model and if you build more
+with it or just think more with it
+language model wants information to be
+one place wants the end points to be
+connected so it's easier to is it hard
+enough to at current version of language
+model do do what you want but imagine
+talk with different endpoint that's even
+harder right
+so and so we're in the bundling phase
+because the macro but we're also in the
+bundling phase because language model I
+believe wants the things to be together
+think makes sense I also feel like we're
+in the bundling phase because the nature
+of how Founders think about their
+businesses shifted how so um I think
+that uh it's interesting because I
+remember I don't know 10 years ago I
+used to argue with people about oh you
+should really buy other companies or
+integrate or sort of pull all these
+things together and in consumer that
+actually happened right like Facebook
+bought Instagram and WhatsApp and other
+things and they effectively created like
+a bundle of social products that they
+could cross use in different ways for
+distribution or other things but I feel
+like what happened is we had a series of
+Highly technical Founders because we
+shifted in the Facebook era from Cheryl
+becoming CEO to coo and you went from
+business Centric uh CEO in the 90s in
+some cases although there's people like
+Bill Gates who learned and adopted as
+technologist to very technology and
+product Riven Founders who often thought
+no matter what product I build it always
+has to be better and so I I can't just
+think of distribution as my wedge I need
+to think of every product as being
+Superior and so I'm not going to build
+certain things and now I feel like
+people are both building great products
+as well as bundling them but also
+they're much more aggressive about
+saying it can be 80% is good it could be
+50% is good but I'm going to have a
+bundle and that's HubSpot and that's
+Rippling and they have very high quality
+to their products it's just they realize
+they don't need every single edge case
+and every feature as long as they're
+able to cross sell yeah I think the YC
+school's philosophy of build one thing
+use internet to find the
+distribution that was I think overlap
+quite a bit with the rise of internet
+right and and feels like there's a value
+to create on the other dimension which
+is like you mentioned it doesn't have to
+be as good 90% that's good but because
+the Synergy of things just make a lot
+easier a lot cheaper less tabs you open
+your browser yeah it's all integrated
+you have the information flow or or the
+system of record for whatever thing that
+you're dealing with yeah I think a lot
+of people also just um perhaps lack that
+uh sort of historical context right if
+you look at the strategy of company is
+like horrible right it was very much for
+a decade and a half like a dominant at
+least commercially attitude of like okay
+we're going to buy the second best
+product in this additional software
+category we want to be in and then sell
+the heck out of it worked great right
+actually because um was very hard for
+customers to deploy these things or
+there're just advantages to everything
+being attached to a single database at
+some point and I I do think there is
+some analogy to as you said language
+models because having things in the same
+edting space is very useful very useful
+yeah I think there's bundling of
+distribution and bundling of information
+the what you're describing to me is more
+of Microsoft more like bundling of
+distribution langu wants the bundling of
+data bundling information so I remember
+hearing from Dylan at figma early on
+that there was um one crazy user who was
+in the product like 14 hours a day it
+was you um early on in the uh notion
+Journey um being really design obsessed
+I think the company has a reputation for
+that do you think of notion as like a
+design Centric company and um is it
+important how do you scale
+it I think depends on what you mean by
+design design is to us at least to me
+it's less about how it looks is how the
+system plug together right and then in
+that case the trade off you make do you
+centralize that thing or do you
+decentralize that thing um certain
+company work well or certain business of
+product work well being decentralized
+like operation heavy company could work
+that way and notion like I mentioned
+we're sort of in the bundling business
+our value provided having this one
+information space one works space for
+people do all different kind of things
+so things need to be work well together
+it's almost building notion it feels
+like building an operating system
+building a programming language right
+you don't you don't you don't Farm out
+to like 50 people to design a
+programming language you programming
+language are done by one person so that
+means the design here is very much
+centralized energy so kind of like apple
+how they build OS integrated with their
+hardware and right like what is the
+Apple for software doesn't quite exist
+today right it truly doesn't quite
+exist so that's what I'm interested in
+what we're interested in so in that case
+means to build a good product a good
+customer user experience we need to
+think things more horizontally more
+holistically that means the decision-
+making tend to be centralized in or
+design team or like tend to be
+centralized right so um less like more
+so more Apple like less Amazon like it's
+funny cuz when I first met you it was
+just you starting notion and it before
+you brought on Simon and and you talked
+about things that way even then and I
+felt that one of the reasons I was lucky
+enough to invest or you know I I came on
+board was because you had such a
+cohesive view of how you wanted to build
+software and you had such a cohesive
+design aesthetic and it was your mock
+but it was also how you were dressed and
+how that reflected into the product I
+felt like it was extremely striking you
+know like you're one of a very small
+number of people I've ever seen where
+that design aesthetic has just kind of
+permeated everything in a very cohesive
+way and so that's one of the things that
+got me excited at the time I was like
+wow this is capturing a uh aesthetic
+that could be an incredible product
+platform but you also talked about
+things even then I remember in terms of
+like okay what's the what's the cohesive
+Apple like thing that you can do for
+software things so I think it's kind of
+amazing to see that consistent thread so
+I was just stricken while you were
+talking you know by that yeah thank you
+yeah like I study cognitive system
+cognitive science which is kind of just
+like a degree for everything in some
+sense it's like a little bit philosophy
+a little bit l State computer science I
+learned how to Cod when I was a kid and
+I did a lot of Art and also in school so
+like try not to like there's so many
+things you can steal from all of
+different places right and it's like the
+Bund are sort of man-made
+and in notion was most our designer can
+call majority of 80% of our designer can
+call because the moment you can as a
+designer or as engineer you can Cod or
+you can design you can make really
+interesting tradeoffs right at the end
+of the day Technologies at least in my
+opinion is about trade-offs what kind of
+trade-off you can make that unlock new
+user behaviors that's valuable but if
+you can do more things you can more make
+more interest and trade off the other
+people cannot make as a designer if you
+can code you know how to change your
+design to make easier to build as
+engineer if you can design you can like
+do the same thing almost like squeeze
+the air bubble to whichever direction is
+easier to squeeze right um
+and therefore I think being more
+holistic help at least notion as a
+company energy we're trying to be
+holistic also help our keep our company
+team very small like we're usually one
+of the smallest relative to our business
+scale because people can think can do
+more can be more holistic and people
+enjoy that too because they can do more
+things it doesn't feels like they have
+one role they have to be doing that
+repeatedly has a lot of different
+benefits but it's much harder to find
+such people and important question here
+please so if I think about the first
+office and this may or may not be uh
+true still um no is a no shoes was a no
+shoes place did this contribute to the
+company
+energy I'm Asian so when you go home you
+take off your shoes our first office no
+shoes lasts us to 10ish people second
+office 20ish people no shoes third of us
+no shoes it actually has heated floor so
+even better oh very those all in the
+mission and the fourth office we try to
+do no shoes still in the mission um I
+think I made a wrong choice in the rock
+the rock kind of hard when you it's a h
+based Rock so when you step on it
+without shoes with socks only it's just
+all hurts so we decide not to do no
+shoes at forth office and uh so far has
+been stuck that way yeah P intuition has
+socks and uh slippers at the front so
+that way if you need the padding I know
+but then where the question is like
+where do you store your slippers it
+become stinky like it's aesthetic yes if
+you come to our office it's like we're
+still try to be um not corporate it's
+like they we're trying to use the
+furniture that people use for homes I'm
+pretty picky about what kind of
+furniture is in office like ideally
+designed classic that last 50 plus years
+so Inspire us to build software that way
+right so they made they also made
+trade-offs people who design a chair
+make t they made really interesting
+trade off Force to solve certain
+problems if you know the history of it
+so we try to in the office use good
+software good chairs good lighting so
+this back to the aesthetic point that I
+made earlier I actually felt that in the
+offices as well there's that ongoing
+cohesion even the music I remember I
+think it was in the second office was it
+was always jazz in the background and I
+just felt like it all kind of was this
+consistent Vibe you know so it's pretty
+cool within notion are you using a
+singular um underlying l l or are you at
+this point using multiple different
+things for different use cases you
+mentioned sort of the highle reasoning
+versus the fast Jeep sort of synthesis
+we try everything open air and Tropic um
+are the high-end model
+uh we want reasoning which is we work
+with the high-end model right uh yeah
+it's kind of like everybody building
+different flavors of this MH so yeah
+makes sense and then as you look at um
+it feels like with no there's a set of
+core sort of templates or use cases um
+you know there's things around project
+management there's other types of almost
+like applications that people have built
+to use there's knowledge based related
+stuff there's the things that you
+mentioned um are any of those you feel
+differentially impacted in terms of how
+you think about future AI R map or
+things that you know will really change
+the game dramatically in terms of some
+of these areas yeah I would say rack
+changed all the knowledge say
+fundamentally um you no longer need to
+organize so the notion one of thing
+people love is the life sidebar right
+the life sidebar you can organize your
+knowledge base organize your personal
+workspace maybe the future doesn't have
+to have that like what it's like to um
+you know not fall into your own
+Innovative Dilemma to double down that
+your ex Paradigm but just having a
+notion that you can just dump things and
+retrieve right that's knowledge sty
+that's actually really interesting at a
+high level to think that um everything
+sort of moves to a form of search over
+time move over to search over time like
+you're kind of losing organ you don't
+need to self-organize information
+anymore no in this new world you can
+just create a mechanism to interrogate
+it yeah at least like you you don't
+organize your brain you just dump into
+it then you wake up all you remember
+that thing right so like it's
+interesting some people do like the the
+art of lowkey the art of memory you
+actually or visualize your brain but for
+most people it just works without any
+organization and magically right what is
+like for software we're getting there
+right yeah it's kind of fun are there um
+areas of uh software more broadly that
+you think are outside of notion scope
+that you think are going to change a
+great deal from AI wow
+um in some sense it's kind of a race
+there's like the we're in the B Notions
+in the bundling business where are
+um we are uh we're in the bundling and
+front office business front office my
+definition our definition is what's
+happening in like imagine a 1960s office
+right what's in 1960 office on your desk
+you have a notepad you write on
+something you maybe have a typewriter um
+then you have your binders on the left
+and right to that's essentially the
+notepad is your documents your notes and
+notion your binders of things are like
+your weeky knowledge based in notion and
+behind you will be the file cabinet
+that's your relational datab is in Ocean
+right and you have a little push card to
+put thing into there then there's a back
+office whereas like the Librarians
+organize all the things and that's
+snowflake right that's the back in the
+days IBM we don't touch that uh we
+largely touch our strength like I
+mentioned is software interface UI ux
+which is largely what's in front of the
+human we're trying to bundle in this in
+one space at the same time there's also
+largely back office power use cases they
+tend to be vertic cides specific to
+Health Care specific to some kind of
+workflows very specific by very
+essential to store somewhere and the
+vertical integrate that use cases uh
+that could be aifi too and people in
+fact we see this in law we see this in a
+bunch very specialized thing that people
+have that domain knowledge and trying to
+figure out how do you um instead of
+human shuffling this let language model
+help a lot of that right um the front
+office type of things it's kind of
+open-ended the back office power things
+tend to be specific so I think it will
+be a race but the market is just so
+large and it doesn't it's not Zero Sum
+necessarily maybe you can talk about the
+market as you see it for notion so you
+know when you guys began I think early
+adopter startups were the first to um
+get onto notion for knowledge base um
+you're a much bigger company now we're
+also in a different macro where um you
+know startup budgets are are uh less
+robust like how do you think about the
+Enterprise and helping the Enterprise
+adopt AI or or you know do Knowledge
+Management yeah we're still very uh
+early uh not at scale yet um I would say
+uh bundling in trans do a lot of good
+things one is you don't have to jump
+between different tabs to do things
+second is save your cost right like we
+save a lot of customers bills for their
+project management Tool uh around their
+issue tracking tool and and that's
+Enterprise really care about that it's
+the very CFO friendly today um with this
+macro so yeah spond only has many good
+benefits besides M besides information
+there is also money well Ian I mean this
+conversation has spent so many
+interesting topics thanks so much for
+joining us today thank you yeah great to
+see you good to see you find us on
+Twitter at no prior pod subscribe to our
+YouTube channel if you want to see our
+faces follow the show on Apple podcast
+Spotify or wherever you listen that way
+you get a new episode every week and
+sign up for emails or find transcripts
+for every episode at nopi.com
