@@ -1,0 +1,2002 @@
+[[0]]welcome to the Logan Bartlett show on
+[[3.04]]this episode what you're going here's a
+[[6.4]]conversation I have with Dave aeria Dave
+[[11.4]]is the president and CEO of mongod DB
+[[16.04]]his third public company in this
+[[19.72]]conversation Dave and I discussed the
+[[23.92]]importance of hiring how to build an A+
+[[28.48]]culture the power of self-awareness and
+[[32.8]]Dave's take on artificial intelligence
+[[36.72]]as well as the New York Tech scene a
+[[40.72]]really fun conversation with one of the
+[[45.48]]absolute best operators in Tech as a
+[[50.32]]reminder we do not do advertising on the
+[[54.48]]show but we would like for you to
+[[58.32]]subscribe to to this on whatever channel
+[[62.04]]that you're listening to us on now
+[[65.46]]without further Ado here's
+[[69.86]][Music]
+[[75.2]]Dave Dave thanks for doing this my
+[[79.84]]pleasure great to be here so I want to
+[[83.64]]start out in the midpoint of I guess
+[[87.24]]your professional career which is you
+[[91.88]]taking the job at mongod DB so
+[[97.12]]today it's a juggernaut I think everyone
+[[101.16]]knows it in the public markets but at
+[[105.8]]the time of you taking the job it wasn't
+[[111.56]]quite the Juggernaut it is today um what
+[[118.44]]did you see in the business at that time
+[[124.92]]that made you say hey this is a job that
+[[130.68]]I want to do well um first of all um
+[[136.32]]whenever you get a call for a CEO role
+[[140.36]]the first question I you know trained
+[[143.68]]myself to ask is what's wrong because no
+[[146.68]]one makes coo change with things are
+[[150.04]]going perfectly well and there were
+[[154.52]]number you know when you uh help help uh
+[[158.68]]you know have a successful outcome and
+[[161.8]]make investors money invariably you get
+[[165.96]]called for other roles and uh I
+[[170.16]]typically said no to a bunch of them
+[[173.88]]because PRS were quite endemic and the
+[[177.16]]companies that they had as me to
+[[181.16]]consider leading um I had been a VC for
+[[186.72]]a while for a couple years um and I had
+[[190.88]]looked at the Next Generation database
+[[193.48]]space and actually I looked at some
+[[197.6]]competing Investments to Mong B I ended
+[[201.92]]up passing those Investments because
+[[204.68]]when I did my diligence and again this
+[[208.76]]is a lot smaller scale mongodb still
+[[213.12]]seemed ahead of everyone else in terms
+[[217.0]]of developer me momentum mind share and
+[[221.72]]even commercial traction so when I got
+[[226.24]]the call I was intrigued and frankly one
+[[229.32]]of the questions I thought to myself
+[[232.08]]maybe I have a chance to invest in
+[[235.88]]mongodb and then when I met with with
+[[239.88]]the uh board and some members of the
+[[244.48]]executive team and the founders um what
+[[250.64]]I saw was uh that uh the product team
+[[256.4]]was in pretty good shape but I was
+[[261.36]]dismayed at uh their goto Market efforts
+[[265.36]]and was a little underwhelmed with the
+[[268.72]]leadership that was in place and I
+[[272.2]]thought to myself normally that would
+[[275.32]]scare people but I thought to myself if
+[[279.28]]this company is the head of the pack and
+[[284.12]]it's clearly got at best a B Team
+[[289.32]]imagine what would happen if an A Team
+[[294.2]]came in and so as I thought about that I
+[[298.44]]got more and more conviction and I
+[[302.64]]decided to take the role and uh that's
+[[307.12]]why I ended up here when you came in you
+[[312.4]]can't do it all at once you can't change
+[[317.72]]everything uh the second you come in
+[[321.88]]what were the first things that you went
+[[325.6]]about changing yeah that's a really good
+[[329.16]]point because anyone is trying to be a
+[[333.6]]change agent you can't um try and fix
+[[337.96]]everything all at once because you'll
+[[341.64]]just fail so you have to sequence things
+[[344.96]]in terms of what you need to fix Now
+[[348.6]]versus later so I took the approach of
+[[352.44]]starting with a customer and working
+[[356.2]]backwards into the core product um
+[[360.28]]because I Minds told me that the go to
+[[365.6]]market organization was not very good um
+[[371.04]]and kindly quite dysfunctional I
+[[375.08]]remember I hadn't actually started and I
+[[378.6]]got a call saying hey we have this
+[[382.52]]important meeting with a with a customer
+[[387.52]]a senior executive at Verizon and so I
+[[391.56]]said would you mind taking a you know a
+[[394.52]]call because they're trying to set you
+[[397.08]]up when you join to meet with this
+[[400.92]]customer so sure I happy to and so I'm
+[[406.68]]on the a call with this account team and
+[[411.96]]I could tell like uh the account team
+[[415.88]]didn't really the leader of the team
+[[418.84]]didn't really have all the facts so I've
+[[421.68]]starting to ask the rep more and more
+[[425.44]]specific questions and finally I asked
+[[429.28]]the rep so where are you based I said
+[[432.28]]maybe you know we can just meet for
+[[435.44]]coffee just to get a little more detail
+[[438.32]]just so I could have a one-onone
+[[441.28]]conversation with him and he said he's
+[[446.64]]based in Atlanta I said how can a rep
+[[451.8]]who's covering Verizon be based in
+[[456.52]]Atlanta so that was one of many examples
+[[461.24]]of of what I saw so was some of the
+[[465.96]]dysfunction at mang DB so I started
+[[470.76]]basically working from the customer
+[[475.64]]backwards and I said as I fix the go to
+[[480.0]]market and in particular sales
+[[483.32]]organization then the Fidelity of the
+[[487.32]]feedback I get on product will be that
+[[490.76]]much more clear then I'll know what
+[[493.68]]exactly I need to fix on the product
+[[498.12]]side so me methodically we basically
+[[502.72]]actually in my first 90 days we did a
+[[506.96]]big rip of a bunch of the salespeople
+[[512.0]]because they just weren't very good uh
+[[517.08]]and the track record also showed that uh
+[[521.84]]then I brought in a new cro I brought a
+[[527.16]]new CMO and then nine months later after
+[[532.32]]I started I brought a new CFO so the
+[[536.76]]core Atomic unit of the product was
+[[541.92]]mostly working well and you had to make
+[[546.84]]some changes along the way to make sure
+[[550.92]]the product had the right Fidelity yeah
+[[555.36]]so what we realized um and I and I knew
+[[559.36]]this going in was that the read
+[[562.44]]performance for mang was very good but
+[[565.44]]there were some limitations on write
+[[568.28]]performance or people weren't really
+[[572.04]]comfortable for using a MDB for right
+[[576.08]]intensive use cases and we had to fix
+[[580.4]]that and the product teams and
+[[584.12]]Engineering teams were working on
+[[586.76]]rewriting our storage engine but that
+[[590.56]]was a pretty big lift and in the middle
+[[595.44]]of this we got to meet the wire tiger
+[[600.04]]team which is a bunch of X Berkeley DB
+[[604.32]]guys who were very very
+[[609.52]]sophisticated um uh database Architects
+[[614.96]]and Engineers who had 20 plus years in
+[[619.96]]the industry and they had actually had a
+[[624.28]]storage engine that was optimized for
+[[628.4]]both read and write performance and so
+[[632.32]]we got very excited and we were actually
+[[635.36]]worried because some of the customers
+[[639.72]]included AWS and and a few other larger
+[[645.48]]you know uh organizations so we were
+[[651.24]]nervous that that technology and that
+[[656.2]]team could be acquired on under our feet
+[[660.84]]and so we moved pretty quickly the
+[[664.64]]company didn't have a tremendous amount
+[[667.6]]of cash you know even though it raised a
+[[670.36]]lot of capital burned through a lot of
+[[673.28]]capital so we also had to do a a
+[[677.2]]financing at the same time to fund that
+[[681.24]]acquisition uh but we were able to pull
+[[685.48]]that off and then the wire tiger storage
+[[689.52]]engine became the core storage engine
+[[692.88]]for the product which enabled us to
+[[697.0]]really broaden our use case and you know
+[[701.24]]be on the march to be a general purpose
+[[707.16]]platform so this was 2014 2014 2015 and
+[[714.92]]and so you're making plans to go public
+[[720.76]]around this time yet no when I came into
+[[725.68]]the business um the company had raised
+[[729.72]]was actually one of the first unicorns
+[[733.96]]when unicorns were actually rare and uh
+[[739.16]]but that um fund raise was underwritten
+[[743.24]]by a very aggressive operating plan it
+[[746.48]]was clear that the company had no chance
+[[749.44]]of hitting it which is why the board
+[[752.92]]decided to make a CO change and you
+[[758.12]]reset the plan when you came in yes and
+[[763.28]]for people again who are change agents
+[[766.52]]one of the things I also think is very
+[[768.76]]important for people to feel like
+[[772.64]]they're winning and the plan was just so
+[[778.12]]uh uh unattainable the worst thing you
+[[782.72]]can do is you know keep feeling like
+[[786.4]]you're failing so I went to the board
+[[789.6]]and said this plan is not realistic
+[[793.56]]obviously had the benefit of of not the
+[[797.92]]one who actually wrote the original plan
+[[801.12]]and I went back to them and said here's
+[[804.6]]what I think is a more realistic plan
+[[809.88]]the board in their wisdom agreed and
+[[814.96]]then once you have a new plan and then
+[[818.28]]you start beating your numbers all of a
+[[820.96]]sudden you know you start people feeling
+[[824.08]]like they have their Mojo suddenly they
+[[827.04]]feel like they're winners again and you
+[[830.28]]just start building morale and momentum
+[[833.92]]in the business so when you joined how
+[[837.0]]many people were there there there was
+[[840.28]]roughly about 350 people and then with
+[[843.76]]the rift we went down to about 250
+[[847.2]]people wow so so laid off about 100
+[[851.84]]people to come in and then slowly built
+[[858.0]]back up over the course of uh what how
+[[863.0]]long did it take you to get back to 350
+[[866.4]]people or so uh I don't remember exactly
+[[870.28]]but my philosophy in the first phase was
+[[874.12]]just we just had to get our go to market
+[[877.36]]execution sound we had to be able to you
+[[880.56]]know do what we say and say what we do
+[[883.36]]we had to be able to forecast the
+[[886.92]]business be able to then meet and exceed
+[[892.32]]those forecasts we had to rebuild how we
+[[898.16]]actually prosecuted deals you know
+[[902.32]]you've talked to John McMahon about the
+[[906.48]]whole you know sales process at blade
+[[910.52]]logic so I had a lot of experience in
+[[914.52]]that way the first cro was an XL logic
+[[919.72]]PTC guy named Carlos delatori who helped
+[[924.76]]me kind of really restructure and put
+[[930.08]]the basic foundations in place and then
+[[934.72]]lo and behold the business started you
+[[938.48]]know growing very quickly one of the
+[[943.44]]knocks on open source up until that
+[[948.08]]point was that it was very difficult to
+[[951.48]]monetize Red Hat had been the one that
+[[955.88]]had been able to make it and become a
+[[960.12]]big public company but there there
+[[964.48]]weren't a Litany of examples of Open
+[[968.6]]Source companies in the public markets
+[[972.4]]that I've been able to successfully
+[[976.96]]scale in a meaningful way how did you
+[[981.44]]think about that the the trade-off
+[[985.32]]between the ability to monetize the
+[[988.52]]community all of that stuff when you
+[[991.92]]came in it's a great question and
+[[995.56]]frankly when I told my friends and
+[[998.88]]people I trusted I was contemplating
+[[1001.8]]taking this job they thought I was crazy
+[[1004.6]]they said first a database company in
+[[1007.88]]New York that's crazy when was the last
+[[1011.12]]database company that we up up before
+[[1015.0]]you it was 25 years 25 years ago yeah
+[[1020.32]]the second thing was like a um open
+[[1024.8]]source like this you know who's made
+[[1028.52]]money in open source and then just a
+[[1032.44]]database space itself forget about New
+[[1036.32]]York there was a lot of you know next
+[[1039.88]]Generation database companies that died
+[[1043.48]]on the vine trying to be the next big
+[[1047.84]]Oracle killer so all the kind of
+[[1051.56]]conventional wisdom was against that and
+[[1054.48]]the big one what I worried about was how
+[[1057.56]]do we monetize open source because the
+[[1060.8]]traditional open source model is you
+[[1064.04]]have to define the pay wall between
+[[1067.64]]what's free and what's paid for and to
+[[1071.12]]some degree it's a thousan bargain
+[[1074.4]]because if you give away a lot of
+[[1078.04]]features to drive adoption it's very
+[[1081.96]]hard to monetize and if you don't give
+[[1086.0]]away enough features then you don't have
+[[1089.28]]a lot of adoption so there's not a lot
+[[1092.48]]of install base to then go monetized so
+[[1096.44]]you're kind of Trapped In in this fan
+[[1100.76]]bargain one of the things I realized in
+[[1105.64]]actually watching AWS is that they were
+[[1110.72]]monetizing open source as a service
+[[1114.52]]really really well because you're no
+[[1117.92]]longer defining a particular pay you're
+[[1122.32]]defining monetization based on usage so
+[[1126.2]]that fundamentally changed the Paradigm
+[[1129.52]]about how open source technology was to
+[[1134.04]]be used and so essentially we
+[[1138.68]]recognizing that that had to be our
+[[1142.8]]long-term future but you just couldn't
+[[1146.76]]go there overnight now luckily we had
+[[1150.04]]been investing in management tools
+[[1152.76]]because that was the existing way we
+[[1155.84]]were monetizing the technology whatever
+[[1158.84]]the developer needed to build
+[[1161.96]]applications was free but whatever you
+[[1165.56]]needed to kind of mon you know Monitor
+[[1169.24]]and manage and backup your
+[[1173.2]]infrastructure was paid for so we were
+[[1177.24]]starting to build tools which end up
+[[1180.92]]being the ingredients for how we
+[[1184.28]]actually rolled out our cloud service
+[[1188.32]]what came first uh Atlas or the
+[[1193.72]]license change M DB Atlas DB Atlas
+[[1198.72]]so can you talk a little bit about that
+[[1203.16]]you guys were one of the pioneers and
+[[1207.8]]coming out with a cloud first kind of
+[[1213.0]]open core model around that right yes uh
+[[1218.16]]this was pre- snowflake being popular
+[[1222.52]]pre-confluent pre- elastic pre- a bunch
+[[1226.08]]of other companies roll trying to roll
+[[1228.56]]out cloud services a lot of people
+[[1230.84]]thought were crazy a lot of people
+[[1232.96]]thought how is it that you're going to
+[[1236.68]]partner and compete with hyperscalers
+[[1240.36]]because we just didn't have the capital
+[[1243.08]]go build our own data centers and then
+[[1246.32]]trying to get all developers to come to
+[[1249.48]]us we had to leverage the existing
+[[1252.92]]infrastructure that the hyperscalers
+[[1256.84]]have built but they also offer their own
+[[1260.56]]competitive database offerings so a lot
+[[1264.36]]of people are incredibly skeptical one
+[[1267.96]]of the things that changed with rolling
+[[1271.08]]out a cloud service is that we felt we
+[[1274.24]]were really talking to the people who
+[[1277.72]]loved our product because the existing
+[[1281.12]]monetization model was while the
+[[1284.4]]developers adopted mongodb the people
+[[1289.48]]who bought our proprietary uh software
+[[1294.04]]were the Ops folks because they were
+[[1297.92]]trying to solve devops problem they
+[[1302.08]]really viewed mongodb as a relationship
+[[1305.16]]with convenience developers had a
+[[1309.08]]relationship of love so for them it was
+[[1313.52]]just H I guess if we have to deploy mang
+[[1317.16]]I should buy your tools so it's always a
+[[1321.32]]very painful uh engagement with the
+[[1325.6]]customer but once you start dealing with
+[[1328.88]]the development teams and saying you
+[[1331.88]]know you can get out of the a world of
+[[1334.84]]all this undifferentiated labor you
+[[1337.8]]don't have to worry about provisioning
+[[1341.52]]configuring and managing and backing up
+[[1345.08]]your infrastructure we'll take care of
+[[1348.44]]all that for you all you can focus on is
+[[1352.0]]what really is Meaningful to your
+[[1355.16]]business is building amazing apps that
+[[1358.72]]transform your business that suddenly
+[[1363.48]]got people's attention and so what was
+[[1368.04]]also interesting is the launch of Atlas
+[[1371.4]]forced us to build a self serve business
+[[1374.6]]because initially we you know only
+[[1378.8]]offered on sell serve where we basically
+[[1382.88]]you know with a credit card you could go
+[[1386.92]]provision in a cluster at first AWS then
+[[1391.36]]we rolled out it rolled it out to gcp
+[[1396.08]]and Azure and that also enabled us to
+[[1400.68]]start acquiring customers in a much more
+[[1405.44]]frictional way and even today when you
+[[1410.36]]look at the atlas business the majority
+[[1414.0]]of our customers are quote unquote sales
+[[1418.4]]sold but the origin of those customers
+[[1422.96]]the majority of which are still s serve
+[[1426.64]]and that's a very interesting Dynamic
+[[1430.24]]and in some ways a virtuous circle what
+[[1433.6]]was the hardest part about getting that
+[[1437.4]]going was it was it the getting the
+[[1442.12]]sales reps to to sell the product was it
+[[1446.08]]figuring out the pricing model was it
+[[1449.64]]actually building the product itself to
+[[1453.48]]service it the way we framed it was
+[[1457.12]]building a startup with the startup and
+[[1461.4]]then we were very emphatic that this we
+[[1466.84]]could not fail and so from the board on
+[[1472.08]]down this was like a very viewed as a
+[[1476.4]]very strategic imperative and one of the
+[[1479.52]]challenges when you're starting
+[[1482.28]]something small you know when we went
+[[1485.88]]public atas was like one or two% of our
+[[1489.52]]business so the numbers really didn't
+[[1493.28]]matter that much right so consequently
+[[1497.28]]it's very easy to ignore this little
+[[1500.6]]thing you're trying to do when you focus
+[[1503.68]]on the core business so one of the other
+[[1507.28]]things I did was I disproportionately
+[[1511.72]]incentivized the exact team on the
+[[1516.68]]performance of Atlas business uh
+[[1520.92]]disproportionately to the scale of the
+[[1524.0]]atlas business because it was so
+[[1526.4]]important to make sure that they had
+[[1529.6]]mind share the other thing that we also
+[[1532.96]]really focused on was having a clear
+[[1536.44]]single threaded leader who was now was a
+[[1540.16]]guy named sahir ozam was now a chief
+[[1543.72]]product officer he had this unique
+[[1547.76]]ability of being very good on the
+[[1552.16]]product and Technology side but also
+[[1556.2]]really good in front of customers and
+[[1559.56]]and kind of knew how to preach the
+[[1563.76]]gospel of Alice and changing behavior is
+[[1568.28]]hard and looking back now it says wow
+[[1572.24]]this end up being a great success but
+[[1575.84]]like any success story when you zoom
+[[1579.32]]into the up into the right line there's
+[[1583.64]]a lot of jagged edges and in getting the
+[[1587.76]]Salesforce to change Behavior because
+[[1591.68]]they they knew how to sell the on-prem
+[[1596.36]]product and recognizing that your
+[[1600.4]]primary customer is no longer the Ops
+[[1604.0]]person but now it's the development team
+[[1607.36]]getting to understand you have to sell
+[[1611.52]]the total cost of ownership that um
+[[1615.76]]getting to understand what is the true
+[[1619.4]]value proposition of a cloud service
+[[1623.76]]takes time and you just got to be you
+[[1628.52]]know maniacal about that execution and
+[[1634.36]]just constantly train and enable U the
+[[1639.44]]Salesforce to do that and that takes
+[[1642.56]]that that just didn't happen overnight
+[[1645.72]]so we start with C serve then we
+[[1649.48]]migrated to kind of the SB space and
+[[1654.0]]high-tech organizations who were more
+[[1658.88]]inclined to use Atlas and then later we
+[[1663.0]]went into the high end of the Enterprise
+[[1667.24]]segment were you spiffing the Reps
+[[1671.4]]because I assume the dollars between
+[[1675.32]]each the long-term of Cloud Atlas and
+[[1678.92]]obviously the equity value it's created
+[[1682.48]]has been pretty significant but the
+[[1687.2]]dollars UPF front of selling on
+[[1691.72]]Prem I assume had to be more is that how
+[[1695.28]]you kind of did the incentive alignment
+[[1698.56]]um it was similar in the early days
+[[1702.0]]because we paid sales people on
+[[1706.64]]commitments on ACV uh but but over time
+[[1711.12]]we realized that was a mistake with a
+[[1714.68]]cloud business because a lot of the apps
+[[1719.2]]being rolled on Atlas were new apps and
+[[1723.4]]so customer didn't really know how much
+[[1726.48]]would the consumption be how big would
+[[1729.72]]the app grow how many users would it
+[[1733.8]]have how much data would be consumed and
+[[1738.56]]so there's this lot of friction to force
+[[1742.92]]a customer to Comm into a commitment
+[[1747.48]]prematurely so over time we changed
+[[1753.12]]incentives to encourage um customers
+[[1758.52]]just to get on Atlas and then once they
+[[1762.88]]felt like they had Clarity on the growth
+[[1766.36]]projectory then they could come back and
+[[1769.16]]get a better discount based on some
+[[1771.96]]volume commitment and we've constantly
+[[1775.6]]iterated on that you know sales
+[[1780.28]]incentive in fact now over the last four
+[[1785.48]]or five years has changed all the way to
+[[1790.36]]where we're all in on consumption but it
+[[1795.44]]started by a more traditional incentive
+[[1800.28]]mindset were you worried at all about
+[[1804.68]]cannibalizing the existing business or
+[[1808.4]]was it clear that this is just going to
+[[1811.28]]be the long-term future when you came in
+[[1814.04]]there was a little bit of worry but it
+[[1816.76]]was clear like our business wasn't that
+[[1819.56]]big that we had this like large
+[[1822.28]]installed base I mean remember I joined
+[[1824.92]]the company when there was about 30
+[[1828.44]]million Revenue when we filed our S1 we
+[[1832.64]]were doing a little over 100 million
+[[1836.92]]revenue and so it was not a huge
+[[1841.44]]business and obviously today now we're
+[[1845.44]]roughly about a$ 1.7 billion run rate
+[[1849.44]]that's wild now now the other big change
+[[1852.84]]I think that was notable that you guys
+[[1856.4]]helped High year was a license shift and
+[[1860.96]]so for people that aren't uh nerds in
+[[1865.68]]the open source uh world can you maybe
+[[1870.36]]talk through the difference between agpl
+[[1876.0]]and sspl and what was a fairly
+[[1881.96]]controversial decision at at the time
+[[1886.48]]and how you went about making that right
+[[1890.76]]so um when you looked at what the cloud
+[[1895.28]]providers were doing um what what they
+[[1899.04]]were doing was basically taking the free
+[[1903.28]]versions of very popular open source
+[[1908.84]]projects MySQL and a bunch of other
+[[1914.36]]examp postgress Etc and basically
+[[1918.52]]plugging those Technologies into their
+[[1922.08]]cloud and offering as a service and they
+[[1926.0]]were making money Handover fist this is
+[[1930.24]]Amazon and Microsoft and Google and all
+[[1935.6]]them are correct and so um what we were
+[[1940.56]]concerned about was that the the
+[[1944.52]]hyperscalers or someone else might do
+[[1948.16]]the same with us what what people in the
+[[1953.04]]industry call strip mining and agpl has
+[[1957.32]]more
+[[1960.92]]restrictions uh than say GPL or the
+[[1966.44]]Apache license but there's still some
+[[1971.12]]ambiguity in the language and what we
+[[1974.92]]said is we' got the sense is as our
+[[1979.32]]success started to take off we got the
+[[1982.92]]sense you know what someone's going to
+[[1988.4]]try and test how how um strictest
+[[1994.76]]licenses and we didn't want to find
+[[1998.92]]ourselves litigating this in court so we
+[[2002.64]]made the decision that we need to come
+[[2006.4]]out with our own proprietary license
+[[2010.36]]which adhered to all the principles of
+[[2014.2]]Open Source you know you can have access
+[[2017.88]]to the source code you could modify the
+[[2021.6]]code you could obviously distribute the
+[[2026.48]]code but what you couldn't do or if you
+[[2031.28]]decided to do was to offer mongodb as a
+[[2035.2]]service you you had to open source all
+[[2038.64]]the extensions you made to mongodb as
+[[2041.56]]well as all the underline infrastructure
+[[2044.72]]to offer that service and we said that
+[[2048.32]]seems very reasonable because if you
+[[2051.44]]choose to do that you just need to give
+[[2055.36]]it back to the community it was candidly
+[[2060.32]]a quite a contentious discussion we
+[[2064.88]]tried to socialize this and get the OSI
+[[2068.96]]which was the body that approves open
+[[2072.6]]source licenses and they were up in arms
+[[2076.84]]and said we don't this is not real open
+[[2081.08]]source and a lot of people said oh my
+[[2084.68]]God we might risk our adoption because
+[[2089.32]]mangadu is quite popular and U our
+[[2093.64]]adoption might dry out because people
+[[2096.76]]will not want to use the non-sanctioned
+[[2101.36]]open- source product and I thought about
+[[2106.68]]this problem and I thought to myself if
+[[2111.84]]you're a developer in Shanghai or Mumbai
+[[2118.44]]or Pao Alto or New York yes so long as
+[[2124.24]]it you know has remained consistent to
+[[2127.76]]the open source principles are you
+[[2130.68]]really going to care that much whether
+[[2134.36]]or not it's an OSI sanction license
+[[2138.8]]versus a license that enables you to do
+[[2142.76]]what you want to do but more importantly
+[[2146.12]]the product is the best product to solve
+[[2148.64]]the problem that you're trying to
+[[2152.4]]address and the BET was that develop ERS
+[[2157.44]]wouldn't care about this and uh and
+[[2161.24]]ultimately that bet that paid off but
+[[2164.0]]there were definitely some nashing of
+[[2167.4]]teeth when we made that decision and now
+[[2171.52]]a lot of people have followed suit or
+[[2176.68]]other people's using actually L people
+[[2182.28]]have used SSP there's a dur called BSL
+[[2186.32]]which kind of was inspiration based on
+[[2190.12]]SSL where there's more protections
+[[2194.28]]around people strip mining open source
+[[2198.04]]technology which is basically I mean one
+[[2202.72]]of the beauties of Open Source is uh is
+[[2207.24]]that it allows for distribution it
+[[2210.24]]allows people to use it for their own
+[[2213.44]]intent if they want to service they want
+[[2217.48]]to use it how however they see fit but
+[[2221.88]]if you want to commercially use the
+[[2225.56]]product you have to be willing to give
+[[2229.4]]back and so the the the only people this
+[[2233.52]]is really hurting I think are the big
+[[2236.96]]cloud providers that are trying to offer
+[[2240.04]]it as their own is that fair or or
+[[2242.76]]Regional Cloud providers who also want
+[[2246.2]]to do something like that yeah and our
+[[2249.92]]belief was that when you think about
+[[2252.6]]what's important for the end user the
+[[2255.36]]end users are not going to care so it's
+[[2258.88]]only people who have um mercenary
+[[2262.08]]interests are going to you know be
+[[2265.04]]annoyed about this so so that that
+[[2268.92]]doesn't bother us and what you know the
+[[2272.88]]whole strategy was we want to benefit
+[[2277.04]]from the virality and the distribution
+[[2282.12]]of Open Source while building a moat
+[[2286.36]]like a typical software company and
+[[2289.44]]that's essentially what's our strategy
+[[2293.28]]and ultimately that strategy has paid
+[[2297.72]]off and this has allowed a lot of Open
+[[2302.44]]Source open core businesses to now
+[[2307.2]]actually monetize and be able to build
+[[2311.12]]themselves into big companies as well
+[[2314.8]]exactly owners shift gears a little bit
+[[2318.6]]is this your third or fourth company as
+[[2322.76]]CEO third third company as CEO third
+[[2327.0]]public company as well right what do you
+[[2331.28]]view as the job of the CEO um I think
+[[2334.76]]there's different definitions for
+[[2337.88]]different types of cosos U in my
+[[2342.84]]definition and I'll give Mark mlin from
+[[2348.16]]uh the Old Co at paal networks he kind
+[[2353.28]]of informed my my thinking around what a
+[[2358.6]]CO should do and the basic point is that
+[[2362.56]]I can do a thousand things like I can do
+[[2366.04]]this podcast I you know I do a lot of
+[[2370.36]]customer meetings I do a lot of employee
+[[2374.8]]meetings I do review cor have corly
+[[2379.8]]review sessions and qbrs to reviews to
+[[2385.36]]attend sales forecast reviews Etc but if
+[[2390.72]]I don't do three things well and I do
+[[2396.28]]another 997 things well I failed and
+[[2400.88]]what are those three things first what
+[[2404.44]]is a company strategy what are we trying
+[[2408.2]]to do where are we trying to go and how
+[[2412.36]]are we trying to get there two do I have
+[[2416.36]]the right people especially at the
+[[2420.2]]executive level to go execute on that
+[[2425.72]]strategy and three um have I removed all
+[[2431.6]]the obstacles whether it's resourcing
+[[2436.0]]whether it's culture whether it's
+[[2439.72]]organizational alignment to make sure
+[[2443.0]]that we can actually are set up for
+[[2446.56]]Success so I can do all those other
+[[2450.12]]things but I don't do those three things
+[[2454.28]]well in my mind I failed and so to me
+[[2458.6]]that's essentially what I think is
+[[2462.44]]intrinsic to my job at some level being
+[[2467.16]]CEO also means being like a super head
+[[2472.0]]of HR and recruiting talent and being
+[[2476.08]]able to get people within the Y how do
+[[2481.56]]you think about uh that and and managing
+[[2488.04]]a team as a core component well I tell
+[[2493.76]]my team and I tell actually um everyone
+[[2498.16]]in the company we're not in the database
+[[2500.92]]business we're not software business
+[[2503.64]]we're in the people business because
+[[2507.32]]people are the means to uh to an end to
+[[2511.96]]everything and invariably all the the
+[[2515.68]]issues we're dealing with you know
+[[2519.0]]what's going well what's going sideways
+[[2523.16]]what's going really poorly is all tied
+[[2527.48]]to people in fact I had an offsite with
+[[2531.2]]the leadership team a couple weeks ago
+[[2534.68]]and I I did a review of all the projects
+[[2538.24]]that we've done really well and all the
+[[2541.68]]projects that have struggled and what
+[[2545.64]]was the root cause of those is that we
+[[2550.24]]didn't have what we call the right dri
+[[2554.76]]the directly responsible individual who
+[[2558.6]]had the skills and experience to either
+[[2563.08]]lead those projects or in some cases it
+[[2567.88]]wasn't clear who the drri was so there
+[[2572.72]]were shared accountability and Jeff bzo
+[[2576.96]]says if you want something to something
+[[2580.36]]to fail make it their part-time job and
+[[2584.8]]so to me having the right people in the
+[[2588.88]]right roles is so critical to everything
+[[2592.0]]and so a lot of people and a lot of
+[[2595.96]]organizations have this aspiration I
+[[2601.12]]want to do X I want to go y That's the
+[[2605.76]]easy part it's the day and day out
+[[2610.2]]blocking and tackling of you know having
+[[2614.52]]the right team focusing on what good
+[[2619.2]]looks like measuring progress inspecting
+[[2624.12]]deeply on how things are going well
+[[2628.4]]identifying issues whether people issues
+[[2634.0]]alignment issues um other problems and
+[[2639.64]]just you know doing that day in and day
+[[2643.36]]out is what really differentiates
+[[2646.2]]companies that execute well versus
+[[2649.64]]companies who aspired to execute well
+[[2653.76]]but just don't so every strategic
+[[2657.64]]initiative you guys have internally has
+[[2661.88]]a dri that's responsible and accountable
+[[2666.6]]for it yes and and that's a hot button
+[[2670.52]]for me I mean there's times when it's
+[[2673.92]]not clear and we say we need to have
+[[2677.44]]identify the right drri so that'll be
+[[2682.08]]like step one and the the role of drri
+[[2687.92]]is to Define ID I IE what is good look
+[[2693.04]]like and what time frame uh what is a
+[[2697.52]]plan to get there and then what are how
+[[2701.56]]do we measure progress and then
+[[2705.44]]ultimately that person or that
+[[2709.24]]Associated team will then come and
+[[2712.96]]report if it's an important initiative
+[[2716.6]]that will come and report to me and the
+[[2720.16]]exact team on on progress and I would
+[[2723.6]]kindly say we've done those some of
+[[2726.76]]those really well and some of those have
+[[2729.68]]been a little halfhazard and we're
+[[2732.96]]trying to sharpen our execution there to
+[[2736.8]]become even better I've heard you say
+[[2741.12]]early in your career that you viewed uh
+[[2745.8]]you didn't view vulnerability as a
+[[2750.48]]strength uh but now it's it's become
+[[2754.68]]something that that you're you're
+[[2758.24]]proactive about and being willing to say
+[[2761.6]]that you don't know the answer to
+[[2764.64]]something when when that's the case can
+[[2767.8]]you talk a little bit about that yeah I
+[[2770.56]]think uh for people listening you
+[[2772.88]]probably have a lot of Founders and
+[[2775.44]]first-time cosos who are listening to
+[[2778.88]]this podcast and I can tell you that
+[[2783.36]]most people go through massive imposter
+[[2787.8]]syndrome you know the investors wi than
+[[2791.96]]the money now there's a team in place
+[[2796.48]]and you're like holy you know this
+[[2800.8]]is real and if you've never done it
+[[2804.36]]before this it's not like you can
+[[2807.44]]suddenly like suddenly magically learn
+[[2811.16]]everything overnight and so when I was a
+[[2815.52]]first first time Co I felt this enormous
+[[2820.52]]pressure to be the all knowing on every
+[[2824.76]]facet of the business whether it's
+[[2831.04]]product marketing sales Finance Etc and
+[[2837.96]]over time I realized I was really
+[[2841.64]]frustrating my team because I felt like
+[[2844.52]]I had to have my imprint on every
+[[2847.76]]decision and I would micromanage some
+[[2851.88]]decisions or I'd come in over the top
+[[2856.2]]and claim credit to decisions that other
+[[2860.12]]people had already come up with and it
+[[2863.44]]was getting to be dysfunctional I could
+[[2866.32]]sense that I was not being very
+[[2868.68]]effective I could sense I was
+[[2871.32]]frustrating my team and I had an
+[[2875.04]]epiphany one day and said I don't need
+[[2879.36]]to have all the answers what I need to
+[[2883.68]]do is one have the right people around
+[[2888.0]]me and be able to ask good questions and
+[[2892.0]]make sure that the most important things
+[[2896.16]]are being done well and what's
+[[2900.84]]interesting is I also realized like you
+[[2905.6]]know being in a meeting and and being
+[[2909.84]]The Village at meeting is actually very
+[[2913.32]]powerful because if I ask a question
+[[2916.24]]that some people perceive as a dumb
+[[2919.16]]question like hey I don't understand
+[[2922.56]]what you're saying or this doesn't make
+[[2927.0]]sense to me you could see the people in
+[[2931.72]]the room just relax and say thank God
+[[2934.92]]Dave asked that question because I had
+[[2937.4]]the same question but I didn't want to
+[[2940.48]]look stupid in front of my peers by ask
+[[2946.64]]that question and the problem with um um
+[[2953.48]]a lot of what holds people back is shame
+[[2957.36]]right if you think about an Innovative
+[[2960.04]]culture where people want to you know
+[[2963.16]]experiment and by definition it's not an
+[[2966.64]]experiment if you is a guaranteed
+[[2969.56]]success so some experiments are going to
+[[2973.0]]work and some are going to fail and so
+[[2978.08]]if there's a high if if shame is very
+[[2983.68]]toxic in your in your culture then by
+[[2987.4]]definition you're not going to take a
+[[2991.4]]lot of risk and so being more vulnerable
+[[2996.32]]is really a strength because enables
+[[3001.4]]people to to really take more risk talk
+[[3007.08]]about real issues not talk about some
+[[3011.44]]you know High futen stuff deal with
+[[3015.12]]problems as they come and acknowledge
+[[3019.08]]that we don't have all the answers but
+[[3023.24]]together we can get those answers how
+[[3026.68]]does that tie into being a student of
+[[3030.0]]the game and not a master of the game so
+[[3034.32]]that saying comes into um a philosophy
+[[3039.2]]high around leadership which is like as
+[[3043.32]]your leaders you constantly have to
+[[3047.68]]adapt how I was a COO at blade logic in
+[[3053.04]]2001 and how I today two very different
+[[3058.04]]people and I think one of the lessons
+[[3062.08]]I've learned and we've gone through lots
+[[3065.64]]of leadership changes here at mongodb as
+[[3069.92]]we scaled from a $3 million business to
+[[3075.64]]a$ 1.7 billion run rate business is that
+[[3080.48]]the business needs different styles of
+[[3083.48]]leadership at different stages of growth
+[[3087.16]]and you know obviously managing 250
+[[3090.44]]people is very different than managing
+[[3094.76]]close to 5,000 people and when I see
+[[3100.08]]leaders fail is they don't adapt because
+[[3104.44]]they can't and one of the signals for me
+[[3108.56]]and how effective leader is going to be
+[[3112.56]]is can they introspect on what's going
+[[3116.84]]well what they're doing well and also
+[[3121.04]]what's not going well and then can they
+[[3125.04]]act on that introspection a lot of
+[[3128.36]]people can do the first part where they
+[[3132.04]]can introspect but a lot of people just
+[[3137.04]]can't adapt and evolve their style
+[[3140.96]]because they realize the way they were
+[[3144.56]]doing things is just not working anymore
+[[3149.16]]I mean candidly uh right after we went
+[[3155.28]]public I to I part aways with our cro
+[[3161.76]]and so that's a pretty you know if you
+[[3165.76]]think about pretty frightening thought
+[[3168.84]]you're a newly minted public company and
+[[3172.28]]a quarter after you go public you part
+[[3175.44]]ways through the C and I became the
+[[3179.68]]interm cro until promoting our existing
+[[3184.2]]cro was Cedric pesh who was running
+[[3187.52]]Europe at the time and he's done a
+[[3192.6]]fabulous job but one of the reasons is
+[[3197.88]]that leaders just can't adapt as the
+[[3202.36]]business is growing and so uh and so
+[[3206.68]]being a student of the game is meaning
+[[3210.64]]that you're very curious and you're also
+[[3214.68]]very coachable right but you're curious
+[[3218.48]]because I want to understand what I'm
+[[3222.48]]doing well what more I need to do how I
+[[3226.88]]need to adapt to different situations
+[[3233.0]]domains you know and and experiences and
+[[3239.32]]then have the mindset that I constantly
+[[3243.36]]have to learn and grow how does
+[[3246.96]]self-awareness tie into that and also
+[[3251.8]]the the Steve walsky two circles Point
+[[3256.6]]yeah yeah so uh so for those people
+[[3260.44]]trying to figure out what that meant was
+[[3263.84]]I remember I was having a discussion
+[[3267.08]]with Steve walsky who was uh the
+[[3273.28]]chairman CE PTC and um Mentor viewers on
+[[3279.96]]yeah so when I Jo when I started BL
+[[3283.36]]logic I never worked at a software
+[[3286.36]]company and obviously i' never been a
+[[3289.92]]CEO of a software company so I very was
+[[3294.2]]very clear that I have a lot to learn so
+[[3297.92]]I went to my board and said who's the
+[[3301.32]]best softare seer in Boston and they all
+[[3305.24]]said this guy named Steve wski they said
+[[3308.64]]yeah but he eats nails for breakfast
+[[3311.72]]here's the number but good luck so I
+[[3315.2]]kept pounding the phone either every
+[[3318.28]]week or every other week finally he
+[[3322.0]]returned my call I met with him and for
+[[3326.0]]some reason we clicked and he decided
+[[3329.12]]first to be an adviser then later became
+[[3332.04]]a board member and then ultimately
+[[3335.88]]chairman of Blade logic so one day we're
+[[3339.96]]in you know having a debate discussion
+[[3343.84]]about a person and then he he went to
+[[3347.84]]the Whiteboard and draw two concentric
+[[3351.6]]circles and he says Dave this is the
+[[3355.0]]meaning of life and I looked at those
+[[3358.12]]two concerts I was like Target what's he
+[[3362.16]]talking about and he goes what he said
+[[3366.8]]was the Outer Circle is how people
+[[3371.84]]believe they really are who they are the
+[[3376.68]]inner circle is really who they are and
+[[3380.44]]the point he was saying was that people
+[[3383.64]]always have an overinflated opinion of
+[[3387.16]]themselves now it's fine because there's
+[[3390.8]]always going to be some gap between your
+[[3394.56]]own self perception versus what other
+[[3398.68]]perceive of you but when that Gap is
+[[3402.96]]really wide that's when real damage can
+[[3407.52]]be done and um you know one of John
+[[3411.84]]mcmah who I worked with on a couple
+[[3416.04]]companies one of his best lines in terms
+[[3420.76]]of assessing how self-aware someone is
+[[3425.08]]is he ask people what do you think
+[[3428.36]]people say about you when you leave the
+[[3432.52]]room and the most self-aware people can
+[[3437.08]]be quite on point about what
+[[3440.32]]acknowledging the strengths and weakness
+[[3444.88]]is the most self unaware people have no
+[[3449.64]]clue they just have a completely
+[[3453.36]]different picture of who they are and
+[[3457.08]]what I found is that the best leaders
+[[3460.92]]are incredibly self-aware why because
+[[3465.0]]they can read the room they can see what
+[[3468.56]]messages are landing what messages are
+[[3471.48]]not how they have to adapt their Stu
+[[3474.96]]style maybe eight out of 10 people are
+[[3478.64]]bought in but there's two people who
+[[3482.44]]look pretty grumpy are not happy so he
+[[3486.28]]or she knows that they need to go talk
+[[3489.24]]to those two people to figure out what's
+[[3493.68]]going on with them and also also
+[[3497.72]]understand their own biases what
+[[3502.08]]triggers them um and also um what they
+[[3508.32]]may kind of have uh blind spots to and
+[[3513.56]]so being self-aware is incredibly
+[[3517.92]]important to Be an Effective leader hey
+[[3521.76]]guys Rashad here I'm the producer of the
+[[3525.36]]Logan Bartlett show and wanted to take a
+[[3529.64]]quick second to make an Ask we are close
+[[3534.4]]to 10,000 subscribers and are trying to
+[[3538.28]]get there by the end of the year if
+[[3541.76]]you're enjoying this conversation and
+[[3545.16]]these episodes please consider
+[[3548.6]]subscribing to the YouTube channel now
+[[3552.88]]back to the show I've heard from people
+[[3556.88]]that you work with and even impr prep
+[[3561.08]]before this that you all have built a
+[[3566.2]]very transparent culture here how do you
+[[3570.84]]go about building transparency within
+[[3575.0]]the culture and honesty and all I think
+[[3578.72]]it's also tied to vulnerability one of
+[[3582.52]]my pet peeves I started off my career at
+[[3586.24]]at a large I start I came out
+[[3589.76]]engineering school I went to AT&T in
+[[3595.16]]Bell Division and AT&T had some amazing
+[[3600.24]]people but what the culture there was
+[[3603.4]]very passive aggressive and it's quite
+[[3607.24]]endemic when BL logic acquired by BMC
+[[3610.96]]the culture there was very passive
+[[3614.16]]aggressive and to me passive
+[[3617.76]]aggressiveness is a form of duplicity
+[[3621.2]]you know imagine you're in a meeting the
+[[3624.6]]senior leaders running the meeting
+[[3627.8]]you're they're debating And discussing
+[[3630.68]]the topic the senior says I think we
+[[3633.92]]should do this and everyone nods
+[[3637.08]]politely say yes that's the right thing
+[[3640.36]]to do the meeting ends everyone walks
+[[3644.52]]out of the theuh conference room and
+[[3647.88]]then they roll their eyes and say
+[[3651.48]]that'll never work that to me is a form
+[[3655.84]]of passive aggressiveness like I want to
+[[3659.12]]create a culture where we can have
+[[3662.48]]Fierce conversations and debates
+[[3666.36]]constructively about what to do and what
+[[3670.32]]not to do but at the end of the day the
+[[3673.96]]best idea wins not the most senior
+[[3677.56]]leaders idea wins right and that is
+[[3681.28]]amazing because it creates a culture of
+[[3685.52]]meritocracy so no matter who you are if
+[[3690.32]]you have you know an Insight that you
+[[3694.4]]think is incredibly valuable you should
+[[3698.8]]feel comfortable sharing it and and and
+[[3703.4]]people will buy in if they think that
+[[3708.48]]that idea has Merit and so um so that's
+[[3714.08]]super important and also transparency
+[[3719.12]]also means talking about the bad stuff a
+[[3723.28]]lot of companies and actually when I got
+[[3727.0]]here the joke was the management team
+[[3730.44]]before me would only talk about good
+[[3733.76]]things would never talk about bad things
+[[3737.16]]and I always found when I was a younger
+[[3739.92]]employee that it insulted my
+[[3743.8]]intelligence when senior leaders kind of
+[[3748.88]]basically um you know communicated in a
+[[3753.04]]propaganda kind of way like I was like
+[[3756.52]]okay come on that's not really true and
+[[3759.88]]I think most people can see right
+[[3763.48]]through you and so I always felt it's
+[[3767.68]]really important to build credibility is
+[[3771.52]]to really talk about both what's going
+[[3774.68]]well and what the real issues and
+[[3777.36]]problems are in the business and how are
+[[3780.36]]we going to talk about them because once
+[[3783.36]]what was interesting and I do that with
+[[3786.64]]the board as well and I Mentor younger
+[[3790.52]]CR saying when you tell a experienced
+[[3793.76]]board member that everything is going
+[[3797.2]]fabulously well they either will
+[[3800.56]]immedately think one of two things
+[[3803.12]]either you don't know what you don't
+[[3806.12]]know or you're lying to them because
+[[3809.48]]every company even the best run
+[[3812.8]]companies have something blowing up
+[[3816.52]]somewhere right and so I start my
+[[3820.0]]meetings always talking about problems
+[[3823.28]]here's the issues and challenges I'm
+[[3827.12]]struggling with here's what's going on
+[[3831.28]]Team Dynamics here's you know people I'm
+[[3835.8]]worried about um you know when the team
+[[3839.84]]comes in this is where I encourage you
+[[3843.56]]to probe blah blah blah and what's
+[[3848.48]]interesting is the more um my commitment
+[[3852.92]]to the board is they will typically
+[[3857.44]]never hear any bad news uh you know um
+[[3861.6]]they'll typically hear bad news from me
+[[3865.12]]first what it does is it disarms the
+[[3868.88]]board because the board never feels like
+[[3871.88]]I'm trying to hide information and then
+[[3875.36]]they're leaning in to help me and in
+[[3878.8]]fact the board has commented I give them
+[[3882.32]]a lot of access to people multiple
+[[3886.0]]levels below me so I have teams come in
+[[3888.76]]based on say we're talking about a
+[[3891.72]]particular project or particular
+[[3895.2]]function so they love that they have
+[[3899.48]]visibility many levels layers into the
+[[3904.32]]organization for you know one more
+[[3908.92]]transparency two they can see this the
+[[3913.84]]depth of our bench and get a sense of
+[[3918.56]]you know the culture that we have and I
+[[3923.28]]find that incredibly powerful I spoke to
+[[3927.4]]one of your former board members and he
+[[3932.4]]said that uh you are one of the best
+[[3938.76]]people he's ever worked with on doing
+[[3943.4]]what you say you're going to do and
+[[3946.76]]holding people accountable so that they
+[[3950.6]]actually execute on whatever said is
+[[3954.24]]actually going to be done how do you go
+[[3956.8]]about building a culture of
+[[3959.56]]accountability and actually making sure
+[[3962.68]]people follow through and what they say
+[[3966.12]]they're going to do um this is tied to
+[[3969.84]]something else I always believe bad news
+[[3973.28]]travels very slowly up the organization
+[[3976.92]]but very quickly down the organization
+[[3980.28]]good news will find me anywhere I could
+[[3983.32]]be in a beach in the sou of France I
+[[3987.4]]could be in in Hawaii or Tahiti and good
+[[3992.08]]news will find me and but bad news I
+[[3996.88]]have to go looking for and so whenever I
+[[4001.4]]hear bad news I assume me assume two
+[[4006.12]]things one I'm the last to know and two
+[[4010.04]]it's far worse than what people are
+[[4012.72]]telling me because invariably people
+[[4016.84]]always modify or shave a little bit of
+[[4021.0]]the truth to be a little bit more
+[[4024.84]]diplomatic and in you know in a simple
+[[4029.4]]example would be um you have you have a
+[[4033.68]]customer who's starting to throw you out
+[[4037.92]]the sales team tells their the sales
+[[4042.84]]manager we have a problem at AC company
+[[4047.16]]you know over multiple layers the way it
+[[4049.92]]comes to me is so we're deal we're
+[[4052.76]]dealing with a slight problem in Acme
+[[4055.56]]company but then two months later the
+[[4058.48]]customer turns and you're like how the
+[[4062.2]]heck did that happen now we don't do
+[[4065.4]]that here but that's an example of what
+[[4069.36]]happens in most companies so we try to
+[[4074.8]]really encourage sharing of bad news and
+[[4080.92]]we try uh not to shoot the messenger
+[[4085.56]]sometimes we're you know some people not
+[[4088.44]]good at that but that's really important
+[[4091.56]]because you can't get people to share
+[[4094.2]]bad news that feel like they're going to
+[[4097.6]]get punished for it and then what that
+[[4101.92]]also does is that it it elevates
+[[4106.36]]problems quickly and I always believe
+[[4110.96]]that people don't perform always per
+[[4114.6]]perform to what you expect they perform
+[[4117.44]]to what you inspect so if you have a
+[[4120.96]]high culture of inspection how's this
+[[4124.76]]project going what's happening the
+[[4128.12]]forecast what's happening with that
+[[4131.88]]person what's happening with team you
+[[4135.76]]end up invariably finding out what's
+[[4139.6]]going on and the more inspection you
+[[4144.08]]have not micromanagement inspection and
+[[4149.4]]you do part of your operating Rhythm the
+[[4154.4]]more quickly you can identify problems
+[[4158.8]]and so um and this is back to the drri
+[[4162.8]]thing like if you have a good drri who's
+[[4166.44]]very clear what good looks like has
+[[4169.8]]buying from Key stakeholders and you're
+[[4173.24]]clear on the on the measurements then
+[[4176.88]]when they come and Report it's very easy
+[[4181.64]]to now um report on progress against the
+[[4186.36]]metrics that we think we defined a
+[[4190.4]]success and when things are you know say
+[[4195.24]]falling behind plan then you start
+[[4199.24]]escalating that and saying I have a
+[[4202.52]]problem you know we need to fix these
+[[4206.52]]issues feedback loops keeping those very
+[[4211.12]]tight it's super important with uh
+[[4215.24]]companies in general but are certainly
+[[4219.08]]fast growing companies so that you you
+[[4223.04]]can be held accountable to what you're
+[[4226.44]]say you're going to do and also be able
+[[4229.44]]to iterate pretty quickly how do you go
+[[4232.68]]about keeping uh feedback loops tight
+[[4236.52]]within I think feedback is a gift
+[[4241.08]]I think in every facet of life feedback
+[[4244.8]]is important whether it's feedback to
+[[4247.76]]your personal life if your partner's
+[[4251.16]]annoyed at you you want to hear that
+[[4254.04]]feedback because then you don't know
+[[4257.4]]what's irritating and upsetting them and
+[[4261.6]]then in the business side the shorter
+[[4265.24]]the feedback loops the more responsive
+[[4269.2]]you can be especially to customer needs
+[[4273.4]]or Market opportunities you know and the
+[[4276.56]]classic example is look at government
+[[4279.4]]functions the feedback loops are very
+[[4282.0]]long imagine going the Department of
+[[4284.96]]Motor Vehicles you know you want to pull
+[[4288.44]]your hair out because they're not that
+[[4293.0]]attuned to customer feedback and so to
+[[4297.88]]me feedback is very very important and
+[[4302.52]]that again it's a created by a culture
+[[4307.36]]of high trust being comfortable sharing
+[[4312.92]]bad news uh having positive intent and
+[[4317.84]]then actually acting on it because the
+[[4320.72]]worst thing you can do is give feedback
+[[4323.8]]and no one does anything about it and so
+[[4326.72]]then you say like this company doesn't
+[[4329.88]]care or this person doesn't care so you
+[[4333.28]]have to have a bias to action now
+[[4336.72]]sometimes you can say I hear you but
+[[4340.08]]this is not as important as some other
+[[4342.44]]things we're trying to do and we're
+[[4345.2]]going to sequence this later and make
+[[4348.44]]them understand that in the oral scheme
+[[4351.32]]of things it may not be as important as
+[[4354.44]]you think it is but it's important to
+[[4357.92]]have that discussion in line on what's
+[[4362.28]]what to do now versus later you guys
+[[4367.84]]maintain hybrid as a uh work environment
+[[4372.64]]today how have you thought about that
+[[4376.92]]how do you make it work yeah so I don't
+[[4381.28]]believe um well what's happened
+[[4384.48]]especially here in New York a couple
+[[4387.2]]years ago there's a notion of quiet
+[[4390.84]]quitting or people belief that anyone
+[[4394.68]]who working from home is not working as
+[[4397.92]]hard as someone in the office I don't
+[[4402.68]]believe that I think that you know how
+[[4408.12]]the productivity of someone is defined
+[[4412.68]]by how aligned they are to the mission
+[[4417.0]]of the company how aligned how clear are
+[[4420.92]]the objectives of what they're uh what
+[[4425.32]]they're trying to do and how closely and
+[[4430.32]]how well they're held accountable and so
+[[4434.72]]I also when I talk to employees they
+[[4439.16]]value the flexibility you know in a
+[[4444.28]]world where the boundaries of when work
+[[4448.92]]stops and when your private life you
+[[4453.28]]know begins in the day is now blurred
+[[4457.92]]right so people value I had a employee
+[[4461.72]]tell me the most important part of my
+[[4465.28]]day is being able to pick up my child
+[[4469.48]]from school uh that's a very important
+[[4473.16]]moment for me but this person Works
+[[4477.28]]incredibly hard and is a high performer
+[[4482.08]]but but that flexibility you know makes
+[[4486.04]]her much more committed to mangabb
+[[4489.56]]because she has that flexibility to be
+[[4493.12]]either other people love the fact that
+[[4495.96]]hey in the middle of the day I've got to
+[[4498.88]]go see the dentist or have a doctor
+[[4502.6]]appointment or take care of an errand
+[[4506.04]]now we do also believe in the importance
+[[4510.56]]of in-person meetings but I think uh you
+[[4515.76]]know it's not like people are talking to
+[[4519.56]]each other every minute of the day there
+[[4522.96]]times of this burst of activity and then
+[[4526.8]]you come in to calibrate whether it's a
+[[4531.28]]qbr planning session you're kicking off
+[[4535.64]]a project or you're coming in and
+[[4539.76]]assessing the state of the project so I
+[[4543.24]]don't think you need to be in the office
+[[4545.72]]four or five days a week I think the
+[[4548.6]]toothpaste is out of the tube with the
+[[4551.24]]pandemic
+[[4555.4]]and I think uh it's the way you hold
+[[4559.72]]people accountable is through their
+[[4563.44]]leadership and if you have a high bar
+[[4568.24]]and high standards you can still drive
+[[4571.88]]high productivity even if people are
+[[4575.56]]working at home or in the office we
+[[4579.76]]touched on you did a a riff when you
+[[4584.64]]first got the mongod DB but uh but
+[[4589.44]]during the pandemic and when when
+[[4593.28]]everything kind of reverted back uh over
+[[4597.0]]the course of as interest rates went up
+[[4602.56]]you did not do a broad-based riff uh and
+[[4609.36]]I think philosophically you're against
+[[4615.6]]Rifts in general not for some moral
+[[4621.2]]reason but because it masks a bunch of
+[[4625.6]]performance and management related uh
+[[4629.08]]considerations can you talk about
+[[4632.36]]important I think um I think a risks
+[[4636.32]]have a place if there's suddenly some
+[[4640.4]]structural cost structure problem you
+[[4644.2]]have in the business imagine if 50% of
+[[4648.08]]your customers disappeared overnight
+[[4651.32]]there's no amount of Performance
+[[4653.68]]Management that can right siize the
+[[4656.12]]business quickly and you have to make
+[[4660.36]]some hard decisions but I the reason I
+[[4665.2]]I'm allergic to Rifts in general is
+[[4668.72]]because to me and this happened here at
+[[4675.12]]M to be when we got a sense in um uh
+[[4683.08]]2022 uh that the world was changing and
+[[4688.24]]the you know and and things were going
+[[4691.96]]to become very different a lot of people
+[[4695.76]]came to said why don't you just do a RIS
+[[4699.04]]you know that it'll be so easy to do
+[[4702.72]]that and we're you know we will be all
+[[4706.92]]good and it'll probably be even more
+[[4710.52]]quick and more efficient than just doing
+[[4714.44]]this performance management process and
+[[4717.76]]what I said to them is that but they're
+[[4721.0]]not teaching anyone any muscles right
+[[4724.72]]and we're not teaching people one of the
+[[4728.84]]biggest weaknesses of new managers even
+[[4732.88]]existing managers is knowing how to hold
+[[4736.12]]people accountable and I have a
+[[4739.68]]three-step process on how how to hold
+[[4743.28]]people accountable we I'll tell you that
+[[4747.8]]later if you're interested but we want
+[[4752.36]]to develop the muscles of knowing how to
+[[4756.0]]hold people accountable and what was
+[[4760.6]]interesting is that I had people who
+[[4764.76]]came up to me after the process said you
+[[4768.36]]know what Dave it was surprisingly easy
+[[4772.64]]to find the bottom 5% and I said what
+[[4777.28]]did that tell you it said that either we
+[[4781.32]]hired the wrong people or we didn't
+[[4784.36]]develop them but we clearly had a
+[[4788.96]]problem and and it was the men put so me
+[[4794.6]]pushing you is you caused you to deal
+[[4798.28]]with that problem you weren't dealing
+[[4800.88]]with that problem proactively and that
+[[4804.64]]there in there in itself is a problem
+[[4808.84]]and we need to be much more proactive in
+[[4812.44]]dealing with performance issues because
+[[4816.28]]the best people get very frustrated when
+[[4819.76]]they work with people who are either not
+[[4823.24]]as committed or not as competent as them
+[[4827.08]]because now you're actually penalizing
+[[4830.72]]all the good people are working hard to
+[[4834.36]]cover for the people who are not
+[[4837.76]]producing at the rate they should be now
+[[4840.72]]I want to hear your three steps for
+[[4844.24]]holding people accountable yeah so the
+[[4847.68]]the first step is you got to be very
+[[4851.6]]clear on what you want right um and so
+[[4857.96]]you know for project for the role um in
+[[4862.96]]this period whatever you got to be very
+[[4866.68]]clear here are my expectations and so a
+[[4871.96]]simple example would be say um I expect
+[[4876.68]]um you you to send me a report every
+[[4881.16]]Friday on the week's activities I'll
+[[4886.04]]just make a trivial example and the
+[[4890.84]]first Friday you don't send it to me and
+[[4896.32]]then I see you on Monday I say hey where
+[[4900.96]]Logan where's that report goes oh yeah I
+[[4904.92]]forgot about it um I'll get it to you
+[[4908.52]]and you then you send it to me and I go
+[[4911.88]]to you and said Logan listen I may not
+[[4915.28]]have been clear why that's important to
+[[4918.56]]me but I use those reports to really
+[[4921.08]]understand what's going on in the
+[[4923.32]]business you your you and your team play
+[[4926.88]]a really critical role and it's not just
+[[4930.44]]makeup work this is really important to
+[[4933.64]]me so the what I'm really doing is I'm
+[[4937.84]]making the prom that was my fault to not
+[[4942.12]]clearing making clear to you what the
+[[4946.0]]importance was for why I'm asking you to
+[[4950.44]]do this and then I said now are you
+[[4954.72]]clear Logan does everything make sense
+[[4959.12]]and you go yes I got it now the next
+[[4963.84]]time you forget to send me that report
+[[4968.0]]now it can hold you accountable so you
+[[4971.32]]can't hold someone accountable if you
+[[4975.24]]don't do steps one and steps two so most
+[[4979.28]]people get terrified of holding people
+[[4982.04]]accountable because one they're not
+[[4985.08]]clear what they want and they've not
+[[4989.72]]been giving clear feedback on when
+[[4994.32]]there's been missteps and when you don't
+[[4998.0]]give feedback you're basically Sending
+[[5001.36]]message not just to Logan but to
+[[5005.04]]everyone else you know what I want is
+[[5009.28]]not really that important there's not a
+[[5013.72]]really culture of discipline I am okay
+[[5018.72]]to let people cut corners and that by
+[[5023.52]]itself is sending a message that maybe
+[[5027.2]]this is not as a high performance
+[[5030.76]]organization as as it is and so going
+[[5034.28]]through that three-step process at least
+[[5038.4]]for me makes it much more easy to to
+[[5042.84]]hold people accountable I've heard you
+[[5045.92]]say that recruiting is like pipeline
+[[5048.96]]management once you stop it even for a
+[[5052.64]]bit it dries up how much of your time do
+[[5057.08]]you spend recruiting today uh today not
+[[5060.92]]as much obviously for senior level
+[[5063.72]]recruiting I I spent a lot of time we
+[[5067.24]]just hired a new CTO so I was obviously
+[[5071.0]]intimately involved in that recruiting
+[[5075.04]]process um and I was pleased that I
+[[5079.76]]actually beat my own ambitious goal by a
+[[5084.68]]month but uh that's a different subject
+[[5089.24]]but uh um obviously recruiting it all
+[[5094.12]]starts with recruiting and um um if you
+[[5098.96]]can't hire the best people then nothing
+[[5103.76]]else really matters in my mind um a
+[[5108.0]]leader has to essentially do three
+[[5111.48]]things one is recruit the best team
+[[5116.92]]possible two develop them to get them to
+[[5122.64]]do what you want them to do and three
+[[5126.84]]make make sure they consistently meet
+[[5130.32]]and exceed their commitments right so
+[[5134.36]]recruit develop and execute but it all
+[[5138.96]]starts with recruiting and I think mcmah
+[[5142.88]]has said this before if you hire
+[[5146.52]]mediocre people but do a great job in
+[[5150.48]]development and really monly focus on
+[[5153.8]]execution you'll still have a mediocre
+[[5157.4]]outcome if you hire great people and do
+[[5161.96]]an okay job on development an okay job
+[[5165.84]]in inspection you can still have a
+[[5168.72]]pretty good outcome so it all starts
+[[5172.24]]with recruiting um the point about the
+[[5177.48]]pipeline is that um like a sales
+[[5182.76]]pipeline a recruiting pipeline dries up
+[[5186.96]]pretty quickly so you're talking to
+[[5190.84]]candidates you're screening candidates
+[[5193.88]]but then if you say you know what I'm
+[[5197.68]]not going to um um put focus on
+[[5202.0]]recruiting those candidates will slowly
+[[5205.4]]wither away and go somewhere else so
+[[5209.48]]they you say oh my God I need to hire
+[[5213.8]]100 people next quarter you can't
+[[5217.76]]suddenly like magically produce 100
+[[5221.84]]candidate 100 qualified candidates very
+[[5225.8]]quickly so constantly being in the
+[[5229.36]]market and talking to people even if you
+[[5233.04]]don't have roles to fill and getting a
+[[5238.2]]sense of who's great who's out there um
+[[5242.72]]you know selling the message and the
+[[5245.84]]value proposes among to be is important
+[[5250.4]]for us because we're planting seeds
+[[5254.6]]sometimes we need to harvest those seeds
+[[5257.64]]very quickly sometimes we planning seeds
+[[5261.32]]because we know in the future we we we
+[[5265.0]]will want those people to consider
+[[5268.4]]joining us one of the things I heard you
+[[5272.24]]say in your interview process is that
+[[5277.2]]you inspect how thoughtful everyone was
+[[5282.64]]in switching between jobs why why is
+[[5286.56]]that important how do you go about
+[[5289.64]]thinking about it to me the most
+[[5292.72]]important professional decision you can
+[[5297.0]]make is what company to go to right so
+[[5302.56]]so when I look at a resume um I try and
+[[5306.6]]understand why did it go from company a
+[[5309.4]]to Company B or why did they even start
+[[5313.4]]a company a why did it go to Company B
+[[5318.64]]and and then maybe C or D I'm trying to
+[[5323.44]]understand the decision process and what
+[[5326.92]]I'm really trying to assess is how
+[[5330.36]]thoughtful were they in in making that
+[[5334.24]]decision to go from company a to Company
+[[5338.32]]B Because as I said that's a very very
+[[5341.92]]important personal decision for that
+[[5345.04]]person and if that person is pretty
+[[5349.48]]Cavalier I followed my boss oh I got a
+[[5353.56]]call from a recruiter and they offered
+[[5358.04]]20% more uh then I'm thinking to myself
+[[5363.84]]you know okay those might be interesting
+[[5368.4]]signals but that's not a very thoughtful
+[[5372.36]]process then I'm thinking to myself how
+[[5375.56]]thoughtful they going to be when they're
+[[5379.12]]in that job making day-to-day decisions
+[[5383.0]]about what products to build what
+[[5387.2]]marketing programs to execute on how to
+[[5393.12]]prosecute you know sales deals Etc and
+[[5398.4]]so that to me is a really high quality
+[[5402.8]]signal about the kind of person they are
+[[5406.88]]whereas conversely if they're incredibly
+[[5411.0]]thoughtful and saying I was really happy
+[[5416.04]]here but I saw this new emerging Trend I
+[[5419.84]]was really intrigued by this new
+[[5423.12]]technology Trend I talked to five or six
+[[5427.24]]different companies of those five or six
+[[5431.36]]companies this company seemed the most
+[[5436.4]]interesting I coold call them got a
+[[5440.56]]bunch of meetings and then they timately
+[[5443.6]]offer jobs and now that's a person who's
+[[5447.72]]incredibly thoughtful I automatically SU
+[[5451.6]]if someone's been in a job for two years
+[[5456.6]]and less they failed unless there's
+[[5462.0]]clear evidence that there was another
+[[5465.48]]reason why they left you know I.E they
+[[5468.6]]got married and had to move to another
+[[5472.32]]city or there's some personal event
+[[5476.0]]their life or the company got Acquired
+[[5478.88]]and they shut down that operation
+[[5483.12]]whatever why two years because in most
+[[5487.32]]companies it takes about a year to
+[[5489.88]]figure out that someone's not working
+[[5493.12]]out and then another year to get rid of
+[[5496.8]]them so if you've been at a company for
+[[5500.44]]less than two years unless you can
+[[5505.16]]convince me clearly convince me why I've
+[[5510.04]]automatically assumed you failed any
+[[5513.52]]favorite interview questions or things
+[[5516.44]]you try to tease out in an interview
+[[5519.4]]besides the thoughtfulness by which they
+[[5524.08]]switch jobs um yeah I would say um
+[[5529.76]]understanding um both why this Swit job
+[[5534.04]]the other thing I like to Probe on is
+[[5537.16]]give me an example of something you're
+[[5540.2]]really proud of you know what is what is
+[[5544.2]]a really proud accomplishment and
+[[5548.2]]they'll tell me they closed this deal
+[[5552.0]]they got this product out the door blah
+[[5555.88]]blah blah then I'll start drilling in
+[[5559.16]]and tell me more and go into
+[[5563.36]]excruciating detail and if they have the
+[[5568.12]]details at their fingertips that tells
+[[5571.84]]me they were directly involved if there
+[[5575.6]]were like a tertiary team member of some
+[[5579.0]]project that was successful at that
+[[5582.84]]company then very quickly I can figure
+[[5586.84]]out that they weren't really involved
+[[5591.12]]but they were just you know trying to um
+[[5596.0]]essentially get credit for that you know
+[[5599.92]]that project or that initiative that the
+[[5603.64]]company undertook so that tells me again
+[[5607.92]]how how intimately involved they were in
+[[5611.76]]those in in quote unquote their most
+[[5615.12]]proudest moment right if it's your most
+[[5618.2]]proudest moment it's got to be something
+[[5621.56]]that you should be directly and
+[[5625.68]]intimately aware of if a job opens up
+[[5629.32]]internally and you have an internal
+[[5633.12]]candidate uh versus an external
+[[5636.56]]candidate obviously you have a
+[[5639.48]]disproportionate amount of information
+[[5642.72]]about the person you've worked with in
+[[5646.68]]the past and you're comparing to someone
+[[5650.64]]externally how do you think about
+[[5654.88]]evaluating those two people for the job
+[[5659.88]]and how do you think about uh
+[[5664.32]]discounting or maybe factoring in how
+[[5667.92]]much you know about the internal
+[[5671.8]]candidate versus the external one yeah
+[[5676.68]]so just stepping back I was and the
+[[5680.64]]thing I've said here mang and I said at
+[[5683.72]]blade logic was I want people to come
+[[5686.84]]here to build a career not to come here
+[[5689.6]]for a job
+[[5692.36]]but the problem here's the problem that
+[[5696.76]]most leaders run into is that they have
+[[5701.32]]their own existing team now they have a
+[[5705.96]]job opening you know Joe or Sally are
+[[5710.64]]are interested in that job but you have
+[[5714.36]]a very nuanced opinion of them because
+[[5717.68]]you see what they're good at but you
+[[5720.4]]also see some of the things that maybe
+[[5722.88]]they're not so good at in some of the
+[[5726.0]]wards but it's a very nuanced
+[[5730.24]]perspective on on Joe and Sally
+[[5735.4]]meanwhile Jon shows up with a pristine
+[[5741.0]]resume you know comes in presents the
+[[5747.32]]best sense of him uh of himself
+[[5753.0]]um and now all a sudden you're like wow
+[[5756.84]]John's got all this credentials he's got
+[[5760.2]]this track record he's got all these
+[[5764.48]]results maybe I should hire John what
+[[5769.08]]happens is you end up hiring John
+[[5772.24]]because you have an asymmetry
+[[5775.08]]information you only see the good stuff
+[[5777.76]]about John but you have much more
+[[5781.6]]nuanced view of Sally and Joe and then
+[[5785.52]]six months later you realize well you
+[[5788.52]]know John can't doesn't walk on water
+[[5791.96]]either he's got things that he's good at
+[[5794.88]]and he's got things that he doesn't good
+[[5797.68]]at but what you've done is now you
+[[5802.32]]demotivated Sally and and Joe and now
+[[5806.96]]all of a sudden they say maybe this is
+[[5810.52]]not the place for me now a sudden they
+[[5813.88]]say maybe I should contemplate going
+[[5817.24]]somewhere else so I'm not suggesting
+[[5820.56]]that you never hire from the outside of
+[[5823.64]]course we've hired from the outside but
+[[5827.44]]you want to make sure your people inside
+[[5830.64]]the company especially the people who
+[[5834.04]]are performing are given a fair shot for
+[[5837.2]]growth
+[[5839.96]]opportunities you you also don't want to
+[[5843.08]]do just have blind spots and say I'm
+[[5845.72]]only going to you know promote someone
+[[5848.2]]internally you want to make sure that
+[[5850.68]]you assess the temple and the
+[[5854.08]]marketplace and that to me is the best
+[[5857.44]]way to really make the right decisions
+[[5861.2]]for the business but ideally if push
+[[5865.72]]comes to shove I much rather promote
+[[5869.96]]within because it creates a meritocracy
+[[5874.28]]you retain the culture and you basically
+[[5878.04]]know what you're getting far better than
+[[5881.76]]anyone from the outside in a fast
+[[5886.48]]growing company uh the the slope of the
+[[5890.96]]business often times will outpace the
+[[5895.6]]slope of the individual in that role how
+[[5900.88]]do you make decisions about if someone's
+[[5906.48]]been good for up to that point in time
+[[5911.64]]but it is time to maybe move on and
+[[5915.84]]bring on someone from the outside how do
+[[5919.88]]you think about the that that balance
+[[5923.92]]and tradeoff so my philosophy on that is
+[[5927.68]]you can usually fool the people above
+[[5930.88]]you you can sometimes fool the people
+[[5934.0]]around you you can never fool the people
+[[5937.68]]below you and the biggest tell for me if
+[[5943.12]]a leader is not scaling is how
+[[5948.52]]frustrated is their team becoming are
+[[5952.36]]good people starting to leave is the
+[[5955.32]]quality of the new people that the
+[[5958.68]]leader recruiting is now no longer a but
+[[5963.6]]now like B's and B minuses and C's that
+[[5968.24]]to me is a huge tell about whether not a
+[[5972.64]]leader scaling because the people who
+[[5977.24]]work for you clearly know how effective
+[[5980.56]]you are clearly know the quality of
+[[5983.72]]decisions you're making clearly know if
+[[5987.92]]you're being a hindrance or or an asset
+[[5991.64]]in terms of enabling them to get their
+[[5995.24]]jobs done and so that will show up very
+[[5999.68]]quickly to them and so that to me is the
+[[6003.6]]best hell and in fact when I joined
+[[6006.88]]mongodb one of the first things I did
+[[6011.0]]was review all the organizations and I
+[[6015.56]]tried to understand you know who was in
+[[6020.52]]these teams what the level of turn was
+[[6024.76]]and uh the quality of the people in
+[[6029.08]]those teams and that gave me a great map
+[[6033.44]]about where the problems were in the
+[[6036.4]]organization and that also informed my
+[[6040.08]]decision of where to focus first and I
+[[6045.04]]think that just remains and and um it
+[[6049.64]]may seem awkward to say this but we've
+[[6053.04]]gone through many leadership transitions
+[[6057.12]]I've been through three CMOS I've been
+[[6062.08]]through two two CFOs I've been through
+[[6068.04]]three cro I've been to uh two Chief
+[[6073.88]]product officers um I've been through
+[[6078.96]]three CTO and that's is just a function
+[[6083.48]]of the business scaling very quickly but
+[[6087.08]]not everyone scales at the same rate now
+[[6090.4]]now some people left on their own
+[[6093.52]]valtion they were tired and they you
+[[6097.4]]know want to take some time off but in
+[[6101.52]]many cases the people just can scale to
+[[6105.08]]the next level now your parents gave you
+[[6108.48]]two options Prof professional you could
+[[6112.24]]either be an engineer or a doctor right
+[[6116.44]]and ultimately you found your way uh
+[[6121.16]]finding religion in sales as well how
+[[6126.32]]how did you discover sales as something
+[[6131.68]]that you you had passion for and what
+[[6136.88]]would you tell to CEOs that maybe view
+[[6141.72]]it as a black art or something
+[[6146.88]]Unbecoming yeah well my dad was a a
+[[6151.16]]rocket a true rocket scientist he
+[[6155.64]]designed uh rocket engines and and and
+[[6161.16]]satellites and so um he always viewed
+[[6165.52]]sales as like a bunch of Youth scar
+[[6168.84]]sales guys thought it was not a very
+[[6172.84]]honorable profession so so what was
+[[6177.36]]interesting is uh when I started working
+[[6181.36]]I was in this rotational assignment at
+[[6184.76]]AT&T where a gave me exposure to
+[[6188.24]]different functions and the functions
+[[6191.72]]that were closest to the customer where
+[[6196.12]]I could see the intersection of business
+[[6201.4]]technology uh coming together was where
+[[6206.12]]I got really you know interested and
+[[6210.4]]excited I personally knew that I didn't
+[[6213.96]]want to be like a hardcore developer or
+[[6217.64]]some engineer in a back room designing
+[[6221.0]]you know circuit boards or something
+[[6224.56]]like that so I felt like I wanted to be
+[[6228.24]]where the business business and the
+[[6232.28]]technology came together and then as I
+[[6236.32]]started learning more and more my
+[[6239.44]]business I realized sales is so
+[[6244.36]]important to um to the success of any
+[[6250.56]]business uh at being having its monop
+[[6255.16]]Monopoly Roots didn't really actually
+[[6258.28]]have a great Salesforce and I went to a
+[[6262.52]]smaller Telecom Comal uh teleport which
+[[6267.12]]is a celect they also had an okay
+[[6271.44]]Salesforce so one of the reasons I I
+[[6275.68]]reached out to Steve walski is because
+[[6279.44]]PTC had this reputation of having a
+[[6283.68]]great product and also an amazing
+[[6288.2]]Salesforce and Steve and I talked about
+[[6292.96]]that and as he framed it which I live
+[[6297.32]]today is like if you marry a great
+[[6301.0]]product with a great goto Market engine
+[[6304.28]]obviously in the old days only sales for
+[[6306.92]]us is now
+[[6310.28]]self-service um and various different
+[[6314.76]]sales channels uh you that's where the
+[[6319.52]]magic happens and what I tell people is
+[[6323.36]]that as much thought as we put into
+[[6326.8]]product we also think about very hard
+[[6330.28]]about how we're thinking about how we go
+[[6334.64]]to market how customer buying Behavior
+[[6340.28]]changed and I believe that if you can
+[[6344.72]]make product and go to market
+[[6347.8]]competitive advantage that that really
+[[6350.96]]differentiates you from other companies
+[[6355.64]]in the industry now I I every job I I've
+[[6360.44]]heard you say and I agree with has
+[[6364.48]]something that you hate about it uh I
+[[6368.36]]think we live in this culture of people
+[[6372.6]]looking for this perfect thing out there
+[[6377.8]]and job hopping and all of that um is
+[[6381.92]]there can you elaborate on that point
+[[6384.96]]and what advice would you have for young
+[[6388.76]]professionals that are maybe uh trying
+[[6392.88]]to find the perfect job with nothing
+[[6396.92]]that they they hate in in terms of their
+[[6400.12]]profession yeah I don't think the
+[[6402.68]]perfect job exists I think there's
+[[6405.84]]things you can find that you love to do
+[[6410.12]]but there would be fast that job that
+[[6415.2]]are maybe not as as enjoyable and I I
+[[6420.12]]find when I the other thing when I talk
+[[6424.08]]to people why they move from say company
+[[6427.28]]a to Company B what I'm also trying to
+[[6430.4]]understand is are they running away from
+[[6434.16]]something or they running to something
+[[6438.28]]and what I find is a lot of people
+[[6442.8]]especially this younger generation they
+[[6447.12]]don't NE have the skills to deal with
+[[6451.04]]adversity so their inclination is to run
+[[6454.84]]away from adversity and go to somewhere
+[[6457.68]]else where to think that grass is
+[[6462.24]]greener and and I tell my own boys
+[[6467.32]]happiness and success is not the absence
+[[6470.72]]of problems is the ability to deal with
+[[6474.08]]them you may have a boss that you don't
+[[6478.72]]get along with you may have um you know
+[[6483.6]]you're dealing with a difficult customer
+[[6487.72]]and uh they're very unreasonable you
+[[6492.12]]know what are you going to do uh you may
+[[6496.24]]have a product that doesn't always work
+[[6499.68]]and and you're frustrated because it's
+[[6503.12]]it's it's awkward it's embarrassing you
+[[6507.12]]in front of if you're a salesperson uh
+[[6511.52]]in front of your customers who trust and
+[[6515.64]]respect you this going to be always
+[[6519.6]]situations and difficult things you can
+[[6523.32]]choose to run away or you can say how am
+[[6526.32]]I going to fix this problem or how am I
+[[6529.56]]going to Elevate this issue that that
+[[6533.0]]someone who can fix this problem fix
+[[6536.24]]this problem to me those are really
+[[6540.04]]important life lessons now obviously if
+[[6544.72]]a company's in like a death spiral no
+[[6549.36]]one's suggesting you keep staying there
+[[6553.08]]but I think it's important for people to
+[[6556.4]]learn how to deal with adversity you
+[[6559.72]]know obviously grit is something that we
+[[6563.8]]think a lot about uh and you know one of
+[[6567.68]]the characteristics we look for is are
+[[6571.32]]these people do these people have grit
+[[6575.8]]and one of the things or as some people
+[[6581.12]]call do they fight or flee I'm a fighter
+[[6586.52]]and uh and I hope to find other people
+[[6592.44]]who uh who have that orientation to to
+[[6597.84]]buckle down when things get tough no
+[[6601.48]]we've referenced McMahon and walski but
+[[6605.24]]I want to back up to the uh to the
+[[6609.16]]original days of Blade logic so can you
+[[6612.6]]tell the story of how blade logic came
+[[6616.32]]to be and then maybe the fortuitous
+[[6620.72]]timing of the fundraise and that Journey
+[[6624.72]]sure so I had been at a company called
+[[6628.08]]Breakaway Solutions which and I had
+[[6630.96]]started a company called applica which
+[[6635.0]]is the Corpus of their cloud computing
+[[6638.84]]business so we are like a first
+[[6641.68]]generation cloud computing being Telco
+[[6645.68]]guys we call ourselves application
+[[6649.36]]service provider so it was a very sexy
+[[6652.92]]ter yes and being Telco guys we thought
+[[6656.64]]it all about the sophistication of the
+[[6659.8]]network not anything to do with the
+[[6663.36]]application so while Ben off was
+[[6666.8]]launching Salesforce and thinking about
+[[6669.88]]a radically new multi-tenant
+[[6673.2]]architecture we were thinking about it's
+[[6676.36]]all about the network and and because
+[[6680.12]]we're we were data Broadband networking
+[[6683.68]]guys the network could solve the whole
+[[6686.96]]problem obviously we were wrong um we
+[[6690.52]]ended up taking that company public and
+[[6695.16]]then um 70% of our customers were Dooms
+[[6699.8]]and then obviously we saw the rise and
+[[6703.12]]fall of the first B bubble what was the
+[[6708.0]]peak Market gap of that uh 5 billion wow
+[[6714.04]]and so um that being said we were we had
+[[6718.8]]um essentially like 11 data centers
+[[6721.96]]around the world they were Colo sites
+[[6724.48]]but we were provisioning and managing
+[[6727.24]]all the infrastructure and as the
+[[6731.08]]business was scaling I was constantly
+[[6734.68]]throwing people at that prom to
+[[6737.48]]provision manage infrastructure because
+[[6740.28]]with the first generation of Internet
+[[6743.56]]architecture the complexity was moving
+[[6748.4]]from the desktop to the back end within
+[[6754.08]]clients and um and I was like shocked
+[[6757.92]]when things started getting tougher I
+[[6760.48]]said there's got to be tools to automate
+[[6763.32]]this because we just can't keep throwing
+[[6766.56]]people at the problem and I was shocked
+[[6769.8]]to find out that there were no tools
+[[6772.68]]most of the tools were desktop tools it
+[[6775.52]]just didn't really work in a server
+[[6779.92]]oriented world so then um I left
+[[6784.8]]breakway actually end up being an e
+[[6788.6]]abimer and I kind of worked on this idea
+[[6793.0]]and my co-founder was an e battery and
+[[6797.28]]we both decided to work together we B
+[[6801.16]]basically worked on this idea and we and
+[[6804.6]]that was the Corpus of starting blade
+[[6808.0]]logic was coming out with a new
+[[6812.08]]server-based orientation to provision
+[[6816.44]]and configure servers in data centers
+[[6821.72]]and so this was in the summer of 2001
+[[6825.92]]and you know we had done a bunch of
+[[6829.0]]Market research and obviously the bubble
+[[6833.16]]had just bursted so investors were quite
+[[6836.72]]skittish about like funding new
+[[6839.12]]companies because they were just dealing
+[[6841.96]]with the trauma of all the companies
+[[6845.48]]that were basically struggling so the
+[[6849.24]]the bar was quite High and the
+[[6853.28]]valuations were were not great so it's
+[[6856.88]]quite expensive to raise Capital we end
+[[6860.8]]up raising our first round 5 days before
+[[6865.04]]911 W so you probably would not be
+[[6868.36]]talking to me today if IID waited five
+[[6871.2]]days longer right because that deal
+[[6874.16]]probably would have fallen apart near
+[[6877.28]]jagar wrote a blog post who let the
+[[6881.04]]servers out uh after the Baja men who
+[[6884.68]]let the dogs out I think it's still
+[[6887.96]]somewhere on the internet if you can uh
+[[6891.48]]if you can dig it up but going through
+[[6894.4]]that Journey you guys competed
+[[6898.28]]head-to-head with with opsware which uh
+[[6903.04]]for for people that don't know was run
+[[6907.6]]by Ben horror witz um and there was and
+[[6912.44]]Mark Andre and Mark Andre and it was a
+[[6918.32]]legendary uh uh battle I would say uh
+[[6922.96]]that that I don't know if there's
+[[6926.48]]anything that's even quite like it today
+[[6931.56]]of of the culture and and you had John
+[[6936.0]]McMahon they had bar cranny it was a
+[[6940.08]]very it's interesting so actually so I
+[[6944.32]]competed with loudcloud which is the
+[[6947.68]]first version of opare when I was
+[[6951.24]]running you know at Breakaway right so
+[[6954.6]]they were another cloud computing
+[[6957.08]]company and then they decided to
+[[6959.92]]repurpose their software provisioning
+[[6963.64]]tool into a software company where I
+[[6967.32]]decided to start from a clean sheet of
+[[6971.72]]paper um and by definition I felt we
+[[6976.4]]always had the better product but Mark
+[[6981.36]]and Ben are great marketeers and so what
+[[6987.32]]was interesting is that um they had a
+[[6991.96]]flagship account in EDS and then they
+[[6994.84]]started trying to go after other
+[[6997.92]]customers but they kept running into us
+[[7001.76]]and we were beating them everywhere so
+[[7005.92]]they realized what is these blade guys
+[[7009.72]]doing that you know we just don't know
+[[7013.4]]and they realized we had a PTC guy
+[[7017.08]]running actually it wasn't McMahon it
+[[7020.36]]was a guy named Steve San who was
+[[7025.68]]another PTC guy so uh um so then they
+[[7031.6]]decided to uh um basically follow the
+[[7035.12]]same Playbook they actually did reach
+[[7038.44]]out to John but they ended up hiring a
+[[7042.84]]guy named Mark cranny uh who also kind
+[[7047.72]]of took the PTC Playbook and at the same
+[[7052.96]]time Steve Tran again another example of
+[[7057.32]]who did great work in the beginning but
+[[7060.8]]then I realized wasn't scaling to the
+[[7065.08]]next level that's when I recruited John
+[[7069.28]]and so yes it ended up being two PTC
+[[7073.84]]sales guys running two very aggressive
+[[7079.32]]sales teams going after the market and
+[[7084.44]]uh you know obviously um Mark and Ben
+[[7090.12]]ultimately sold out to um HP uh and then
+[[7095.72]]we ultimately got bought a year later um
+[[7100.52]]by BMC soft and got bought what right
+[[7104.44]]before lemman collapse you sort of book
+[[7108.28]]in both crisises yes so the day we uh
+[[7114.32]]closed our deal um was the day um uh JP
+[[7120.08]]Morgan b b STS for three bucks a share
+[[7124.88]]and the culture of blades Logic the
+[[7129.04]]culture like the number of people that
+[[7131.68]]have come through there I mean not just
+[[7135.44]] but but data dog and Snowflake and
+[[7139.88]]OCTA and we can sort of go down the list
+[[7144.28]]of of other people that are zscaler uh
+[[7148.56]]that power Enterprise selling in Silicon
+[[7153.92]]Valley did you recognize at the time how
+[[7160.16]]talented the sales folks you you had
+[[7164.56]]within the organization were or is it
+[[7167.8]]sort of a fish in water and you didn't
+[[7171.0]]totally like these were just the people
+[[7174.92]]around you no I I consciously wanted to
+[[7179.72]]build I remember I I believed in wal's
+[[7183.84]]philosophy that if you marry a great
+[[7186.96]]product with great distribution that's
+[[7189.92]]when the magic happen so I was very
+[[7192.96]]conscious which is why I ended up
+[[7196.6]]chasing after McMahon because he was
+[[7200.16]]already even then a legend and and
+[[7203.72]]saying would you considered joining um
+[[7206.96]]BL logic and some people were actually
+[[7210.32]]shocked that I was able to get him um
+[[7214.32]]and then I would say the credit goes all
+[[7219.08]]to John because the what John makes what
+[[7223.96]]makes John really unique is I think one
+[[7228.88]]he's an amazing listener um you know if
+[[7233.76]]you talk to people when you interviews
+[[7237.28]]people people feel like he looks into
+[[7241.76]]their soul second thing he's a fabulous
+[[7246.76]]recruiter so his I Talent is off the
+[[7250.92]]chart so that's why the team was so good
+[[7254.88]]because he could really pick out the
+[[7259.08]]best people even if people with limited
+[[7262.76]]track records but figured out they had
+[[7266.64]]something really special about them
+[[7271.4]]third he is an an incredible developer
+[[7275.2]]of talent so it's not just recruiting
+[[7278.8]]them but constantly train them and John
+[[7282.8]]and I would work together what do we
+[[7286.0]]what does the sales for need to learn
+[[7288.88]]you know this quarter versus next some
+[[7291.88]]of them would be sales specific issues
+[[7295.48]]other would be product and Market issues
+[[7299.48]]how to differentiate you know blade
+[[7302.8]]logic versus opst and all the other
+[[7306.92]]tools out there so developing Talent was
+[[7310.96]]something that that was he was really
+[[7314.2]]good at and then he was maniacal in
+[[7318.8]]execution and so again recruit develop
+[[7324.2]]and execute right and John was A+ in all
+[[7328.84]]those categories now what about walski
+[[7333.84]]as a mentor how did he influence you and
+[[7338.92]]uh yeah why was he so good for you along
+[[7344.84]]the way um so walski um I you know I I
+[[7350.24]]give him a lot of credit for informing
+[[7354.24]]my leadership philosophy he um all the
+[[7358.52]]way from product and go to market and
+[[7362.08]]bring the two together how to think
+[[7366.16]]about like leadership how to think about
+[[7370.84]]like fundraising how to think about like
+[[7376.64]]managing the board um you know was so
+[[7381.92]]because as a first-time board member it
+[[7385.04]]this was all new to me and you just kind
+[[7388.24]]of learn that quickly on the job now
+[[7392.24]]there's a lot more data you know those
+[[7396.48]]days the data was quite sparse and so
+[[7400.56]]you really have to talk to people so I
+[[7404.68]]do encourage firsttime Founders whether
+[[7408.4]]not you have a board member or not but
+[[7412.52]]find mentors who you can talk to because
+[[7417.12]]the CR role is a very lonely job right
+[[7421.16]]because everyone's advocating for
+[[7425.04]]something it could be your team and and
+[[7428.36]]not that they're they're being malicious
+[[7430.88]]but they're Advocate things that are
+[[7434.76]]important to them then you have um your
+[[7439.16]]board and they're they're things that
+[[7442.44]]they care a lot about too so when you
+[[7445.8]]are thinking about things you want to
+[[7449.44]]run something by a board member how it
+[[7453.2]]affects them or maybe you know their
+[[7456.52]]Equity position is going to have some
+[[7459.76]]function of how they respond to that
+[[7463.28]]idea similarly if you're thinking about
+[[7466.48]]a restructuring the organization if you
+[[7469.8]]want to socialize it with a few people
+[[7473.44]]if it's going to potentially marginalize
+[[7476.76]]some people they're not going to be very
+[[7480.24]]happy with that so the SE role is a very
+[[7484.48]]very lonely role and so having people
+[[7488.12]]you can go to where you can just get
+[[7492.48]]unvarnished advice be very comfortable
+[[7497.28]]you know laying out what the issues are
+[[7501.08]]and burying your soul and not worrying
+[[7505.24]]about it being used against you is so so
+[[7509.16]]important and wsk you play that role for
+[[7512.84]]me I want to ask about the topic is your
+[[7516.24]]right now which I think is on everyone's
+[[7519.56]]mind artificial intelligence and you
+[[7523.24]]guys are playing an important role in
+[[7526.88]]that how how do you think about AI how
+[[7530.16]]does it compare to past trends that
+[[7533.72]]you've seen along the way and yeah the
+[[7537.84]]risk is of of being a cliche I
+[[7541.16]]definitely think is the next big
+[[7544.84]]profound platform shift in our industry
+[[7550.32]]um I think that uh what's interesting is
+[[7555.6]]I would say AI 1.0 is all about focusing
+[[7560.4]]on data scientists I think AI 2.0 where
+[[7564.4]]you'll see much more broad-based
+[[7567.64]]adoption especially around developers
+[[7571.4]]who have to build smarter applications
+[[7576.4]]and incorporate these new smarter
+[[7582.08]]Technologies um we feel like we are well
+[[7586.6]]positioned because it will unlock a lot
+[[7589.72]]of opportunities where a lot of people
+[[7593.44]]have been okay with keeping these Legacy
+[[7597.28]]Platforms in place but now with the
+[[7600.48]]Advent of AI it may it might be the
+[[7603.64]]Catalyst for them to rethink about
+[[7607.08]]modernizing big part of their
+[[7610.76]]infrastructure uh we obviously have
+[[7613.6]]announced some capabilities around
+[[7616.56]]vector and so on so forth where people
+[[7621.36]]can obviously leverage rag to marry
+[[7626.44]]public data with private data to build
+[[7630.72]]these smarter applications but I think
+[[7635.16]]you know it's very very early days what
+[[7638.8]]I'm really interest in understanding is
+[[7642.48]]how does a developer workflow change
+[[7646.4]]with the Advent of AI and I think we're
+[[7649.4]]just at the early days of figing that
+[[7652.96]]out and obviously we want to play a big
+[[7657.28]]role in enabling that developer workflow
+[[7661.36]]now you've been in uh New York City tech
+[[7665.84]]for a long time right now were you up in
+[[7669.96]]Boston for blade logic and then moved
+[[7674.48]]down no I lived here I actually we had
+[[7680.0]]our first uh child who just graduated uh
+[[7687.28]]in May uh in in July of of 2001 and uh
+[[7693.72]]and so moving was Impractical so I was
+[[7698.48]]Community Up To Boston which wasn't easy
+[[7702.96]]but basically you know I figured out a
+[[7706.2]]way to do it I tried to start BL logic
+[[7709.4]]in New York but it was just too
+[[7713.24]]difficult because the ecosystem was in
+[[7717.52]]place and the culture you you try to
+[[7720.76]]talk to Wall Street people they say yeah
+[[7723.08]]I work for a startup but they want to
+[[7725.4]]keep their salary and still get a big
+[[7729.16]]Equity you know position in the company
+[[7733.72]]which obviously wasn't practical um now
+[[7737.12]]I think it's very different here in New
+[[7741.88]]York but yes um um I commuted up there
+[[7748.12]]and uh and then obviously have always
+[[7752.8]]lived in the New York area so what's
+[[7756.48]]been your perspective of how New York's
+[[7760.56]]changed over the last what 22 some odd
+[[7765.8]]years working in Tech and uh ASP way
+[[7771.0]]back when and now software today yeah so
+[[7775.64]]I went from The Lone B2B guy to now
+[[7779.48]]surrounded by you know companies like
+[[7783.16]]data dog which I'm on the board of and
+[[7787.32]]uh you know comes like uip Pat and I'm
+[[7790.8]]glad you retired from being a VC by the
+[[7794.88]]way yeah data dog is one of your only
+[[7799.44]]Investments as a VC pretty good one yeah
+[[7802.88]]yes well Olivia and the team there get
+[[7806.92]]all the credit um and uh Etsy obviously
+[[7811.6]]has also been a very successful company
+[[7816.04]]um so to me New York is a fabulous place
+[[7820.92]]right because one um your customers are
+[[7824.68]]literally outside your front door you
+[[7828.04]]have these amazing large companies
+[[7831.72]]financial services companies and other
+[[7835.36]]types of companies all in your backyard
+[[7838.92]]two New York is a gateway to really
+[[7841.68]]anywhere in the world you can get to
+[[7844.2]]Europe very quickly it's like like a
+[[7847.12]]West Coast Flight you can get to the
+[[7850.44]]Middle East you can get to Asia and
+[[7853.8]]going to Asia is not that much longer
+[[7857.16]]from New York than it is say from San
+[[7861.76]]Francisco I think um there's a obviously
+[[7866.72]]a whole other dimension of New York in
+[[7870.68]]terms of culture not everyone's in Tech
+[[7874.68]]there's so many other things to me I've
+[[7878.28]]been to almost every major city in the
+[[7881.12]]world and I still think New York's the
+[[7885.32]]best city so I'm I'm I'm I'm stoked that
+[[7890.04]]uh New York is such a big tech center
+[[7894.0]]now yeah that's great that's great uh
+[[7897.6]]last one before I let you hop is there a
+[[7901.52]]piece of conventional wisdom Silicon
+[[7906.04]]Valley wisdom that you adamantly
+[[7910.28]]disagree with that you hear get uh
+[[7915.16]]shared quite a bit well the one thing I
+[[7919.96]]think there's a pejorative uh
+[[7923.68]]perspective on professional CEOs but
+[[7926.48]]what's interesting is if you look at
+[[7930.08]]like Nikes Aurora look at like Frank
+[[7935.2]]slman I think I've done reasonably well
+[[7940.32]]like professional CEOs have had Major
+[[7945.92]]Impact Mark mlon before Nick Nesh have
+[[7952.2]]some major now the founder friendly kind
+[[7956.84]]of orientation makes a lot of sense
+[[7959.92]]obviously you know these companies don't
+[[7964.16]]start without Founders who think
+[[7969.16]]differently and see PRS that or
+[[7972.64]]opportunities that other people don't
+[[7976.96]]see but I think uh most people have this
+[[7982.0]]very pejorative view they almost think
+[[7985.36]]oh the company's lost his way we they
+[[7988.16]]have to bring a professional Co but when
+[[7990.76]]you look at some of the biggest
+[[7993.8]]companies in the world and some of the
+[[7997.24]]most successful companies in the world
+[[8001.08]]you know having the right professional
+[[8005.64]]Co is not exactly a bad thing yeah good
+[[8009.4]]well Dave thanks for doing this my
+[[8013.64]]pleasure it's great to be
+[[8016.52]][Music]
+[[8021.25]]here
+[[8024.36]][Music]
+[[8026.12]][Applause]
+[[8029.51]][Music]
+[[8032.68]]he

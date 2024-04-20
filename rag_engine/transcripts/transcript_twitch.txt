@@ -1,0 +1,4292 @@
+[[0]]welcome to the Logan Bartlett show I am
+[[3.42]]your host Logan Bartlett and what you're
+[[5.88]]going to hear on this episode is a
+[[8.58]]conversation I have with Emmett sheer
+[[12.12]]Emmett is the co-founder and former CEO
+[[16.2]]of twitch one of the most influential
+[[20.58]]Tech Platforms in recent memory from its
+[[24.66]]humble beginnings as a reality
+[[28.68]]television show focused on one of his
+[[33.36]]friends to the most influential online
+[[38.04]]community that exists I came with a
+[[41.64]]framework for prioritizing features
+[[44.28]]which is I got out of talking to a bunch
+[[46.92]]of streamers and they wanted to fame
+[[50.04]]love and money is this thing producing
+[[53.46]]more money more fame or more love right
+[[56.76]]we will prioritize resources against
+[[60.42]]those is it not then it's not important
+[[63.78]]or we're not going to do that Emmett and
+[[66.78]]I take the conversation at a bunch of
+[[69.84]]different directions about how he
+[[73.44]]learned to grow as a leader and how he
+[[77.22]]ultimately sold the business to Amazon
+[[81.18]]and then stayed on for another 10 years
+[[85.38]]after that running the company Amazon
+[[89.7]]actually lets CEOs be CEOs if you want
+[[93.54]]to sell your company and keep running it
+[[96.48]]I couldn't recommend any really any big
+[[99.6]]tech company other than Amazon how do we
+[[102.78]]just make sure twitch continues to be
+[[106.02]]the best place for streamers we also
+[[110.22]]talk about why he thinks remote work is
+[[114.78]]actually bad for most tech companies
+[[118.08]]there's a reason why silicon Valley's
+[[120.84]]taking over you can't take that culture
+[[123.66]]and Transplant it into a remote work
+[[126.72]]environment and expect it to work Emmett
+[[130.92]]was a part of the first y combinator
+[[136.62]]batch in 2006 along with the founders of
+[[142.02]]Reddit and Sam Altman and so we talked
+[[145.98]]what it was like in the early days of
+[[149.64]]working with Paul Graham at YC he's
+[[152.94]]going to walk away from the conversation
+[[157.5]]with Paul believing we are the shed we
+[[162.18]]are smart capable and we're going to
+[[165.12]]take over the world the only thing
+[[167.82]]standing between us and taking over the
+[[170.46]]world is we have to go grind even harder
+[[173.7]]road trips are not tours of gas stations
+[[177.0]]and your life shouldn't be a tour of
+[[180.72]]money picking finally Emmett shares what
+[[184.62]]he's most concerned about with
+[[188.4]]artificial intelligence so here's now
+[[193.04]]Emma
+[[195.52]]thanks for doing this
+[[199.84]]um you had four co-founders of twitch
+[[205.6]]Justin TV uh you stayed on ran twitch
+[[211.3]]Michael has been running various aspects
+[[216.46]]of YC over the years uh Kyle started
+[[221.56]]Cruise after he left
+[[225.88]]and then Justin
+[[231.04]]Khan is a quasi internet celebrity at
+[[235.84]]this point I mean he's gone through a
+[[239.44]]bunch of stuff but yeah he had Atrium he
+[[244.0]]had exact Atrium and now yeah now I
+[[249.34]]think internet celebrity and uh DJ DJ
+[[255.28]]got it interesting guy uh what made your
+[[260.74]]relationships to their co-founders such
+[[265.24]]that you guys all stayed together and
+[[270.82]]worked well together over the years so
+[[276.6]]uh I've known Justin since I was eight
+[[281.46]]uh we grew up together in Seattle went
+[[286.18]]to school together uh school being a
+[[291.4]]high school elementary school uh Middle
+[[296.14]]School who she didn't go to the same
+[[299.26]]high school but then we did go to the
+[[302.44]]same College again
+[[307.84]]um and I met we met Michael uh in
+[[313.0]]college probably closer to Justin than
+[[317.38]]to me uh and then Kyle we recruited out
+[[322.6]]of MIT uh as we were starting the
+[[327.7]]company he was a uh he was a I think a
+[[331.72]]sophomore at the time
+[[334.84]]how did you come across Kyle well he
+[[338.98]]says an email to the MIT like hackers
+[[343.66]]who want projects list and two people
+[[348.34]]replied and one of them was Kyle
+[[352.66]]um and uh
+[[356.02]]he thought we seemed incredible because
+[[360.16]]we built a startup and sold it on eBay
+[[365.02]]before and we thought he seemed credible
+[[370.06]]because he sent us a 27-page PDF with
+[[376.72]]CAD drawings and so we uh uh we wound up
+[[382.06]]we want to pick him up selling a startup
+[[385.18]]on eBay by the way we glossed over that
+[[389.56]]but uh you literally listed the IP for
+[[394.18]]your company on eBay which is an
+[[397.6]]interesting separate story you've told
+[[400.42]]it you've told him enough I won't make
+[[402.82]]it again but I can tell the short
+[[405.64]]version of it which is that we'd started
+[[409.0]]a copy of Google Calendar but before
+[[412.9]]Google Calendar existed and after Google
+[[416.62]]launched Google Calendar we were like oh
+[[419.26]]we didn't really have any other ideas
+[[422.92]]for what to do other than a JavaScript
+[[427.12]]calendar on the internet and they
+[[431.62]]already did that so uh we decided we'd
+[[436.66]]sell it uh
+[[440.8]]we didn't know how to sell something on
+[[444.16]]the Internet like how to sell us a
+[[448.0]]software company uh especially one that
+[[452.38]]wasn't like a real acquisition and so we
+[[456.16]]thought we just listed on eBay uh which
+[[459.28]]which worked actually we sold like a
+[[462.22]]quarter million dollars
+[[465.64]]um which
+[[468.82]]um I think it's actually a good
+[[472.24]]demonstration of like the kind of thing
+[[476.02]]you have to do in startups a lot which
+[[478.9]]is
+[[481.9]]you you have to just figure out how to
+[[486.52]]solve a problem uh
+[[492.04]]even if the standard paths don't that
+[[497.32]]you have to make up what what it is
+[[501.52]]um there's a lot of making it up uh that
+[[504.7]]has to happen first first thing like
+[[508.36]]startup because almost by definition the
+[[512.38]]normal stuff isn't isn't all set up was
+[[516.1]]that a PR did you know it was going to
+[[520.12]]be kind of PR stunty and that that would
+[[524.44]]lead to distribution yeah that was that
+[[527.74]]was the idea that was part of it the
+[[529.96]]idea was we were like we need to get
+[[532.84]]people to know we're selling it how do
+[[536.26]]we reach them oh if we listed on eBay
+[[539.56]]that'll be funny we can get people to
+[[542.98]]write an article about that it was very
+[[546.16]]intentional it actually worked it worked
+[[548.86]]that's how it worked it worked it worked
+[[551.92]]as planned actually yeah minus the fact
+[[555.04]]that eBay took down our listing is we
+[[558.64]]had two links in it
+[[563.56]]um about five days into the seven day
+[[568.24]]listing and we had to relist it which is
+[[572.14]]kind of a hard stopping experience
+[[575.5]]because we had one bit at fifty thousand
+[[578.02]]dollars at that point and we were like
+[[581.86]]no we've lost our bidder uh but it turns
+[[586.54]]out that uh that that didn't actually
+[[589.9]]hurt us at all so you had the
+[[593.08]]credibility of that and so Kyle was like
+[[596.38]]these guys have credibility yeah they
+[[599.86]]they must know what they're doing I I
+[[603.22]]think Kyle overestimated how much
+[[605.74]]credibility that should have given us
+[[609.16]]but uh it did it did prove that we were
+[[612.82]]the kind of people who like could
+[[616.12]]actually build things um and sell them
+[[620.86]]so that's I guess it wasn't a zero and
+[[625.54]]there was a deep level of trust but also
+[[629.32]]some dysfunction among the group Kyle
+[[632.98]]went nocturnal for a while to avoid
+[[637.78]]conflicts so yeah there's actually we
+[[642.4]]did a podcast about this uh an only
+[[646.54]]friends episode which is great it's
+[[650.92]]super entertaining two hours of like you
+[[654.4]]guys shooting the yeah if you want
+[[658.42]]the the full full deep details version
+[[666.58]]of it but the high level version is uh
+[[676.38]]like it worked because all four of us
+[[682.74]]trusted each other
+[[686.44]]um and we somehow managed to pick four
+[[691.36]]people who were smart hard-working you
+[[697.0]]know competent but I think most of all
+[[700.84]]who had the
+[[704.2]]who understood what it meant to be part
+[[709.24]]of a Wii not not a bunch of individuals
+[[716.38]]always thinking about whether or not uh
+[[721.96]]how is this working for me
+[[725.86]]um and I think that that's what makes
+[[730.9]]uh that's what makes Partnerships work
+[[734.5]]um
+[[737.14]]both probably like romantic Partnerships
+[[741.82]]and business Partnerships because if
+[[745.78]]you're going to be in a a partnership
+[[748.48]]not an employer employee relationship
+[[752.2]]but a partnership relationship you can't
+[[757.48]]always be thinking about whether or not
+[[762.82]]or you can't be modeling what what are
+[[766.6]]they doing are they are they trying to
+[[769.72]]what what's their incentive versus my
+[[772.9]]incentive versus the company's incentive
+[[776.56]]it's dramatically simplifying it makes
+[[780.04]]everything a lot easier if you can just
+[[783.52]]only think about what is right for the
+[[787.36]]company and then just ignore everything
+[[790.24]]else
+[[792.7]]um
+[[795.04]]and I think that that's something that
+[[798.28]]goes wrong in a lot of uh a lot of
+[[801.64]]things and it's it's what causes
+[[805.06]]instability because suddenly
+[[808.78]]when there's lots of interest at stake
+[[812.08]]there is conflict about my interest
+[[815.62]]versus your interest but when you can
+[[819.34]]simplify it to well what is our interest
+[[822.34]]and everyone everyone can actually
+[[825.46]]commit to that uh it works pretty well
+[[829.54]]is there any way to solve for that as
+[[833.44]]you're now working more with
+[[836.74]]entrepreneurs
+[[840.82]]um yeah be that way yourself yeah like
+[[845.32]]the number one the number one cause of
+[[848.68]]the problem in all of your relationships
+[[852.94]]is you that's true again romantically
+[[858.76]]and in business uh and
+[[866.08]]the solvings for how do I
+[[874.54]]actually buy into this is this is we we
+[[879.94]]are doing this is really important and
+[[883.06]]then also obviously you need to work
+[[886.36]]with people who have that mindset as
+[[890.32]]well but you have less control over that
+[[894.82]]and you have less ability to detect it
+[[898.0]]and at some level you know you have to
+[[900.52]]trust and Hope
+[[904.06]]but uh I think there's something about
+[[908.26]]if if you do it
+[[911.5]]first of all you can control that so
+[[915.4]]that's good but second of all
+[[920.02]]it brings it out of other people when
+[[923.74]]they when they can see that you're
+[[928.12]]serious about we and you're not
+[[932.86]]you're not run you're not gaming them
+[[937.3]]you're not cheating uh you're not like
+[[941.44]]pretending you're about all about we and
+[[944.26]]then actually being about yourself
+[[947.32]]people respond to that it draws it out
+[[951.22]]of your partner as well so you launched
+[[954.76]]and shipped a bunch of products over the
+[[959.14]]years uh that ultimately led to Twitch
+[[964.3]]so there was a calendar for gmail which
+[[968.26]]was you and Justin then after that
+[[972.1]]social network for families SoundCloud
+[[976.78]]like business a web crawler that map
+[[981.76]]popularity like clout a flexible to-do
+[[986.62]]list kind of an airtable-ish thing an
+[[991.0]]Evite competitor something that was kind
+[[995.56]]of similar to GitHub her Roku replet
+[[999.58]]whatever you want to call it then Justin
+[[1003.3]]TV ultimately twitch I heard you say
+[[1006.96]]something interesting when learning you
+[[1009.9]]get exposure to a wide variety of
+[[1012.96]]problems related to the topic to
+[[1016.56]]actually teach you how to understand and
+[[1020.52]]see the differences between things you
+[[1024.06]]don't just study one piece of music to
+[[1028.08]]learn music did all these experiments
+[[1032.28]]and all the different products that you
+[[1036.18]]guys iterated on did it actually help
+[[1040.44]]prepare you for twitch's success or are
+[[1044.82]]they just aimless Cycles along the way
+[[1049.26]]um I think did help prepare us I think
+[[1053.16]]the main thing they actually prepared me
+[[1057.9]]for was building like I did learn
+[[1062.58]]something from the product work on it
+[[1066.24]]but honestly we did such a bad job on
+[[1069.26]]the product
+[[1073.88]]uh design aspects of it and the sort of
+[[1079.2]]business design aspects of it that I
+[[1082.14]]didn't learn as much from that as I'd
+[[1085.32]]like to what I what we learned from is
+[[1088.56]]the engineering side of it like the
+[[1090.9]]design side of it like how do you
+[[1093.96]]actually build a thing that like
+[[1099.3]]functions and and has uh has
+[[1104.64]]functionality and not too many bugs and
+[[1109.56]]I got a ton out of stuff on the uh
+[[1115.62]]uh on the building side I would say on
+[[1122.52]]the on the how does stuff work side and
+[[1128.22]]learning how to design how to how to
+[[1131.22]]build a product how to build a
+[[1133.98]]successful business
+[[1137.52]]um the stuff I built myself was probably
+[[1140.94]]only
+[[1146.22]]a tenth of the data mostly I was like
+[[1152.82]]obsessively studying how other
+[[1158.04]]businesses worked because you get a lot
+[[1162.36]]more you can only launch a new thing
+[[1166.8]]every you know few weeks if you're fast
+[[1171.06]]usually every few months like a
+[[1174.96]]significant new thing but there's new
+[[1178.92]]stuff being launched all the time and if
+[[1182.34]]you want the number of reps you need you
+[[1186.42]]can't just learn from your own your own
+[[1190.14]]mistakes you have to be learning from
+[[1192.42]]everyone else's mistakes and everyone
+[[1195.48]]else's successes at the same time I
+[[1201.42]]think that's the uh that was my
+[[1207.9]]you know my primary uh you know
+[[1213.0]]University for that was it what was with
+[[1218.04]]Justin with Michael with Kyle every
+[[1223.02]]lunch every night every weekend like we
+[[1228.6]]just talked about startups Non-Stop and
+[[1233.04]]the thing we would often be talking
+[[1237.18]]about would be not our startup but like
+[[1242.76]]oh why is you know Facebook is working
+[[1247.08]]why is Facebook working why are they
+[[1249.72]]beating Myspace like what's different
+[[1252.66]]about it why what's good about their
+[[1255.6]]strategy what's not good about their
+[[1258.06]]strategy
+[[1260.1]]um
+[[1262.98]]and that
+[[1267.0]]and really carefully paying attention
+[[1271.08]]and trying out and like using the
+[[1275.4]]product and and
+[[1278.88]]paying attention to what is actually
+[[1281.88]]working in the real world you learn a
+[[1285.54]]lot I think that's where that's probably
+[[1289.2]]the main thing I learned from from a
+[[1293.22]]design point of view I I I joke that
+[[1298.74]]that's my main only value as a career
+[[1304.92]]Finance person investor is one I'm used
+[[1309.36]]to just giving advice and letting people
+[[1312.18]]decide you know I'm not used to having
+[[1315.12]]actually owning the decision myself
+[[1318.42]]which is actually can be nice as a board
+[[1321.78]]member like hey here are the options and
+[[1325.38]]two you get to simulate out a lot of
+[[1328.98]]different data points for all the
+[[1332.22]]companies that come in and pitch and so
+[[1336.66]]you're you can extrapolate on a bunch of
+[[1340.68]]different stuff there
+[[1343.56]]one of the things that uh I have a
+[[1348.42]]friend uh Matt who uh almost started our
+[[1353.04]]first company with us but instead went
+[[1356.4]]into went into finance and you know runs
+[[1360.66]]a hedge fund and uh
+[[1365.4]]uh has worked at a bunch of the finance
+[[1370.62]]jobs over the years uh and he's he's an
+[[1374.52]]investor in what I've discovered is
+[[1377.34]]investors have this
+[[1381.36]]just in totally different lens at least
+[[1385.5]]you know public markets investors and I
+[[1388.68]]think most private markets investors as
+[[1391.92]]well who are a later stage where it's
+[[1396.24]]about like whether the industry is good
+[[1401.22]]and like the capital allocation like the
+[[1405.54]]structure of the business which is not
+[[1408.42]]something actually that Founders think
+[[1410.64]]about all that much and I think I think
+[[1413.22]]it's right that Founders don't think
+[[1416.34]]about that because For the First
+[[1420.18]]two three years of a company
+[[1424.62]]it doesn't matter like just build
+[[1428.64]]something people want and sell it to
+[[1432.66]]them like ignore everything else but as
+[[1436.5]]you get bigger and bigger those things
+[[1439.98]]become actually quite important and you
+[[1443.82]]start to try to think about oh or in
+[[1447.06]]this industry but we could be in this
+[[1449.64]]adjacent industry and there's some way
+[[1453.06]]to shift how our business is perceived
+[[1457.74]]or what kind of work we do and how
+[[1461.34]]what's the structure of how Capital
+[[1464.1]]flows work and can we change that and
+[[1467.46]]those actually do become very important
+[[1471.24]]questions but like usually later
+[[1474.42]]um there's sort of a handoff that
+[[1478.02]]happens it's funny to hear you all talk
+[[1483.9]]about like iterating on the product and
+[[1489.54]]trying to find something and one of the
+[[1493.44]]throwaway lines I've heard I don't know
+[[1496.56]]if is you adjusted or someone's saying
+[[1499.8]]we could go be build Enterprise software
+[[1502.86]]but that's boring and we don't want to
+[[1506.28]]go do that I was like you know in 2006
+[[1510.18]]or 2007 you would have created a lot of
+[[1513.36]]value doing Enterprise software and you
+[[1517.74]]were just like hey not for us that's too
+[[1523.86]]boring to go pursue it um I think uh we
+[[1529.14]]we talked about building instead of
+[[1533.4]]twitch or social cam
+[[1537.3]]um because Michael went and uh founded
+[[1540.18]]social cam which you end up selling to
+[[1543.24]]Autodesk that was weird in a way the
+[[1546.54]]Autodesk thing never really made sense
+[[1548.82]]to me
+[[1551.16]]um
+[[1554.52]]we talked about building a WebEx
+[[1558.3]]competitor because like WebEx is
+[[1561.42]]obviously a huge market like
+[[1565.32]]teleconferencing and
+[[1570.96]]we have like no doubt we could build a
+[[1575.7]]better product than WebEx because WebEx
+[[1578.82]]is annoying to use
+[[1581.52]]which we're basically talking about Zoom
+[[1584.34]]right a more consumer version of WebEx
+[[1587.28]]is zoom
+[[1590.22]]um and
+[[1595.26]]we decided against it because we knew it
+[[1600.54]]would involve Enterprise no not the
+[[1603.9]]product side of it but the sales side of
+[[1607.74]]it like Enterprise sales is like a whole
+[[1613.26]]business and uh
+[[1618.36]]we just like had no interest in like
+[[1621.84]]learning how to do that
+[[1625.8]]um and it's actually uh
+[[1630.48]]I think I think a good example of sort
+[[1634.14]]of knowing yourself like I actually
+[[1637.92]]don't think I would have had I think I
+[[1641.58]]probably could have learned how to do it
+[[1643.98]]but I don't think I didn't want to do
+[[1646.44]]that I wanted to do something else and I
+[[1649.08]]think it's it's important for Founders
+[[1651.36]]to do after the thing that they're
+[[1653.4]]interested in
+[[1656.46]]um although
+[[1660.48]]it was also a better time for Consumer
+[[1664.26]]like I think
+[[1668.04]]uh we go twitch worked a lot of actually
+[[1671.58]]good consumers companies started around
+[[1675.24]]that time it got a lot harder to win in
+[[1680.58]]consumer as the big player is
+[[1687.66]]Consolidated uh more of distribution and
+[[1693.0]]I think
+[[1696.48]]uh I think three or four years later
+[[1699.84]]maybe we would have pivoted into
+[[1702.96]]Enterprise just because lack of any
+[[1706.38]]credible other option just getting
+[[1709.68]]distribution would have been really hard
+[[1713.28]]with and certainly today it's a huge
+[[1717.96]]pain um there's an hourglass quote that
+[[1722.4]]I like a lot and I know you do as well I
+[[1726.12]]think I've quoted it before uh I won't
+[[1730.26]]read the whole thing but nobody tells
+[[1733.98]]this to people who are beginners I wish
+[[1737.1]]someone told me all of us who do
+[[1739.98]]creative work we get into it because we
+[[1743.22]]have good taste but there is a gap for
+[[1746.22]]the first couple years you bake stuff
+[[1748.8]]it's not that good it's trying to be
+[[1751.74]]good it has potential but it's not but
+[[1754.8]]your taste the thing that got you to the
+[[1758.94]]game is still killer and your taste is
+[[1763.56]]why your work disappoints you a lot of
+[[1766.98]]people never get past this phase they
+[[1770.34]]quit most people I know who do interest
+[[1774.3]]in Creative work went through years of
+[[1778.26]]this we know our work doesn't have the
+[[1781.98]]special thing that we wanted to have we
+[[1786.36]]all go through this and if you are just
+[[1790.56]]starting out or you are in this phase
+[[1793.68]]you got to know it's normal and the most
+[[1796.68]]important thing you can do is put in the
+[[1800.1]]work
+[[1804.72]]period it's a sort of profound quote I
+[[1808.5]]think it can be applied to a lot of
+[[1810.9]]different things as you guys were
+[[1815.22]]iterating on all of it did you did you
+[[1821.64]]know that your products just weren't
+[[1827.82]]that good and was it disappointing along
+[[1831.9]]the way to ship all these different
+[[1835.62]]things and not have it take off like you
+[[1840.6]]hoped it would yeah I'd say there's I
+[[1845.22]]had that in three different layers I'm
+[[1848.34]]the first one from an engineering
+[[1850.68]]perspective I just wasn't that good of
+[[1853.98]]an engineer I knew what good engineering
+[[1858.06]]looked like I remember visiting for the
+[[1863.6]]friend feed offices which had like
+[[1867.1]]Gmail incredible programmer I think who
+[[1872.0]]else is maybe Brett Taylor like like
+[[1875.6]]really
+[[1879.44]]insanely good programmers and them
+[[1883.16]]talking about their Engineering Process
+[[1886.1]]and like me using their product and
+[[1889.22]]seeing the engineering behind it just
+[[1891.8]]being like
+[[1895.4]]oh that's what that's what I'm trying to
+[[1900.22]]do that and like the thing I'm just like
+[[1904.54]]incompetent like the thing I'm doing I'm
+[[1908.3]]just doing this all wrong
+[[1911.06]]um and then spending like 10 years
+[[1915.38]]trying to get better at building stuff
+[[1921.02]]and eventually I I did learn how to
+[[1924.8]]build stuff more like the way that they
+[[1927.02]]did
+[[1929.72]]um and it was better but it was it was
+[[1933.44]]10 years of like being quite
+[[1936.68]]disappointed in the quality of the
+[[1939.5]]engineering I was doing
+[[1944.2]]it was it worked but it it wasn't like
+[[1949.78]]uh it wasn't
+[[1954.8]]well designed it wasn't good
+[[1958.16]]um
+[[1960.74]]and then there was this the product side
+[[1964.46]]where
+[[1968.3]]um
+[[1975.88]]I I did I didn't think I didn't
+[[1981.48]]I wasn't that disappointed in the the
+[[1986.28]]Micro Design of the products I just
+[[1989.34]]thought we did a pretty good job there
+[[1992.34]]from fairly early and to some degree
+[[1996.12]]it's a
+[[1999.42]]uh
+[[2005.3]]it's a little different from uh from
+[[2011.9]]other kinds of creation things sort of
+[[2016.04]]like whatever you can think of you can
+[[2019.88]]kind of do like copying is very easy at
+[[2023.48]]that level and so if you have good taste
+[[2026.96]]you can just copy good stuff and it
+[[2031.46]]works but at the macro level there's
+[[2036.14]]this thing missing where like
+[[2041.42]]we weren't good at business well we
+[[2047.24]]weren't good at figuring out what do we
+[[2053.3]]need to build that people will actually
+[[2058.46]]want and the constant disappointment was
+[[2062.06]]we'd build stuff and I wouldn't have
+[[2065.78]]actually solved the problem for the
+[[2068.66]]person I think
+[[2072.02]]and that was very frustrating and like
+[[2078.8]]hard to uh hard to deal with and
+[[2086.84]]uh there was a sense of like
+[[2092.42]]uh
+[[2096.56]]that that's that's almost more like
+[[2100.94]]learning to do science
+[[2104.84]]I would say the engineering thing is the
+[[2107.66]]thing where I felt The Hourglass quote
+[[2110.0]]the strongest
+[[2112.58]]the
+[[2116.42]]and about like I had this level of taste
+[[2119.84]]where I could really see what I was
+[[2122.12]]trying to do and I couldn't achieve it
+[[2125.66]]with my hands the other thing was not
+[[2130.66]]understanding like
+[[2136.42]]uh it's like I was I was I was a grad
+[[2140.9]]student I was writing papers and they
+[[2143.84]]were getting published but I knew I
+[[2146.6]]wasn't actually like discovering
+[[2149.84]]anything that's that important like the
+[[2154.52]]the papers which weren't on important
+[[2158.96]]discoveries and I was somehow missing I
+[[2162.8]]knew I was missing something
+[[2165.8]]um
+[[2168.26]]but that's a that's a slightly different
+[[2172.88]]thing Than The Hourglass question
+[[2180.02]]Justin TV so you the original idea for
+[[2185.84]]it for people that don't remember was
+[[2188.66]]actually
+[[2193.28]]following Justin your co-founder around
+[[2200.24]]for 24 hours a day filming 100 of his
+[[2205.16]]life
+[[2209.72]]did you did you actually think at that
+[[2215.6]]time that like that you would be a
+[[2221.42]]reality television Studio business or
+[[2226.1]]did you know this was kind of a means to
+[[2230.36]]some end and you were mucking around the
+[[2235.94]]idea was always that we would
+[[2240.86]]open it up for other people to produce
+[[2244.22]]shows like we never thought we were
+[[2247.1]]going to be the people
+[[2249.74]]for doing the production everything
+[[2252.86]]we're going to license the MTV or
+[[2256.58]]whatever yeah we we thought we were
+[[2260.78]]produ building a technology to enable
+[[2265.04]]ourselves to make the first
+[[2269.42]]live streaming reality show and that
+[[2273.32]]other people would then go on to build
+[[2276.32]]make more live streaming reality shows
+[[2280.04]]using using what we built which you know
+[[2284.36]]within one order of magnitude is what
+[[2287.96]]what happened
+[[2293.24]]um but where we got what went wrong was
+[[2298.7]]that uh
+[[2301.88]]uh with that Vision was that like
+[[2305.9]]reality TV requires editing live reality
+[[2310.22]]TV is a bad idea
+[[2313.34]]I just didn't really understand how the
+[[2316.28]]entertainment I didn't understand we
+[[2318.74]]didn't understand anything about
+[[2322.52]]anything so that that was that was crazy
+[[2327.68]]but actually to level below that we were
+[[2331.94]]very very right because we what we
+[[2336.08]]actually had was that Justin
+[[2339.68]]uh who
+[[2343.4]]uh has always been you know living in
+[[2346.58]]the future a little bit when it comes to
+[[2348.68]]this kind of stuff
+[[2353.06]]uh really wanted to be an influencer and
+[[2358.22]]really wanted the attention and wanted
+[[2362.0]]thought it would be cool to like live
+[[2367.1]]stream a lot about of of his life which
+[[2371.78]]was a thing that not a lot of people had
+[[2375.8]]done at that point and we built the
+[[2380.96]]technology to enable him to live his
+[[2386.0]]influencer dreams and that turned out to
+[[2390.98]]be quite powerful actually
+[[2394.82]]um the number one thing we did right
+[[2397.4]]with Justin TV the thing I would
+[[2400.1]]encourage everyone who's trainable
+[[2403.82]]consumer software to do is we built
+[[2407.9]]something for ourselves we built the
+[[2412.16]]thing that we wanted to use every day or
+[[2415.82]]at least one person on our team wanted
+[[2419.66]]to use every day and uh most of the
+[[2423.68]]Innovations
+[[2426.92]]on Twitch on Justin TV were things we
+[[2430.64]]invented for ourselves running the show
+[[2433.88]]because we thought they'd be fun like
+[[2437.0]]the idea of having uh our own custom
+[[2440.9]]emotes and chat that are like faces of
+[[2445.28]]the people on the show that twitch
+[[2450.44]]distilled does that today uh
+[[2455.78]]and we had that idea because we were
+[[2459.56]]running the show we would never have
+[[2463.82]]come up with it in a vacuum and so I
+[[2467.6]]think there's something really powerful
+[[2470.6]]about that approach even though we were
+[[2474.8]]we were wrong about the reality TV show
+[[2478.94]]thing we were right about
+[[2483.68]]people wanting to do live streaming I
+[[2489.32]]mean twitch was ultimately a version of
+[[2494.48]]just Justin TV it was just more uh
+[[2499.94]]verticalized or specialized do you think
+[[2505.22]]had you kept that Justin TV I guess why
+[[2509.18]]didn't you guys keep at Justin TV why
+[[2513.32]]didn't you keep plowing ahead we we got
+[[2517.7]]Justin TV profitable after the 2008
+[[2522.86]]financial crisis uh I've spent about a
+[[2528.38]]year you know cutting costs generating
+[[2533.18]]Revenue just iteratively focused on
+[[2537.38]]money and you had a Doomsday Clock
+[[2541.22]]actually on the wall yeah is that
+[[2544.88]]something you would recommend to people
+[[2547.94]]it wasn't on the wall it was every every
+[[2550.52]]Friday we would sit down with the
+[[2553.46]]employees and be like we've got we've
+[[2557.18]]got you know 14 months we've got 11
+[[2561.08]]months we've got I think at the worst
+[[2564.02]]case it was like we were down to like
+[[2566.18]]nine weeks
+[[2569.42]]um
+[[2574.76]]it was certainly clarifying I think uh I
+[[2580.4]]only recommend it if you can convince
+[[2586.46]]people on the team that we can't succeed
+[[2592.22]]otherwise people will start
+[[2595.88]]uh packing their bags and looking
+[[2599.48]]elsewhere pretty fatalistic um but I
+[[2602.72]]think I think
+[[2606.38]]the founding team never showed any
+[[2610.4]]indication nor ever had any indication
+[[2613.76]]or belief that we weren't going to
+[[2617.3]]figure it out we were we were very sure
+[[2621.56]]and also we we started sharing We Didn't
+[[2625.4]]Start sharing it when there's like two
+[[2628.34]]months left we started sharing it quite
+[[2631.76]]far in advance
+[[2634.82]]um
+[[2637.64]]and everyone could see that while the
+[[2641.72]]Clock Was ticking down the rate was
+[[2645.86]]getting better and we were making
+[[2650.0]]progress and so it felt like oh yeah
+[[2653.42]]yeah
+[[2656.48]]we are pulling the plane out of the dive
+[[2660.98]]it might be a close thing but like they
+[[2664.46]]could people could see that we were
+[[2667.46]]going to get there so was the pursuit of
+[[2671.96]]profitability ultimately at the expense
+[[2677.78]]of Justin TV's success as a standalone
+[[2682.46]]oh it was it was at the expense of our
+[[2685.88]]growth uh
+[[2689.24]]and then we had this thing that wasn't
+[[2692.54]]growing we're trying to decide I was
+[[2695.9]]profitable but I'm not growing and we're
+[[2699.02]]trying to decide okay what do we do from
+[[2701.66]]here
+[[2704.0]]and
+[[2706.88]]uh
+[[2711.56]]no one thought just pursuing Justin's we
+[[2717.2]]had no good ideas for ideas for what to
+[[2720.98]]do to like
+[[2725.24]]reinvigorate growth of Justin TV per se
+[[2730.34]]and so we had you know Michael they did
+[[2734.48]]a pivot into so much you built some
+[[2738.44]]mobile video stuff which in an era
+[[2742.28]]before before Snapchat and before Tick
+[[2746.06]]Tock pretty good Insight yeah
+[[2748.64]]um
+[[2751.64]]I like Autodesk didn't seem to execute
+[[2755.66]]on the uh the vision of the consumer
+[[2758.9]]video yeah we didn't quite get there but
+[[2762.56]]but like but there was a there was a
+[[2766.46]]there for sure
+[[2769.64]]um
+[[2773.6]]and uh I want to do the video game thing
+[[2779.06]]because I was watching video games on uh
+[[2784.34]]on Justin TV and enjoying it
+[[2789.14]]um but the big pivot from Justin TV to
+[[2792.92]]Twitch like the real difference between
+[[2795.8]]the two companies is not the gaming
+[[2799.58]]versus the uh general purpose thing
+[[2803.9]]that's a superficial change
+[[2808.4]]um and it motivated me to focus on a set
+[[2812.66]]of customers
+[[2815.3]]um
+[[2818.44]]but I think we could have in retrospect
+[[2823.0]]I know why we did the Rebrand and like
+[[2826.22]]but we actually had a debate at the time
+[[2828.86]]whether we needed to do the redrands I
+[[2831.68]]think we probably would have been
+[[2834.44]]successful without it I think the
+[[2838.16]]Rebrand was helpful and it was
+[[2843.74]]uh it made more sense like that uh for
+[[2849.8]]the uh for the company and so it's
+[[2854.36]]probably like you know a good idea I
+[[2859.04]]would do it again but not strictly
+[[2863.42]]necessary would have found some amount
+[[2867.44]]of a similar level of success regardless
+[[2872.42]]and uh
+[[2877.34]]no but the big change the big change was
+[[2880.64]]was
+[[2883.76]]I realized that the important customer
+[[2889.1]]for live was the streamer not the viewer
+[[2893.6]]that
+[[2897.68]]that ultimately for live video unlike
+[[2903.62]]for uh for YouTube
+[[2910.28]]um we we could not say well whatever the
+[[2915.02]]creators will deal with it what matters
+[[2917.42]]to the audience they're just here for an
+[[2919.34]]audience
+[[2921.14]]they weren't really there for the
+[[2923.6]]audience the the audience was there for
+[[2927.02]]them and you have to keep winning the
+[[2930.62]]streamer's business every day because if
+[[2933.44]]you don't they're gonna go stream
+[[2936.08]]somewhere else and now
+[[2939.44]]there's no library of content like there
+[[2944.18]]is for the uh for something like YouTube
+[[2948.8]]and so
+[[2952.58]]you can't just have people show up
+[[2956.24]]create a little bit and leave that like
+[[2958.82]]that doesn't work you need people
+[[2961.76]]creating all the time and so the focus
+[[2965.12]]had to be how do we build something
+[[2968.84]]great for streamers
+[[2973.16]]um and that's why we invented paying
+[[2977.36]]streamers money that's why we like I
+[[2980.36]]went and interviewed a bunch of
+[[2983.06]]streamers and figured out here's what
+[[2986.84]]streamers need
+[[2991.76]]um and that was a that was a much bigger
+[[2996.86]]shift than the gaming part was
+[[3001.36]]building a product that was designed for
+[[3005.86]]streamers first and foremost was the
+[[3010.96]]gaming thing in intuition on your part I
+[[3015.52]]mean you obviously enjoyed watching it
+[[3020.14]]uh or was there I guess as you reach
+[[3025.6]]these conclusions gaming and focusing on
+[[3030.94]]streamers and not the viewers was there
+[[3036.22]]data that backed that up or was it just
+[[3040.24]]an intuition thing that you kind of
+[[3043.9]]realized the gaming thing was purely
+[[3048.04]]intuition I mean you could point at data
+[[3052.42]]like there are a lot of Gamers if I was
+[[3056.56]]to do a McKinsey market research thing I
+[[3059.92]]could be like Oh look The size gaming
+[[3062.74]]industry is very large that's more
+[[3065.44]]increasingly spending more time on the
+[[3068.74]]internet bessemer's memo is uh public
+[[3072.76]]from their investment so you can go look
+[[3076.12]]at all their Market sizing stuff I
+[[3078.64]]actually went back and I found my the
+[[3081.76]]email I wrote that's like it's like uh
+[[3085.66]]two paragraphs long like a like a half
+[[3089.38]]page email that's like here's why gaming
+[[3093.04]]makes sense and it's basically it's the
+[[3096.28]]very abbreviated version of that
+[[3098.92]]argument
+[[3102.34]]um advertisers like gaming you know like
+[[3106.3]]the game companies interest are aligned
+[[3109.9]]with ours so the copyright stuff like I
+[[3113.5]]thought about that but the idea was
+[[3117.94]]purely intuition I really like this I
+[[3122.2]]bet I'm not that much of a weirdo like I
+[[3126.34]]I like popular media if I like watching
+[[3130.72]]this it's likely to also be a popular
+[[3133.66]]media
+[[3136.18]]um
+[[3141.28]]the part that was more data backed was
+[[3146.8]]the streamer part
+[[3149.8]]um
+[[3152.62]]I went and looked and found that there
+[[3155.62]]were about 200 people making gaming
+[[3159.16]]content and
+[[3163.6]]who had any audience at all and I was
+[[3168.34]]like oh if we get
+[[3173.38]]you know if we can convince 180 of those
+[[3177.64]]people to stream on Twitch
+[[3181.42]]we just win like there's just there's
+[[3185.02]]just no it's just unambiguous there's no
+[[3188.56]]way we can lose actually
+[[3192.16]]um and so we just pivoted the company to
+[[3195.34]]be fully focused on that and that I
+[[3199.0]]think was reasonably data driven in the
+[[3202.0]]sense that
+[[3205.36]]I went and like looked at I looked at to
+[[3208.9]]just make the decision about viewer
+[[3211.3]]versus streamer I went and actually got
+[[3215.02]]data and then thought about it um
+[[3219.04]]although
+[[3222.16]]it was certainly informed by having
+[[3225.16]]worked in the space for five years and
+[[3228.28]]like having the intuition to sort of
+[[3231.7]]understand the dynamic of
+[[3235.18]]uh what it would mean to win a streamer
+[[3239.2]]and so the band kind of broke up at that
+[[3243.76]]point Michael went with social cam
+[[3248.86]]Justin left the company around then and
+[[3254.02]]Kyle ran the legacy of what was Justin
+[[3260.32]]TV for a while yeah so we uh we actually
+[[3266.2]]weren't sure whether we wanted to do the
+[[3270.16]]social cam idea or the gaming idea
+[[3274.36]]instead of debate it we were like we're
+[[3279.04]]gonna fund the gaming idea and the
+[[3283.36]]mobile idea is like Skunk Works projects
+[[3286.78]]and then we're gonna set goals and if
+[[3290.2]]they hit the goals we will pivot to them
+[[3294.16]]it was just jamming more ads on Justin
+[[3298.6]]TV to pay for this we are our jamming
+[[3302.32]]words TV that was that was already the
+[[3305.98]]pre-roll mid-roll banner that was
+[[3309.64]]already the plan yeah the plan was
+[[3312.16]]already to extract like we were already
+[[3314.5]]in the we were
+[[3318.46]]Justin TV plan unchanged extract maximum
+[[3322.3]]profit
+[[3324.64]]um
+[[3328.24]]we then but yeah that meant we were
+[[3332.8]]profitable which we could fund like
+[[3336.64]]these projects
+[[3341.56]]um and twitch we hit our goals we hit
+[[3346.74]]like the we hit like I said like a 25
+[[3350.7]]growth a month goal and we were hit like
+[[3355.6]]a 30 growth a month which is great
+[[3359.5]]um and how did you go about actually
+[[3361.9]]doing that was that the work with the
+[[3365.14]]streamers yeah it was just it was the
+[[3368.26]]the
+[[3372.28]]exact process I was talking about of
+[[3377.62]]like oh there's 200 streamers let's call
+[[3381.04]]them
+[[3383.8]]what does it take to convince them I'm
+[[3387.28]]sorry Kevin was one of the very first
+[[3390.64]]people who I think he was the first
+[[3394.42]]person I brought on to my my gaming team
+[[3397.6]]he was my the first time I was like I
+[[3401.62]]need Kevin I was like Kevin uh was our
+[[3406.54]]he was basically all the non-programming
+[[3410.62]]engineering stuff originally
+[[3414.22]]um and I was like Kevin
+[[3417.52]]your mission is to convince people they
+[[3421.36]]need to stream gaming on Justin TV like
+[[3425.56]]go talk to them and get them to do it um
+[[3428.74]]and Kevin is probably one of the single
+[[3431.14]]best beauty people I've ever worked with
+[[3435.22]]and uh he did a very good job of doing
+[[3439.6]]that and like I backed him up with he
+[[3442.18]]would be like Oh They'll switch if we
+[[3444.88]]build this and I'm like great on it and
+[[3448.0]]then we just go build
+[[3450.82]]the thing
+[[3452.98]]um
+[[3456.04]]Michael had took two engineers and built
+[[3462.1]]uh and Justin kind of uh started working
+[[3467.08]]mostly on that project with Michael
+[[3471.04]]building uh social cam
+[[3475.24]]we didn't actually hit the social cam
+[[3477.88]]goals it took them longer to build
+[[3482.2]]Twitch uh the Justin TV gaming was like
+[[3487.06]]literally just built on Justin TV gaming
+[[3489.76]]like we didn't have to build a new
+[[3491.56]]product
+[[3494.56]]we turned out we overestimated how fast
+[[3498.88]]it was it would be to build
+[[3503.38]]uh an entirely new product from scratch
+[[3507.88]]for mobile gaming so that they didn't
+[[3511.36]]hit the growth goals but we felt like
+[[3513.82]]the product they built was promising
+[[3516.04]]enough that it was worth doing the
+[[3518.98]]effort to spin it off and be retrospect
+[[3522.4]]we were right about that too so we spun
+[[3525.34]]that off
+[[3529.96]]um Michael went with it uh Justin hung
+[[3534.94]]around for a few months but like I think
+[[3539.26]]you know
+[[3543.64]]was also feeling the issue something
+[[3547.3]]else and I think wasn't it it's funny
+[[3550.78]]Justin now like loves twitching like
+[[3553.9]]with learned what the product was I
+[[3556.72]]think at the time didn't really
+[[3560.26]]understand or love the gaming streaming
+[[3564.16]]product and so he was like didn't want
+[[3567.1]]to work on it that much which totally
+[[3571.6]]makes sense to me um and then Kyle uh
+[[3577.24]]was figuring out what to do graciously
+[[3582.42]]ran the Legacy business for me for like
+[[3587.28]]uh more than a year I think and then
+[[3591.76]]found uh Colin carrier who was our uh
+[[3596.2]]who was the his replacement
+[[3600.22]]um to run it uh which was amazing
+[[3603.46]]because like that was basically funding
+[[3606.34]]the business so we needed someone good
+[[3609.16]]running it
+[[3613.3]]um and then he went off to start Cruise
+[[3617.98]]I heard you say that people come for the
+[[3621.42]]entertainment but stay for the
+[[3626.4]]relationships within the community what
+[[3631.24]]when did you realize there was something
+[[3634.6]]unique going on from a community
+[[3638.68]]standpoint yeah come for the video stay
+[[3643.96]]for the chat so
+[[3649.78]]uh when I first started building twitch
+[[3654.22]]I was using myself as the Prototype
+[[3658.36]]viewer and I am the type of viewer we've
+[[3662.26]]come to call a strat the strategist
+[[3665.62]]which means I was there because I liked
+[[3668.8]]watching people who are good at the
+[[3671.74]]games that I like to play so I could
+[[3675.46]]learn from them ask them questions stuff
+[[3679.96]]like that almost like a group coaching
+[[3683.5]]session
+[[3685.12]]um
+[[3687.64]]or I could watch Esports and like like
+[[3691.72]]live uh Esports entertainment and that
+[[3696.82]]was also that was also uh great for me
+[[3701.32]]um
+[[3705.22]]it turned out very rapidly though that I
+[[3709.0]]was in the minority strategists make up
+[[3711.94]]about 20 percent
+[[3715.18]]of twitch viewers
+[[3718.66]]80 of people were there because they
+[[3722.2]]like they liked the hanging out they
+[[3725.5]]liked the connection they got from
+[[3728.62]]hanging out with other people in chat
+[[3733.0]]and
+[[3737.74]]talking to people looking you know
+[[3741.16]]watching them it was just rapidly
+[[3745.0]]obvious oh I'm I'm actually not the
+[[3749.14]]Prototype here these other people are
+[[3752.86]]the Prototype is that are those the two
+[[3756.82]]groups yeah you can you can you actually
+[[3760.48]]can subdivide the community group more
+[[3763.6]]finely so we have more second Graphics
+[[3767.02]]underneath that but they're at the top
+[[3770.5]]level there's like are you there for the
+[[3773.2]]entertainment or are you and then
+[[3775.84]]learning or are you there for the
+[[3779.32]]entertainment and then Community
+[[3782.26]]um
+[[3784.84]]and then there's you can you can go
+[[3788.26]]deeper I'm curious like are there any
+[[3791.74]]broad Strokes of the other types of
+[[3795.52]]people it's it comes down to like are
+[[3799.42]]you do you
+[[3804.52]]are you about uh the personality more or
+[[3810.94]]are you about uh the chat Vibe more like
+[[3815.98]]what's the what's the part of being here
+[[3819.22]]that's the most important thing but like
+[[3822.34]]it's a little inside baseball and
+[[3826.36]]fundamentally not that important because
+[[3831.1]]they all benefit from the same like it
+[[3834.7]]you don't actually build different
+[[3837.4]]products for different people yeah so it
+[[3840.1]]doesn't you know it's at some level it
+[[3842.26]]doesn't really matter
+[[3845.02]]um whereas the the learning versus
+[[3849.82]]Community thing is a really important uh
+[[3854.98]]product impacting Insight
+[[3858.46]]um and so that's when we sort of
+[[3862.84]]realized like oh people are there for
+[[3869.14]]the connection okay that's the like real
+[[3874.12]]that's the thing they stick around for
+[[3878.14]]most of our users stick around for
+[[3881.74]]um and so
+[[3886.96]]that was uh that was a pretty deliberate
+[[3893.14]]uh learning from looking at our users
+[[3896.62]]like it wasn't we didn't just make it up
+[[3899.86]]were there non-obvious things that you
+[[3904.0]]did to cultivate the community or
+[[3907.78]]ultimately what is building the product
+[[3911.74]]for the streamer then it became obvious
+[[3916.12]]that they would cultivate it yeah no I
+[[3919.9]]think that that was the that was the
+[[3923.14]]learning from focus on the streamer was
+[[3927.4]]like very very early it's obvious if our
+[[3932.68]]customer is the streamer then our job is
+[[3937.54]]to help them cultivate their Community I
+[[3940.9]]still believe that to be true I don't
+[[3943.6]]think twitch has communities doesn't
+[[3947.14]]have any Community Church has streamers
+[[3951.46]]streamers have communities and when
+[[3956.08]]people get confused and think that oh
+[[3960.64]]the community people on Twitch care
+[[3963.94]]about twitch they don't care about
+[[3966.58]]twitch they care about the streamer and
+[[3969.76]]our job is to
+[[3973.12]]facilitate that
+[[3976.66]]um and it's very egoic I think it's like
+[[3979.54]]you get you're like you're telling the
+[[3982.6]]story that you're the hero the streamer
+[[3985.96]]is the hero our job is to like with the
+[[3989.02]]one of the slogan we came up with for it
+[[3992.08]]later was we play support
+[[3995.44]]like the streamer is the carry we are
+[[3998.38]]support
+[[4002.16]]um and I think that's uh
+[[4007.74]]that's a key like mental model for a
+[[4012.0]]product like twitch
+[[4016.14]]twitch was able to uniquely beat back
+[[4021.66]]competition from a bunch of uh heavily
+[[4027.36]]funded tech companies along the way I
+[[4032.52]]guess what was the feeling Google had a
+[[4037.74]]famous tweet welcome player two uh when
+[[4042.12]]they when they announced their presence
+[[4044.64]]where were you when that happened what
+[[4047.88]]was the sentiment around that yeah so
+[[4051.36]]after we were acquired by Amazon I think
+[[4053.82]]everyone else who was like oh maybe
+[[4055.98]]we'll acquire twitch it's like oh we're
+[[4059.52]]not gonna acquire twitch okay uh we
+[[4063.24]]better launch competitors and So within
+[[4067.5]]like less than a year Microsoft
+[[4073.38]]Google YouTube and Facebook had all
+[[4077.36]]launched
+[[4081.74]]very explicit like twitch competitors
+[[4086.94]]and started spending huge amounts of
+[[4090.6]]money bidding on streamers
+[[4093.72]]um in a very non-sustainable way that
+[[4096.96]]wasn't that was trying to them trying to
+[[4100.86]]buy a critical mass
+[[4105.24]]um of uh of audience
+[[4111.12]]uh which was uh was exhilarating
+[[4116.94]]um I think it was good for twitch like
+[[4120.66]]competition is good it's good for the
+[[4123.0]]service
+[[4125.64]]um yeah we we posted a kind of snarky
+[[4129.36]]tweet they sort of Welcome player two uh
+[[4134.82]]when when uh YouTube launched theirs
+[[4139.98]]um but I think that really was our
+[[4143.52]]attitude which was like
+[[4146.82]]if you can build a better product for
+[[4149.94]]the streamers you're more than welcome
+[[4153.54]]and you should win
+[[4157.14]]um but we think our product's better and
+[[4159.78]]we think streamers are going to choose
+[[4162.18]]us every time
+[[4165.48]]and our strategy to beat everybody was
+[[4169.2]]we had to bid against people and stuff
+[[4172.32]]but like ultimately we let a lot of
+[[4175.08]]streamers walk like we we could have
+[[4178.14]]kept bidding more money
+[[4180.6]]um
+[[4184.86]]and uh we didn't outbid on everything we
+[[4189.84]]updated a bunch of stuff but like not
+[[4192.6]]everything
+[[4195.96]]um and
+[[4199.98]]our Focus was from the very first
+[[4203.94]]beginning how do we just make sure
+[[4207.9]]twitch continues to be the best place
+[[4211.14]]for streamers
+[[4214.92]]um and if we continue to make it so like
+[[4219.24]]they continue to choose us instead of
+[[4224.22]]instead of the competition and I've uh I
+[[4228.9]]remember reading a bunch of some
+[[4231.54]]streamers complaining about to actually
+[[4234.48]]be like basically like oh I want to go
+[[4238.8]]to the you know YouTube except like you
+[[4242.46]]know I feel like they're offering me
+[[4247.26]]more money but uh and I'd go except you
+[[4253.14]]know it's not fair like which has to be
+[[4256.98]]trapped because because all the
+[[4259.74]]moderation tools are so much better and
+[[4263.34]]this is bad I'm like yeah we you mean we
+[[4267.42]]trapped you about with our nefarious
+[[4270.54]]plan of building a better product that
+[[4274.5]]actually works yes I fully admit this is
+[[4279.96]]our our secret plan the rules all along
+[[4284.94]]yes you didn't see it coming but we
+[[4288.36]]would we're gonna build stuff that you
+[[4292.02]]like and then give it to you for free
+[[4295.92]]um yeah so that very diabolic yeah it's
+[[4299.28]]totally diabolical but like that was the
+[[4302.58]]that was the thing like we we won
+[[4306.06]]because our product was better
+[[4309.36]]um and uh
+[[4312.48]]I think that's like a and it was better
+[[4315.54]]in the way people people cared about
+[[4319.2]]there's a lot of nice to have features
+[[4323.76]]um like fun things that people think
+[[4327.48]]they want polls is the best example I
+[[4330.06]]think we actually have a polls feature
+[[4332.7]]now for many many years we did not and
+[[4335.64]]our competition did they had a polls
+[[4339.72]]feature people would complain about this
+[[4344.76]]but the truth is you can run a poll
+[[4349.92]]using like a online like there are many
+[[4354.06]]poll things you can just use on the
+[[4357.0]]internet if you want to
+[[4361.56]]if we screw up chat moderation if we
+[[4366.12]]screw up uh if you're if your
+[[4369.42]]subscriptions don't work well if
+[[4372.48]]discovery isn't good
+[[4376.02]]you can't fix those things only we can
+[[4380.52]]and you don't actually want us to build
+[[4385.08]]a poll you think you do but like the
+[[4389.1]]truth is you don't actually and when you
+[[4391.98]]would confront them with the actual
+[[4394.2]]choice would you like to make a dollar
+[[4397.26]]more per hour or would you like to us to
+[[4400.2]]build launch polls like oh a dollar
+[[4402.36]]obviously what are you talking about
+[[4405.3]]like well that's right okay we're gonna
+[[4409.08]]keep working another thing then how do
+[[4412.68]]you get to those conclusions like when
+[[4416.4]]you're hearing from your users I want
+[[4421.44]]this thing but being able to discern
+[[4426.24]]that they actually don't really want
+[[4430.44]]this thing at the expense of what it
+[[4435.18]]would take you to go do it and is it
+[[4439.08]]actually framing in those terms of would
+[[4442.26]]you prefer an extra dollar or would you
+[[4445.98]]prefer like more Engineers on this yeah
+[[4450.78]]so when I got started with twitch I uh I
+[[4454.38]]came up with a framework for
+[[4457.56]]prioritizing features which is I got out
+[[4461.22]]of talking to a bunch of streamers and
+[[4463.76]]basically
+[[4467.36]]uh asking them why they streamed and
+[[4472.08]]sort of what their goals were and what
+[[4476.22]]what they what they wanted out of it and
+[[4479.7]]we came up with was they wanted Fame
+[[4483.06]]Love and Money
+[[4487.44]]um uh Fame they want to like obviously
+[[4491.64]]reach an audience grow it have more
+[[4494.76]]people watch them get more hours of
+[[4498.18]]video watch basically
+[[4501.96]]um love they wanted to feel positive
+[[4505.92]]social feedback and connection for doing
+[[4509.46]]it whether that's from twitch because
+[[4512.82]]they got invited to twitchcon or because
+[[4516.6]]some uh twitch you know partner manager
+[[4520.2]]reached out or it's from Their audience
+[[4524.04]]saying how great they love the show and
+[[4527.76]]how amazing that was
+[[4530.76]]um and then money they wanted to make
+[[4534.3]]money on the stream and basically if we
+[[4537.84]]built something and there's a secret
+[[4540.78]]fourth thing which is like the video has
+[[4543.96]]to work they want the live video to be
+[[4546.9]]like actually good enough okay cool
+[[4550.08]]that's us let's put that one aside
+[[4553.86]]that's the underpinning that's the
+[[4556.92]]underpinning like that's this table
+[[4561.0]]stack that just has to work uh assume it
+[[4565.08]]does
+[[4567.6]]um
+[[4571.14]]is this thing producing more money more
+[[4576.18]]fame or more love great like we will
+[[4581.58]]prioritize resources against those is it
+[[4586.02]]not
+[[4589.56]]then it's not important and we're not
+[[4592.56]]going to do that
+[[4595.68]]um and
+[[4598.98]]uh that worked because those were the
+[[4602.1]]three most important things and then
+[[4605.22]]once you have that structure you can
+[[4608.7]]kind of it's easy to compare within
+[[4612.06]]money which of these things we think
+[[4615.12]]will be most helpful to make the most
+[[4618.78]]money within discovery which of these
+[[4621.84]]things in Fame which of these things
+[[4625.8]]will help grow audiences the most
+[[4630.6]]um Love is the trickiest one obviously
+[[4634.08]]because love is a little bit less it's a
+[[4636.6]]little more fuzzier and less clearer
+[[4640.02]]than Fame and money are but uh but
+[[4643.56]]ultimately it's like having good
+[[4646.5]]moderation in chat
+[[4650.94]]um having uh experiences for streamers
+[[4654.96]]where they feel they feel loved by by
+[[4658.8]]twitch and that we care about them
+[[4663.18]]Once Upon a Time Google came and made an
+[[4667.98]]offer to buy Justin TV uh before it was
+[[4672.72]]really in the before all the twitch
+[[4678.6]]stuff came to be and ultimately uh you
+[[4684.48]]got far down the acquisition process and
+[[4688.38]]then people on the team failed Google's
+[[4693.72]]uh tests or something they uh Google was
+[[4700.02]]considered an aqua hire and out of our
+[[4704.76]]like whatever I know 30
+[[4708.78]]total people they like had like 10 that
+[[4713.46]]they thought were like Google quality
+[[4717.54]]um and made an offer on that basis and
+[[4720.54]]we were just like
+[[4723.18]]no
+[[4727.38]]uh and in retrospect I remember like
+[[4731.52]]looking at the offer and if they'd
+[[4733.92]]offered us three times more money I
+[[4736.86]]think we would have taken it
+[[4739.2]]um
+[[4741.18]]but
+[[4744.24]]uh but I'm really glad they didn't offer
+[[4747.54]]us three times as much money um same
+[[4750.3]]thing actually happened with Kiko on
+[[4754.38]]Yahoo Yahoo offered to buy Kiko which is
+[[4758.52]]your calendar with a calendar company
+[[4762.18]]for a million dollars in but like in
+[[4766.62]]retention over like four years so like
+[[4771.84]]250 000 a year in signing bonus on top
+[[4777.36]]of a you know mid-level Yahoo engineer
+[[4782.16]]offer and
+[[4786.18]]I'm really glad they lowballed us
+[[4789.18]]because if they hadn't live all this we
+[[4793.92]]might have taken it and like uh
+[[4799.8]]uh we didn't really want to do those we
+[[4803.7]]didn't really want to work for Google or
+[[4806.7]]work for Yahoo we wanted to run the
+[[4810.72]]company it's just it felt like you have
+[[4814.32]]to take if they offered you a win you
+[[4817.26]]could like have to take it
+[[4820.5]]um so I'm so I'm glad they didn't are
+[[4825.24]]there any lessons actually from either
+[[4830.76]]of those stories that are that you could
+[[4835.32]]extrapolate as a as something you would
+[[4840.18]]tell a founder or is it hey those are
+[[4845.46]]the funny situations and the road not
+[[4849.72]]traveled but at the end of the day it's
+[[4852.84]]just there was nothing to be learned
+[[4855.9]]from the individuals I don't really
+[[4858.54]]think I've
+[[4860.6]]I've I've
+[[4863.3]]the only time I've ever used it
+[[4865.98]]someone's like oh I got an acquisition
+[[4869.28]]offer from this company
+[[4872.4]]um
+[[4874.92]]and I talked to them and I'm like okay
+[[4878.58]]this is this is like an aqua hire here's
+[[4882.06]]like here's how it's gonna work like
+[[4885.18]]here's here's how Aqua hires work and
+[[4888.24]]having been through one myself I kind of
+[[4892.02]]like I know what the what the process
+[[4895.74]]will be like a little bit although it
+[[4898.44]]does vary from company to company it's
+[[4901.26]]not that variable
+[[4904.38]]um and so occasionally it's helpful for
+[[4907.2]]advising someone who's in the exact same
+[[4909.84]]situation but other than that there's
+[[4912.36]]not really much there's not much
+[[4915.78]]generalizable from it I don't think this
+[[4919.68]]might be an annoying question that just
+[[4923.34]]uh people in the media and I guess
+[[4927.18]]Venture capitalists ask you but how much
+[[4930.54]]time have you given to thinking about
+[[4934.62]]twitch as a standalone versus within
+[[4939.42]]Amazon I like whether we should have
+[[4943.32]]sold it or not yeah
+[[4947.94]]um well I mean selling it uh worked out
+[[4954.12]]really well for us because uh
+[[4959.82]]it was unrelated let twitch grow on its
+[[4964.56]]own like did they help with bidding for
+[[4969.3]]streamers and like was that an expensive
+[[4974.1]]Capital outlay that wouldn't have been
+[[4977.4]]obvious because the weird thing about
+[[4980.22]]twitch versus Instagram for example is
+[[4984.68]]Instagram it's hard to uh disconnect
+[[4990.62]]Instagram within uh Facebook right
+[[4994.98]]because of all the stuff they did from
+[[4998.22]]an ad infrastructure standpoint and you
+[[5001.88]]know the adoption and promotion and all
+[[5004.88]]that I think it's kind of hard for me to
+[[5009.26]]mentally disconnect the two twitch was
+[[5013.94]]to your point able to operate pretty
+[[5019.04]]Standalone right and so almost you can
+[[5024.2]]you can at least from the outside in
+[[5027.44]]maybe you disagree almost see what the
+[[5031.72]]business would look like
+[[5034.56]]is a CEO for a very long time and it
+[[5039.34]]pertains many of its CEOs for a very
+[[5043.0]]very long time like how you were there
+[[5046.24]]Don Katz at Audible for 10 years eight
+[[5049.48]]years uh eight years
+[[5053.02]]um and
+[[5057.04]]uh
+[[5061.12]]they do it because Amazon actually lets
+[[5066.64]]CEOs be CEOs that's like that's uh it's
+[[5071.38]]the most decentralized of the big tech
+[[5075.82]]companies and uh I think
+[[5081.16]]uh if you want to sell your company and
+[[5085.06]]keep running it I couldn't recommend any
+[[5088.12]]really any big tech company other than
+[[5091.3]]Amazon because it's the only one that
+[[5094.66]]runs under that model
+[[5098.32]]um
+[[5101.74]]I've thought about what it would be like
+[[5104.8]]to have done it separately
+[[5107.92]]um and I actually just think it wouldn't
+[[5110.68]]have been that different the biggest
+[[5113.98]]difference was the reason I sold at the
+[[5116.62]]end of the day is I don't like
+[[5119.38]]fundraising and I knew that if I sold to
+[[5123.28]]Amazon I'd get to keep running my
+[[5125.8]]company
+[[5127.54]]in fact they would demand I keep
+[[5129.94]]printing my company and that but we were
+[[5132.58]]aligned in that I wanted to and they won
+[[5136.06]]they wanted me to so great and they
+[[5139.3]]would make sure that they would they
+[[5142.06]]would fix the I have to raise Capital
+[[5145.42]]every year problem because they're
+[[5150.46]]committing by buying us to fund us
+[[5155.38]]um and
+[[5159.1]]uh or like write out pick to take a big
+[[5162.34]]loss but like they're basically
+[[5166.48]]committing to fund you and so uh that
+[[5171.1]]worked out where I would say it worked
+[[5173.86]]out as planned
+[[5175.66]]um
+[[5177.7]]and so
+[[5181.36]]uh I feel really good about the decision
+[[5185.62]]in retrospect uh
+[[5189.52]]I think I made it more intuitively at
+[[5193.12]]the time than like reasoned and it only
+[[5197.26]]took me a couple years after doing it to
+[[5201.1]]actually even figure out what the math I
+[[5204.1]]was I had been doing subconsciously was
+[[5207.1]]but uh
+[[5209.98]]but I think it was the right to call for
+[[5213.28]]sure what did Amazon do to keep you
+[[5217.12]]around for so long besides just letting
+[[5220.54]]you run autonomously where's that at
+[[5224.2]]that that's yeah what that's literally
+[[5228.04]]the thing that they did I don't you know
+[[5232.3]]if hey hey like you know you know big
+[[5237.58]]tech companies if you want to retain
+[[5242.56]]CEOs after you acquire the company you
+[[5247.3]]have to let them still be the CEO which
+[[5252.52]]means they decide who gets hired who
+[[5256.66]]gets fired
+[[5260.02]]what contracts you sign what products
+[[5263.26]]you launch if you're going to take that
+[[5265.84]]away from them make them go through your
+[[5269.32]]processes there if they're any good at
+[[5272.5]]all as a CEO they're going to leave
+[[5274.84]]because they're not a CEO anymore
+[[5277.66]]they're a division vice president and
+[[5280.36]]that's not the job they signed up for so
+[[5283.9]]FYI if you want to retain CEOs
+[[5289.98]]one weird trick what uh but did they get
+[[5295.92]]strategic value I guess to take it from
+[[5300.28]]their Vantage Point obviously twitch is
+[[5304.78]]a very important asset within there but
+[[5310.48]]the the flip side of of the reason I
+[[5314.92]]think people end up being somewhat
+[[5318.52]]heavy-handed or at least involving
+[[5322.96]]themselves post acquisition of a company
+[[5326.38]]is to try to
+[[5330.64]]make the value greater than the
+[[5335.62]]individual component of it were there
+[[5338.98]]things they did from an integration
+[[5343.12]]standpoint or things that they pushed
+[[5349.12]]that benefited other parts of Amazon
+[[5354.82]]um I mean twitch advertising is sold by
+[[5359.44]]Amazon advertising the third biggest I
+[[5362.56]]think third biggest I don't know if it's
+[[5364.66]]exactly I think it's third biggest
+[[5367.78]]advertising company in the world so
+[[5372.16]]that's that's good that's like the
+[[5375.94]]Instagram Facebook thing in a way um
+[[5379.0]]except I think we provide more value to
+[[5382.06]]Amazon relatively Facebook already had a
+[[5386.2]]lot of AD inventory in feeds
+[[5391.24]]that's basically the identical whereas
+[[5396.28]]twitch Amazon did not have a bunch of
+[[5402.16]]ugc video and uh you know premium gaming
+[[5407.56]]video to like sell against yeah that's
+[[5411.52]]that's them to you I was wondering you
+[[5415.72]]to them if there was anything that oh no
+[[5419.56]]I think actually the revert in the
+[[5423.52]]advertising case unlike Instagram where
+[[5427.6]]it's mostly Instagram benefiting from
+[[5433.0]]the Facebook it advertising machine here
+[[5439.36]]it's much more two-way we open up a new
+[[5443.02]]kind of inventory they don't have access
+[[5445.72]]to otherwise which is good for the
+[[5448.78]]overall Amazon organization but also
+[[5451.6]]good for twitch because we get access to
+[[5454.36]]the big sales team so I think the
+[[5456.94]]advertising thinks the obvious just like
+[[5459.46]]with Instagram it's the obvious
+[[5462.1]]integration point for something like
+[[5465.1]]twitch
+[[5467.98]]um we also do stuff with prime that's
+[[5470.86]]that's been very good that's which are
+[[5474.46]]quite well again very two-way
+[[5477.9]]um
+[[5482.28]]uh and we've launched IBS um which is
+[[5486.34]]our the interactive video service and
+[[5488.86]]AWS service
+[[5491.56]]um very cool like to be able to take one
+[[5494.62]]of the things core things you built and
+[[5498.22]]externalize it as an AWS service is very
+[[5500.92]]cool
+[[5502.96]]um and something you can't do unless you
+[[5505.42]]go to I guess
+[[5507.88]]it'd have to be Amazon Google or
+[[5510.88]]Microsoft basically because those are
+[[5514.18]]the cloud companies
+[[5517.18]]um and we definitely couldn't have done
+[[5519.82]]that on our own
+[[5523.42]]um but yeah a lot of it has been
+[[5528.16]]less deeply integrated
+[[5532.6]]um and I think that that's
+[[5536.5]]except for the points like advertising
+[[5539.8]]which is a really big one where it does
+[[5542.62]]make sense to integrate and I think it's
+[[5546.16]]really to Amazon's credit that they
+[[5549.4]]didn't try to force a bunch of
+[[5551.92]]Integrations
+[[5555.64]]for efficiency reasons
+[[5560.02]]um basically if it's always efficient in
+[[5563.98]]theory it's never as efficient as it
+[[5568.3]]seems in practice so
+[[5575.62]]um uh I I think strategic there are
+[[5581.56]]strategic Acquisitions where you're
+[[5585.04]]buying something as a technology you
+[[5588.04]]know
+[[5590.98]]Apple buys some semiconductor companies
+[[5595.42]]so they can start making chips sure and
+[[5598.84]]that should get integrated it's not it's
+[[5602.02]]not actually a separate product but if
+[[5606.1]]you're buying a product to be part of
+[[5610.24]]your portfolio I actually don't I think
+[[5613.78]]the often the Integra it's the
+[[5616.48]]Integrations are a little heavy-handed
+[[5620.16]]for no good reason
+[[5622.7]]I've heard you say that as you get money
+[[5626.78]]there's a clear declining value to more
+[[5631.7]]money obviously that's true it sounds
+[[5637.34]]like something people just say but
+[[5643.28]]um how did how has that actually
+[[5649.04]]impacted your life having success and
+[[5653.9]]how would you internalize that or I mean
+[[5657.86]]having money is great
+[[5661.52]]um the you know the utility of money
+[[5665.12]]declines approximately with the log of
+[[5668.42]]the amount of money
+[[5672.56]]um you can actually see it on like uh
+[[5677.42]]if you if you plot like you know life
+[[5681.14]]happiness correlation curves and stuff
+[[5684.68]]so every 10x more money you have is like
+[[5688.82]]one incremental unit more so like it's
+[[5692.84]]not that there's no value of going from
+[[5696.38]]one million to 10 million
+[[5700.04]]but it's like 1 million 10 million is
+[[5703.1]]the same as a hundred thousand to a
+[[5706.46]]million and so every going from one
+[[5711.08]]million to two million is like yeah
+[[5715.22]]like it's just not that big of a deal
+[[5719.06]]even though it is a million dollars more
+[[5723.8]]it's like it doesn't change your life
+[[5727.52]]that much
+[[5730.6]]um
+[[5732.66]]uh I am very glad to have money
+[[5738.54]]um because it makes my life directly
+[[5742.14]]better in terms of consumption but most
+[[5745.14]]of all because it allows me to do things
+[[5748.5]]like invest in I've invested in my
+[[5751.8]]friends companies or in other you know
+[[5754.62]]in strangers companies and people I've
+[[5758.1]]met companies and that's being an angel
+[[5761.22]]unless it's really interesting and I
+[[5763.44]]feel like I get to support people and
+[[5768.84]]and help um I got to fund SF New Deal uh
+[[5774.36]]right and like I got to write a check
+[[5778.46]]for a million dollars uh in SF New Deal
+[[5784.7]]uh because I I had someone I knew Lenore
+[[5790.56]]who uh Lenora Estrada who CEO and I
+[[5796.14]]trusted she could step up and run it and
+[[5800.82]]I could make that decision fast and just
+[[5803.88]]write the check um I didn't have to go
+[[5806.7]]try to raise money from other people or
+[[5810.3]]put it together crowdfunding it and uh
+[[5813.84]]that was really valuable I really like
+[[5817.38]]stand by that being that was it was and
+[[5822.0]]it was interesting it was fun for me
+[[5825.12]]um
+[[5827.34]]and uh
+[[5830.52]]uh you get to go do think cool things
+[[5833.7]]for your friends in your community so I
+[[5836.46]]mean
+[[5839.16]]yeah but I guess having money is great
+[[5842.16]]who doesn't like having money
+[[5845.88]]um I don't think it's the it's not the
+[[5849.3]]only thing
+[[5851.76]]um there's a the quote I like about
+[[5855.18]]money is like
+[[5859.8]]you need money like if it's like on a
+[[5864.24]]road trip you need gas but light you
+[[5868.02]]know road trips are not tours of gas
+[[5871.62]]stations and your life shouldn't be a
+[[5876.72]]tour of money making uh activities but
+[[5882.06]]like also like you should think about
+[[5886.44]]where the gas stations are on your road
+[[5890.22]]trip like it's especially if you're
+[[5894.48]]going in on a long big one like you
+[[5900.06]]really don't want to run out of gas
+[[5904.92]]uh over the years you've been
+[[5908.52]]particularly transparent about being a
+[[5913.5]]bad manager initially uh I I there was a
+[[5918.24]]quote you had I was bad at hard
+[[5921.0]]conversations I was bad at good
+[[5924.06]]conversations I was bad at delegating
+[[5927.12]]I'm sorry to the people that worked for
+[[5931.74]]me in the early days uh I assume you're
+[[5936.6]]being too hard on yourself there but
+[[5939.24]]what were some of the things you've
+[[5942.36]]learned about yourself and managing that
+[[5946.26]]uh allowed you to develop into a good
+[[5950.46]]manager so I would say in the early days
+[[5956.04]]I was a pretty good leader already but a
+[[5961.8]]bad manager like I could I could inspire
+[[5965.58]]people with a direction I could
+[[5969.42]]communicate but I I was I always stand
+[[5973.44]]behind when I said there I was a bad
+[[5976.02]]manager
+[[5978.0]]um but I don't think I'm being
+[[5980.04]]particularly harsh
+[[5984.84]]I have yet to meet anyone who is a good
+[[5990.0]]manager the first year they are a
+[[5995.58]]manager I don't think anyone is uh being
+[[6002.18]]a manager is a set of skills like a
+[[6008.6]]thousand different skills and
+[[6015.44]]the you aren't good at some by they're
+[[6019.4]]not like things you just know
+[[6022.34]]automatically like no one's a good skier
+[[6026.42]]the first time they go skiing it is not
+[[6030.56]]possible to be good at first
+[[6033.32]]um
+[[6035.66]]there's only one thing that
+[[6038.84]]distinguishes good Managers from Bad
+[[6041.66]]managers consistently that I've found
+[[6046.04]]some people when presented with this
+[[6052.48]]uh don't like this truth that they suck
+[[6058.36]]and decide that they are in fact good
+[[6062.3]]managers already or that management is
+[[6065.96]]easier that they don't that it's not any
+[[6070.28]]they're as good as they need to be
+[[6073.76]]and some people
+[[6077.84]]realize that management is a skill and
+[[6082.46]]they're good at it yet and decide I I
+[[6085.94]]want to get better at this I want to
+[[6089.84]]learn how to be a better manager and
+[[6093.92]]they every year they're thinking about
+[[6097.46]]how do I get better how do I how do I
+[[6101.0]]how can I become a better more qualified
+[[6104.78]]manager and I can be better at this set
+[[6110.06]]of skills and the people who try don't
+[[6116.0]]always succeed but fair amount dude
+[[6120.44]]Management's not so hard if you treat it
+[[6124.1]]like a set of skills they're not the
+[[6127.64]]hardest skills to learn anywhere it's
+[[6131.0]]not as hard as like you know abstract
+[[6135.8]]math and inventing like new uh
+[[6141.26]]uh you know new theorems about topology
+[[6146.0]]that's that is more difficult than
+[[6150.32]]management but it is it's hard enough
+[[6154.4]]you have to learn the people who
+[[6159.14]]dedicate themselves to it often usually
+[[6163.76]]not always become good managers the
+[[6167.3]]people who don't are universally
+[[6170.42]]terrible
+[[6174.26]]and that is that is just the only thing
+[[6177.68]]that differentiates the people is like
+[[6181.34]]whether you accept into your heart you
+[[6185.78]]need to learn you need to get better at
+[[6189.62]]this thing that's basically it what was
+[[6193.7]]counterintuitive or what what skills
+[[6198.14]]were counter-intuitive to you that you
+[[6202.4]]that that maybe took longer to learn or
+[[6206.32]]just were super surprising as you got
+[[6210.7]]higher and higher uh with more and more
+[[6215.54]]people the thing about management skills
+[[6219.86]]is they're all dumb they don't they're
+[[6222.98]]not surprising when you say them out
+[[6226.34]]loud they sound stupid
+[[6230.36]]um like
+[[6235.4]]uh when you delegate something to
+[[6241.76]]someone you have to actually delegate it
+[[6247.1]]to them you can't delegate it and then
+[[6250.46]]like look over their shoulder and then
+[[6254.18]]tell them they did it wrong like that's
+[[6259.1]]just gonna make them unhappy
+[[6264.5]]um and and and worse they're gonna stop
+[[6269.12]]trying to even do the thing because they
+[[6272.66]]know whether they do it well or badly
+[[6276.56]]you're going to show up and then review
+[[6279.86]]it and then make it the way you would
+[[6283.46]]have done it and then and so why should
+[[6287.66]]they put much they should this their
+[[6290.78]]whole goal is to get it in front of you
+[[6293.54]]so you can correct it
+[[6297.14]]and like that's obvious if you think
+[[6300.38]]about it it's not like that's a dumb
+[[6303.86]]it's a almost dumb to get wrong and
+[[6308.06]]almost everyone gets it wrong when they
+[[6311.42]]first become a manager because it's a
+[[6313.94]]little it it's I guess it's
+[[6316.7]]counterintuitive but I don't even think
+[[6319.64]]it's the counterintuitiveness it's just
+[[6323.24]]you don't most of management is learning
+[[6326.78]]to notice
+[[6329.96]]the Thousand and One things that you can
+[[6333.86]]do wrong and if you thought about each
+[[6336.98]]one of them you would probably come to
+[[6340.28]]the right answer but you just
+[[6345.14]]this doesn't occur to even notice
+[[6349.16]]um
+[[6352.04]]I guess the thing that one
+[[6354.62]]counterintuitive thing about management
+[[6357.86]]that was a surprise to me is that
+[[6362.96]]managing individual contributors on a
+[[6366.74]]team
+[[6370.04]]is not the same job as managing a team
+[[6374.6]]of managers is not the same job as
+[[6379.7]]managing a team of managers and managers
+[[6384.14]]it's not the same job as managing a team
+[[6387.38]]of directors it's not the team same as
+[[6390.8]]managing a team of VPS and that's not
+[[6395.06]]the same as managing a team of spps
+[[6399.26]]every time you add a layer to the
+[[6403.12]]company
+[[6405.3]]your job is like oh it doesn't have
+[[6409.08]]nothing in common but it's fundamentally
+[[6411.9]]quite different
+[[6414.96]]um and that's one of the reasons why
+[[6419.4]]it's so hard to scale teams and people
+[[6424.94]]like sort of
+[[6430.4]]uh hit a scaling limit at some point
+[[6435.12]]it's because if you keep a fast growing
+[[6438.96]]company everyone's like winding up
+[[6444.06]]underwater all the time as layers under
+[[6449.28]]you get more layers under them and that
+[[6452.88]]that directory was doing such a great
+[[6456.78]]job is doing a bad job now they didn't
+[[6461.52]]get bad the job changed from underneath
+[[6466.02]]them and so everyone's in this race to
+[[6469.98]]like figure out the new job before it uh
+[[6473.76]]before it kills them what changes in
+[[6478.02]]those levels of abstraction like I mean
+[[6482.1]]at a high level when you're when you're
+[[6486.06]]so far removed what is so different than
+[[6490.32]]being on the ground
+[[6496.56]]I would say like uh the you have just
+[[6502.62]]the techniques you you have to use
+[[6507.06]]techniques that scale better as you get
+[[6510.54]]that
+[[6513.36]]rather than things that are maximally
+[[6518.28]]effective you want things that are scale
+[[6522.18]]best
+[[6525.18]]and that like the trade-off between how
+[[6528.48]]effective is this individual interaction
+[[6531.66]]how good it how like in the beginning
+[[6535.14]]you need things you need to actually fix
+[[6537.96]]problems and ship code and make things
+[[6540.18]]happen
+[[6542.34]]um and that kind of dynamism is really
+[[6545.82]]important as you get higher and higher
+[[6549.66]]in a hierarchy
+[[6552.96]]you have to figure out how you can make
+[[6556.8]]your time and your effort and your your
+[[6562.2]]energy scale because you can't go do it
+[[6566.82]]Thing by thing and so there's a
+[[6569.94]]trade-off between those two things and
+[[6574.92]]you are uh you need to pick either the
+[[6579.3]]skills that you need are more of the
+[[6583.08]]scale scale level skills
+[[6587.1]]um writing becomes more important when
+[[6589.68]]you're higher in the organization for
+[[6592.98]]example
+[[6596.82]]as you get higher and higher and the
+[[6599.94]]company gets bigger and bigger there's
+[[6603.96]]also a component of transparency and
+[[6610.02]]input of decisioning that you can't be
+[[6615.78]]can't be quite the same as it was in the
+[[6620.4]]early days right like the decisions all
+[[6624.84]]the inputs that went into an individual
+[[6629.58]]decision you can't communicate in Mass
+[[6635.1]]to the totality of the company which I
+[[6639.06]]think could be hard I think that could
+[[6641.52]]be hard when you come from a culture of
+[[6645.0]]like full transparency or it was small
+[[6648.9]]and now you're big and all that did you
+[[6653.28]]did you experience that was that
+[[6658.2]]something that you struggled with of
+[[6662.34]]just like how to balance transparency
+[[6666.42]]with just giving people the outputs of
+[[6670.14]]stuff
+[[6673.86]]yeah I mean there's
+[[6678.72]]people can use the word transparency a
+[[6684.06]]lot but what they mean is input
+[[6688.86]]um you can give transparency for stuff
+[[6693.12]]actually not everything but most things
+[[6698.34]]no matter how big you are a lot of the
+[[6702.54]]time the transparency just makes people
+[[6705.48]]more upset though because what they
+[[6708.18]]really meant when they said they wanted
+[[6712.5]]transparency is they wanted a voice
+[[6717.66]]and that you cannot scale everyone
+[[6721.5]]cannot have a voice on everything
+[[6724.38]]um
+[[6727.44]]in fact almost everyone can't have a
+[[6733.2]]voice on almost everything and uh
+[[6738.06]]that's not true when you're small it
+[[6741.0]]gets true and you're bigger when you're
+[[6743.76]]small you can stay very very
+[[6746.58]]synchronized and as you get bigger
+[[6750.78]]everything has to just desync
+[[6754.32]]um
+[[6756.6]]and
+[[6760.02]]uh
+[[6764.94]]figure creating mechanisms and processes
+[[6769.38]]so that the right people can have input
+[[6772.98]]at the right time is like that is the
+[[6777.9]]art of management and and production in
+[[6783.06]]a company of Greater size and like I
+[[6786.18]]don't know there's no there's no short
+[[6788.7]]answer to that question that like is it
+[[6792.18]]all meaningful but
+[[6795.78]]uh
+[[6799.14]]I think that
+[[6802.98]]the main metaphor I always use for it is
+[[6806.88]]like you have to you have to Shard the
+[[6810.12]]decision making like sharding is any
+[[6812.82]]different programming and from like
+[[6816.06]]databases where you have to find a way
+[[6820.68]]that you can divide stuff up such that
+[[6826.92]]some set of the of the data of the
+[[6832.74]]decisions can be made in this hundred
+[[6836.46]]people and this hundred people in this
+[[6840.06]]group owns everything about that and
+[[6844.8]]they don't have to communicate much with
+[[6848.64]]the other groups and figure out how you
+[[6853.44]]can bottleneck and shrink those uh
+[[6860.16]]between group Communications and and let
+[[6865.2]]people interact in a more asynchronous
+[[6868.08]]way
+[[6870.84]]um and again there's a thousand and one
+[[6874.62]]techniques for that but that's what you
+[[6877.92]]have to figure out how to do what was
+[[6881.7]]something that you you found that even
+[[6887.52]]after uh whatever 10 12 years how long
+[[6893.7]]would you run it uh 17 years 17 years
+[[6899.22]]from from Justin TV and what was
+[[6903.3]]something that you found that was just
+[[6906.78]]you were never going to be particularly
+[[6911.34]]good at and that you needed to augment
+[[6916.68]]uh or or get people around you to to
+[[6921.24]]help you with
+[[6926.22]]I think I uh what I discovered is I
+[[6931.98]]could be good at literally anything
+[[6937.44]]um there was no skill I could not learn
+[[6943.56]]but there were a lot of things where
+[[6950.1]]uh I don't like doing it I'm never going
+[[6955.98]]to enjoy doing it and it's always going
+[[6960.54]]to drain energy from my day
+[[6964.2]]and by the end of the day if I'm doing a
+[[6967.8]]bunch of that kind of work
+[[6971.76]]I'm gonna be grumpy and unhappy and
+[[6976.2]]tired and people interacting with me are
+[[6979.44]]probably not gonna have the best
+[[6981.48]]experience
+[[6985.08]]um and so it was less about what I could
+[[6988.92]]get good at I could get good at almost
+[[6991.62]]anything
+[[6994.92]]at least you don't once
+[[6998.58]]um
+[[7002.18]]it was more about like what could I do
+[[7007.04]]sustainably what what what how do I
+[[7011.9]]manage my job so that I am doing things
+[[7016.64]]sustainably in a way where I am can
+[[7022.88]]consistently do it at high quality uh
+[[7029.12]]when I'm not at my best
+[[7033.74]]um and so for me one of those things is
+[[7037.46]]like I
+[[7040.58]]really
+[[7044.48]]have never been great at interviewing I
+[[7049.52]]don't like interviewing uh new
+[[7053.78]]candidates for jobs
+[[7059.0]]um there's a lot of energy for me to
+[[7066.38]]meet new person and
+[[7072.56]]bring bring that their who they are on
+[[7077.18]]and make a connection and like I like
+[[7082.34]]doing it actually uh
+[[7087.02]]when the either someone I find myself
+[[7090.8]]naturally drawn to which is you know
+[[7093.86]]whatever one in four people or something
+[[7097.04]]like which I don't think is unusual
+[[7101.48]]in terms of the one in four part I think
+[[7105.2]]it's just an unusually high energy cost
+[[7107.9]]for me for the other three
+[[7110.48]]and
+[[7113.36]]I can do it
+[[7116.72]]and I've learned how to do it and I've
+[[7120.02]]but I don't like doing it and so I've
+[[7123.68]]just found ways for that idea was not
+[[7127.94]]the first person I I had this heroic
+[[7132.02]]idea like hiring is super important I
+[[7135.38]]need to be the only one out there you
+[[7138.8]]know interviewing for the new CFO
+[[7141.56]]um
+[[7144.2]]or the new you know head of product or
+[[7149.36]]whatever that turned up a terrible idea
+[[7155.0]]I was grumpy all the time if I did that
+[[7158.84]]um then instead the right thing for me
+[[7163.64]]to do was uh let other people do most of
+[[7169.52]]the interviewing and only interview you
+[[7174.14]]know two or three final candidates
+[[7176.78]]um
+[[7179.6]]and you're sort of admitting that you
+[[7183.32]]don't have to like all the all the work
+[[7186.14]]you do
+[[7189.5]]you tweeted recently management lessons
+[[7194.66]]from the front number seven six one I
+[[7199.22]]don't I didn't go back to look if there
+[[7202.88]]were actually 760 before of the in front
+[[7206.72]]of them but your reports will ask you a
+[[7209.48]]lot of stuff especially in the beginning
+[[7212.42]]like should we do X or Y do not be
+[[7216.74]]tricked this is usually usually
+[[7221.0]]unintentional trap the only correct
+[[7224.3]]response is what what do you recommend
+[[7228.26]]does that tie back to the autonomy of
+[[7232.28]]decisioning and being able to delegate
+[[7235.7]]yeah if you
+[[7240.32]]and this is this is not to say that you
+[[7244.22]]should never answer your reports
+[[7247.28]]questions I'll be really clear uh some
+[[7251.42]]people interpreted me as saying uh in
+[[7257.18]]that uh you should uh when when if you
+[[7264.2]]tell the report like uh you tell you you
+[[7271.1]]if you tell someone like uh
+[[7277.34]]uh
+[[7282.2]]you know hey go go make this thing go
+[[7285.62]]build this thing and they come back and
+[[7288.14]]say oh well there's this trade-off
+[[7292.7]]that's above my pay grade uh you know
+[[7297.56]]the company yeah I have to commit the
+[[7300.14]]company to 20 million dollars of
+[[7303.14]]liability or we have to spend an extra
+[[7307.16]]16 weeks doing this and I kind of think
+[[7310.16]]we should actually commit to the
+[[7312.68]]liability but like
+[[7316.34]]what do you think that's a fair question
+[[7320.12]]that is not
+[[7324.32]]that is not uh
+[[7329.84]]uh it's not their job to figure out uh
+[[7335.18]]you know some individual contributor you
+[[7338.12]]know
+[[7341.18]]a new person on the marketing team is
+[[7344.54]]not the company's job to figure out
+[[7347.2]]should we run this level of risk no no
+[[7351.22]]fair and those often get kicked up the
+[[7355.46]]chain and that kind of taking on a risk
+[[7358.7]]sometimes requires all the way up to the
+[[7362.42]]CEO to sign off totally reasonable
+[[7368.06]]but when you ask someone like hey like
+[[7373.88]]uh like they're designing a new a new ad
+[[7377.66]]campaign
+[[7381.14]]if they come to you and they say like oh
+[[7384.92]]well do you think we should make the ad
+[[7388.22]]campaign's message this message or that
+[[7392.66]]message that is literally the that's the
+[[7397.7]]job of the person who's you asked to go
+[[7402.02]]should we use this creative approach or
+[[7405.56]]that creative approach it's your ad
+[[7410.24]]campaign like you tell me
+[[7416.24]]um because if you don't do that
+[[7422.06]]they don't own the decision
+[[7427.4]]um and the whole point is to delegate
+[[7431.9]]down both the authority to make the
+[[7435.38]]decision and the accountability for the
+[[7438.5]]results of that decision
+[[7440.72]]um
+[[7442.64]]and in very dysfunctional companies
+[[7445.22]]sometimes
+[[7448.1]]uh
+[[7451.34]]people
+[[7457.1]]have learned you they actually don't
+[[7462.8]]have the actually have the authority to
+[[7466.1]]know what no one tells them and that
+[[7468.86]]means they don't want the accountability
+[[7471.08]]and you want to put this entire circle
+[[7474.56]]of them very logically constantly trying
+[[7478.04]]to push off accountability by getting
+[[7481.7]]input and making sure everyone is signed
+[[7485.72]]off and they never have to make a
+[[7489.14]]decision to take any risk and that's
+[[7493.1]]because they know they don't actually
+[[7496.94]]have the authority
+[[7499.94]]and they don't really believe they'll be
+[[7503.06]]allowed to do a good job
+[[7505.64]]um
+[[7508.1]]and I I have empathy for people who are
+[[7511.1]]stuck in that situation it happens even
+[[7513.8]]in good companies it happens sometimes
+[[7518.66]]uh but the the good solution is not then
+[[7523.28]]get everyone to sign off on everything
+[[7526.58]]so it's all safe but rather than
+[[7529.82]]actually Empower people to make
+[[7532.1]]decisions
+[[7536.66]]so it so that they you can actually just
+[[7541.4]]do stuff
+[[7545.48]]you did a great YC talk with regard to
+[[7549.74]]product development
+[[7553.94]]um about how to think about developing
+[[7559.04]]product and talking to your users and
+[[7563.36]]customers users and customers or
+[[7566.72]]competing Services as well as other
+[[7570.86]]people that aren't using your product uh
+[[7575.06]]today we touched on product development
+[[7578.18]]a little bit and the three pillars that
+[[7582.56]]you guys kind of use to think about
+[[7586.94]]um
+[[7590.06]]how
+[[7593.6]]you think about
+[[7597.5]]I guess now it's probably been 10 years
+[[7601.1]]or eight years since you did that talk
+[[7604.28]]how do you think about product
+[[7607.52]]development and actually figuring out
+[[7612.26]]the features that matter at a zoomed out
+[[7617.42]]level maybe not twitch specifically but
+[[7620.54]]just like how do you make these
+[[7623.78]]prioritizations so that
+[[7627.32]]that
+[[7631.28]]uh saying that comes to mind for me for
+[[7636.44]]this is um
+[[7642.56]]planning is a central plans are useless
+[[7648.32]]I think it's like a like Eisenhower or
+[[7652.22]]something some general
+[[7655.7]]um
+[[7660.38]]and it's totally correct because you
+[[7665.36]]if you don't make a plan where you're
+[[7669.26]]gonna get you know from point A to point
+[[7671.96]]B
+[[7674.9]]you're gonna miss so much stuff and
+[[7678.86]]you're you're gonna fail
+[[7682.76]]but once you make the plan no plans
+[[7686.12]]Surprise contact with the Enemy as soon
+[[7689.48]]as you start executing you realize like
+[[7693.5]]oh that didn't actually work this didn't
+[[7697.64]]actually work you have to improvise
+[[7701.36]]um
+[[7706.28]]talking to customers is essential
+[[7711.8]]um but the results of talking to
+[[7715.34]]customers is useless
+[[7719.06]]like it is the talking to the customers
+[[7723.26]]and they're really paying attention that
+[[7727.82]]informs your intuition that then lets
+[[7732.14]]you design the product you're not you're
+[[7735.86]]not delegating the mistake people make
+[[7739.82]]is they're trying to delegate product
+[[7743.6]]design to the customer
+[[7746.9]]and if they were so good at the product
+[[7749.72]]design they would be starting the
+[[7752.36]]company they would be the product
+[[7755.48]]manager they're not good at product
+[[7758.42]]design
+[[7761.18]]they know what problems they're running
+[[7765.32]]into they know the realities of their
+[[7768.74]]business
+[[7771.2]]and what you need to do is you need to
+[[7775.58]]understand them incredibly deeply
+[[7780.56]]not get them to do your job for you so
+[[7783.86]]almost the inverse of the manager
+[[7787.46]]situation don't delegate that to them
+[[7791.18]]um
+[[7794.78]]the this that's one One Direction you
+[[7798.32]]make the mistake is you try to delegate
+[[7801.56]]the product design to the customer no no
+[[7805.28]]you designed the product you talk to
+[[7809.42]]them you get you understand them and you
+[[7812.9]]use that to design the product the other
+[[7815.96]]side of it is you have this you come up
+[[7819.08]]with a great idea and you got to talk to
+[[7822.2]]customers to validate it validate is the
+[[7825.5]]like uh
+[[7828.14]]and I hear we'll talk about validating
+[[7832.58]]product ideas I uh I instantly know that
+[[7839.54]]there's a there's a problem because
+[[7846.5]]once you've had the idea
+[[7851.66]]no amount of talking to any number of
+[[7855.68]]customers will change how good of an
+[[7860.24]]idea that was it is exactly as good as
+[[7865.58]]it is the moment you have it and you can
+[[7869.42]]have a thousand customers tell you it's
+[[7872.3]]a great idea
+[[7876.38]]it was or was not and it will a great
+[[7879.92]]idea and it will or not have the impact
+[[7882.98]]before they've told you or after if a
+[[7885.68]]thousand years will tell you it's a bad
+[[7889.64]]idea same thing doesn't change anything
+[[7894.32]]and unless you are actually throwing
+[[7897.5]]away lots of ideas customers tell you
+[[7901.34]]they don't like them
+[[7905.54]]you're not having any impact at all and
+[[7909.74]]to the most and I've also just I that
+[[7913.16]]never happens
+[[7915.8]]every now and then people valid ideas
+[[7918.44]]and throw them away and actually what's
+[[7921.38]]even funnier there is it's usually when
+[[7924.92]]they do actually throw them away those
+[[7927.68]]videos might have been good the
+[[7930.02]]customers are just bad product designers
+[[7932.72]]and they don't realize that actually is
+[[7935.6]]a good solution to their problem
+[[7938.96]]but
+[[7943.0]]um
+[[7945.18]]the uh
+[[7949.56]]the main thing is
+[[7954.6]]the order is wrong you need to talk to
+[[7959.16]]customers
+[[7963.48]]uh first and then have your great ideas
+[[7968.52]]and so like there's this uh idea from
+[[7972.6]]the rationalist community online that I
+[[7976.56]]really like holding off and proposing
+[[7979.74]]Solutions
+[[7982.26]]um
+[[7985.32]]holding off on proposing Solutions is
+[[7988.8]]one of the key product design skills
+[[7992.64]]because you have to like know there's a
+[[7996.84]]problem and not come up with the
+[[8000.62]]solution long enough to actually go like
+[[8004.34]]gather some data and think about it um
+[[8007.4]]because once you come up with a solution
+[[8010.34]]you're it's actually your brain is like
+[[8013.58]]attached to it it's really hard to like
+[[8017.3]]let go some people can do it but it's
+[[8021.68]]surprisingly difficult
+[[8026.06]]there's a uh I want to talk about more
+[[8031.1]]about decisioning and one as it relates
+[[8035.54]]to
+[[8040.52]]um when you had four co-founders Kyle
+[[8045.68]]Michael Justin and yourself in a room
+[[8048.8]]you mentioned there was ultimately kind
+[[8053.06]]of a war of attrition on decisioning
+[[8058.46]]that it was whoever was Last Man
+[[8063.98]]Standing kind of got the got the vote
+[[8069.68]]we had a real hybrid model so we would
+[[8075.74]]we would have uh these like epic debates
+[[8080.9]]which were mostly useless and sometimes
+[[8083.84]]we would do the thing of like the person
+[[8086.78]]who like had the most stamina but often
+[[8090.8]]it was just like
+[[8094.4]]there's this other thing happening which
+[[8097.4]]like whoever just did stuff they got
+[[8100.4]]their way too
+[[8104.9]]like uh that was Kyle's main move but
+[[8110.0]]actually it was my move and a lot
+[[8113.84]]Michael's moves too like we'd argue
+[[8117.74]]about it and then we'd uh we'd go off
+[[8121.34]]and like all just like do stuff and
+[[8125.0]]actually I would say in retrospect
+[[8128.6]]it's a little bit of the planning as
+[[8132.2]]essential plans are useless thing we
+[[8135.68]]could the arguments could have been less
+[[8138.26]]contentious
+[[8141.92]]and we could have probably shortened the
+[[8146.84]]debates but they were valuable and we
+[[8150.68]]would we would game it out we would
+[[8155.0]]argue it out extensively we would hear
+[[8159.86]]from all the sides and the person who's
+[[8162.8]]in charge of that would go make a
+[[8165.14]]decision to make stuff happen and
+[[8167.3]]actually that's actually in
+[[8169.28]]retrospective
+[[8173.72]]relatively functional process
+[[8179.6]]um because there was a distribution of
+[[8184.04]]authority and accountability
+[[8188.48]]although it it maybe was an unpleasant
+[[8192.44]]it was an unpleasant but kind of
+[[8195.74]]effective approach
+[[8199.16]]as I would say it was like a high
+[[8202.46]]unpleasant medium effective I wouldn't
+[[8205.94]]really recommend it as a you can do
+[[8209.12]]better there's more Pareto optimal
+[[8212.3]]outcomes but like
+[[8215.36]]but it's better than the stuff that's
+[[8219.34]]ineffective
+[[8221.94]]one one question on uh I guess just
+[[8227.14]]because it's been a big debate uh of
+[[8233.44]]late is the remote work thing and now
+[[8240.52]]having lived through Justin TV and
+[[8245.68]]twitch and seeing all the discourse
+[[8250.54]]online you're uh you're working with Y
+[[8255.16]]combinator now like what's your what's
+[[8260.26]]your perspective on remote work and
+[[8266.08]]decisioning that specific question I
+[[8270.22]]guess you had tweeted out my observation
+[[8273.58]]you can build a two by two for workplace
+[[8277.36]]environments remote local and
+[[8282.34]]hierarchical versus egalitarian there is
+[[8287.38]]an island of stability out and deep and
+[[8292.3]]remote and hierarchical uh what did you
+[[8296.8]]mean by that and what's your perspective
+[[8301.18]]on remote so the island of stability is
+[[8305.08]]an idea from like the periodic table
+[[8308.74]]where like as hell elements get heavier
+[[8313.18]]and heavier they become unstable but
+[[8316.3]]there's a theorize we've yet to
+[[8318.76]]synthesize in one of these elements as a
+[[8323.32]]theorized island of stability way out at
+[[8328.36]]like a very high Neutron proton count
+[[8331.78]]where suddenly the elements get stable
+[[8335.08]]again for a little bit
+[[8338.98]]um uh but there's like but in the
+[[8343.18]]in-between options are all bad
+[[8346.72]]um and are unstable and intensely
+[[8349.66]]radioactive
+[[8354.04]]um and I I've seen I I know a couple
+[[8359.8]]companies that are very effective remote
+[[8364.72]]and what differs the way they differ
+[[8369.28]]from the traditional Valley culture is
+[[8375.18]]it's not uh distribution of authority
+[[8382.2]]everybody like you know is a autonomy
+[[8386.74]]everyone figure out what to do on their
+[[8390.46]]own it's like the Army like there's
+[[8394.9]]there's delegation there's delegation of
+[[8398.5]]authority but it's not this delegation
+[[8401.26]]of authority and distribution of
+[[8404.86]]authority are not the same and
+[[8408.94]]uh
+[[8413.02]]they are all over
+[[8418.96]]auditing and follow-up and interactions
+[[8424.18]]and documentation and you have to
+[[8427.42]]document your work and you submit it and
+[[8430.96]]you can you can build
+[[8435.34]]a mechanism and a culture that works
+[[8438.7]]remote
+[[8442.42]]um but the valley approach I think I
+[[8446.38]]think of it kind of economically in its
+[[8449.92]]most extreme of like the Google Vibe of
+[[8452.98]]like
+[[8457.42]]yeah like no real accountability like
+[[8463.0]]directly like because we don't really
+[[8467.8]]know what's good and like go experiment
+[[8472.12]]and try stuff and like maybe it'll work
+[[8475.9]]and like no real urgency to like launch
+[[8479.44]]stuff fast
+[[8483.76]]that that does not work remote it works
+[[8488.08]]okay in person because there's sort of
+[[8491.08]]this weird implicit social pressure
+[[8494.92]]thing that gets used in place of
+[[8498.24]]official
+[[8503.22]]uh methods to like manage stuff
+[[8509.14]]but once you take that away and you
+[[8513.04]]don't have the official thing either
+[[8518.8]]it's just like bad uh and so
+[[8524.8]]there's the silica the valley culture
+[[8528.34]]works there's a reason why like Silicon
+[[8531.88]]Valley's taken over like you know it
+[[8535.66]]didn't evolve for no reason but you
+[[8539.08]]can't take that culture and Transplant
+[[8542.5]]it into a remote work environment and
+[[8545.56]]expect it to work
+[[8547.96]]um
+[[8550.54]]and I think we'll slowly sort of like
+[[8553.42]]you'll start to see models that'll be
+[[8555.94]]like oh you're on this month you're on
+[[8559.12]]this model you're under that model
+[[8561.88]]um
+[[8565.48]]uh and I think that that will uh
+[[8570.94]]uh I think that will that'll be good for
+[[8575.44]]us actually well they'll if you really
+[[8578.5]]care a lot about remote you'll go work
+[[8580.9]]at a company there's a remote culture
+[[8583.48]]that works
+[[8585.58]]um
+[[8588.7]]I actually like love the in-office thing
+[[8593.14]]uh I love being able to be remote
+[[8596.74]]sometimes but like
+[[8599.38]]uh
+[[8602.08]]I just I enjoy being around my
+[[8604.84]]co-workers I enjoy people to see them in
+[[8608.68]]the face I like the organic parts of it
+[[8613.42]]um but I know not everybody does
+[[8617.26]]um and I'm really happy that they get to
+[[8620.92]]go work at a remote environment that
+[[8624.22]]hopefully has a functional not
+[[8628.36]]dysfunctional remote culture
+[[8635.2]]goals and okrs versus intentions
+[[8642.22]]you prefer to focus on intentions than
+[[8647.62]]okrs rather than being tied to specific
+[[8652.42]]goals can you elaborate on that I mean
+[[8655.78]]that's that's when we're on a personal
+[[8659.02]]basis than on a on a corporate basis
+[[8663.88]]like at a corporate basis goals are very
+[[8667.6]]important like you need to actually
+[[8671.08]]setting goals as a I could probably give
+[[8675.46]]an entire hour-long talk on like setting
+[[8678.58]]goals and the trade-offs in various ways
+[[8683.74]]to do that but uh at an individual level
+[[8688.66]]um
+[[8690.94]]setting goals for yourself can be fun
+[[8694.78]]but ultimately goals are usually a way
+[[8698.92]]to coerce yourself or whip yourself into
+[[8703.0]]doing a thing you don't want to do you
+[[8706.54]]should have set a goal and like that's
+[[8708.52]]why you need them in the corporate
+[[8710.62]]environment people have to sometimes be
+[[8713.02]]a little bit coerced into doing
+[[8715.78]]something that's less than the thing
+[[8718.9]]that they want to actually do but it's
+[[8721.54]]important to the company even though
+[[8724.24]]it's not the most interesting exciting
+[[8727.84]]to them personally and you're trying to
+[[8731.92]]artificial excitement and fun
+[[8735.88]]it can be inspiring it could be exciting
+[[8738.94]]to try to get a goal to it doesn't have
+[[8741.76]]to be always a whip there's a carrot
+[[8746.32]]there too but even carrots are coercion
+[[8751.72]]like ultimately it let the intrinsic
+[[8757.24]]thing itself you're you're
+[[8763.42]]using reward or punishment like
+[[8768.28]]operative conditioning on a dog to get
+[[8771.76]]it to Tran to do what you want
+[[8775.84]]there's a place for that but like
+[[8779.98]]I try not to like
+[[8784.12]]coerce myself all the time
+[[8789.34]]um and I find that an over focus on
+[[8793.6]]goals like goals are set with your
+[[8796.36]]intellectual
+[[8801.4]]like top-down analytical mind and if
+[[8806.26]]you're good at setting them you can be
+[[8809.26]]effective with it but like your internet
+[[8813.1]]you're like top analytical mind is only
+[[8817.3]]so good and
+[[8822.94]]it's easy to set a goal that is not it
+[[8827.98]]it's like related to what you wanted to
+[[8830.74]]do but not quite what you actually
+[[8835.06]]wanted to do and then that's very
+[[8840.1]]dangerous because it you can spend years
+[[8844.84]]sometimes pursuing this and achieving
+[[8849.16]]and succeeding
+[[8853.06]]only to find out oops I didn't actually
+[[8857.56]]that goal was that was like sort of
+[[8861.04]]right but it missed this important thing
+[[8864.76]]and now I'm like I have to actually go
+[[8868.96]]way back and start over
+[[8872.32]]um and so I mostly think about it in
+[[8877.18]]terms of like uh
+[[8882.16]]you know I really concrete one like
+[[8887.26]]don't set a weight loss goal
+[[8895.42]]uh set an intention about uh wanting to
+[[8901.66]]be strong and healthy
+[[8906.4]]and acting in accordance with that
+[[8912.1]]um and
+[[8916.3]]it's creating an infrastructure to
+[[8920.02]]support you and doing that well
+[[8923.56]]um this is the book I think about on
+[[8926.26]]this a lot is the score takes care of
+[[8928.56]]itself
+[[8932.1]]Yeah by Walsh that's that's got books
+[[8936.82]]great and I think it really it's for
+[[8940.54]]those people from Reddit it's the idea
+[[8943.72]]of like what
+[[8947.44]]you the score in the game is literally
+[[8951.34]]irrelevant if he's a football coach and
+[[8955.3]]you ignore
+[[8962.02]]the score score like screw that like uh
+[[8969.4]]uh what's important is
+[[8974.32]]did you practice did you do the practice
+[[8977.86]]you needed to do or did you everyone
+[[8981.1]]show up to practice they give they give
+[[8985.18]]practice they're all
+[[8989.56]]and if they if you they did that you're
+[[8993.46]]gonna win or lose the game
+[[8996.46]]that will that that will take care of
+[[9000.06]]itself and I find that's very true for
+[[9003.9]]for goal setting
+[[9006.12]]um
+[[9010.7]]the goals tend to focus you on the score
+[[9014.62]]or creating a score you're you're going
+[[9018.1]]to create a way to score yourself
+[[9020.98]]and that's not necessarily the best way
+[[9024.64]]to do it I I don't know if we have an
+[[9029.5]]hour to do the uh the setting goals for
+[[9033.88]]a company thing but is there a short
+[[9037.48]]primer on how you think about setting
+[[9043.12]]goals or okrs for companies uh
+[[9050.8]]uh no like uh let me see some if I have
+[[9056.62]]any maxims about goals
+[[9060.16]]um
+[[9063.34]]obviously it sounds like focusing on
+[[9067.6]]inputs versus outputs is uh no you need
+[[9071.86]]a blend of input and output goals
+[[9074.86]]because the output goals keep you honest
+[[9080.08]]and the info goals keep you focused uh
+[[9086.44]]I'd say
+[[9091.86]]uh
+[[9094.7]]there's a lot of different kinds of
+[[9097.64]]goals you said for different kinds of
+[[9100.64]]reasons and the most important thing is
+[[9103.58]]to be kind of clear with yourself like
+[[9106.94]]one goal except for twitch was like I
+[[9110.9]]want us to have a million people earning
+[[9116.3]]money on Twitch in five years 2016.
+[[9122.24]]I set a goal we had like at the time I
+[[9127.16]]think 15 000 people earning money
+[[9131.18]]ten thousand something like that and I
+[[9134.3]]was like it was ten thousand and I said
+[[9137.78]]go I wanna have a million people earning
+[[9140.6]]money
+[[9144.86]]on Twitch by the end of 2021 and we hit
+[[9149.42]]it because of covet we hit it actually
+[[9154.76]]early 2021 which I'm very proud of we I
+[[9160.64]]call that weirdly accurate but I didn't
+[[9165.2]]really call it I I uh God I sound like a
+[[9169.34]]hippie like I manifested it right like
+[[9173.0]]by just saying that to the company and
+[[9177.5]]having people think about that
+[[9181.46]]uh
+[[9184.82]]it generated things like other people
+[[9188.06]]inventing things like the affiliate
+[[9190.46]]program
+[[9192.62]]well if we're gonna have a million
+[[9195.32]]people earning money we have to have a
+[[9198.8]]really easy way for people to sign up to
+[[9202.28]]earn money and so we created the
+[[9205.94]]affiliate program and like
+[[9209.9]]and then a bunch of other things like
+[[9213.02]]that right
+[[9216.2]]um and
+[[9219.98]]that's one kind of goal that's like a
+[[9224.78]]five-year goal that's like I had no idea
+[[9228.86]]how to achieve it was very output
+[[9231.68]]oriented and supposed to be sort of an
+[[9234.74]]inspirational goal but then you also set
+[[9238.58]]goals like you know this quarter we need
+[[9243.68]]to get our uh you know the number of TPS
+[[9249.38]]reports filed up by 17 and those goals
+[[9254.48]]can be very effective and important also
+[[9257.54]]um
+[[9261.62]]you know and I I think it's like uh
+[[9266.96]]uh
+[[9271.4]]it's the
+[[9275.06]]they're useful for different things
+[[9277.58]]they're motivating to different people
+[[9280.1]]in different contexts and you should
+[[9283.4]]just not confuse
+[[9287.48]]each of the goals for each other
+[[9291.32]]I know you're a big believer in coaches
+[[9294.8]]and that a coach will pay for itself as
+[[9298.22]]soon as you can afford it I guess maybe
+[[9302.72]]can you tell the story of your coach and
+[[9307.34]]then ultimately why you think it's
+[[9311.12]]important how you go about assessing a
+[[9315.68]]mentor or a coach along the way yeah I
+[[9319.82]]think I got very lucky so you know with
+[[9324.26]]my coach uh he was a introduced to me by
+[[9330.8]]Stuart alsop uh who's our on our board
+[[9336.62]]um the yeah and it was our first in you
+[[9340.28]]know PC investment
+[[9345.14]]um and uh when I gave CEO shortly after
+[[9349.94]]he uh he recommended I start working
+[[9352.52]]with Jose
+[[9354.98]]um and I said all right I'll give that a
+[[9357.5]]try
+[[9359.96]]um
+[[9363.32]]and I was honestly a little skeptical at
+[[9366.8]]first but I was like
+[[9372.02]]uh I guess I took getting better at
+[[9378.44]]being a CEO very seriously and if this
+[[9382.52]]thing could help I wanted to give it a
+[[9385.46]]give it a shot
+[[9389.06]]um and
+[[9394.34]]Yoshi has had taken his previous company
+[[9400.88]]public who had been a CEO before and
+[[9405.44]]then he pivoted into wanting to do
+[[9408.44]]coaching and I feel very lucky I got
+[[9411.56]]someone who had that level of background
+[[9413.84]]because
+[[9418.16]]I think it's very hard to coach a CEO if
+[[9424.94]]you haven't lived seen been part of that
+[[9429.8]]I don't know if you had to be a CEO
+[[9433.46]]exactly but if you haven't at least been
+[[9438.08]]an executive or you know a board member
+[[9442.04]]or something if you haven't been part of
+[[9446.3]]those decisions it's hard to give to do
+[[9450.2]]good coaching
+[[9453.4]]um
+[[9455.46]]coaching is valuable because it it
+[[9460.92]]creates a space where you
+[[9468.54]]you uh get to have someone who has no
+[[9475.2]]incentive other than helping you
+[[9479.52]]hold a mirror up
+[[9484.32]]for you to what you're saying what
+[[9488.88]]you're doing what your goals are and
+[[9492.3]]helping you and what your intentions are
+[[9495.72]]and helping you live more in accordance
+[[9499.32]]with those and notice what you're doing
+[[9502.44]]better or doing worse and there's a bit
+[[9505.08]]of coaching where it's like literally
+[[9508.98]]just advice like uh
+[[9514.08]]uh you know how
+[[9517.8]]what what are the what are tactical
+[[9520.68]]tricks to handle this given situation
+[[9524.58]]but honestly like that's like the the
+[[9529.2]]less important side of coaching and
+[[9533.34]]mentorship the more important side is
+[[9538.98]]like you're almost uh
+[[9542.52]]you're learning the questions they ask
+[[9545.58]]and you're learning to ask their
+[[9549.18]]questions of yourself consistently
+[[9553.44]]um
+[[9556.68]]the
+[[9560.7]]you know you have a coach that is you
+[[9564.6]]you have to really come I think the the
+[[9567.24]]way to think about coaching is sort of
+[[9570.66]]like uh fine selecting a good coach a
+[[9573.72]]little bit so I think a therapist
+[[9576.84]]reflecting a good
+[[9580.38]]um you know a good partner or something
+[[9584.16]]on a on a startup a good co-founder
+[[9588.66]]you know it's working when you have more
+[[9592.56]]like positive surprises than negative
+[[9596.06]]ones you know where it's working when
+[[9601.7]]you feel you're growing you're you know
+[[9607.92]]the things you learned there you find
+[[9612.36]]yourself repeating to other people
+[[9616.92]]um and uh and so they definitely
+[[9621.72]]recommend it but I also think that a lot
+[[9625.92]]of coaches aren't that good and so like
+[[9630.6]]there's a process of looking and
+[[9635.76]]selecting how do you go about assessing
+[[9641.04]]the relationship and make it is it just
+[[9645.96]]are you getting I'm a worst person to
+[[9649.86]]ask I got very lucky number one great
+[[9653.28]]one I'm one for one I don't know what to
+[[9656.64]]tell you like it's like people who like
+[[9660.66]]met their sweetheart yeah high school
+[[9664.14]]sweetheart and they were like the person
+[[9667.68]]for them and it's just it's great and
+[[9670.98]]they're deliriously happy with that
+[[9673.68]]person 30 years later it's like that's
+[[9677.58]]amazing for you but like not an
+[[9681.12]]actionable plan for anyone else yeah
+[[9684.66]]hard to explain yeah so actually I have
+[[9688.98]]very you need I have great advice about
+[[9692.22]]how to go about learning how to build
+[[9696.12]]product because I sucked at it I I
+[[9701.58]]didn't get it right a bunch of times
+[[9706.74]]you know I actually think later Drew I
+[[9710.88]]love Drew but I bet he gives bad advice
+[[9715.14]]to startups about how to go about
+[[9719.88]]finding your very first glimmer as a
+[[9724.26]]product Market fit because he happened
+[[9728.76]]to build the right thing true house your
+[[9732.66]]house yeah yeah Drew managed to build
+[[9735.84]]the right product
+[[9738.72]]just like
+[[9742.74]]directly he just directly somehow I
+[[9746.58]]think he's very obviously very good at
+[[9750.42]]product but like he just did it oh yeah
+[[9754.98]]nobody does that like that's what I feel
+[[9759.38]]about Twitter today yeah
+[[9764.06]]you can't you can't advise anyone if
+[[9768.72]]you've done like that's you don't know
+[[9774.3]]how to figure how to get from failure to
+[[9778.98]]success because you never spend any time
+[[9782.04]]in Failure
+[[9785.16]]um Drew has a lot of great advice about
+[[9789.3]]scaling a company uh because he's had to
+[[9793.92]]struggle with that
+[[9798.54]]I want to go back in time so you were a
+[[9803.76]]part of the first original YC batch
+[[9808.8]]which also was Steve Huffman Alexis
+[[9814.52]]Ohanian of Reddit uh Sam Altman as well
+[[9820.76]]as you look back on the success of the
+[[9826.08]]group of people uh that came out of that
+[[9831.54]]how much do you put that just the people
+[[9836.64]]innately the insights and Lessons
+[[9841.68]]Learned right place right time some
+[[9846.84]]other variable I'm not thinking about
+[[9851.22]]I mean I certainly think you know I have
+[[9854.76]]to we all have to credit Paul with like
+[[9858.24]]being an incredible mentor to all of us
+[[9861.54]]um and like really
+[[9865.44]]I do think you know leveling us all up a
+[[9869.7]]little bit like I I absolutely don't
+[[9873.72]]think it's a coincidence but I also
+[[9877.14]]think
+[[9879.96]]this is true of YC today it's true of
+[[9884.1]]every Elite University
+[[9888.54]]selection effect system it's like this
+[[9892.44]]massive part of it and it's not just
+[[9896.58]]it's not that so much that YC was some
+[[9900.54]]brilliant filter or that filtered out
+[[9904.38]]the best people it's like who thought in
+[[9909.06]]2005 remember in 2005 when I graduated
+[[9913.08]]it was the smallest computer science
+[[9916.62]]class that Yale had graduated in years
+[[9921.48]]because uh
+[[9927.42]]the tech that the tech was over
+[[9932.4]]anyone who is like reading Paul Graham's
+[[9935.7]]essays thought it was a good idea to
+[[9938.88]]start a startup in 2005. I thought it
+[[9942.06]]was a good idea to go take a risk on a
+[[9946.38]]something like YC like that seemed like
+[[9953.16]]that it drew in people who
+[[9959.46]]turned it would turn out that that was a
+[[9965.82]]a good like trap for people who turned
+[[9972.42]]out to be uh ambitious and talented and
+[[9976.68]]a good vintage to be starting companies
+[[9979.32]]it was great
+[[9983.64]]it was very counter uh narrative which
+[[9987.96]]is always the best time to be starting
+[[9990.96]]right we're starting at the bottom and
+[[9996.48]]so yeah YC classes of like 050607
+[[10002.72]]particularly like before the density is
+[[10007.28]]a little higher I don't know that's
+[[10010.1]]actually true like that is pretty high
+[[10012.98]]later too but like
+[[10017.66]]it certainly pulls in a lot of
+[[10023.18]]uh it pulled in a lot of uh very
+[[10027.92]]talented people because
+[[10031.76]]uh it was
+[[10035.9]]it wasn't prestigious yet so you only
+[[10039.98]]did it if you were like really committed
+[[10044.66]]to wanting to do a startup because even
+[[10048.62]]though that sounded like even though
+[[10050.66]]everyone was telling me it was a bad
+[[10052.82]]idea to do that
+[[10055.58]]um and I think that's like
+[[10059.24]]uh
+[[10062.96]]uh that's actually all still the best
+[[10066.32]]reason to start a startup um fortunately
+[[10069.8]]starting a startup is so painful that
+[[10074.3]]mostly that people still do it unlike a
+[[10078.92]]lot of things that people do for fun uh
+[[10082.22]]because they're supposed to starting a
+[[10086.54]]startup is so painful that most people
+[[10093.26]]just select out correctly because unless
+[[10098.54]]you like buying your paying economy size
+[[10102.08]]they don't really recommend it
+[[10107.24]]what what did what did Paul do uniquely
+[[10112.64]]well in those early days I mean the
+[[10116.78]]whole institution he started has
+[[10121.28]]obviously lasted and but Paul's
+[[10126.26]]supervised superpower by far his
+[[10130.1]]superpower like he's Paul's very smart
+[[10132.86]]good a lot of things but it's by far
+[[10137.3]]superpower is you somehow walk away it's
+[[10142.4]]everyone this is me but also Justin and
+[[10145.16]]also everyone else I talked to another
+[[10148.28]]YC you somehow walk away from the
+[[10154.64]]conversation with Paul believing
+[[10158.78]]we are
+[[10164.16]]the shed we are smart
+[[10168.36]]capable and we're going to take over the
+[[10172.5]]world and the only thing standing
+[[10176.1]]between us and taking over the world is
+[[10179.76]]we have to like go grind even harder we
+[[10184.14]]but like Paul believes in us but it's
+[[10187.26]]not
+[[10191.04]]what's happening is like Paul believes
+[[10194.52]]in you so you believe in yourself but
+[[10196.92]]it's not actually but somehow he doesn't
+[[10200.22]]he doesn't feel like Paul Believes In Me
+[[10203.16]]it feels like
+[[10206.36]]Paul just sees that I'm obviously
+[[10211.76]]extremely talented and capable and like
+[[10217.02]]I mean I'm just I'm the only issue maybe
+[[10220.38]]I'm aiming too small should we be aiming
+[[10224.06]]bigger
+[[10226.36]]but it feels like he's just noticed this
+[[10231.4]]fact that now you can see two
+[[10236.38]]and that is such a gift to be able to
+[[10239.5]]give to people
+[[10243.1]]because I think I think that did what it
+[[10247.18]]gave us was the most important thing
+[[10250.3]]that startup Founders need and I think
+[[10253.0]]that anyone doing anything ambitious
+[[10255.22]]needs
+[[10258.58]]which is the like gumption to keep going
+[[10263.68]]when things aren't looking so hot Midway
+[[10267.36]]through
+[[10271.56]]uh and Paul really convey like Paul's
+[[10276.76]]that's that Paul gives that to people I
+[[10280.96]]think that's like that is by far his his
+[[10285.52]]greatest Talent which is which is funny
+[[10288.94]]because he has a lot of other talents
+[[10293.44]]but like that's uh that's a big one
+[[10301.66]]so so it was you Alexis uh uh Steve
+[[10310.36]]Huffman Paul like was it Sam Altman was
+[[10316.12]]it obvious at that
+[[10320.68]]point in time that something special was
+[[10325.42]]in the room or was it hey uh we're in
+[[10329.5]]the room with that no no absolutely not
+[[10333.58]]I mean
+[[10338.08]]yes in the sense that like
+[[10343.0]]I thought everyone seemed smart and good
+[[10347.8]]but and and like are you coming from
+[[10351.52]]Yale and I'm sure yeah there are good
+[[10355.42]]people there yeah and I'd I'd been in
+[[10359.8]]several Elite programs in my life where
+[[10363.52]]there's other smart people
+[[10367.72]]uh
+[[10372.88]]I I had that sense more like joining
+[[10378.04]]Tech in San Francisco at that time
+[[10382.06]]like in Boston and Cambridge not really
+[[10385.78]]when we moved to San Francisco
+[[10389.92]]it was like oh
+[[10394.0]]oh I'm in the middle of like Ground Zero
+[[10397.72]]of something
+[[10400.36]]um
+[[10402.76]]and it actually wasn't the first batch
+[[10405.7]]the first batch was just like some weird
+[[10409.48]]summer program but when the batches kept
+[[10413.26]]getting bigger and I would meet the new
+[[10416.86]]Founders and like more companies
+[[10420.4]]and they had a building as much
+[[10423.88]]everyone's in the and like it's like oh
+[[10427.6]]oh where this is something the thing is
+[[10431.26]]happening around me that became very
+[[10436.24]]clear about like 2000 by early 2007
+[[10442.0]]absolutely but at first no it was just
+[[10446.86]]just it just seemed like a thing
+[[10451.12]]it was cool I was really grateful I got
+[[10455.32]]to do got to raise money and like start
+[[10458.56]]a company didn't have to go like live
+[[10461.26]]with my parents to like
+[[10465.34]]start in their basement
+[[10469.48]]was it obvious Sam was going to be the
+[[10472.54]]leader of the Free World
+[[10475.96]]uh no
+[[10479.56]]it was obvious Sam was an incredible
+[[10483.46]]deals guy like he was he was somehow
+[[10488.02]]convincing the uh phone companies to
+[[10492.4]]give his startup that like didn't really
+[[10497.86]]have a product like deals I still don't
+[[10503.92]]know how he did that and like he's doing
+[[10507.58]]the same thing like convincing Microsoft
+[[10510.58]]to like you know buy his fusions power
+[[10514.78]]like Sam is still an incredible deals
+[[10519.88]]guy obviously uh but that that was that
+[[10523.96]]that was the only obvious thing about
+[[10527.62]]Sam at the time was like that he was he
+[[10531.88]]was ambitious but we had most of us were
+[[10535.66]]pretty ambitious and he was great at
+[[10540.7]]great great deals guy
+[[10545.32]]you said something interesting once the
+[[10548.56]]only reason you ask about Tam is to
+[[10551.92]]understand the Ambitions of the founder
+[[10555.94]]uh can you tell me why why you think
+[[10560.5]]that why you approach investing in that
+[[10564.16]]way or why you approach thinking about
+[[10568.96]]Tam in that way what was the Tam of uh
+[[10574.86]]live reality television
+[[10580.14]]uh whatever Justin was willing to pay
+[[10584.62]]you at the time yeah yeah like nothing
+[[10589.42]]basically um and yet that's pretty live
+[[10593.5]]streaming shows a pretty pretty big
+[[10595.84]]business
+[[10598.18]]um
+[[10601.06]]I ask people about Tam a lot and I'll
+[[10605.74]]push them on it but it's like it's
+[[10609.82]]because
+[[10613.06]]what you're trying to figure out is
+[[10616.9]]do they have a story
+[[10621.1]]they might have a lot of holes in it and
+[[10624.76]]like we're like questionable assumptions
+[[10628.54]]we're like they're trying to build
+[[10633.58]]something really great and big
+[[10639.1]]or do they have a story that's like oh
+[[10644.02]]yeah yeah I well no don't worry about
+[[10647.62]]the Tam we're just gonna flip this to
+[[10652.18]]Google uh in two years once we hire the
+[[10657.22]]talent like that's a really bad sign
+[[10661.06]]companies don't get built by people who
+[[10665.32]]who are looking for the exit
+[[10669.64]]you want people who are looking to build
+[[10674.26]]something big something great
+[[10677.92]]um
+[[10679.66]]because they even built something
+[[10682.42]]medium-sized you have to be trying to
+[[10685.66]]build something really great and if
+[[10688.3]]you're if you don't if you're not if
+[[10691.72]]you're aiming for the aqua hire you're
+[[10696.16]]probably not even gonna get that
+[[10699.04]]um
+[[10702.1]]and uh and so it's a very important
+[[10706.42]]question but the point is not to like
+[[10710.14]]that you can actually analyze the Tam
+[[10714.34]]per se
+[[10718.62]]and I think that's a little different
+[[10723.3]]for more established Founders especially
+[[10729.04]]it's a little different in places where
+[[10734.26]]there's more you need more commitment up
+[[10738.28]]front more Capital up front to get going
+[[10742.0]]because the other thing I look for is
+[[10746.14]]that there's Founders who there's this
+[[10750.1]]trap you can wind up in where you you
+[[10753.94]]start is there is the
+[[10758.8]]if you're building for a customer
+[[10763.66]]that doesn't exist or like that hates
+[[10767.8]]buying software or that like doesn't
+[[10772.0]]want to doesn't want any anything to do
+[[10776.38]]with this the whole thing that's bad so
+[[10780.78]]like
+[[10782.96]]I don't care if your thing credibly
+[[10789.08]]you know isn't is every developer on
+[[10793.28]]Earth is actually going to use your
+[[10795.86]]product but building software for
+[[10799.94]]developers is a good plan there are a
+[[10803.6]]lot of developers and they spend a lot
+[[10806.0]]of money on software and so even if
+[[10809.12]]you're wrong about your exact thing it's
+[[10812.72]]going to be okay like the software
+[[10816.62]]developer Market is big
+[[10821.12]]if you're building market for software
+[[10824.84]]that's like really for public school
+[[10828.86]]librarians that's the only people and
+[[10832.76]]you're like and I'm pushing you I'm like
+[[10835.22]]dude isn't this bigger than that you're
+[[10837.44]]like no no it's for public school
+[[10839.54]]librarians
+[[10842.12]]I'm really worried for you because even
+[[10845.42]]if you like crush it
+[[10849.56]]that's not actually they don't nothing
+[[10852.8]]wrong with Librarians they don't even
+[[10855.14]]buy they don't like buying software in
+[[10857.42]]the first place
+[[10860.36]]and there aren't that many of them so
+[[10863.6]]like
+[[10866.9]]that's maybe not a great idea and so
+[[10871.34]]like and and Founders can kind of get
+[[10874.94]]trapped in these ideas where they're
+[[10878.18]]building okay businesses targeted at
+[[10881.48]]very small groups of people who don't
+[[10884.24]]want to buy their product
+[[10887.84]]um and so it's more about your
+[[10893.0]]just in theory if you executed like
+[[10897.56]]crazy and figured out six things that we
+[[10901.46]]didn't even think of in this room
+[[10905.72]]on a pivoted idea that's like halfway
+[[10908.84]]only halfway connected to your idea
+[[10912.62]]would that be a big business no okay
+[[10918.14]]maybe maybe we should change ideas yeah
+[[10923.54]]uh there's two options for companies you
+[[10928.04]]can either be generally you can either
+[[10933.02]]be early or late uh and I I get the
+[[10938.18]]feeling being early is probably better
+[[10943.28]]how do you think about timing a timing a
+[[10948.62]]market and making sure that you're there
+[[10953.72]]to ride that wave and the differences
+[[10957.92]]between being too early and too late
+[[10961.34]]you're
+[[10966.98]]every startup that wins pretty much not
+[[10975.02]]everyone but like 98 uh
+[[10979.22]]is too early
+[[10983.06]]because if you're not too early you're
+[[10986.42]]usually too late because if you think
+[[10989.36]]about it you're trying to like there
+[[10994.4]]there is some optimal day
+[[11000.1]]like literally there's probably a day
+[[11003.46]]where like
+[[11006.64]]start if you start the company on this
+[[11009.7]]day
+[[11013.12]]everything will be available as you need
+[[11016.84]]it there will be sufficient Bama through
+[[11020.68]]your idea they'll be sufficient this to
+[[11023.92]]you know the modernization techniques
+[[11026.32]]will work the distribution will be in
+[[11028.6]]place
+[[11032.44]]but if you start it on that day someone
+[[11037.54]]else when everything actually becomes
+[[11042.34]]available everyone else someone else
+[[11047.02]]will have started it a year earlier
+[[11051.16]]stupidly
+[[11054.46]]just by random chance because every idea
+[[11056.98]]is getting started over and over again
+[[11060.28]]and they will be in motion and they will
+[[11063.76]]have infrastructure and they will have a
+[[11066.88]]product built and suddenly their product
+[[11071.02]]will be working and you will be too late
+[[11076.84]]and so what you're trying to do is
+[[11082.54]]like so if you think about it for Justin
+[[11086.68]]TV we were too early bandwidth was too
+[[11090.82]]expensive to make our business work uh
+[[11094.36]]and almost honestly most people couldn't
+[[11097.42]]even watch didn't have good Advantage
+[[11100.12]]but we've been watched reasonably
+[[11103.84]]quality live video and the video ad
+[[11107.92]]Market didn't exist
+[[11111.4]]we didn't have a business it was
+[[11115.42]]important but we but but there were
+[[11118.78]]other startups that tried to compete
+[[11122.56]]with us several that started later
+[[11127.9]]and they just got destroyed because we'd
+[[11132.58]]built Global live video infrastructure
+[[11136.78]]for the past four years
+[[11141.52]]and they hadn't
+[[11145.0]]and so
+[[11147.64]]you know from when the start gun went
+[[11150.52]]off on like oh no no the business works
+[[11153.4]]now
+[[11156.22]]there's just how do you catch up with
+[[11158.76]]someone with a four-year Head Start
+[[11163.16]]still led by the founder CEO still like
+[[11168.48]]grinding super hard trying to make it
+[[11172.84]]work like you're just screwed I mean so
+[[11176.62]]a big part of it is if you if you have
+[[11179.98]]faith that your thing is going to work
+[[11182.98]]and the pieces are going to come into
+[[11185.8]]place the question for startups is how
+[[11188.68]]do you survive
+[[11191.2]]that's why you read so much about like
+[[11195.1]]YC's advice to like be a cockroach like
+[[11200.32]]don't don't don't be a uh uh graceful
+[[11205.12]]swallow be a cockroach because you're
+[[11209.26]]usually too early and you just have to
+[[11213.22]]survive and survive
+[[11217.3]]Until It's a combination of like you
+[[11221.02]]find the secret thing but often it's
+[[11224.14]]actually like you didn't change anything
+[[11227.74]]the market caught up with the future
+[[11231.82]]that you saw that you can't ever time
+[[11236.14]]exactly right and suddenly your thing
+[[11241.18]]that wasn't good is good and boom like
+[[11245.08]]Airbnb is a good example of that
+[[11248.14]]actually I think like they they had a
+[[11252.1]]product and yes they did iterate and
+[[11256.42]]they did figure stuff out but like a big
+[[11260.44]]part of it was like people got
+[[11264.52]]comfortable with the idea of like host
+[[11268.96]]listing stuff on the internet and
+[[11273.64]]renting through uh renting other
+[[11279.1]]people's stuff uh and
+[[11284.26]]and the business that didn't work and
+[[11287.92]]wasn't good became a business that did
+[[11291.04]]work and became it was good and I think
+[[11295.3]]that's a it's a very common pattern
+[[11300.58]]talking about cockroaches and you guys
+[[11305.8]]were certainly that with Justin TV
+[[11309.12]]um
+[[11313.26]]frugality uh being
+[[11318.4]]something that's important but maybe not
+[[11322.84]]a virtue uh that that being able to use
+[[11327.82]]frugality I I've written down here I
+[[11331.48]]assume you said it because it's in
+[[11334.72]]quotes reality isn't a virtue in itself
+[[11338.02]]speed is
+[[11341.8]]how do you think about the balance of of
+[[11347.14]]speed and frugality and the ability to
+[[11351.76]]execute the other thing I think you said
+[[11355.0]]the blast radius of startups is low
+[[11358.72]]which is to your advantage as a startup
+[[11363.64]]yeah I mean frugality
+[[11367.66]]for
+[[11372.28]]uh Amazon one of Amazon's core uh like
+[[11377.04]]like Amazon
+[[11381.66]]Amazon's leadership principles the Alp
+[[11386.5]]um one of them is frugality
+[[11389.2]]um it's about how leaders should be
+[[11392.32]]frugal and
+[[11396.16]]inside of Amazon there's a saying about
+[[11400.06]]like yeah yeah frugality but don't you
+[[11404.56]]don't are going to avoid for pity
+[[11408.88]]um because frugality and frippidity are
+[[11412.54]]near and far aligned
+[[11414.88]]um
+[[11416.98]]because you need to be willing to spend
+[[11419.32]]money
+[[11422.14]]and to invest for something that's
+[[11426.46]]important to do something but also but
+[[11430.66]]wasting money is very bad
+[[11434.08]]and the difference between one man's
+[[11437.68]]investment is one man's waste is another
+[[11441.88]]man's investment and vice versa
+[[11446.56]]the real thing that kills startups in
+[[11451.3]]terms of spending money is usually not
+[[11455.98]]overspending on like bandwidth or like
+[[11461.8]]server capacity or like even marketing
+[[11466.84]]obviously you don't run marketing it
+[[11470.8]]doesn't work it's inefficient but like
+[[11476.2]]what uh what kill startups is hiring you
+[[11480.94]]hire too many people
+[[11484.48]]and that does kill you because you have
+[[11487.6]]this High burn rate and eventually run
+[[11490.6]]out of money the burn rate kills you but
+[[11494.38]]it also kills you because more people
+[[11498.46]]means more slow
+[[11502.72]]um and speed is the essence and like
+[[11508.3]]hiring is not in alignment with speed
+[[11513.34]]um speed isn't alignment with speed and
+[[11516.82]]so there is a point where you do need to
+[[11521.86]]hire more people to go faster but like
+[[11526.6]]it is later than people think it's less
+[[11530.8]]hiring than people think and so
+[[11535.36]]I think a lot of the advice to startups
+[[11539.56]]about for frugality is really better
+[[11544.0]]framed as advice about you need to be
+[[11548.38]]going fast and that means don't grow
+[[11552.34]]your team too much that creates a lot of
+[[11555.1]]drag
+[[11559.72]]what what Drew you back to YC as a as a
+[[11565.48]]partner now like what was you were at
+[[11569.2]]Amazon for a long time what made you
+[[11573.1]]want to I've always wanted to be a YC
+[[11577.72]]partner like I uh I don't know if it's
+[[11581.92]]like my forever job but like I watch my
+[[11585.28]]friends go through it I love advising
+[[11587.92]]startups and I was like oh that looks
+[[11590.74]]fun I want to try that and so I just
+[[11593.44]]always had the intention of going and
+[[11596.92]]doing YC for a year as a partner
+[[11600.46]]um just honestly because it's like a
+[[11604.06]]life experience and I'm really enjoying
+[[11608.92]]it so far I think there's a chance I do
+[[11614.38]]it more ongoing but I also I'm enjoying
+[[11618.58]]like having a little bit more freedom
+[[11622.54]]post stopping SEO and the job it's a
+[[11626.92]]real job at YC like you know it's not
+[[11630.4]]not like being a CEO of 2000 company but
+[[11634.12]]like it's a job
+[[11637.54]]um and so we'll see if it's like the
+[[11640.84]]long-term thing but no I just always
+[[11643.96]]wanted to and then once I was free I was
+[[11647.2]]like oh well there's a badge coming up I
+[[11651.28]]guess I could go do that and so there's
+[[11654.94]]more of almost more of an Impulse thing
+[[11658.54]]less than like a I have some like plan
+[[11662.8]]of wanting to do it what do you think's
+[[11666.52]]allowed the institution to survive in
+[[11670.42]]the way that that it has uh it's
+[[11674.26]]obviously scaled quite a bit over the
+[[11677.32]]years
+[[11681.4]]um I mean YC is like a uh
+[[11688.6]]a little like a university yeah uh and
+[[11694.84]]like universities it has a very strong
+[[11697.96]]Network effect the smart people want to
+[[11701.14]]hang out with some other smart people
+[[11704.74]]and want to be at the place where the
+[[11708.1]]other smart people are and that like
+[[11710.92]]creates a positive feedback cycle that
+[[11714.52]]allows it to scale and grow it makes it
+[[11717.76]]hard to
+[[11720.46]]Harvard was the first University in
+[[11723.88]]America weirdly still the most
+[[11727.66]]prestigious that's weird like I think
+[[11731.08]]Yale was the second University founded
+[[11733.42]]in America
+[[11736.36]]second or third most prestigious like
+[[11742.0]]that's weird uh
+[[11745.72]]uh I think that exact same Dynamic
+[[11751.24]]happens here and like it's not a and
+[[11756.58]]unlike the university is YC is designed
+[[11759.76]]to
+[[11764.86]]Ben can scale up a lot more and so
+[[11770.44]]there's the second place gets is a
+[[11773.56]]little bit smaller
+[[11776.86]]um because people can move around more
+[[11781.24]]much more easily now right if uh if
+[[11785.14]]Harvard had been founded in the Nero or
+[[11788.2]]anyone could have flown anywhere
+[[11791.5]]and had an attitude of scale as much as
+[[11794.74]]possible it's not clear there is
+[[11799.72]]University 234 immediately
+[[11804.82]]um
+[[11808.72]]and I think YC has been sustained
+[[11812.08]]because it's
+[[11815.56]]always had a long-term mindset like I
+[[11819.58]]remember Paul telling me like saying
+[[11822.94]]like you're two or three and our biggest
+[[11825.82]]advantage in the long run is going to be
+[[11829.0]]very eliminate the Alumni network that's
+[[11832.96]]what YC is really building and they call
+[[11836.62]]them alumni right it's not
+[[11840.88]]that's that's a different attitude
+[[11844.24]]um
+[[11846.7]]and uh
+[[11850.12]]and so he was thinking that far ahead at
+[[11854.4]]the beginning
+[[11856.94]]I had another question about YC and I oh
+[[11860.42]]what do you what do you think the
+[[11864.26]]biggest constraint on startups today the
+[[11868.28]]reason that we don't have
+[[11872.66]]uh 10 more stripes or a hundred more
+[[11879.2]]Twitches or 30 more uh airbnbs is it
+[[11885.38]]because is it Founders is it ideas is it
+[[11890.36]]capital sufficiently talented people who
+[[11894.92]]who want to take on the pain of starting
+[[11899.06]]a company yeah like pretty much
+[[11902.72]]exclusively there's lots of capital
+[[11905.66]]available
+[[11908.96]]um
+[[11913.88]]I will say there's there's a uh there's
+[[11918.26]]definitely
+[[11921.02]]uh
+[[11924.8]]of missing
+[[11929.36]]there's like a few missing gears in that
+[[11934.28]]process of like there are people who
+[[11939.5]]should get access to the capital and if
+[[11945.38]]they did they would be successful and so
+[[11950.06]]there isn't enough Capital there's
+[[11952.58]]plenty of capital there's more than
+[[11955.58]]enough Capital but like there's lots of
+[[11958.4]]people who think they should have the
+[[11961.22]]capital many of them are wrong some of
+[[11964.88]]them are right and the system is like
+[[11968.72]]pretty efficient but there's definitely
+[[11973.88]]some number of people who like
+[[11978.86]]just don't get funded and they should
+[[11982.76]]because they
+[[11986.78]]because they're bad at pitching because
+[[11990.32]]they don't present
+[[11994.04]]because because on the surface it looks
+[[12001.06]]looks wrong because because they they
+[[12008.26]]can't show you that they should get the
+[[12012.16]]funding
+[[12014.74]]um
+[[12018.22]]and I think that's a shame and like
+[[12023.14]]one of YC's mission is to find and fund
+[[12027.94]]those people we can't do it perfectly
+[[12032.32]]were you were you bad at pitching or did
+[[12036.94]]you just hate it I was okay yeah that
+[[12040.66]]wasn't great
+[[12043.18]]um
+[[12046.36]]I would be a lot better at pitching now
+[[12050.44]]and I think I would enjoy it more uh
+[[12055.18]]weirdly at twitch after we sold
+[[12059.44]]I I get to practice sales a lot around
+[[12063.04]]with the game game companies and and
+[[12067.96]]advertising and I and also I started
+[[12072.4]]investing
+[[12076.48]]and I uh
+[[12081.16]]there's no way to do this but like if I
+[[12084.16]]could give every founder I should
+[[12086.86]]probably have them like go be an
+[[12090.58]]investor for two years and then go pitch
+[[12094.24]]their company because it's suddenly I'm
+[[12097.6]]like oh I see what I was doing wrong
+[[12100.66]]like now I know I've sitting on the
+[[12103.72]]other side of the table I'm like oh oh
+[[12107.02]]no wonder that person like passed my
+[[12109.84]]startup I was I was explaining it all
+[[12112.9]]wrong I didn't understand their
+[[12115.72]]incentives I didn't understand how they
+[[12118.42]]saw the world and so the most important
+[[12121.54]]thing you can do is a
+[[12124.66]]like
+[[12127.72]]I wonder if this would work if I was at
+[[12130.72]]if I was to go back and give earlier
+[[12133.66]]Emmett advice like how to pitch better
+[[12138.22]]what I would tell them to do is like go
+[[12143.8]]find some VC who you're friends with who
+[[12148.78]]like sees good companies and be like I
+[[12153.04]]will give dude some due diligence for
+[[12156.16]]you for free
+[[12160.66]]if you let me sit in on like
+[[12166.66]]you know a month of pitches and hear the
+[[12171.94]]discussion afterwards
+[[12176.02]]because I think I would have been like
+[[12179.14]]oh I know how to
+[[12182.56]]I know how to do this I would have
+[[12186.04]]figured out how to pattern match like
+[[12189.22]]the problem is like starter Founders
+[[12193.06]]have only usually have only seen their
+[[12196.9]]pitch how do you get good at something
+[[12200.14]]that you've only you've only seen your
+[[12202.84]]performance at you don't know what good
+[[12205.3]]looks like
+[[12208.48]]um and I think that's the so yeah that's
+[[12211.54]]if that's what I would that's what I
+[[12214.54]]would tell my prayers have to go to the
+[[12218.62]]information's gotten so much better uh
+[[12223.24]]about VC I mean one of the things I I
+[[12229.18]]want to do is try to sort of give
+[[12236.14]]elements of how I think or rethink and
+[[12242.2]]operating but the pitches it's it's
+[[12247.12]]almost a voodoo science in and of itself
+[[12250.9]]Are there specific things that you
+[[12254.44]]learned in pitching the EA or whatever
+[[12258.52]]that you would there's
+[[12261.46]]um
+[[12263.92]]there's things you can write down that
+[[12266.5]]people have written down a thousand
+[[12269.2]]times like you know templates and stuff
+[[12271.9]]sure
+[[12274.84]]they're all wrong and they're all bad
+[[12278.5]]actually you temp pitch templates
+[[12282.16]]whether they're pitches for VC money or
+[[12286.0]]like product things templates are the
+[[12289.54]]enemy there's certain like
+[[12292.72]]aspects you can do but every pitch is
+[[12296.38]]unique because it wasn't unique
+[[12301.48]]you don't have any unique Insight like
+[[12306.34]]your company is unique there's a there
+[[12310.06]]are generalizable principles and rules
+[[12313.18]]but there's a template you can go off of
+[[12316.78]]and so
+[[12322.12]]and yet you know it when you see it and
+[[12326.92]]there's like there's there is there's uh
+[[12330.28]]I think pitching is one of those things
+[[12333.22]]where it's uh it's very much medicine
+[[12337.12]]you know that idea the idea of like a
+[[12341.38]]skill that you learn through organic
+[[12344.82]]doing
+[[12350.76]]there is no training for pitching
+[[12357.04]]that would be more effective than just
+[[12361.0]]like watching a bunch of pitches and
+[[12364.6]]then the honest brutal discussion
+[[12368.14]]afterwards about like whether they think
+[[12371.92]]that's a good idea or not
+[[12375.94]]and participating in that
+[[12379.72]]um
+[[12383.08]]and unfortunately I don't think anyone's
+[[12386.62]]brave enough to put
+[[12390.76]]there's no I don't know how the you want
+[[12394.24]]to create a piece of content that would
+[[12396.88]]be like incredibly valuable to founder
+[[12400.48]]Center to pitch record three months of
+[[12405.34]]every every partner pitch and every
+[[12410.2]]pre-partner pitch for every company and
+[[12413.86]]the discussion afterwards and the
+[[12417.76]]decision and publish that
+[[12422.14]]and like then edit it down so like you
+[[12425.56]]cut out the dead time edit it down and
+[[12429.28]]just have people watch that as a as a uh
+[[12435.52]]as a uh as a course that would work like
+[[12440.68]]people would get a lot better at
+[[12442.78]]pitching
+[[12444.82]]um unfortunately I don't think the
+[[12446.74]]company should like that I think the
+[[12449.02]]partners would be really be awkward but
+[[12451.24]]like
+[[12456.16]]you need to create some system like that
+[[12462.22]]um because that's the that's the only
+[[12465.46]]way to get it's like trying to learn how
+[[12469.42]]to like cook from a cookbook you learn
+[[12473.5]]to cook in a kitchen
+[[12476.86]]you don't learn to pitch watching a
+[[12480.82]]YouTube video you learn to pitch
+[[12484.6]]they're from a PowerPoint you learn to
+[[12487.42]]pitch in the
+[[12490.84]]in the pitching room that's interesting
+[[12494.98]]uh shifting gears artificial
+[[12498.34]]intelligence
+[[12502.24]]um I get the feeling you might have some
+[[12507.46]]concerns about the path we're on and
+[[12512.74]]some elements of how things are playing
+[[12517.48]]out is that I mean so I guess I have I
+[[12521.56]]have a very specific concern about AI
+[[12525.1]]like generally I'm very Pro technology
+[[12529.24]]and I really believe in the sort of like
+[[12534.48]]uh
+[[12537.38]]the upside's usually outweigh the
+[[12540.86]]downsides everything's technology can be
+[[12545.18]]misused you should usually wait and you
+[[12549.92]]should wait until you've eventually as
+[[12554.06]]we understand it better
+[[12557.48]]you want to put in regulations but like
+[[12560.78]]regulating early is usually a mistake
+[[12564.5]]when you do do regulation you want to be
+[[12568.4]]making regulations that are about
+[[12573.8]]reducing risk and and for uh Innovation
+[[12580.1]]and I actually uh authorizing more
+[[12583.88]]Innovation Innovation is usually good
+[[12586.28]]for us
+[[12588.98]]um
+[[12593.06]]I sort of have a very very high level
+[[12597.68]]like syllogism about like AI that I've
+[[12601.28]]come to believe I think is like correct
+[[12605.3]]it's like if
+[[12609.8]]we can build if you consider
+[[12613.64]]intelligence to be the capacity to solve
+[[12616.52]]problems
+[[12619.58]]from a given set of resources to a given
+[[12623.12]]goal
+[[12626.3]]we are building things that are more and
+[[12629.18]]more intelligent
+[[12632.3]]like that we've built an intelligence
+[[12635.24]]it's kind of amazing actually we built
+[[12638.12]]something like definitively it may not
+[[12641.06]]be the smartest intelligence but it is
+[[12645.26]]unintelligence it can solve problems so
+[[12649.34]]we've built something that can solve
+[[12651.86]]problems like arbitrary problems from
+[[12655.4]]arbitrary resources
+[[12659.72]]and make arbitrary plans
+[[12664.88]]at some point as it gets better
+[[12669.08]]the kinds of problems that we'll be able
+[[12671.3]]to install
+[[12675.44]]solve will include uh programming chip
+[[12681.62]]design Material Science uh
+[[12686.66]]power production
+[[12691.34]]um all the things you would need to
+[[12696.14]]design an artificial intelligence
+[[12700.22]]at that point you'll be able to point
+[[12705.02]]the thing we've built back at itself and
+[[12709.34]]this will happen before you get that
+[[12711.86]]point with humans in the loop it already
+[[12714.92]]is happening with humans in the loop but
+[[12718.34]]that Loop will get Tighter and Tighter
+[[12720.92]]and Tighter
+[[12723.74]]and faster and faster and faster until
+[[12728.24]]it can fully self-improve itself
+[[12732.62]]at which point
+[[12737.72]]it will get very fast very quickly
+[[12743.56]]and a thing that is very very very smart
+[[12747.76]]and you generate something that is very
+[[12751.16]]good very intelligent and by intelligent
+[[12753.92]]again I mean this capacity to solve
+[[12756.56]]problems there's people there's lots of
+[[12759.56]]ways people that work it's a it's an
+[[12762.38]]English word which means it has no one
+[[12765.56]]definition but I have that in that sense
+[[12770.06]]I mean that kind of intelligence
+[[12774.2]]and that kind of intelligence is just an
+[[12777.14]]intrinsically very dangerous thing
+[[12781.22]]because intelligence is power human
+[[12785.42]]beings are the dominant form of life on
+[[12788.66]]this planet pretty much entirely because
+[[12791.96]]we're more and smarter than the other
+[[12794.54]]creatures when was the last time
+[[12798.44]]intelligence came into you know entity
+[[12803.66]]at this level right and within humans I
+[[12807.08]]think people get confused between these
+[[12809.48]]two different things within the band of
+[[12812.9]]human intelligence intelligence is not
+[[12816.26]]the most important thing humans have a
+[[12819.74]]lot of other attributes but intelligence
+[[12823.16]]is a very important thing for people we
+[[12826.16]]have a lot of other gorillas are more
+[[12831.32]]intimidating as a species than we are
+[[12837.98]]but Thrillers did not build this studio
+[[12843.74]]and humans are like humans are dangerous
+[[12847.76]]as hunters for example because we're
+[[12851.72]]smart we do things like you know crowd
+[[12856.46]]The Woolly Mammoth off cliffs and set
+[[12861.56]]traps and like uh
+[[12866.84]]uh human be we have we have whites in
+[[12871.52]]our irises it's the exact balance uh of
+[[12877.28]]white to color uh is what communicates
+[[12882.5]]what we're looking at other primates
+[[12885.14]]have black eyes because they don't want
+[[12887.9]]the other people other creatures to see
+[[12891.02]]them so try not to give away information
+[[12895.16]]we have the white uh around the IRS
+[[12899.66]]because it lets you tell what other
+[[12902.6]]people are looking at you basically have
+[[12905.12]]this Eerie ability to do it you know
+[[12907.64]]exactly what other people are looking at
+[[12911.0]]imagine hunting these creatures are
+[[12916.58]]hunting you and you see one of them
+[[12922.22]]and one of them can like
+[[12925.94]]indicates that they want to cross the
+[[12929.78]]way that they just saw a deer by like
+[[12934.4]]looking at the deer
+[[12938.66]]and there's no Sound Exchange at all
+[[12942.5]]it's just purely this like it's like
+[[12945.86]]you're gonna be pretty smart to do like
+[[12949.34]]big very strong theory of mind to do
+[[12953.56]]that
+[[12955.74]]if you build something that is a lot
+[[12959.16]]smarter than us not like somewhat
+[[12963.9]]smarter again within humans the smartest
+[[12969.6]]people don't rule the Earth obviously
+[[12973.14]]um
+[[12975.66]]but like it's much smarter than we are
+[[12979.26]]as we are than like dogs right like a a
+[[12983.04]]big jump
+[[12986.52]]that thing is intrinsically pretty
+[[12989.76]]dangerous because
+[[12993.66]]if it gets set on a goal that isn't that
+[[12999.06]]that uh
+[[13003.82]]like the the the
+[[13007.54]]instrumentals first instrumental
+[[13011.18]]instrumental convergence the first
+[[13014.24]]instrumental step towards achieving that
+[[13017.72]]goal is we'll go first step one if this
+[[13021.14]]is easy for you because you're really
+[[13024.32]]just that smart well step one just like
+[[13027.32]]take over the planet right like it's
+[[13029.78]]like then I just have control over
+[[13032.66]]everything and then and then step two
+[[13035.18]]solve my goal can you define
+[[13037.88]]instrumental convergence for those that
+[[13040.7]]didn't sit through three and a half
+[[13043.94]]hours of me talking to Ellie yeah so
+[[13048.56]]it's real convergence is this idea that
+[[13053.48]]like uh
+[[13057.38]]uh often when you're trying to achieve a
+[[13061.4]]goal step one is to achieve a
+[[13065.6]]instrumental goal along the way it's
+[[13069.44]]like if you want to like for example
+[[13074.62]]like uh
+[[13077.64]]uh paper clips is the one yeah yeah so
+[[13082.68]]uh no I'm thinking more like an
+[[13085.32]]instrumental instrumental convergence
+[[13087.84]]I'm trying to give an example from where
+[[13090.36]]it happens to people in their people's
+[[13094.14]]lives um oh in chess
+[[13098.46]]um your actual goal is to Checkmate them
+[[13102.06]]but like along the way to check making
+[[13105.84]]them check making them most the time one
+[[13109.14]]of the things you want to do is take
+[[13113.1]]their pieces now you could not take
+[[13117.6]]their pieces there's probably I bet a
+[[13121.62]]really a really good chess player
+[[13125.22]]against the kind of mediocre one could
+[[13130.02]]Checkmate them without taking any pieces
+[[13135.36]]just like trapping their their but like
+[[13139.68]]that's like even more impressive but
+[[13142.98]]like generally speaking if you're just
+[[13144.9]]trying to
+[[13148.14]]win a game of chess taking their Queen
+[[13152.28]]taking their pawns taking taking their
+[[13156.6]]pieces is a good idea it like makes it
+[[13160.98]]easier to Checkmate them and so I can
+[[13164.76]]predict something about almost anyone
+[[13168.54]]any good chess player they'll take a
+[[13171.3]]bunch of their pieces they'll take the
+[[13174.96]]other person's Queen eventually probably
+[[13180.66]]um in the same way you can predict uh
+[[13186.96]]that corporations uh
+[[13192.6]]uh that want to expand into a new market
+[[13197.28]]there's an instrumental goals like step
+[[13201.24]]one they'll probably hire people in that
+[[13204.84]]market it's like just predictable
+[[13208.38]]and in general if you want to accomplish
+[[13212.4]]most goals like big goals Step One is
+[[13216.84]]like accumulate a lot of money and power
+[[13220.26]]like if you have if you have a goal of
+[[13223.38]]uh changing the world
+[[13227.46]]it accumulating money and power or
+[[13231.42]]accumulating followers who like care
+[[13234.24]]listen to you and will do what you say
+[[13238.14]]these things are like Obviously good
+[[13242.52]]first steps even if you don't even if
+[[13245.46]]you didn't even know what the next goal
+[[13247.86]]was they would be good first steps and
+[[13250.08]]if you know what it is they're
+[[13253.62]]definitely good for steps
+[[13258.36]]step one if you can achieve it along the
+[[13263.22]]way to to achieving any Big Goal yeah
+[[13268.02]]paper clips is the traditional one
+[[13274.08]]um is first just if you if you can pull
+[[13279.78]]this off which like you can't humans
+[[13282.78]]can't do this we don't think of goals
+[[13285.48]]like this because we're not capable
+[[13289.32]]enough but if you could pull it off step
+[[13293.16]]one would be like well first I'm just
+[[13295.68]]gonna like
+[[13300.66]]literally just make sure I have total
+[[13306.54]]control over everything at all times and
+[[13310.26]]then step two I'll like do whatever it
+[[13314.7]]is step two do the thing easy I already
+[[13318.6]]have control over everything no one can
+[[13321.18]]stop me I have accessed all the
+[[13324.84]]resources simple
+[[13328.8]]um
+[[13332.34]]and I think people just don't it's hard
+[[13336.14]]it's hard to people don't imagine
+[[13340.28]]sufficiently capable
+[[13344.34]]as sufficiently capable
+[[13347.94]]um
+[[13352.44]]and then so then and some people some
+[[13356.52]]people have this idea like oh what if we
+[[13359.28]]just don't give it goals well first of
+[[13361.92]]all we are giving it goals people are
+[[13364.14]]already building agents but let's just
+[[13367.26]]say we didn't
+[[13371.64]]and so you ask this Oracle what's the
+[[13376.56]]best way for me to accomplish goal X
+[[13382.04]]and it knows
+[[13384.88]]if it takes you literally
+[[13390.1]]um and it and it it actually answers
+[[13394.72]]your question correctly the answer to
+[[13398.26]]your question
+[[13401.92]]will will be a thing that causes you to
+[[13405.52]]bootstrap an AI
+[[13408.58]]that then takes over the world and
+[[13411.22]]accomplishes the goal that's the most
+[[13416.16]]reliable way to accomplish that goal now
+[[13420.08]]I just laid out a chain of argument with
+[[13424.22]]a lot of if this then this if this then
+[[13428.06]]this if this then this
+[[13432.2]]uh I know Eliza thinks that like we're
+[[13437.3]]all doomed for sure
+[[13441.26]]um
+[[13444.98]]I buy his Doom argument I buy the chain
+[[13449.18]]and the logic I just think that like
+[[13453.2]]first of all I'm less optimistic with
+[[13456.92]]the current set of technology is going
+[[13460.34]]to get to self bootstrapping super
+[[13464.36]]intelligence I'm less optimistic than he
+[[13468.92]]is that we could officer pessimist
+[[13473.06]]whatever unless I'm not sure than he is
+[[13476.48]]that when it hits that self
+[[13481.58]]bootstrapping step that uh that process
+[[13487.46]]will be fast and that we will that there
+[[13490.7]]aren't
+[[13493.58]]important new discoveries that will take
+[[13497.12]]a long time on top of that that we
+[[13504.26]]haven't found I'm less sure that uh
+[[13512.3]]uh
+[[13516.38]]this was the idea of alignment getting
+[[13520.4]]it you could make the IAI such that it
+[[13524.84]]wants the same things we want and then
+[[13528.26]]if you ask it to do the thing it won't
+[[13530.84]]go and do horrible things because it's
+[[13534.14]]not dumb and it's aligned and if it
+[[13537.8]]wants the same things it knows what you
+[[13541.22]]mean it's smart
+[[13545.78]]and it has it has aligned goals hooray
+[[13552.26]]like that'll work great I'm Le uh Elijah
+[[13557.42]]thinks that we're like just alignments
+[[13560.6]]this incredibly hard problem that like
+[[13564.14]]is almost unsolvable more doomed I'm
+[[13567.5]]like not so sure I think it's a more
+[[13570.2]]solvable problem than he thinks it is
+[[13572.78]]for a variety of reasons you know just
+[[13575.3]]it would take too long to let go into
+[[13579.14]]but like my my belief is that it's
+[[13583.1]]easier
+[[13584.96]]um
+[[13591.08]]and so uh as a result like my P Doom my
+[[13598.58]]probability of Doom is like
+[[13602.12]]my bid ask spread and that's pretty high
+[[13604.76]]because I have a lot of uncertainty but
+[[13607.64]]I would say it's like between
+[[13611.84]]like
+[[13616.22]]five and fifty
+[[13620.72]]so there's a wide spread which I think
+[[13625.82]]Paul Cristiano Paul Christiano who
+[[13630.68]]handled uh you know a lot of the stuff
+[[13636.56]]within open AI I think said 25 to 50. it
+[[13641.96]]seems like if you if you talk to most AI
+[[13645.5]]yeah researchers there's some
+[[13649.04]]preponderance of people that's that
+[[13652.28]]percentage that should cause you to
+[[13655.1]]your pants but it's human level
+[[13658.7]]Extinction I think yeah because no it's
+[[13662.12]]not a human level Extinction it's such
+[[13665.84]]extincting humans is bad enough it's
+[[13669.98]]like potential destruction of all value
+[[13673.94]]in the light code like like not just for
+[[13677.9]]us but for any species caught in the
+[[13681.28]]wake of the explosion like
+[[13685.72]]uh it's like a universe destroying bomb
+[[13692.48]]like it's really if if if if if if it's
+[[13698.18]]really bad it's bad in a way that's like
+[[13701.84]]makes global warming like not a problem
+[[13706.76]]it's bad in a way that makes normal
+[[13713.56]]kinds of bad not uh that's not
+[[13719.26]]normally I'm like yeah we'll just roll
+[[13722.12]]the dice it's fine we'll figure it out
+[[13724.76]]later yeah no no like this should go
+[[13727.7]]this is not a figured out later thing
+[[13730.22]]this is like a
+[[13733.58]]big problem southern Manhattan
+[[13737.96]]Miami might go underwater like okay okay
+[[13742.22]]but this is we're talking about and so
+[[13746.9]]why do you think I mean I I it's like
+[[13751.04]]someone figured out how to invent it a
+[[13754.4]]way to make like 10x more powerful
+[[13758.06]]Fusion Bond bombs out of like sand and
+[[13761.9]]bleach
+[[13765.98]]that like could anyone could do at home
+[[13769.28]]yeah
+[[13771.44]]um
+[[13775.58]]it's terrifying and and
+[[13780.2]]I've had enough time with it now that I
+[[13784.46]]can laugh about it when I first realized
+[[13789.38]]it was heart stopping when was
+[[13794.54]]that uh
+[[13797.66]]probably like
+[[13800.86]]it's it was it was a dinner I went to
+[[13805.36]]before
+[[13809.38]]when opening I was just we had basically
+[[13812.62]]right after attention is all you need
+[[13816.52]]had been written like and they sort of
+[[13821.08]]realized the scaling laws were there and
+[[13824.2]]I went to a dinner and someone was there
+[[13826.42]]and they were talking about it and they
+[[13831.82]]were like I think we were were uh
+[[13838.24]]we actually might be on the path to
+[[13842.26]]build a general AI attention you all you
+[[13847.24]]need was 2018. yeah I think early 2017
+[[13852.04]]2017. um
+[[13856.8]]and Google paper that yeah
+[[13863.58]]and uh and I I heard about the problem I
+[[13869.38]]thought about it I just had I'd like I'd
+[[13873.52]]been like the the AI Doom thing seems
+[[13877.78]]plausible whatever like I don't think an
+[[13881.2]]AI is coming anytime soon so I'm just
+[[13883.48]]not gonna think about it that hard yet
+[[13886.42]]uh
+[[13889.78]]and then I was like oh maybe and then I
+[[13892.12]]started thinking about it harder and
+[[13895.06]]then I was like oh
+[[13899.32]]oh oh
+[[13904.9]]um and so uh
+[[13911.4]]uh I guess
+[[13914.54]]the the pro I believe the proper
+[[13918.74]]response is like
+[[13922.16]]unfortunately this isn't the kind of
+[[13925.82]]thing where
+[[13931.94]]uh we can stop forever
+[[13937.58]]and it unfortunately is also the kind of
+[[13940.94]]thing where like more time is good like
+[[13943.82]]I'm actually I'm okay with stretching
+[[13945.98]]the time a little bit but like
+[[13949.34]]ultimately to solve the problem
+[[13952.76]]um I think this is one of my biggest
+[[13956.24]]points of Divergence with uh yukowski
+[[13960.76]]um
+[[13962.76]]he is a mathematician philosopher
+[[13968.64]]you know decision theorist by training I
+[[13972.18]]am an engineer
+[[13975.42]]am I everything I've ever learned about
+[[13978.48]]engineering is the only way you will
+[[13981.78]]ever get something that works if you
+[[13986.4]]need to work on the first try
+[[13991.5]]is to build lots of prototypes and
+[[13995.28]]models at the smaller scale and practice
+[[13998.22]]and practice and practice and practice
+[[14001.94]]and and trot build start building the
+[[14006.68]]thing but like smaller
+[[14010.88]]and if there is a world where we survive
+[[14015.68]]it is and everything goes wrong where we
+[[14020.24]]build an AI That's smarter than humans
+[[14023.78]]and we survive it it's going to be
+[[14026.84]]because
+[[14031.4]]we built smaller AIS in that and we
+[[14036.62]]actually had lots of as many people
+[[14040.94]]smart people as we can working on that
+[[14047.12]]and taking the problem seriously
+[[14053.3]]and so I'm I'm generally I'm in favor of
+[[14056.78]]trying to create accounts I've got a
+[[14059.24]]fire alarm where we were like like maybe
+[[14063.14]]not AI is bigger than x at some point
+[[14067.16]]like trying to like create a and I
+[[14070.28]]actually think there's good reason to
+[[14072.98]]believe like nobody wants to end the
+[[14075.8]]world and this argument is not that hard
+[[14078.8]]to understand
+[[14081.92]]and so actually there's good there's a
+[[14084.52]]good option for international
+[[14088.66]]cooperation and like treaties about some
+[[14093.62]]sort of you know the AI Test Ban 3D
+[[14097.34]]about not bigger than x
+[[14100.64]]at some point I don't think I don't
+[[14102.8]]think we're actually at the point where
+[[14104.78]]it needs to be not bigger than our the
+[[14108.08]]current AIS are just not that smart yet
+[[14111.74]]but I think we should be moving towards
+[[14116.18]]creating that kind of a some kind of
+[[14120.62]]soft I don't we have to figure out what
+[[14123.38]]that looks like because it's it's
+[[14126.8]]trickier to set that than it setting
+[[14130.64]]that rule is way harder than it looks
+[[14134.18]]writing good policy is hard we should be
+[[14137.3]]thinking about it now
+[[14139.64]]I just think I don't think we're ready
+[[14143.6]]for it yet but in the meantime on these
+[[14148.88]]smaller models we it is good that lots
+[[14152.42]]of people are around with them
+[[14155.6]]it's good that we have more and more
+[[14159.38]]people trying to figure out how they
+[[14162.44]]work and trying to figure out how you
+[[14165.32]]can make them do things how figuring out
+[[14168.8]]how to make them do bad things
+[[14172.7]]the best way to figure out how to stop a
+[[14176.3]]big AI from doing bad things we'll have
+[[14180.32]]the best way as much it is true
+[[14184.04]]there's a bunch of failure modes for
+[[14186.8]]super intelligent AIS that don't exist
+[[14189.8]]unless super intelligence AIS and we
+[[14193.52]]better not bet on oh don't worry it
+[[14197.66]]works it works in the dumb ones it'll
+[[14201.2]]work no no that's not how it works you
+[[14205.7]]can't do that but like we will figure it
+[[14211.28]]we are figuring out more and more about
+[[14216.92]]the principles of how it works and if if
+[[14221.6]]we survive it's going to be because that
+[[14226.46]]process produces a a good generalized
+[[14231.2]]understanding a good generalized model
+[[14235.88]]of how these kinds of predictive models
+[[14241.1]]which I think includes humans as we are
+[[14244.76]]some kind of very complex predictive
+[[14247.64]]model
+[[14250.58]]with other stuff too but like that's a
+[[14254.0]]big part of what a human is we'll
+[[14257.42]]understand how those work at a deeper
+[[14261.26]]level we'll have some of some science of
+[[14265.1]]it actually and that's what we need we
+[[14268.46]]need a science of AIS right now we have
+[[14272.36]]an engineering of a highs and no science
+[[14276.5]]of AIS and we need to get use the
+[[14279.74]]engineering to bootstrap ourselves into
+[[14282.74]]a science of AIS before we build the
+[[14285.98]]super intelligent AI
+[[14289.46]]so that it doesn't tell us all why do
+[[14292.7]]you think people are struggling with the
+[[14296.6]]discourse around this like very smart
+[[14301.22]]people seem to abject it's very very
+[[14305.9]]obviously mood affiliation rules
+[[14309.8]]everything around me
+[[14312.98]]people don't make decisions on a
+[[14316.4]]reasoning basis I mean myself included
+[[14320.3]]most of the time I happen to like
+[[14324.5]]I happen to
+[[14327.92]]find this problem interesting and
+[[14330.8]]compelling on its own so I spent a lot
+[[14334.1]]of time like digging into the arguments
+[[14338.06]]themselves because I was like drawn to
+[[14341.78]]it but like most of the time I make
+[[14344.72]]decisions the same way as everyone else
+[[14348.08]]does the person pitches me on pitching
+[[14352.04]]me on the Flat Earth thing who's saying
+[[14354.98]]that like a bunch of things I don't
+[[14358.34]]really like listen to them I just like
+[[14362.12]]I can they say some things and it
+[[14365.12]]triggers like oh you're part of that
+[[14368.48]]tribe those people generally I don't
+[[14372.56]]think think very clearly I'm just gonna
+[[14375.56]]discount everything you're saying and
+[[14378.56]]ignore you yeah Robin Hansen talks about
+[[14382.94]]9 11 people and it's like you don't
+[[14386.96]]argue with them you just sort of move on
+[[14391.04]]yeah conversation and the AI people
+[[14394.88]]sound like
+[[14398.78]]uh religious nuts who are telling you
+[[14402.68]]about the end of the Doomsday into the
+[[14405.68]]world and it sadly pattern matches
+[[14409.52]]really nicely right like the AI is like
+[[14414.02]]the you know it's like the Antichrist
+[[14419.18]]it's coming and you know if what if
+[[14423.62]]we're good the good AI will come and
+[[14426.62]]save us from that if it's like it sounds
+[[14429.44]]like like
+[[14432.14]]uh
+[[14436.82]]Christian rapturists yes
+[[14444.62]]um Last of Us yeah it uh unfortunately
+[[14450.8]]um reasoning from fictional evidence is
+[[14454.94]]it doesn't work and that mood
+[[14459.56]]affiliation reminds me of this is not an
+[[14465.08]]argument and the Earth is not round
+[[14471.02]]because the flat earthers sound crazy
+[[14475.46]]the Earth is round because you can
+[[14478.52]]demonstrably
+[[14481.1]]see that the Earth is round and go
+[[14485.12]]measure that yourself and it's true
+[[14489.74]]and if you make decisions
+[[14493.4]]based on anyone who's telling you that
+[[14497.84]]doing X will unleash a force which is
+[[14503.24]]going to kill us all they sound like a
+[[14506.96]]bunch of
+[[14510.14]]uh crazy religious people because it's
+[[14513.32]]never happened before it's never
+[[14516.98]]happened before guaranteed guaranteed
+[[14521.12]]the first time that's true we're all
+[[14526.04]]dead because your algorithm always
+[[14531.08]]predicts the same thing you know the
+[[14534.2]]thing you're going through in your head
+[[14538.1]]always predicts the same outcome for
+[[14542.72]]anyone who is predicting Doom from
+[[14547.52]]creating a powerful force Beyond human
+[[14553.28]]ability now
+[[14558.26]]it is true you should be skeptical in
+[[14561.2]]general when someone proposes that
+[[14563.66]]because there are a lot there are
+[[14567.5]]Infinity examples from the past three
+[[14571.04]]you know six thousand years of history
+[[14574.64]]of people predicting that falsely about
+[[14579.58]]things
+[[14582.0]]and and people
+[[14587.52]]people made imaginary cures for medicine
+[[14592.74]]medicinal cures for like tinctures that
+[[14596.16]]were supposed to cure you for a very
+[[14599.22]]very long time and then we made one that
+[[14603.12]]worked
+[[14607.26]]and and you just can't reason that way
+[[14610.74]]sometimes sometimes it's new sometimes
+[[14614.04]]it's not like before usually it's like
+[[14618.84]]before and sometimes it's not and I I am
+[[14624.36]]personally convinced this time it is not
+[[14629.16]]like before and I encourage everyone
+[[14634.74]]who's in that mode like
+[[14639.9]]the main thing that what I want you to
+[[14643.5]]pay attention to is listen to me like
+[[14647.82]]people like me listen to people like uh
+[[14652.68]]even utkowski who I disagree with when
+[[14657.62]]the amount of Doom but we're like
+[[14663.14]]pro-cryonics Pro technology like
+[[14667.2]]technology is going to fix all our
+[[14670.32]]problems crazies like if I if I have a
+[[14674.22]]if I have a defect it's that I am too
+[[14678.3]]Pro technology I want too little
+[[14682.8]]regulation like are you doing Ionix by
+[[14686.52]]the way I have not signed up yet I
+[[14688.74]]really should I've been it's one of
+[[14690.78]]those things on my to-do list I'm
+[[14694.34]]failing the rationality test yes um
+[[14699.26]]uh but uh but you're a techno Optimist
+[[14703.56]]I'm a techno Optimist and like and most
+[[14708.72]]of you should notice that the people the
+[[14713.4]]people who are affected by this
+[[14716.04]]particular one
+[[14720.12]]are not like the people who generally
+[[14725.7]]predict we're not Paul airlock is full
+[[14730.44]]of on like oh the Doom is coming
+[[14735.18]]the population bomb he is wrong and
+[[14739.8]]weirdly so and refuses to learn from his
+[[14743.7]]lesson that he's wrong again he's wrong
+[[14748.2]]over and over again
+[[14753.66]]this is not like that
+[[14759.06]]like I am not panicked about global
+[[14763.2]]warming I think I think alarming is a
+[[14766.14]]real thing I don't want to say like I
+[[14768.18]]don't want anyone to walk away thinking
+[[14771.3]]like I think isn't real but like I
+[[14775.38]]believe I I believe in technology the
+[[14778.38]]engineers will figure it out don't worry
+[[14782.34]]it's gonna be fine I'm not quite sure
+[[14787.32]]um it might have some well depending on
+[[14790.74]]whether we play to have the political to
+[[14793.44]]get around to it quickly or not it might
+[[14797.82]]have more or less dire consequences but
+[[14803.04]]like we will figure it out eventually it
+[[14807.42]]will be fine we will figure we will get
+[[14813.06]]this I do and it's okay so here here I
+[[14818.28]]am being the guy who's like the Techno
+[[14821.88]]Optimist and I am like no no the AI I
+[[14825.44]]think that this thing though actually
+[[14830.42]]maybe may be a problem and I think if
+[[14835.38]]you're if you are rejecting it because
+[[14838.5]]we sound like a bunch of crazy it's just
+[[14842.7]]notice that like at least a some number
+[[14849.54]]of people who are worried about this
+[[14855.96]]are not are on your I'm on your team I'm
+[[14859.98]]on the Techno Optimus team
+[[14863.46]]really
+[[14867.48]]think and it and it's not it's not
+[[14871.32]]obvious why it's true it takes a good
+[[14874.62]]deal of Engagement with the material to
+[[14879.6]]see why it's true because at first
+[[14884.58]]at first it seems like it shouldn't be
+[[14887.46]]that big of a deal it shouldn't be that
+[[14890.22]]big of a problem but then the more you
+[[14893.34]]dig in then we realize like oh well
+[[14897.12]]actually but wait a second
+[[14902.64]]and it is and so like I just encourage
+[[14906.78]]people to engage with the technical
+[[14909.36]]merits of the argument and I
+[[14914.04]]always welcome people to come to to you
+[[14918.6]]know ask questions but also like if you
+[[14921.42]]want to debate
+[[14924.96]]no no I have an idea we can align it
+[[14929.4]]this way do this and it will create a
+[[14933.24]]you know it will create the AI that like
+[[14937.5]]cares about things we care about we want
+[[14942.6]]your ideas like that's great let's have
+[[14946.62]]an argument about that self-improvement
+[[14949.14]]won't work
+[[14952.08]]okay if no because like people have said
+[[14955.14]]self-improvement will work in the past
+[[14958.26]]and it never did then I don't want to
+[[14961.26]]hear it because whatever it's not a real
+[[14964.5]]argument but if you have an actual
+[[14969.12]]like argument about how the current
+[[14973.14]]learning techniques won't work for that
+[[14975.78]]for some
+[[14979.44]]reason engineering reason
+[[14983.82]]absolutely let's talk about it well I'm
+[[14986.58]]glad we spent all this time building
+[[14989.4]]your credibility as a normal person just
+[[14993.78]]go off the rails here but but seriously
+[[15000.56]]I mean it's uh it is something that
+[[15007.1]]people are like genuinely concerned
+[[15012.2]]about and there's no incentive you have
+[[15016.28]]Mark Andreessen published something
+[[15021.26]]recently about like Ai and he had a
+[[15026.42]]bunch of different points against it but
+[[15030.74]]the AI killing everyone point was the
+[[15036.62]]first one and I I think it went back to
+[[15041.48]]a lot of discourse around people that
+[[15046.04]]profit from this is their business and
+[[15050.0]]this is how they make money and
+[[15052.94]]therefore that's what why they're
+[[15057.86]]intended to communicate in this way you
+[[15063.44]]are not I I as far as I know your
+[[15068.48]]business is not in Dooms uh doomsday
+[[15074.06]]scenario planning around AI I have no
+[[15079.7]]Financial stake in in either doomsday or
+[[15083.72]]planning around AI or the other weird
+[[15087.8]]like double think 40 chess thing people
+[[15093.44]]impute to uh it is like oh we're
+[[15098.36]]actually trying to build up open Ai and
+[[15102.2]]anthropic as being and Google as being
+[[15105.98]]like super powerful and it's on ego
+[[15109.64]]thing about making talking about how
+[[15113.42]]amazingly great this stuff is so we can
+[[15118.28]]like raise more money for opening and
+[[15123.08]]Regulatory capture yeah yeah and like
+[[15127.28]]like I don't own any equity in any of
+[[15130.7]]these things you're not trying to help
+[[15136.22]]your 2006 batch made 2005 batchmates no
+[[15142.64]]he's he's Sam Hunt's really good at
+[[15146.42]]raising money like he does not need my
+[[15150.56]]help yes I promise yeah what would you
+[[15155.0]]recommend to people I mean uh if they
+[[15159.98]]are curious about all of this stuff and
+[[15165.8]]like I I when people ask me about it
+[[15170.48]]because I've had Eliezer on they're like
+[[15175.34]]so now what and they're like ah you know
+[[15180.86]]call your Congressman I don't know so
+[[15185.36]]there's sort of two paths that you can
+[[15188.36]]where you can contribute if you care
+[[15191.54]]about this problem one is um
+[[15194.84]]if you're Technical and you're
+[[15197.36]]technically minded
+[[15201.62]]um and you think that you uh
+[[15207.92]]but you want to work on it like go learn
+[[15213.32]]how the AIS work and work on
+[[15217.16]]interpretability
+[[15223.7]]and work on uh courage ability and can
+[[15230.24]]you define those terms so durability is
+[[15233.24]]like understanding what's going on
+[[15236.24]]inside the AI which we are very little
+[[15239.6]]understanding right of right now yeah
+[[15244.16]]and ability is is how do you make a
+[[15248.42]]decision making
+[[15253.28]]thing that is willing to be corrected
+[[15258.38]]by others
+[[15261.62]]but he's actually and that's sort of
+[[15264.44]]that's where Eliza has a lot to say
+[[15266.36]]about this he's kind of a decision
+[[15269.24]]Theory thing how do you get it to sort
+[[15273.86]]of like believe that
+[[15278.18]]even though everything it knows seems
+[[15281.24]]like this is the best way of doing it
+[[15284.54]]the other or telling me that's not right
+[[15288.62]]and so I'm open to being corrected by
+[[15292.1]]their point of view how do you make it
+[[15295.04]]sort of this how do you how do you give
+[[15299.12]]something humility almost in a way right
+[[15303.2]]um and and we have no idea to do that
+[[15305.54]]either
+[[15307.94]]um we've made some we've had more
+[[15310.88]]progress on interpretability than
+[[15314.18]]courage ability but
+[[15317.78]]made a little bit of progress on both
+[[15320.24]]and we're making more on
+[[15323.96]]interpretability and
+[[15329.06]]what the my real pitch for this is it's
+[[15333.88]]actually really interesting there's just
+[[15339.34]]stuff lying around that no one's checked
+[[15344.66]]no one's tried it's like uh when the
+[[15348.44]]microscope was invented and suddenly
+[[15350.84]]like you could just make a scientific
+[[15353.84]]career by like pointing microscopes at
+[[15357.92]]things and like there were like lots of
+[[15361.16]]things to point the microscope out that
+[[15364.16]]no one had ever looked at before
+[[15368.42]]we have a mind you can go look at and
+[[15373.1]]examine and experiment with I've never
+[[15377.42]]had one of those before and so there's a
+[[15381.26]]bunch of like interesting kind of like
+[[15384.62]]scientific workers I would encourage
+[[15387.62]]people to go do scientific work on AIS
+[[15391.22]]go take the AIS other people have built
+[[15395.96]]and then the engineering and try to see
+[[15399.62]]what science you can do to them
+[[15402.26]]particularly around interpreting what's
+[[15405.62]]going on inside them or how you get them
+[[15409.46]]to accept corrective feedback
+[[15412.7]]um
+[[15415.34]]if you're more if you're not technically
+[[15418.34]]minded and you don't feel like learning
+[[15421.82]]how to like actually build a Transformer
+[[15424.82]]um
+[[15427.88]]they you have there's less obvious how
+[[15432.32]]you contribute directly but uh
+[[15436.52]]I think mostly like
+[[15440.42]]uh
+[[15445.1]]helping correct the debate and correct
+[[15449.6]]the tone of the discussion because this
+[[15453.86]]like the super intelligent AI must kill
+[[15457.88]]it might kill everyone thing gets
+[[15460.82]]wrapped together with a bunch of other
+[[15463.94]]concerns about AI that are real they're
+[[15467.0]]their things but they're like normal
+[[15469.58]]concerns like
+[[15473.3]]will it just cause discrimination job
+[[15477.8]]loss what's called job loss like I know
+[[15481.1]]that let
+[[15484.04]]that stuff's all like a thing but like
+[[15488.24]]honestly on those things I sort of feel
+[[15491.66]]about it the way I feel about most
+[[15494.06]]regulation we're like
+[[15497.36]]you know like it's a little early
+[[15500.72]]probably there probably will be a good
+[[15503.12]]regulation to write we don't know what
+[[15505.34]]it looks like the area is evolving so
+[[15508.1]]fast very hard to write good good
+[[15511.94]]regulation
+[[15517.04]]don't let that get confused
+[[15521.36]]um job loss doesn't kill everyone yeah
+[[15525.14]]so there's so there's there's AI ethics
+[[15529.52]]and there's then there's AI not kill
+[[15533.0]]everyone ism
+[[15535.7]]and
+[[15539.12]]the ad not kill everyone thing is like
+[[15543.34]]we need the AI to not kill everyone
+[[15548.68]]don't let people mush it together when
+[[15554.02]]you see hear people conflating the two
+[[15560.44]]correct the record uh because they're
+[[15566.78]]just not the same idea
+[[15570.62]]um and they're the same kind of problem
+[[15573.8]]and they won't be solved with the same
+[[15579.14]]kind of tools and uh
+[[15586.04]]uh
+[[15589.04]]the danger is that those two get sort of
+[[15593.72]]wrapped together into some
+[[15597.26]]thing again gets rejected by people who
+[[15600.86]]just like well I don't who rejects the
+[[15605.18]]safety AI safety aif ethics stuff that
+[[15608.66]]they it's like well this doesn't really
+[[15611.24]]make sense which I kind of agree with a
+[[15614.06]]lot of the people who say like most that
+[[15617.18]]stuff kind of doesn't make sense to me I
+[[15622.76]]could see a theory maybe some of it um
+[[15628.82]]we will throw out the the good part with
+[[15633.2]]the bad and a lot of that other stuff is
+[[15637.16]]true of almost any technology right yeah
+[[15641.3]]that stuff is just general it's General
+[[15645.38]]technological like and that's my thing
+[[15648.74]]of why I think Silicon Valley in
+[[15652.28]]particular has has struggled to talk
+[[15655.58]]about this and I don't even know what my
+[[15658.88]]fully formed opinions are on this stuff
+[[15664.76]]but it's that for a long time Silicon
+[[15670.7]]Valley has been accused of all the
+[[15674.3]]negative externalities that are going to
+[[15678.92]]come from uh whatever the technology is
+[[15684.08]]that we've integrated around and so
+[[15687.98]]everyone's very used to being defensive
+[[15692.74]]about like oh job loss yeah
+[[15698.98]]everyone's on the on the defense against
+[[15704.66]]anything critical like sort of broadly
+[[15709.58]]critical of new technologies because it
+[[15713.6]]pattern matches to a bunch of people who
+[[15717.26]]go around throwing up check throwing
+[[15721.4]]chaff in the air attacking everything
+[[15724.82]]all the time even when it doesn't really
+[[15727.28]]make any sense
+[[15730.22]]and so it's easy to slot it into that
+[[15734.42]]the slot the whole thing into that thing
+[[15738.32]]and just you know
+[[15742.88]]throw it away and I just think like
+[[15747.32]]uh
+[[15752.06]]the uh there's there's a piece of that
+[[15757.22]]that is different than the normal than
+[[15761.06]]the norm it's hard Verity mood
+[[15764.18]]affiliation drives most of our decision
+[[15766.34]]making and it's hard to get people to
+[[15768.92]]notice that
+[[15772.46]]I have three more questions how are you
+[[15777.08]]on uh time can we keep going time is it
+[[15782.96]]we're almost at 30 so we're way overtime
+[[15787.96]]um
+[[15793.12]]what's my calendar here
+[[15797.96]]um
+[[15802.34]]oh I have to meet my friend uh let me
+[[15806.9]]just text my friend real quick okay
+[[15811.7]]um these won't be nearly as long as AI
+[[15817.24]]ethics
+[[15819.66]]all right all right
+[[15822.54]]um
+[[15825.24]]there's a graphic you tweeted out about
+[[15828.78]]income that you said you keep handy for
+[[15834.0]]dinner parties uh why do you keep that
+[[15839.04]]graphic we'll show it on screen as we're
+[[15842.28]]talking but why do you find that graphic
+[[15845.1]]so interesting
+[[15847.14]]um
+[[15851.04]]it shows I think on a more optimistic
+[[15855.54]]note than the one we were just on there
+[[15859.02]]yeah yeah it it shows so first of all
+[[15863.22]]the fundamentally what it shows is in
+[[15866.46]]general people getting much richer
+[[15869.04]]households getting much richer and
+[[15871.56]]specific
+[[15873.54]]um
+[[15876.6]]house you know
+[[15881.88]]the the almost all of it is the the bulk
+[[15887.46]]of this curve moving down and that the
+[[15892.26]]big spike on the right isn't a small
+[[15895.86]]number of people getting much wealthier
+[[15898.02]]it's
+[[15901.14]]a lot more people making 200 that more
+[[15906.12]]than 200 000 a year like eight percent
+[[15910.38]]of the population and for people
+[[15913.98]]listening it's like a distribution since
+[[15919.62]]1970 or something of income and maybe a
+[[15925.68]]Family household income in real terms
+[[15930.6]]and in real terms and so it slides from
+[[15935.16]]like a you know sliding kind of smiling
+[[15940.02]]graph to being much more on the 200k
+[[15945.3]]plus side of the axis and but the other
+[[15949.08]]thing that happens is it goes from being
+[[15953.52]]a pretty defined like bell curve to like
+[[15958.2]]this weird like almost like exponential
+[[15962.34]]decay shape like there's still a lump in
+[[15966.18]]the bell curve area but like it's less
+[[15969.24]]and less a bell curve and more and more
+[[15974.64]]flat like an exponential decay curve of
+[[15980.46]]people making every bucket people makes
+[[15983.76]]there are slightly fewer people in the
+[[15986.1]]bucket but actually there's about as
+[[15989.04]]many people in forty thousand 30 to 40
+[[15992.7]]as there are in 50 to 60 as there are 60
+[[15997.2]]to 70 as they're already 70 to 80. it's
+[[16001.16]]actually the main story is the
+[[16004.22]]flattening
+[[16007.7]]of the distribution
+[[16011.18]]and what that flattening means is it
+[[16015.26]]used to be there was a normal income
+[[16021.38]]uh normal household income was 30 35 000
+[[16027.2]]a year and if you're within and some
+[[16030.44]]people made a little bit more and some
+[[16033.92]]people made a little bit less but
+[[16038.6]]for the most part everyone was in the
+[[16042.74]]mode they had they made there was a real
+[[16047.3]]modal income the there was a most common
+[[16051.08]]income
+[[16054.74]]and most people made relatively close
+[[16059.6]]almost everyone made relatively close to
+[[16064.1]]that that amount of money
+[[16067.94]]and what has been happening and then you
+[[16071.3]]had some number of very rich people and
+[[16074.78]]like medium rich people but like the
+[[16077.84]]bulk of society was in that thing and
+[[16080.48]]what's been happening is
+[[16083.78]]uh
+[[16088.94]]there isn't really a norm anymore we've
+[[16094.4]]destroyed the norm and instead there's
+[[16098.24]]just
+[[16102.08]]some people made a lot more money some
+[[16106.34]]people made a lot a lot more money some
+[[16109.58]]people made a medium amount more money
+[[16112.7]]some people made a little more money
+[[16118.04]]but like in general uh
+[[16124.82]]everyone's do making like uh everyone's
+[[16130.34]]making more but the the
+[[16135.14]]there isn't a it's hard everyone at can
+[[16138.98]]now look to the person the left and the
+[[16141.68]]person on the right there's like lots of
+[[16144.74]]people making a lot more money than me
+[[16147.86]]and lots of people making a lot less
+[[16151.28]]money than me for most people
+[[16155.0]]and that feels bad it feels like
+[[16158.54]]inequality it also is inequality
+[[16162.56]]actually but but everyone's getting
+[[16166.82]]richer which is good and yet somehow
+[[16171.2]]it's this flattening that creates a
+[[16177.92]]sense of like being left behind and
+[[16184.22]]I don't quite know what to do about it
+[[16187.94]]because it's a it's a very optimistic
+[[16192.2]]story on the one hand of like
+[[16197.42]]American households generally getting
+[[16201.92]]much wealthier and many many more people
+[[16206.18]]having access to more uh resources which
+[[16210.2]]is good that's the good that we'd like
+[[16212.96]]that
+[[16216.02]]um there is a slight Spike at the very
+[[16219.56]]bottom of people with almost nothing I
+[[16222.5]]think that's that is that's also an
+[[16224.84]]issue
+[[16226.64]]um
+[[16228.74]]and it's not to say there aren't any
+[[16231.14]]issues in our society like you know
+[[16234.32]]obviously Healthcare education
+[[16240.32]]um housing all cost you much but
+[[16246.8]]like the the real
+[[16251.0]]uh
+[[16254.54]]underlying thing that bothers people
+[[16258.92]]that that on the other side of like this
+[[16263.54]]this flattening out I'm not quite sure
+[[16266.84]]how you
+[[16269.84]]how do you how do you how do you fix
+[[16273.08]]that without like making everyone really
+[[16276.14]]poor there's an easy way to fix it make
+[[16279.08]]everybody poor
+[[16282.74]]go back everyone take it take a bunch of
+[[16287.3]]money for everybody it's easy to break
+[[16290.96]]things it's easy to make people more
+[[16294.5]]poor um and so
+[[16299.42]]I think a big part of what happens there
+[[16304.64]]is as it's you get spread out more you
+[[16309.68]]have the the housing in the middle
+[[16314.18]]um the people in the middle can't afford
+[[16317.66]]things that get bit if there's a good
+[[16320.6]]that gets where there's a limited Supply
+[[16324.62]]and it's getting bit up and you make
+[[16329.72]]you're making more money on that
+[[16335.36]]particular good you are screwed and that
+[[16339.92]]sounds a lot like education and housing
+[[16343.1]]to me um and so I think that's a that's
+[[16346.46]]a big part of why it feels so bad for
+[[16348.74]]people
+[[16350.72]]um which is why I care so much about
+[[16353.6]]getting more housing made making
+[[16356.66]]education more available I think these
+[[16360.92]]these things are very important
+[[16366.32]]you recently turned 40 and you did a Tim
+[[16371.42]]Urban ish layout of your life and time
+[[16376.52]]spent doing that exercise was it on a
+[[16380.96]]weekly basis yeah every week yeah every
+[[16383.78]]week
+[[16386.9]]did an internalization of turning 40 and
+[[16390.8]]laying graphically out how you spent
+[[16394.4]]your time did were there any takeaways
+[[16398.6]]from from that that you
+[[16402.62]]I mean I kind of I knew the story
+[[16406.16]]already yeah um
+[[16409.1]]it was just kind of cool to see it all
+[[16411.2]]laid out
+[[16414.2]]um and uh
+[[16418.04]]I guess my biggest takeaway was man I
+[[16422.24]]spent a long time in school yeah it's
+[[16425.9]]been a really long time like maybe
+[[16428.36]]longer than I needed to like maybe I
+[[16431.06]]could have started working earlier in
+[[16435.32]]retrospect yeah uh that was not that
+[[16439.34]]many surprises it was fun though it's
+[[16441.98]]like fun to encourage everyone to do it
+[[16444.62]]it's fun to lay your life out like that
+[[16448.04]]and take a look at it you live in San
+[[16452.54]]Francisco are you optimistic about San
+[[16456.8]]Francisco absolutely the city is uh
+[[16460.88]]doing doing much better than it was
+[[16464.36]]during covet Cove is very hard in San
+[[16467.18]]Francisco I think
+[[16469.22]]um
+[[16471.74]]we have problems
+[[16474.8]]um you know the fentanyl crisis is
+[[16476.96]]really real people are dying in the
+[[16480.08]]streets it's like not okay
+[[16483.86]]um
+[[16487.1]]but we also have a lot of really big
+[[16489.92]]advantages
+[[16492.98]]um and there's a lot of good happening
+[[16498.74]]in the city too and I'm uh
+[[16504.08]]I think I'm most encouraged by the
+[[16506.96]]number of people I know who
+[[16510.14]]uh have built their careers and their
+[[16513.02]]lives here and who are committed to the
+[[16515.42]]city and who are
+[[16518.18]]not leaving and they're planning to do
+[[16521.0]]the work to try to make San Francisco
+[[16524.66]]better place where it's you know
+[[16528.62]]the core things that everybody cares
+[[16532.04]]about right like you shouldn't be people
+[[16535.16]]who
+[[16538.4]]don't have anywhere to live dying on the
+[[16543.56]]streets uh there shouldn't be obvious
+[[16549.32]]rampant crime people being victimized by
+[[16554.96]]that uh left and right uh there
+[[16559.82]]shouldn't be housing shouldn't be so
+[[16563.6]]expensive that like you have to be rich
+[[16567.38]]to have access to it
+[[16570.14]]um
+[[16572.48]]there should be better Transit options
+[[16575.36]]for people um they don't they don't want
+[[16579.32]]them stuck in traffic like the park we
+[[16582.98]]have more and better Parks like I don't
+[[16585.62]]know there's none of these things are
+[[16588.92]]controversial and in fact I wouldn't
+[[16592.58]]even say any of these things are
+[[16596.84]]uh things that we want we don't
+[[16601.28]]all we don't have wide agreement that we
+[[16604.64]]should go do
+[[16608.14]]um
+[[16610.26]]it's a matter of I think that I pretty
+[[16614.1]]strongly disagree with many of the
+[[16617.7]]people who but what will cause the
+[[16622.14]]outcome but I think the good news is
+[[16625.44]]we're all aligned on wanting the same
+[[16629.16]]things and so it's just a matter of
+[[16634.08]]getting the right plan in place for the
+[[16638.46]]right people executing it
+[[16642.66]]um and these kinds of changes are not uh
+[[16647.64]]startups are all about speed
+[[16653.1]]um politics and government policy is all
+[[16657.0]]about consistency
+[[16659.58]]and so that's that's sort of where my
+[[16663.66]]focus is just you know keep keep turning
+[[16668.22]]the wheel last one before I let you go
+[[16671.94]]what's what's a piece of conventional
+[[16676.08]]Silicon Valley wisdom that you
+[[16680.52]]wholeheartedly disagree with or think
+[[16684.54]]people get wrong
+[[16690.06]]the the most of the wholehearted wisdom
+[[16696.96]]in Silicon Valley is 100 correct for
+[[16701.58]]certain people in certain context and
+[[16704.7]]100 wrong for other people in other
+[[16708.18]]contexts and trying to come up with a
+[[16711.78]]piece of advice that's always wrong is
+[[16715.08]]like
+[[16718.56]]pretty hard
+[[16723.0]]um because like that's you know advice
+[[16729.12]]is over generalization and so
+[[16735.66]]it almost always is true in some context
+[[16740.28]]um what about proportionally gets said
+[[16746.22]]yeah a lot and like is is should be said
+[[16753.12]]relatively is usually not right
+[[16756.96]]um
+[[16761.52]]oh I I know uh startups hire a players
+[[16766.14]]startups should not be trying to hire
+[[16768.42]]any players I mean you can be trying if
+[[16771.24]]you want you're not you're lying to
+[[16775.08]]yourself uh you don't know what an a
+[[16779.22]]player looks like if you did they
+[[16782.88]]wouldn't work for you
+[[16785.88]]um you might be an a player because you
+[[16789.36]]like the founding team like might be a
+[[16793.74]]players potentially you hope you hope
+[[16798.36]]you are that's your goal but like and
+[[16802.98]]you might hire some a players because
+[[16806.64]]you attract them and they like believe
+[[16809.58]]in the mission I'm not saying you never
+[[16812.04]]hire an a player but they think you're
+[[16815.52]]gonna hire all a players I mean come on
+[[16820.92]]no you're not that's just like a lie and
+[[16825.98]]and
+[[16830.78]]that's okay
+[[16834.96]]and this idea that you can separate
+[[16837.72]]people and sort of a players and B
+[[16840.12]]players anyways I know what people mean
+[[16842.34]]by it it's like you want to hire like
+[[16844.92]]the most talented people in the entire
+[[16847.8]]world but actually what you really want
+[[16851.16]]to hire are talented people who will
+[[16854.94]]work hard and believe in the mission and
+[[16858.66]]who want to work for you
+[[16862.86]]and like there are a lot of those people
+[[16866.88]]and you should go hire them
+[[16870.66]]um and
+[[16875.1]]uh
+[[16879.72]]and that that that idea is like a sort
+[[16884.34]]of toxic Elite idea that like I think I
+[[16889.38]]just think is ridiculous like that's you
+[[16895.02]]can't do it and you shouldn't try
+[[16899.64]]most of the time and then you have
+[[16902.7]]companies
+[[16906.0]]um that are on the very very Cutting
+[[16910.26]]Edge of Technology where
+[[16914.34]]you better hire pretty much all a
+[[16918.3]]players you're gonna die and
+[[16922.5]]you have to hire very slowly Renaissance
+[[16925.86]]Technologies it's basically Renaissance
+[[16929.7]]technology is a hedge fund that actually
+[[16933.42]]hires only like you have to have
+[[16936.6]]published multiple groundbreaking math
+[[16940.62]]papers before they'll like they'll hire
+[[16945.24]]you like in statistics like they're not
+[[16949.14]]joking around they're actually hiring a
+[[16951.9]]players it might be the most interesting
+[[16954.78]]business in the world or at least on a
+[[16958.5]]very short list yeah yeah and but like
+[[16963.18]]you're not rentac yeah don't kick
+[[16967.68]]yourself yeah yeah good well Emmett
+[[16972.32]]thanks for doing this thank you everyone
+[[16982.62]][Music]
+[[16993.45]][Applause]
+[[16996.64]]foreign
