@@ -84,7 +84,7 @@ def make_clip_intro(index, podcast, chapter_description, model, processor, voice
     output_clip = AudioFileClip(output_filepath)  # creating an AudioCLipo from the audio array was super finicky so this was a workaround
     return output_clip
 
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = 'YOUR_TOKEN'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = 'TOKEN'
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
