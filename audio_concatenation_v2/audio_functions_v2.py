@@ -151,7 +151,7 @@ def make_whole_show_intro(user_prompt, model, processor, voice_preset):
 
 
 # Creates the intro segment for a video clip given the title of the podcast and the subtitle of the chapter
-def make_clip_intro(podcast, chapter_description, model, processor, voice_preset):
+def make_clip_intro(index, podcast, chapter_description, model, processor, voice_preset):
     text_prompt = create_clip_intro_prompt(podcast, chapter_description)
     inputs = processor(text_prompt, voice_preset=voice_preset)
 
@@ -161,7 +161,7 @@ def make_clip_intro(podcast, chapter_description, model, processor, voice_preset
 
     # Create audio clip
     sample_rate = model.generation_config.sample_rate
-    output_filepath = podcast + '_' + chapter_description + '_intro.wav'
+    output_filepath = str(index) + '_intro.wav'
     scipy.io.wavfile.write(output_filepath, rate=sample_rate, data=audio_array)
     output_clip = AudioFileClip(output_filepath)  # creating an AudioCLipo from the audio array was super finicky so this was a workaround
     return output_clip
