@@ -11,6 +11,16 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
+from sentence_transformers import SentenceTransformer
+from transformers import AutoTokenizer, AutoModel
+from pydub import AudioSegment
+import pandas as pd
+
+import torch
+import boto3
+import dotenv
+import os
+import asyncio
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -20,8 +30,21 @@ STATIC_URL = '/static/'
 
 # Additional locations of static files
 STATICFILES_DIRS = [
-    BASE_DIR / 'main' / 'assets',  # Use the '/' operator for path concatenation with Path objects
+    # Use the '/' operator for path concatenation with Path objects
+    BASE_DIR / 'main' / 'assets',
 ]
+
+
+ENV_PATH = "../.env"
+NUM_TOP_K = 5
+BUCKET_URL = os.getenv("BUCKET_URL")
+BUCKET_NAME = "hackathon24s"
+CLIP_S3_PATH = f"test"
+MERGED_AUDIO_PATH = "audio/merged"
+CUSTOM_AUDIO_PATH = "audio/custom"
+SUFFIX = "intro"
+
+dotenv.load_dotenv(ENV_PATH)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
@@ -43,6 +66,8 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
+    'corsheaders',
+
     'django.contrib.staticfiles',
     'main.apps.MainConfig',
     'storages'
@@ -52,6 +77,8 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.middleware.common.CommonMiddleware',
+        'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -131,3 +158,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+CORS_ALLOW_ALL_ORIGINS = True  # Be cautious with this in production

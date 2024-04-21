@@ -164,7 +164,6 @@
             <div class="user-info">
                 <h2>eric.richardson</h2>
                 <p>eric@gmail.com</p>
-                <p>More user details here...</p>
             </div>
         </div>
         <div class="content">
@@ -186,113 +185,86 @@
             </div>
             <div class="podcasts" style="display: none;">
                 <h2>Library</h2>
+                {% for podcast in podcasts %}
                 <div class="podcast">
-                    <h3>{{ podcast.title }}</h3>
-                    <p>{{ podcast.created_at|date:"d M Y H:i" }}</p>
+                    <h3>{{ podcast }}</h3>
+                    <!-- <h3>{{ podcast.title }}</h3>
+                    <p>{{ podcast.created_at|date:"d M Y H:i" }}</p> -->
                     <audio controls>
                         <source src="{{ podcast.audio_file.url }}" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
                 </div>
+                {% endfor %}
             </div>
 
         </div>
     </div>
 
     <script>
+        let htmlContext = ""
 
-
-    // Example array of podcasts
-    const podcast = 
-        {
-            "thumbnail": "a16z",
-            "topics": ["clean energy", "technology", "startups"],
-            "url": "https://hackathon24s.s3.amazonaws.com/test/1_clip.wav"
+        const updatePodcast = (podcast) => {
+            const thumbnailSrc = `/static/def.jpeg`;  // Assuming thumbnail contains the path from /static/
+            const podcastContainer = document.querySelector('.podcasts');
+            const title = user_query || 'Podcast Title'; // Use user query as title if available, otherwise use default title
+    
+            htmlContent = htmlContext + (`
+                <div class="podcast">
+                    <img src="${thumbnailSrc}" alt="${title} Thumbnail" style="width:100px;height:auto;">
+                    <h3>${title}</h3>
+                    <p>Topics: ${podcast.topics.join(', ')}</p>
+                    <audio controls>
+                        <source src="${podcast.url}" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
+            `)
+    
+            podcastContainer.innerHTML = htmlContent;
+            podcastContainer.style.display = 'block'; // Show the podcast container
         };
-
-    let user_query = "";
-
-
-    function updatePodcast(podcast) {
-    // Ensure the thumbnail URL is correctly prefixed with the static URL path
-    const thumbnailSrc = `/static/${podcast.thumbnail}.png`;  // assuming thumbnail contains the rest of the path from /static/
-
-    console.log("thumbnailSrc: ", thumbnailSrc);
-
-    const podcastContainer = document.querySelector('.podcasts');
-
-    let htmlContent = '';
-
-    const title = user_query || 'Podcast Title'; // Use user query as title if available, otherwise use default title
-
-    htmlContent += `
-        <div class="podcast">
-            <img src="${thumbnailSrc}" alt="${title} Thumbnail" style="width:100px;height:auto;">
-            <h3>${title}</h3>
-            <p>Topics: ${podcast.topics.join(', ')}</p>
-            <audio controls>
-                <source src="${podcast.url}" type="audio/wav">
-                Your browser does not support the audio element.
-            </audio>
-        </div>
-    `;
-
-    podcastContainer.innerHTML = htmlContent;
-
-    podcastContainer.style.display = 'block'; // Show the podcast container
-    }
-
-
-
-    function showLoader() {
-        document.getElementById('loader-container').style.display = 'flex'; // Show loader, text, and backdrop
-    }
-
-    function hideLoader() {
-        document.getElementById('loader-container').style.display = 'none'; // Hide everything
-    }
-
+    
+        const showLoader = () => {
+            document.getElementById('loader-container').style.display = 'flex'; // Show loader, text, and backdrop
+        };
+    
+        const hideLoader = () => {
+            document.getElementById('loader-container').style.display = 'none'; // Hide everything
+        };
+    
         document.getElementById('generateButton').addEventListener("click", function(event) {
-            console.log("in response to generate button!");
             event.preventDefault();
-            // Capture the text input value
             var inputText = document.querySelector('input[name="topic"]').value;
-            
+    
             if (inputText.trim() !== '') {
-            user_query = inputText;
-            console.log("User query added:", user_query);
-            showLoader();
-            updatePodcast(podcast);
-            hideLoader();
-        } else {
-            user_query = ""; // Reset user query if input is empty
-            showLoader();
-            updatePodcast(podcast);
-            hideLoader();
-        }
-
-
-            //const formData = new FormData(this);
-
-            //const loader = document.getElementById('loader');
-            //loader.style.display = 'block'; // Show loader
-            
-            
-            // fetch('your-server-endpoint', {
-            //     method: 'POST',
-            //     body: formData
-            // })
-            // .then(response => response.json())
-            // .then(data => {
-            //     console.log('Success:', data);
-            //     loader.style.display = 'none'; // Hide loader when response is received
-            //     // Handle response data, update UI
-            // })
-            // .catch((error) => {
-            //     console.error('Error:', error);
-            //     loader.style.display = 'none'; // Ensure loader is hidden on error
-            // });
+                user_query = inputText;
+                console.log("User query added:", user_query);
+                showLoader();
+    
+                fetch('http://127.0.0.1:3000/generate_podcast', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ query_text: user_query })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Success:', data);
+                    updatePodcast(data);
+                    hideLoader();
+                })
+                .catch((error) => {
+                    console.error('Error:', error);
+                    hideLoader();
+                });
+            } else {
+                user_query = ""; // Reset user query if input is empty
+                alert("Please enter a topic to generate a podcast.");
+            }
         });
     </script>
+    
 </body>
 </html>
