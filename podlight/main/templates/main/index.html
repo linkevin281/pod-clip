@@ -80,6 +80,71 @@
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             animation: slideIn 0.5s ease-out;
         }
+        #loader {
+        border: 8px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 8px solid #3498db;
+        width: 50px;
+        height: 50px;
+        -webkit-animation: spin 1s linear infinite; /* Safari */
+        animation: spin 1s linear infinite;
+        margin-bottom: 20px; /* Add space between the loader and the text */
+        }
+        #loader-text {
+        color: white;
+        font-size: 34px;
+        margin-top: 20px; /* Adjust spacing between loader and text as needed */
+        }
+        .loader-container {
+        position: fixed; /* Use fixed to keep it in view even when scrolling */
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 1000; /* High z-index to keep it above other content */
+        }
+
+        .loader-backdrop {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+            z-index: -1; /* Position it behind the loader but inside the container */
+        }
+
+        #loader {
+            border: 16px solid #f3f3f3; /* Make the loader larger */
+            border-radius: 50%;
+            border-top: 16px solid #3498db; /* Make the top border (spinning part) larger */
+            width: 100px; /* Increase size */
+            height: 100px; /* Increase size */
+            -webkit-animation: spin 1s linear infinite; /* Animation for Safari */
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px; /* Space between loader and text */
+        }
+        .button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 10px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 5px;
+        }
+        @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+        }
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
@@ -108,11 +173,16 @@
             </header>
             <div id="new-podcast">
                 <h2>Create a new podcast</h2>
-                <form action="submit" method="POST">
+                <form>
                     {% csrf_token %}
                     <input type="text" name="topic" placeholder="What do you want to hear?">
-                    <input type="submit" value="Generate">
+                    <input id="generateButton" type="submit" value="Generate">
                 </form>
+                <div class="loader-container" id="loader-container" style="display: none;">
+                    <div class="loader-backdrop"></div>
+                    <div id="loader"></div>
+                    <p id="loader-text">Generating your podcast...</p>
+                </div>
             </div>
             <div class="podcasts">
                 <h2>Library</h2>
@@ -131,5 +201,42 @@
             </div>
         </div>
     </div>
+
+    <script>
+
+    function showLoader() {
+        document.getElementById('loader-container').style.display = 'flex'; // Show loader, text, and backdrop
+    }
+
+    function hideLoader() {
+        document.getElementById('loader-container').style.display = 'none'; // Hide everything
+    }
+
+        document.getElementById('generateButton').addEventListener("click", function(event) {
+            console.log("in here!");
+            event.preventDefault();
+            //const formData = new FormData(this);
+
+            //const loader = document.getElementById('loader');
+            //loader.style.display = 'block'; // Show loader
+
+            showLoader();
+            
+            // fetch('your-server-endpoint', {
+            //     method: 'POST',
+            //     body: formData
+            // })
+            // .then(response => response.json())
+            // .then(data => {
+            //     console.log('Success:', data);
+            //     loader.style.display = 'none'; // Hide loader when response is received
+            //     // Handle response data, update UI
+            // })
+            // .catch((error) => {
+            //     console.error('Error:', error);
+            //     loader.style.display = 'none'; // Ensure loader is hidden on error
+            // });
+        });
+    </script>
 </body>
 </html>
