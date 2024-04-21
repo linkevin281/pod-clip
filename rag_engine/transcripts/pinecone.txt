@@ -1,0 +1,1512 @@
+[[0]]today we're joined by EO Liberty CEO and
+[[3.36]]founder of pine cone Pine cone's a
+[[6.68]]vector database that's raised over $130
+[[11.2]]million most recently at a $750 million
+[[15.24]]valuation and they've really become a
+[[18.32]]core part of the common set of tools
+[[21.88]]that folks use to build AI apps we hit
+[[25.24]]on a bunch of really interesting areas
+[[28.44]]including the vector database landscape
+[[31.84]]and how it's evolving common barriers
+[[34.92]]that enterprises have to building
+[[38.52]]effective AI apps Ando also shared his
+[[42.04]]thoughts on the infrastructure and AI
+[[44.96]]opportunities ahead in the application
+[[48.12]]layer as well I think folks are really
+[[51.04]]going to enjoy this definitely stick
+[[53.8]]around for patent my debrief here at
+[[57.92]]unsupervised learning
+[[62.0]]you know thanks so much for uh for
+[[65.12]]coming on really appreciate it thank you
+[[68.68]]guys you know you were obviously working
+[[72.6]]on Pine Cone before this generative AI
+[[76.28]]craze and you know the launch of chat
+[[80.64]]GPT and what was it like for you guys
+[[85.24]]when chat GPT came out I mean was it
+[[88.68]]like immediately clear there's going to
+[[91.84]]be some spike in usage or when did you
+[[95.4]]first kind of start observing just uh
+[[99.28]]the insanity that I imagine followed
+[[103.56]]I'll start by saying that Vector bases I
+[[110.52]]think are uh still vastly underutilized
+[[117.76]]for a lot of use cases for semantic
+[[123.08]]search for candidate generation for
+[[131.0]]ranking for feed ranking for like
+[[137.68]]recommendation for a million different
+[[140.68]]things right when I started building
+[[144.52]]Pine con this was really it was sort of
+[[149.12]]like a well-kept secret well a
+[[153.72]]well-known secret I should say that the
+[[158.16]]bigger companies like Google Amazon you
+[[162.96]]know whatever like use that
+[[168.04]]internally for search for recommendation
+[[172.24]]for feed ranking for anomaly detection
+[[175.92]]and so on but then educating the market
+[[181.8]]was fairly difficult and I would go to
+[[188.32]]you know investors and say you know
+[[192.52]]database and they would kind of look at
+[[196.8]]me confused and and concerned and I'm
+[[201.56]]sure they emailed you in in 2023 and
+[[205.12]]they were like we believed all along
+[[208.2]]right we've always been fans of the
+[[213.04]]category yeah uh actually I'll tell you
+[[218.72]]funny a funny thing that I the actual
+[[223.84]]emails I got after that but just to make
+[[229.0]]matters worse I had just come out of AWS
+[[233.12]]where I I helped build a product called
+[[237.72]]sag maker which was EML Ops thing and
+[[244.4]]like EML Ops was like all the older age
+[[251.84]]uh you know before you know AI kind of
+[[257.76]]took off right so everybody thought it
+[[262.84]]was building a like an mlops product
+[[267.72]]right so everybody was very happy to
+[[270.96]]meet with me and then be very
+[[273.72]]disappointed that I'm building something
+[[277.2]]called the vector database what is that
+[[281.68]]like it sounds like saying right and
+[[288.44]]then with open AI just kind of
+[[296.08]]elevating uh the discussion to the
+[[301.4]]broader audience like the technology
+[[305.08]]really hasn't changed significantly to
+[[309.36]]be honest I mean the the the for
+[[315.12]]practitioners like nothing very deep has
+[[319.96]]changed except for the fact that now
+[[323.48]]there was a lot of oomph behind it a lot
+[[328.08]]of capital and a lot of energy behind it
+[[333.96]]so it started started being accessed by
+[[341.0]]the non AI engineer when that started
+[[347.72]]happening we started ramping up so
+[[352.76]]quickly that we started really
+[[357.92]]exhausting whole all kinds of machines
+[[365.08]]in in gcp and AWS clouds we started like
+[[371.56]]really spending millions of dollars a
+[[376.76]]month on our free tier it was complete
+[[383.0]]Insanity it was uh the entire team was
+[[389.04]]dedicated just like spinning up more and
+[[393.44]]more environments and just being able to
+[[397.48]]keep up with the demand I think at our
+[[402.2]]Peak we started having 10,000 signups
+[[407.76]]every day uh which really pushed us to
+[[414.84]]really think about scale and effic iy in
+[[420.96]]a completely different way like we we
+[[425.52]]kind of we had to go back to the drawing
+[[431.28]]board and redesign the entire solution
+[[436.68]]which later yielded the solution we have
+[[441.08]]in place called now called serverless
+[[445.64]]which is like maybe two orders of Mag
+[[449.64]]more efficient but it kind of came out
+[[453.68]]of just necessity we just couldn't we
+[[458.08]]literally couldn't handle the
+[[462.48]]load uh the funny thing is if you want
+[[468.24]]to talk about Investors right I did have
+[[473.4]]quite a few different investors write to
+[[477.72]]me after like that like vector that
+[[482.92]]basis have become like the like a true
+[[487.04]]category in some sense we've already
+[[491.32]]taken the lead and they say they went
+[[496.84]]when they when they wrote to me and said
+[[502.12]]hey you know I actually looked back at
+[[507.8]]the notes that I took like three years
+[[513.52]]ago and you actually said you were going
+[[518.48]]to build
+[[520.96]]this and I like yeah uh because that
+[[526.12]]that's what I was going to build and
+[[530.76]]they're like okay like we just that just
+[[535.76]]not very common that somebody says
+[[538.84]]they're going to build something and
+[[541.08]]they actually build it and that's
+[[544.32]]actually succeeds like that's just not
+[[549.68]]very common I'm like so funny I guess
+[[554.32]]they they'd all thought it was uh in
+[[557.44]]mlops platform but then they they read
+[[560.56]]they read back through their notes and
+[[563.4]]they they realized what it was what it
+[[567.92]]was all along exactly was there like a
+[[573.0]]particular moment that you can remember
+[[577.48]]that like spiked usage you know early on
+[[581.36]]was it like immediately apparent to
+[[584.08]]folks as they were playing around with
+[[586.76]]gpt3 that they needed the vector
+[[590.08]]database or was there like a tweet or
+[[593.64]]something something or uh in the early
+[[597.8]]days of that usage spiking I think one
+[[602.72]]of one of the kind of moments that
+[[607.68]]really just completely blew up there was
+[[611.76]]this
+[[615.0]]uh
+[[620.0]]uh uh there was this open source like
+[[627.0]]gadget called a auto GPT that was this
+[[631.76]]sort of
+[[637.08]]like super like minimalistic but sort of
+[[643.2]]like precursor to something we would
+[[648.32]]call an agent now and it was sort of
+[[652.56]]like
+[[655.52]]a a piece of nothing it was really just
+[[658.32]]like
+[[663.32]]a uh what I think even one python file
+[[669.32]]or just a handful of python files with
+[[674.68]]some like spit and gum and you know
+[[680.96]]whatever but it it like like agents do
+[[685.28]]it started like doing something
+[[688.28]]potentially interesting it was open
+[[691.52]]source and so on that thing just took
+[[694.88]]off like
+[[700.16]]crazy and you know
+[[705.76]]suddenly the people's assorted
+[[710.92]]onboarding pine cone were not systems
+[[718.08]]engineer building AI platforms and rag
+[[725.56]]applications and and so on they were
+[[732.08]]like the dentist that remembers python
+[[737.6]]from college and wants to play with AI
+[[742.56]]right and then like things just
+[[746.92]]completely went insane like because
+[[751.72]]there's way more
+[[754.56]]dentists I guess a lot of dentists that
+[[758.84]]uh that remember their luckily enough
+[[763.96]]that kind of like normalized again and
+[[768.72]]the people who come today oh mostly
+[[772.88]]Builders but for a while there it just
+[[777.88]]completely went insane yeah it seems
+[[782.48]]like there's a a huge breadth of
+[[786.52]]applications that are built on top of of
+[[791.72]]pine cone what are some of your favorite
+[[796.52]]applications or or some of the ones that
+[[799.72]]that really stand out to you obviously
+[[804.12]]we're talking about notion before and um
+[[808.72]]and it sounds like pine cone really
+[[812.2]]shines for scale as well when people
+[[816.6]]have kind of millions of vectors that um
+[[821.24]]that they want to to run workloads on
+[[825.56]]top of so Millions is actually the small
+[[829.88]]scale today when we speak with customers
+[[833.76]]and they have millions of vectos we say
+[[837.04]]great
+[[841.76]]uh you KN knock yourself out you'll be
+[[846.52]]hard pressed to spend more than 100
+[[851.48]]bucks a month uh like you really are
+[[857.04]]going to have to exert energy to try to
+[[863.44]]do that right where we truly shine is at
+[[870.44]]the hundreds of millions the billions
+[[876.72]]scale where companies themselves are are
+[[884.08]]sass uh in and often times like software
+[[890.56]]providers notion is a great example gong
+[[895.36]]is a great example many others that
+[[901.12]]actually they themselves develop AI Q&A
+[[908.96]]semantic search like deep AI solutions
+[[916.48]]for their own customers data so they
+[[921.44]]like each one of their own customers
+[[925.56]]might have a million documents right but
+[[930.48]]they themselves and have 10,000
+[[934.92]]customers and suddenly they find
+[[938.76]]themselves needing a vabase that can
+[[943.64]]handle 10 billion ineds maybe across a
+[[948.68]]thousand partitions
+[[953.28]]or 10,000 partitions and do that
+[[959.04]]incredibly cost effectively right and
+[[965.12]]when you try to do that especially
+[[970.04]]nowadays where people really start
+[[973.6]]understanding hey I'm not just playing
+[[977.08]]in the lab I'm building a tree a true
+[[980.28]]product so I really need to care about
+[[984.8]]unit economics they want to figure out
+[[990.6]]what's like what's that going to cost me
+[[994.96]]and then we can come in and say hey
+[[998.6]]because of our new architecture because
+[[1003.04]]we went through this insane spike a year
+[[1007.84]]and a half ago and we've re architected
+[[1011.6]]everything and now we've launched it as
+[[1016.76]]serverless we can run this multi-tenant
+[[1025.0]]workload such that one of you your cost
+[[1032.28]]for one of your paying customers on Pine
+[[1040.16]]Cone might be a dollar a year like like
+[[1049.2]]sometimes 50 cents a year right for a
+[[1055.88]]paying user right and then the unit
+[[1061.04]]economics really shine right so you you
+[[1065.84]]said you know if you have a million you
+[[1070.4]]know vector right I mean a a million
+[[1074.36]]vectors like okay if you have a million
+[[1078.08]]vectors 10,000 times you really don't
+[[1081.64]]want that to be 100 bucks each you
+[[1084.76]]really want each one of them to be 50
+[[1088.96]]cents each and then that starts making
+[[1094.52]]sense right uh and that's where we truly
+[[1099.96]]shine because then you really can can
+[[1104.68]]operate this thing at scale on the
+[[1109.76]]application side are most people running
+[[1116.48]]rag or doing semantic search or um I
+[[1121.6]]guess what types of applications do you
+[[1126.48]]see I can imagine you know the Q&A at
+[[1132.16]]notion that's kind of one and then I can
+[[1136.08]]imagine there's tons that gong is doing
+[[1139.6]]as well with with vectors and turning
+[[1143.76]]videos into vectors yeah Q&A and
+[[1147.8]]semantic search are very large
+[[1152.92]]applications very well understood chat
+[[1160.4]]Bots support Bots uh which are sort of
+[[1167.64]]like Q&A if you will uh but in special
+[[1174.88]]flavor of that uh people do uh legal
+[[1181.92]]Discovery U medical history Discovery
+[[1186.68]]and all sorts of you know analytics on
+[[1189.64]]that
+[[1192.24]]uh which again you can think about them
+[[1196.32]]as flavors of search in in some sense
+[[1200.64]]right there's a lot more that has to do
+[[1204.48]]with images and audio and video and
+[[1208.88]]anomaly detection and security which is
+[[1213.36]]starting to become like a big thing
+[[1217.92]]Pharma and Drug Discovery are you know
+[[1222.56]]we see some applications like that but
+[[1227.2]]the kind of meat and potato is really
+[[1233.16]]just the kind of text and and images and
+[[1239.92]]search and uh you know rag over that in
+[[1245.2]]some sense and by the way rag in and of
+[[1249.08]]itself is sort of like like you know
+[[1253.04]]based on semantic search it's it's like
+[[1258.08]]the the kind of the magic sauce happens
+[[1262.92]]at the ma at the semantic search layer
+[[1267.4]]not at the reformulation the year that
+[[1271.36]]makes a lot of sense and and and I guess
+[[1274.08]]obviously you know I think in the
+[[1276.92]]beginning folks have used you know
+[[1280.36]]embeddings for it feels like mostly Text
+[[1283.48]]data and there's been you know some in
+[[1286.2]]the image world but I'm wondering you
+[[1289.04]]know we've had different perspectives on
+[[1292.12]]on this podcast about you know how much
+[[1295.36]]multimodal stuff we'll see this year and
+[[1298.44]]whether you know I'm curious you
+[[1302.28]]obviously have a firsthand view to it uh
+[[1306.36]]you know are you seeing lots of folks uh
+[[1310.36]]working with image and video data and
+[[1314.04]]and do you think that we have the
+[[1317.28]]underlying tools required to for those
+[[1321.24]]use cases today or or you still expected
+[[1326.16]]to be a text dominant 2024 so look I
+[[1333.64]]mean I am unfortunately I've been in AI
+[[1341.08]]or machine learning before that or Big
+[[1345.56]]Data before that or all that you know
+[[1350.68]]for 20 years now and
+[[1356.08]]so
+[[1362.16]]uh uh I think I have a good mix of uh
+[[1369.68]]enthusiasm about the the the promise of
+[[1375.44]]tomorrow and a healthy focus on the
+[[1382.0]]problems of yesterday right uh even
+[[1388.64]]today right with the advance
+[[1393.96]]of foundational models and you know
+[[1399.32]]General Ai and all that
+[[1405.04]]stuff the average Company still finds it
+[[1410.4]]hard to even like train any deep
+[[1415.48]]learning model at all yeah like anything
+[[1420.2]]like a million parameter not a billion
+[[1424.92]]not 10 billion not General AI nothing
+[[1431.2]]like any model same goes to search and
+[[1436.84]]and so on so you know I think we need to
+[[1440.56]]be
+[[1444.36]]very
+[[1452.04]]uh kind of realistic about what is
+[[1460.04]]possible right by the Trailblazers the
+[[1466.16]]research labs and the technology leaders
+[[1472.52]]and what is an actual technology that
+[[1478.68]]companies actually use right and those
+[[1484.0]]could be five years apart sometimes
+[[1489.0]]right so can we already see amazing
+[[1494.84]]things with multimodal for sure right do
+[[1500.04]]I think multimodal is going to head the
+[[1504.48]]kind of mainstream technology developer
+[[1509.88]]in the next year or two unlikely yeah I
+[[1513.92]]mean I think it's interesting because
+[[1516.2]]you you are working hand inand with
+[[1519.68]]these companies that are uh deploying in
+[[1523.16]]many times their their first generative
+[[1526.8]]AI products and so I imagine you do see
+[[1530.72]]these barriers or or the places where
+[[1534.2]]folks fall down and being able to do
+[[1537.4]]that like what do you feel like the
+[[1540.36]]biggest barriers today in terms of
+[[1543.76]]getting you know these training these
+[[1546.76]]models and getting them into production
+[[1549.76]]for some of the classic use cases that
+[[1553.44]]we're seeing around you know support or
+[[1557.88]]or search or others I mean one of the
+[[1562.96]]biggest ones is hallucinations right
+[[1567.4]]they're just they're not trustworthy
+[[1570.56]]right they just
+[[1574.88]]don't whatever they they're compelled
+[[1579.6]]they're large language models they're
+[[1584.32]]designed to generate language right uh
+[[1589.72]]and when you are compelled to write a
+[[1593.72]]page of text on something you know
+[[1596.36]]nothing
+[[1600.76]]about you will write a page of text uh
+[[1607.52]]and that will contain stuff
+[[1612.52]]you know Pat and I do that all the time
+[[1616.28]]I was going to say yeah we've all been
+[[1621.2]]in like sixth grade
+[[1627.12]]and I remember that experience very well
+[[1634.12]]like cold sweat I'm like [ __ ] um that's
+[[1641.48]]the mode we put these llms in right uh
+[[1647.16]]and so like and then we're so sort of
+[[1652.08]]like surprised that what comes out is is
+[[1657.68]]nonsense right I think that's a huge
+[[1662.04]]problem and I think that's something
+[[1666.44]]that we as a technology would have to a
+[[1671.36]]society I mean not we Pine con I mean we
+[[1675.92]]the world have to Grapple with and
+[[1681.2]]really bring really good solutions to I
+[[1686.96]]think it will start with AI startups and
+[[1692.56]]technology companies that build on Pine
+[[1697.36]]Cone build on models and so on that have
+[[1701.52]]already know how to work with those
+[[1706.16]]Technologies building great vertical
+[[1712.64]]solutions for support for medical
+[[1719.16]]history for legal Discovery for you know
+[[1723.8]]you name it like that's a very long list
+[[1729.04]]of applications right right and then I
+[[1735.0]]think two three years down the line you
+[[1740.48]]would see maturity in the broader Market
+[[1747.92]]where now like every large company would
+[[1754.2]]use some of those tools but would also
+[[1758.92]]use Vector bases and models and you know
+[[1764.28]]visibility and like a bunch of other AI
+[[1769.36]]specific Technologies kind of natively
+[[1774.0]]for for the own development where this
+[[1777.04]]has
+[[1781.84]]become so commonplace so well understood
+[[1789.0]]so Ironclad and so well like ingrained
+[[1794.4]]in the developer culture that just
+[[1798.56]]people whatever there's just enough
+[[1802.04]]there that people just know how to use
+[[1805.0]]it well I feel like hallucinations come
+[[1808.44]]up time and time again I guess have have
+[[1811.4]]you seen what what do you feel like the
+[[1814.08]]best way to you know for for folks
+[[1816.88]]listening they they're also trying to
+[[1819.52]]figure this out what are what are some
+[[1822.12]]of the best things you're seeing in
+[[1825.28]]terms of ways to get around this there
+[[1829.56]]are a few different really important
+[[1834.32]]efforts on this front first of all we we
+[[1840.64]]are only now starting to truly be able
+[[1848.56]]to even measure hallucinations
+[[1852.56]]right to even know like you can for
+[[1857.24]]example you can design a model I can
+[[1863.44]]write a model uh that never hallucinates
+[[1870.64]]by just always saying I don't know
+[[1877.92]]right right that's not hallucinating
+[[1884.64]]right it's also completely useless but
+[[1890.6]]it it never makes a mistake and you know
+[[1897.6]]whatever like it never miss steps right
+[[1905.2]]uh okay is this worthwhile like should
+[[1912.12]]we should we uh celebrate that outcome I
+[[1917.48]]don't think so right okay so you really
+[[1921.88]]want to measure kind of usefulness and
+[[1928.16]]correctness and faithfulness to the data
+[[1933.84]]that you were trained on or the data
+[[1937.24]]that you have in a vual database to do
+[[1941.76]]ragon and so on so the just these
+[[1948.16]]measures of even what is good is is is
+[[1954.72]]already like a very complicated question
+[[1961.2]]and I think that there is a uh a another
+[[1967.92]]huge effort that has to do with frankly
+[[1973.0]]with Rag and with Vector databases and
+[[1978.72]]with knowledge layers and capacities and
+[[1985.4]]people grappling with okay how do I now
+[[1992.2]]make my data available to the model in a
+[[1997.76]]way that's secure that is well
+[[2003.0]]understood that is data governed that
+[[2008.92]]you know I can maybe delete stuff that I
+[[2014.08]]whatever like I was gdpr told me that I
+[[2018.92]]have to delete and somehow I need to
+[[2023.24]]know for a fact it's not somehow a part
+[[2028.96]]of model anymore and so on um there's a
+[[2034.4]]lot of work there and that's you know a
+[[2037.96]]topic we actually made a lot of progress
+[[2042.36]]on already so by we again I mean not
+[[2047.8]]only pine cone but this like Community
+[[2052.32]]like starts to have pretty good
+[[2057.68]]solutions for super cool it seems like a
+[[2064.24]]Hacker News Post in the making an llm
+[[2069.52]]that will never hallucinate just respond
+[[2075.96]]with I don't know every single time
+[[2080.16]]uh like creatively avoid the question
+[[2086.48]]exactly but we know like we know I mean
+[[2093.36]]jokes aside we we already today can load
+[[2100.12]]all of whatever like a oh but a good
+[[2104.0]]chunk of the
+[[2109.04]]internet uh into pine cone as as an
+[[2116.04]]index and basically R run like a
+[[2122.4]]language model next to it with you know
+[[2127.72]]not incredibly sophisticated Rag and
+[[2134.08]]already outperform gp4 like today it's
+[[2140.4]]we've already ran experiments like this
+[[2145.16]]so like I I think there's something
+[[2149.0]]there and I think we're we're going to
+[[2153.08]]see some significant progress there both
+[[2159.84]]on sort of like consumer facing products
+[[2169.92]]and like B2B products vectors are the
+[[2178.92]]language of AI U or kind of what AI
+[[2184.12]]speaks and there's this land grab to
+[[2188.32]]store them everyone wants to store the
+[[2192.16]]vectors and because of that there's kind
+[[2195.4]]of been this explosion I mean you would
+[[2198.04]]know this better than than us but
+[[2201.68]]there's been this explosion of startups
+[[2205.76]]uh that are going after storing vectors
+[[2209.6]]but then also incumbents and folks like
+[[2213.24]][ __ ] that are adding support for
+[[2216.72]]vectors so how do you think about the
+[[2220.6]]landscape of you know the startups that
+[[2225.76]]are kind of vying to to store some of
+[[2230.6]]these workloads and then the incumbents
+[[2234.64]]as well don't get me started about [ __ ]
+[[2239.68]]it's a company that freaking heard the
+[[2244.48]]word AI for the first time a year ago
+[[2248.6]]and suddenly they're like experts so I
+[[2251.68]]mean
+[[2255.68]]don't whatever like storing vectors I
+[[2260.56]]think is exactly what's happening and I
+[[2264.56]]think you define it perfectly right
+[[2268.68]]people understand that now this is a
+[[2274.48]]data type right next to my sentences or
+[[2280.68]]my images I'm going to store a semantic
+[[2285.36]]representation of that object that came
+[[2290.36]]out of some embedding model right and
+[[2295.76]]that thing is a float array right it's
+[[2300.64]]whatever like a thousand floats right
+[[2307.0]]and if your infrastructure be it like a
+[[2315.0]]non- AI technology say that rhymes with
+[[2320.8]]Bongo uh
+[[2325.32]]you know you need to put that array of
+[[2330.0]]numbers somewhere and so they have to
+[[2334.56]]have that as a type really and that's
+[[2339.96]]basically what's happening there right
+[[2345.84]]and so you know whatever you there's
+[[2351.48]]some work that has to be done to do that
+[[2357.24]]that doesn't make your database natively
+[[2362.4]]be able to query those things and work
+[[2368.04]]with that data type at all right what
+[[2373.64]]people don't understand about Vector
+[[2378.4]]bases and why they're so unique is that
+[[2381.92]]that
+[[2385.88]]that numeric array becomes in some sense
+[[2392.76]]the key some conceptual way that is the
+[[2398.96]]primary lookup that is the way you
+[[2403.8]]organize data on blob storage that's how
+[[2409.04]]you load segments that's how you you
+[[2414.48]]know search through the your Universe by
+[[2418.68]]the way that's how your own brain does
+[[2422.24]]it right I mean this is an incredibly
+[[2427.8]]unique and optimized stack that if you
+[[2434.68]]you know try to somehow bolt on this
+[[2440.04]]like data type and like pretend that
+[[2444.0]]it's now a vector database you're going
+[[2448.96]]to get incredibly poor performance and
+[[2454.6]]and flank run into like serious issues
+[[2458.36]]now I mean I think it's it's really
+[[2461.76]]interesting because um you know I feel
+[[2465.36]]like obviously yeah a lot of a lot of
+[[2469.68]]other folks have um have come into the
+[[2473.92]]space and I think generally there's been
+[[2477.08]]this question of like you know what's
+[[2480.84]]the what's the rag stack end up being
+[[2483.88]]and I feel like you guys get thrown
+[[2486.6]]around all the time as as a key part of
+[[2490.44]]that and I'm wondering like if you uh
+[[2494.04]]you know if you had to go to a company
+[[2497.96]]today uh and build a rag product like
+[[2502.44]]what would be your stack besides pine
+[[2507.68]]cone of course that's interesting I I I
+[[2513.48]]frankly I think a lot of people default
+[[2517.28]]to open
+[[2522.96]]a uh I I wouldn't we actually see really
+[[2531.8]]good performance out of smaller
+[[2540.72]]cheaper uh somehow easier to manage
+[[2547.76]]sometime open source models the there is
+[[2552.52]]no reason to spend a ton of money on
+[[2556.36]]that there
+[[2561.64]]is sort of like like an ml etling part
+[[2567.12]]of it has to do with bulk
+[[2571.04]]Transformations and movement of data and
+[[2576.0]]so on we've really started enjoying any
+[[2581.6]]scales product and we really like start
+[[2586.88]]partnering with them closer and we're
+[[2591.24]]really enjoying their
+[[2597.32]]stack uh we work with h forel and others
+[[2605.2]]on kind of uh launching applications and
+[[2612.36]]and you know building the the you know
+[[2617.24]]kind of app
+[[2621.16]]layer uh you know we partner pretty
+[[2628.16]]closely with coher and AI 21 and and uh
+[[2636.44]]you know we're put you know others like
+[[2642.72]]hugging face and others like we're all
+[[2646.84]]whatever they're all in the mix we see I
+[[2650.92]]think a good combination of of those
+[[2656.44]]models both for embedding and for uh
+[[2662.56]]ranking and summarization and so on I
+[[2668.88]]really don't have a good vendor for or a
+[[2675.32]]good technology for evaluation yet that
+[[2679.8]]I'm you know I'm going to some people
+[[2682.28]]people are going to write back to me
+[[2684.68]]that they're angry that I didn't name
+[[2689.12]]them but uh I think
+[[2697.52]]that uh uh that'd be very interesting to
+[[2705.96]]for a a leader to emerge in in that
+[[2710.72]]stack I think it's it's it's very
+[[2714.0]]interesting and it's very hard to do
+[[2717.44]]right and and then as you think about
+[[2720.44]]kind of like Pine cone's footprint I
+[[2723.4]]mean obviously I imagine a key part of
+[[2726.76]]of getting pine cone to work in an
+[[2730.4]]Enterprise just having the data ready to
+[[2734.4]]to be put into a vector database right
+[[2737.96]]and I imagine there's all sorts of you
+[[2741.0]]know we've obviously met companies that
+[[2743.84]]are that are focused on that and then
+[[2746.96]]there's you know the metadata you apply
+[[2749.96]]to it obviously then the retrieval
+[[2754.2]]methods you use to to uh to uh take it
+[[2758.8]]from a vector database like how do you
+[[2761.8]]think about ultimately like the
+[[2764.88]]footprint you want to have versus you're
+[[2768.08]]like I would love I would love there to
+[[2771.04]]be a best-in-class vendor that's that's
+[[2774.28]]great at the ETL side and and never have
+[[2779.32]]to touch that yeah so um you're right I
+[[2787.24]]mean I and by why I apologize to the the
+[[2793.88]]the audience I'm like a I'm like a
+[[2797.8]]infrastructure guy so I I kind of look
+[[2802.72]]at the raw machines and like very basic
+[[2807.4]]infrastructure a lot of
+[[2813.12]]companies that uh are stepping into the
+[[2819.4]]embedding generation and data generation
+[[2824.4]]into V datab bases that're actually
+[[2832.0]]doing really well right uh unstructured
+[[2840.08]]uh comes to mind but that is becomes a
+[[2846.6]]viable option like very soon and for
+[[2852.72]]especially for specific channels right
+[[2858.88]]so if you have a a fixed
+[[2865.68]]so if you have a common data Channel say
+[[2873.32]]you import your data say with five Tran
+[[2880.2]]from Snowflake and now you have that
+[[2886.96]]data in a in a table that has a
+[[2894.08]]unified structure because whatever
+[[2899.24]]because it's the same table that every
+[[2904.68]]five Trend customer would have then
+[[2909.92]]there are companies who would take that
+[[2914.48]]and and transform it and fit it into a
+[[2919.76]]vector base so you can rag over your you
+[[2924.84]]know say you know Salesforce you know
+[[2930.68]]notes on customers and so on right uh
+[[2937.4]]and so if people if you understand that
+[[2943.04]]the data source that you have is like
+[[2947.88]]standard then it's very likely you will
+[[2952.2]]find somebody who will have already buil
+[[2955.92]]that pipeline be very happy to sell it
+[[2960.6]]to you and you were talking about how uh
+[[2965.16]]how effective some of the smaller models
+[[2971.04]]can be relative to an open AI yeah how
+[[2978.24]]much intelligence do you think will
+[[2985.12]]happen at the vector DB retrieval step
+[[2991.72]]versus at the generation step it sounds
+[[2996.92]]like you know maybe over time people are
+[[3000.6]]you know they want to run on on their
+[[3005.56]]own data and and um you know maybe you
+[[3011.52]]guys are seeing good results with with
+[[3016.44]]that as well like I'll give an economics
+[[3021.08]]answer to this right the Market's going
+[[3026.6]]to have to find like the stable point
+[[3032.88]]where there's a good tradeoff
+[[3038.72]]between cost compute and infrastructure
+[[3044.0]]that you're willing to run and the
+[[3049.56]]quality of the output right we're
+[[3055.76]]already at the point where making models
+[[3063.48]]bigger on gpus is not reasonable you can
+[[3070.64]]run an experiment you know you can flex
+[[3075.4]]and say I have you know whatever 100
+[[3080.52]]billion parameter model and it's
+[[3087.64]]whatever it's like does XYZ but whatever
+[[3093.96]]you're not going to run a 100 billion
+[[3098.68]]parameter model for every API call on
+[[3103.16]]your platform that's you're going to
+[[3106.36]]just it's just you're going to go
+[[3110.16]]bankrupt right and you're going to make
+[[3115.72]]the planet hotter so like that that's
+[[3121.12]]not going to work long term and so
+[[3124.68]]people really have to find better
+[[3128.28]]Solutions right again what we see is
+[[3131.96]]that with those model
+[[3136.76]]models uh if you do things right
+[[3142.96]]sometimes the the results could even get
+[[3148.32]]better and if they're even if they're
+[[3153.36]]not better they're not noticeably worse
+[[3158.76]]and you might be operating on like you
+[[3163.8]]know cents on the dollar uh in terms of
+[[3169.88]]operating costs right so yeah um I have
+[[3176.16]]no doubt that we would move there that
+[[3181.56]]doesn't mean the arms raised to whatever
+[[3186.16]]like bigger better models not going to
+[[3189.64]]exist I just don't think that's what the
+[[3193.88]]Market's G to operate with the kind of
+[[3197.56]]the most of the Market's going to
+[[3201.12]]operate with it is interesting it feels
+[[3204.84]]like as these context windows were
+[[3207.96]]getting longer you know these last few
+[[3211.96]]months people were like oh well you know
+[[3215.76]]is is there a future for rag you just
+[[3219.4]]stuff you know everything you'd want and
+[[3223.28]]in impr prompt but I mean I'm curious
+[[3226.12]]your thoughts on that it seems like from
+[[3229.4]]a cost perspective obviously uh that
+[[3232.64]]that you know if you're charging per
+[[3235.68]]token that that can get pricey quickly
+[[3240.88]]yeah I mean I I think the fact that
+[[3246.48]]model companies allow you to bring in a
+[[3251.12]]bigger and a bigger context I mean I
+[[3254.84]]think this is the least surprising thing
+[[3258.2]]in the world that's their pricing model
+[[3263.04]]right what like shockingly enough
+[[3268.16]]they're willing for you to pay them more
+[[3273.24]]what what a what a you know what a
+[[3278.68]]shocker there multiple problems with not
+[[3283.64]]only is it slow and expensive it doesn't
+[[3289.4]]actually help more often than not right
+[[3297.0]]and uh and finally it just runs out of
+[[3304.8]]steam right you can say Hey you know
+[[3311.0]]whatever like write me a job description
+[[3315.52]]and here is an example job description
+[[3319.24]]to go off of great that's great for a
+[[3324.88]]context window right if like here like
+[[3332.36]]10 job descriptions to go off of okay
+[[3338.56]]that also works he a million job
+[[3344.36]]descriptions to go off of like okay
+[[3350.76]]that's not going to work right or
+[[3356.08]]whatever like write something and then
+[[3360.44]]get information from the web or get
+[[3364.68]]information from all of my documentation
+[[3371.28]]ever right uh that just doesn't work I
+[[3378.6]]mean just think about that like sending
+[[3384.76]]all your company data to open
+[[3391.96]]AI on every query like that clearly is
+[[3398.88]]not the right thing
+[[3403.6]]totally I mean it makes it makes all the
+[[3407.0]]more sense as you focus on these perfect
+[[3410.12]]uses for pinec con that are hundreds of
+[[3412.8]]millions of vectors it's like those are
+[[3415.6]]exactly the ones that you know would
+[[3418.68]]would never make any sense to stuff in a
+[[3422.36]]context window yeah but but even even
+[[3428.4]]even at the small scale I again I'm you
+[[3434.44]]know I want to paint the extreme because
+[[3438.48]]like that's where it becomes like almost
+[[3443.04]]like faral like obviously impossible
+[[3449.24]]right but even when you can create like
+[[3456.68]]a whatever put a 100,000 tokens in a in
+[[3461.92]]in a context
+[[3465.76]]window I mean putting those documents in
+[[3469.76]]a vector database you might be able to
+[[3473.04]]send instead of 100,000 you''ll be able
+[[3475.76]]to send
+[[3479.68]]10,000 and that' be just as good if not
+[[3485.6]]better whatever 3,000 and you'd be
+[[3492.84]]paying whatever like 10% and not lose
+[[3501.44]]any performance so why not right and so
+[[3508.32]]again even small cases where the context
+[[3513.96]]engine is theoretically workable even
+[[3520.12]]then it's very rarely that right the
+[[3525.36]]best solution in terms of cost and
+[[3529.92]]performance totally and I guess just
+[[3533.6]]generally as you think about how folks
+[[3536.52]]are using pine cone today does it feel
+[[3539.8]]like there's you know folks relatively
+[[3542.88]]standardized around the embeddings
+[[3546.16]]models they use or retrieval methods or
+[[3549.32]]one thing I'm always curious about is
+[[3553.08]]whether you know uh it feels like at in
+[[3557.32]]the limit there will be you know
+[[3560.16]]different retrieval methods for
+[[3562.16]]different use cases and different
+[[3564.36]]embedding models that are particularly
+[[3567.12]]good for you know uh different
+[[3570.48]]Industries and uh it's hard to tell from
+[[3573.32]]the outside how much of that is
+[[3575.92]]happening today versus like hey let's
+[[3578.76]]just try and get this thing to work you
+[[3582.24]]know know and and use uh but I'm curious
+[[3586.28]]what you're seeing frankly most
+[[3590.6]]companies are trying to get this to work
+[[3598.12]]right very few companies have done it
+[[3606.04]]long enough and have like really gotten
+[[3610.96]]the experience with it that they really
+[[3615.32]]start to now iterate over the embedding
+[[3620.0]]models and the retrieval and the
+[[3625.48]]reranking and the filtering and like
+[[3631.16]]really get very deep in the application
+[[3636.64]]stack and and figure out how to build
+[[3642.36]]this and uh I think we're getting there
+[[3646.52]]it's a part of the maturity in the
+[[3650.28]]market like and the same way that any
+[[3656.2]]search recommendation stack is it's not
+[[3662.36]]just the retrieval there's like a lot
+[[3667.68]]that goes before it and a lot that goes
+[[3672.76]]after it uh to really get the results
+[[3676.56]]that you need and this is one of the
+[[3681.44]]main discussions that I have with larger
+[[3687.4]]companies that I work with that you know
+[[3691.28]]I tell them hey you know this is going
+[[3695.68]]to be able to do amazing things but it's
+[[3700.8]]not Magic I mean it's not you're not
+[[3704.04]]going to just hook it up and
+[[3707.92]]everything's going to be perfect this is
+[[3712.28]]you know this is work you know we're
+[[3716.24]]going to have scientists and Engineers
+[[3721.56]]work on this thing for multiple quarters
+[[3726.28]]and we're going to learn and iterate and
+[[3730.32]]improve and add stuff and remove stuff
+[[3735.92]]and we'll get there eventually we'll be
+[[3742.4]]able to do Q&A incredibly well and you
+[[3747.92]]know chat support and legal Discovery
+[[3752.48]]and all that stuff it is possible
+[[3756.64]]because we've been building these things
+[[3761.36]]for years now and we know it's possible
+[[3765.84]]we also know it's
+[[3770.36]]not trivial like and every use case is
+[[3775.04]]slightly different and every application
+[[3779.08]]has different preferences and different
+[[3784.04]]Comfort zones on the ratio between speed
+[[3790.2]]and cost and accuracy and and format and
+[[3795.4]]length of the input and the output and
+[[3799.8]]like freshness of the data and like you
+[[3804.52]]you name it there you just really have
+[[3808.48]]to build up a whole solution around it
+[[3811.88]]and that takes time and I imagine you
+[[3814.4]]know one thing that must be interesting
+[[3816.88]]for you as a business is and I've heard
+[[3819.92]]this from other folks that selli tools
+[[3823.4]]and Enterprises is you kind of land in
+[[3826.96]]and I'm sure they're like oh this is
+[[3830.0]]amazing we have you know EO and this
+[[3833.24]]awesome pine cone team like build out
+[[3836.92]]our Q&A you know product for us or
+[[3840.04]]something and and you know they're so
+[[3843.2]]excited to have you there and obviously
+[[3847.36]]you know I think at at scale you you you
+[[3851.0]]certainly want to be empowering the
+[[3854.0]]developers in these companies to you
+[[3857.72]]know uh to to build these things and to
+[[3861.52]]tweak things themselves like how have
+[[3864.72]]you thought about you know where you're
+[[3867.44]]just hey it's the early days of the
+[[3870.12]]space like we might as well just come in
+[[3873.32]]and help them tune the knobs and and
+[[3877.52]]make this implementation work uh versus
+[[3882.04]]you know hey we really want to um we're
+[[3884.84]]kind of about to be a little more
+[[3887.72]]religious about them just you know being
+[[3891.4]]playing around with with the different
+[[3897.36]]things Pine has to offer so for uh the
+[[3903.88]]first three years of the company's
+[[3911.6]]existence uh my uh board was uh very
+[[3920.68]]unhappy with me because we were almost
+[[3927.16]]religiously not doing that like we would
+[[3932.12]]get questions and we would whatever
+[[3937.24]]everything that we
+[[3943.6]]stood was needed we either documented
+[[3949.4]]very clearly that we don't do or we made
+[[3955.16]]it very very easy or maybe completely
+[[3960.4]]transparent uh and pine con just
+[[3963.64]]completely something you don't have to
+[[3966.84]]do at all or something that we don't do
+[[3971.6]]at all like either we take care of it
+[[3978.92]]100% or we do zero% of it right and then
+[[3987.04]]we were very explicit about that right
+[[3993.28]]we had to often times have very
+[[3998.24]]uncomfortable conversations with
+[[4002.4]]potentially large customers that need
+[[4006.76]]help with XYZ and we know how to do XYZ
+[[4010.84]]and we tell them no we can't help you
+[[4013.72]]because we're really busy building a
+[[4017.32]]Victor database but that
+[[4022.96]]really panned out in the growth phase of
+[[4028.44]]the company where you you really started
+[[4033.52]]having literally thousands of customers
+[[4040.04]]who not only don't like seek our help
+[[4046.44]]they're not willing to meet with
+[[4053.64]]us they're like they're just happy and
+[[4059.88]]successful and they don't want to waste
+[[4063.32]]their time it's like hey this [ __ ] works
+[[4066.44]]I don't I have better things to do I
+[[4070.0]]don't need to talk to you guys I'm like
+[[4074.92]]okay and so my sales team is agonizing
+[[4079.6]]about like hey like this is whatever we
+[[4082.72]]need to speak with them we don't know
+[[4085.24]]who they are I'm like I don't know but
+[[4087.48]]they don't want to talk to us what do
+[[4090.2]]you want to do for the folks that like
+[[4093.68]]you know maybe are not talking to you
+[[4097.24]]and and can't get it to work like is
+[[4101.04]]there one like thing you wish that
+[[4104.92]]people tried more like oh if only you
+[[4108.72]]would like use a different embeddings
+[[4112.04]]model or I don't know whatever it is
+[[4115.12]]like is there one kind of common failure
+[[4118.56]]mode you see for people are that are
+[[4122.32]]trying this and can't get it to work
+[[4125.84]]yeah
+[[4130.0]]so I will say that as a company also
+[[4135.44]]we've we've grown and evolved then
+[[4141.32]]companies that do want to help do want
+[[4146.44]]our help we engage with them we we're
+[[4151.4]]not like a Professional Services team
+[[4155.64]]right we won't go and build a whole
+[[4158.88]]solution but we're very very happy to
+[[4163.72]]help and and uh consult people on their
+[[4168.32]]journey and we've started doing that a
+[[4171.92]]lot more now that we have more capacity
+[[4178.4]]obviously in a team um
+[[4185.72]]um I think what people really get wrong
+[[4191.24]]is is cost estimations right I mean this
+[[4196.72]]is one of those things that just you
+[[4201.4]]know people come to me and like oh we
+[[4205.84]]did the napkin math and like we would
+[[4211.64]]pay you know $50,000 a month to Pine
+[[4216.4]]Cone and that doesn't make sense to us
+[[4219.8]]I'm like how did you compute that and
+[[4224.16]]then they would tell you and you're like
+[[4228.84]]oh my God like you know you just kind of
+[[4234.4]]like just walk them through the the cost
+[[4239.72]]calculators like 500 bucks a month I'm
+[[4246.32]]like oh okay like great I'm really I'm
+[[4252.24]]I'm really happy we had this
+[[4256.72]]conversation right so yeah designing
+[[4262.72]]their AI
+[[4270.68]]solution even if it's it could like seem
+[[4277.92]]like a small change but that might make
+[[4283.52]]a huge difference in the cost of the
+[[4289.12]]infrastructure and latencies and
+[[4293.2]]freshness and a bunch of other stuff so
+[[4296.88]]we're very happy to help with that
+[[4300.8]]people get that wrong on a regular basis
+[[4306.08]]and for me again as a technologist if
+[[4311.52]]you use the wrong embedding models sure
+[[4315.28]]your results might be slightly worse
+[[4320.64]]slightly better you can fix that if you
+[[4327.64]]calculated the costs and you now don't
+[[4332.4]]embark on the journey because you
+[[4336.4]]figured it was going to be too expensive
+[[4340.8]]and that calculation was wrong you've
+[[4345.88]]just like you're not even building
+[[4350.84]]something that you should be
+[[4355.44]]building uh and that for me is a is a
+[[4362.32]]kind of sort of more final failure mode
+[[4368.56]]which is much more painful and frankly
+[[4373.16]]annoying because I you know I hear about
+[[4377.48]]some of those things in hindsight well
+[[4382.4]]some really large customer would say oh
+[[4387.8]]we thought about you guys but then uh
+[[4391.52]]like we figured we can't run this
+[[4395.92]]project and then you're like W uh on the
+[[4401.44]]cost side one thing that we see across a
+[[4406.88]]lot of our infrastructure companies is
+[[4413.48]]they ship an improvement that makes the
+[[4418.76]]database or whatever it is is much more
+[[4421.64]]efficient and then people actually end
+[[4425.72]]up storing less or there's less compute
+[[4431.12]]um or it cost customers less my guess is
+[[4435.68]]with the serverless announcement that
+[[4439.44]]customers could potentially be paying
+[[4442.92]]you less than they otherwise would have
+[[4446.08]]because you know they're now it's a
+[[4449.32]]totally serverless model like was that
+[[4453.12]]something uh what was it like shipping
+[[4457.8]]that change and um you know ultimately
+[[4463.12]]um the best thing for your customers but
+[[4467.56]]uh potentially at the expense of some
+[[4471.04]]short-term Revenue like how did how did
+[[4474.88]]you think about um kind of moving to the
+[[4479.72]]the serverless model no it's it's very
+[[4484.68]]painful for us as a company and like for
+[[4491.04]]Founders listening this is it's it's a
+[[4498.68]]hard transition and you know for
+[[4505.04]]investors to see your Revenue kind of go
+[[4510.32]]up into the right in exactly the right
+[[4514.76]]exponent and suddenly that thing
+[[4518.64]]starting to flatten out and you tell
+[[4522.92]]them hey look at workloads actually grow
+[[4529.52]]faster now right but revenue is impacted
+[[4535.28]]by the fact that our product is so much
+[[4540.32]]cheaper now right um that is a
+[[4545.68]]complicated discussion and that like you
+[[4549.88]]know investors don't necessarily love to
+[[4556.04]]see that and even though they sort of
+[[4565.32]]like uh they understand it uh uh of
+[[4573.28]]course they can rationalize it but they
+[[4578.88]]still emotionally react badly to
+[[4588.64]]it right uh my advice to Founders
+[[4598.44]]is that kind of transition is much
+[[4604.6]]easier done earlier than later uh and so
+[[4609.84]]you should really move and do that as
+[[4615.44]]fast as you can and take the hit as soon
+[[4624.4]]as possible right um you know uh for
+[[4632.84]]us we think we're leaving on the table
+[[4638.52]]more than half of our revenue for some
+[[4646.68]]of the customers is going to be uh 70 80
+[[4655.76]]90% uh reduction in cost for extreme
+[[4661.32]]cases in Pharma and others where the
+[[4666.04]]workload is like super super super uh
+[[4671.88]]like storage heavy this could be as as
+[[4677.16]]little L one or two% of the spend like
+[[4680.84]]we have companies they used to pay us
+[[4685.52]]100K they now pay us $2,000 a month a
+[[4690.4]]year sorry it's like literally almost
+[[4695.24]]nothing right uh so they're very happy I
+[[4699.92]]mean un investors are not very happy
+[[4707.12]]about that but uh at the end of the day
+[[4714.44]]it's
+[[4718.16]]uh it's it's it's the right thing for
+[[4721.88]]the customer and it's the right thing
+[[4724.96]]for people
+[[4728.76]]Building Solutions on top of our
+[[4735.72]]platform and so if we can fit
+[[4743.12]]really nicely into their own cost
+[[4748.2]]structure of their own products we're
+[[4752.84]]not going to be a part of the stack
+[[4759.6]]right and you know when I think about
+[[4766.92]]the trajectory of the
+[[4771.8]]AI
+[[4776.76]]stack we're really in the very first of
+[[4781.64]]that like every
+[[4786.4]]sign shows that the adoption curve is
+[[4791.8]]such that like we're very early adopters
+[[4798.32]]you know um you know
+[[4804.8]]Trailblazers just getting to production
+[[4809.48]]and so on at the end of the day like
+[[4813.32]]almost every company is going to have a
+[[4818.0]]vector base doing something either small
+[[4822.2]]or medium or
+[[4827.56]]large uh we're not there yet and so you
+[[4833.6]]know if that's where we aim if we need
+[[4837.92]]to fit snuggly into that cost structure
+[[4843.04]]for like tens of thousands of or
+[[4847.64]]hundreds of thousands of different
+[[4851.96]]workloads we just have to do that even
+[[4857.28]]you you know that there a lot of you
+[[4864.28]]know pain uh in the medium term well
+[[4870.0]]yeah one thing you know I I was struck
+[[4873.04]]by as he he were kind of talking about
+[[4876.44]]how we're in the early days of you know
+[[4880.76]]AI infrastructure um you know a question
+[[4884.96]]that every investor always and and folks
+[[4888.16]]in the ecosystem are always asking is
+[[4891.48]]what are kind of net new categories for
+[[4895.6]]startups versus you know natural places
+[[4899.88]]for comments to build product obviously
+[[4903.48]]it seems like Factor databases have been
+[[4906.32]]one of the space where there's been a
+[[4909.04]]lot of net new companies you know
+[[4912.4]]yourselves at the Forefront as you look
+[[4916.04]]at the other parts of AI infrastructure
+[[4919.2]]like what parts do you think make sense
+[[4922.72]]for new players what parts are like the
+[[4926.0]]existing infrastructure players going to
+[[4928.92]]provide well uh Curious how you think
+[[4932.92]]about that you know frankly I much more
+[[4938.04]]excited about the application and the
+[[4943.8]]the the solution space more than
+[[4949.68]]the uh infrastructure layer right I mean
+[[4956.88]]for new companies right this is uh
+[[4963.92]]um in infrastructure there's a win or
+[[4969.04]]take all
+[[4973.04]]uh
+[[4976.64]]uh you know
+[[4981.4]]phenomenon that clearly works great for
+[[4987.96]]us but but that also just means that the
+[[4996.32]]you know the the uh where just the space
+[[5004.44]]for for new companies is is very limited
+[[5011.04]]right on the solution and application
+[[5017.64]]side I think there is so much energy and
+[[5024.16]]so much excitement and so many
+[[5029.84]]different uh problems that can be solved
+[[5034.6]]in Creative new ways
+[[5041.68]]now that uh I frankly think
+[[5051.28]]every you know every digital native
+[[5059.2]]has uh whatever like 20 different
+[[5065.72]]startups that like say now oh like we
+[[5074.24]]are the new blah with AI right and uh
+[[5081.48]]now they you know so you have 20
+[[5087.88]]startups trying to uh usurp uh some some
+[[5094.76]]some long-term player and you have that
+[[5100.4]]long-term player trying to reassert
+[[5107.32]]themselves as an AI uh Native
+[[5113.52]]solution uh and at the same time you
+[[5118.36]]have Enterprises both buying those
+[[5122.52]]Technologies and learning how to use
+[[5128.6]]them uh and so this it becomes like this
+[[5135.64]]conveyor belt of innovation from Tiny
+[[5140.96]]startups all the way down up to
+[[5146.68]]Enterprises uh that is just teaming with
+[[5153.28]]with Innovation and and great ideas and
+[[5159.44]]a ton of value so I I you know again I
+[[5165.44]]literally see hundreds of customers
+[[5170.52]]hundreds of like
+[[5175.68]]companies a week that that work with us
+[[5181.52]]and so on and like each and every one of
+[[5186.36]]them does something unique and
+[[5190.08]]interesting and you're like holy [ __ ]
+[[5193.56]]there's yet another application wow
+[[5197.64]]there's more Val this I didn't think
+[[5201.8]]about this okay amazing that's I guess
+[[5207.44]]so wow what a fun kit right I mean I I
+[[5212.36]]know you're an infrastructure guy but if
+[[5216.16]]you uh if if you couldn't do ponco and
+[[5220.6]]and had and were instead building an AI
+[[5225.36]]application what would you build it's G
+[[5232.64]]to sound uh weird to you but I I just
+[[5241.56]]really love uh communication like like
+[[5250.16]]uh email and slack and Twitter and like
+[[5257.6]]I just love that kind of
+[[5263.76]]data you know meetings re like
+[[5270.48]]transcriptions and like conversations
+[[5278.48]]and uh so there's something about human
+[[5286.96]]communication written or spoken that
+[[5295.36]]is uh I feel like just fascinating and
+[[5301.84]]and and there's like a ton of knowledge
+[[5307.2]]to be extracted it's all like super
+[[5313.04]]Missy and exciting and complicated and
+[[5318.24]]and very rich
+[[5322.44]]and you know it will be something like
+[[5327.2]]that whether it's medical records or
+[[5335.04]]emails or jira tickets or what have you
+[[5341.76]]like it would be something like that I
+[[5344.36]]thought you were going to say something
+[[5347.08]]around surfing but uh Communications
+[[5351.64]]make sense too I wish I wish there was
+[[5356.48]]like some yeah this I thought we were
+[[5360.92]]limiting the scope to Ser to uh tech
+[[5365.2]]companies if it was probably harder to
+[[5369.64]]build a really strong software business
+[[5372.8]]in
+[[5375.52]]surfing I was like Wonder I was imag
+[[5379.16]]like embeding surfing videos or
+[[5382.92]]something you know for technique
+[[5388.36]]coaching yeah could have a tech company
+[[5393.84]]where I uh surf every day and then
+[[5398.92]]pretend to have worked
+[[5405.2]]uh on something techology there's
+[[5410.24]]actually just an AI That's running the
+[[5413.84]]whole time you're surfing there's an
+[[5418.24]]agent that's doing all the work exactly
+[[5422.44]]this is like my software company in the
+[[5426.8]]Mal Dives on yeah I'm I'm honestly
+[[5430.4]]convinced with some of Pat's
+[[5432.84]]hallucinations that's what's happening
+[[5437.8]]on uh on his end
+[[5442.76]]I I guess you know also I mean you
+[[5445.76]]obviously were were're previous lit to
+[[5449.64]]you know interesting places I mean
+[[5453.92]]curious like your reflection on on maybe
+[[5457.16]]we'll go back to the most recent one in
+[[5460.64]]Amazon like how do you kind of think
+[[5464.32]]they're positioned right now what would
+[[5467.8]]you be building if you were still there
+[[5470.92]]uh obviously you did a lot of the
+[[5474.52]]sagemaker work um any any Reflections on
+[[5481.64]]that sure I you know I I look I mean
+[[5489.6]]different companies just need to what
+[[5495.48]]have the benefits and also like the
+[[5500.68]]restriction of needing to focus on
+[[5506.24]]different parts of the stack right uh
+[[5511.4]]when you run at AWS scale if your
+[[5515.36]]product doesn't bring in hundreds of
+[[5520.84]]millions of dollars a year uh it's a
+[[5526.32]]failed product it doesn't actually move
+[[5531.4]]the needle at all right startups operate
+[[5536.88]]in a different mode and so on and you
+[[5541.12]]know your horizon for Innovation and
+[[5545.04]]your appetite for risk is different and
+[[5551.12]]so on so you know I don't know that
+[[5558.56]]Amazon Frank L Google or Microsoft are
+[[5564.72]]even working on the things that you know
+[[5570.08]]we're working on uh I can tell you that
+[[5576.28]]we are laser focused on stuff that we
+[[5582.72]]know for a fact is going to be a part of
+[[5588.12]]the stack and a part of the
+[[5594.24]]solution uh and is realistically going
+[[5600.92]]to hit the market in at least you know a
+[[5606.32]]year and a half or two from now because
+[[5611.16]]it's that early right in the same way
+[[5616.52]]that you know five years ago we people
+[[5620.4]]know didn't know what the hell we were
+[[5624.56]]saying when we said Victor dat bases you
+[[5629.52]]know we are now already working on the
+[[5633.08]]stuff that's going to hit the market in
+[[5636.32]]two or three years from now so that
+[[5639.92]]that's that's that's the most exciting
+[[5643.48]]thing for me to be honest I me this is
+[[5648.24]]where like the really cool stuff is uh
+[[5654.12]]kind of happens behind the scenes yeah
+[[5658.76]]one thing that I think is interesting
+[[5662.36]]especially around you know how company
+[[5665.72]]how far in advance companies and
+[[5668.76]]infrastructure companies like you guys
+[[5673.6]]need to plan is you know being able to
+[[5679.56]]skate to where the puck Puck is going
+[[5684.16]]and you know kind of predict the future
+[[5688.32]]in in some extent especially in a market
+[[5691.92]]that is moving so fast where
+[[5694.92]]infrastructure is changing really really
+[[5698.64]]quickly and context windows are changing
+[[5703.12]]what the models can do are changing Are
+[[5708.6]]there specific kind of Technologies or
+[[5714.36]]architectures or or maybe even companies
+[[5718.08]]that you're watching and you're like
+[[5720.56]]okay that is going to be a really big
+[[5725.6]]thing in one year or in two years um or
+[[5731.52]]anything like that that's on your radar
+[[5735.24]]I think there's going to be a
+[[5739.96]]significant ific an shift in the kinds
+[[5746.72]]of Hardware that we use right what is
+[[5753.52]]happening now with gpus I think
+[[5759.92]]is not sustainable and it might still go
+[[5765.36]]up before it goes down but I don't think
+[[5769.0]]this
+[[5774.72]]is uh what AI will look like going
+[[5782.52]]forward right so that's that's on on
+[[5788.44]]Hardware we're going to have to see some
+[[5793.96]]something change there um and do you
+[[5800.32]]think that means more CPU workloads or
+[[5806.0]]people adapting models to run on CPUs or
+[[5812.36]]or maybe it's something else it's um
+[[5819.12]]it's going to be CPUs and gpus and maybe
+[[5824.72]]specialized uh you know spec servers
+[[5829.48]]that are really optimize for either
+[[5832.8]]training or surveying or maybe
+[[5836.92]]distributed infrastructure for that you
+[[5841.4]]know I'm I'm sure Vector that Bas is are
+[[5846.32]]going to pay a play a part in that but
+[[5852.68]]it's it's not it's not even I'm not even
+[[5857.76]]suggesting that right now it's really
+[[5861.84]]just there has to be a change just like
+[[5866.08]]microeconomic just doesn't make sense
+[[5869.96]]what's happening now in terms of data
+[[5874.92]]pipelines and and kind of data
+[[5880.72]]management and and so on again
+[[5885.36]]something's going to have to change it's
+[[5889.56]]it's the tools that we
+[[5895.28]]had 5 10 years ago just don't cut it
+[[5901.52]]anymore uh and both the operational
+[[5907.16]]headache and the actual costs and the
+[[5911.76]]time they have to wait and so on are
+[[5916.2]]just not reasonable something's going to
+[[5921.72]]have to change there
+[[5928.48]]um and again finally I I think we're
+[[5934.36]]going to have to start seeing those
+[[5939.72]]moderating systems where they even if
+[[5945.76]]you don't own the model or whatever like
+[[5951.96]]you have to somehow be able to have some
+[[5958.12]]kind of governance and and visibility
+[[5962.8]]and ability to control what's happening
+[[5969.24]]with your stack that today runs open
+[[5977.08]]loop for for most companies so we're
+[[5982.32]]going to see I think meaningful changes
+[[5987.52]]in the stack and in the in the software
+[[5992.8]]we use for it I'm too intrigued by what
+[[5995.92]]you said earlier about things you're
+[[5998.6]]working on that you know will will blow
+[[6001.56]]our minds in two three years all right I
+[[6004.2]]don't know if we're allowed to ask but
+[[6007.04]]I'll ask anyway any hints you can give
+[[6010.36]]us on some of the research directions or
+[[6013.96]]or where things are going in in your
+[[6018.04]]world I
+[[6023.0]]wish I had to I had to shamelessly uh
+[[6027.36]]you know give it a go we'll we'll we'll
+[[6030.32]]have to just reschedule you for 18
+[[6033.2]]months from now so you can uh you can
+[[6037.44]]announce it with us I promise I promise
+[[6044.12]]uh to share we can be the VCS that uh
+[[6049.96]]that then are saying wow you actually
+[[6056.52]]said you actually did exactly what
+[[6061.04]]do exactly um well you know we always
+[[6065.56]]like to end our conversations with a
+[[6068.52]]quick fire around where we get your
+[[6071.76]]thoughts on on a set of common questions
+[[6076.04]]we ask folks and so maybe to kick it off
+[[6080.16]]would love your thoughts on one thing
+[[6083.32]]that's overhyped and one thing that's
+[[6087.48]]underhyped uh in AI today it's going to
+[[6091.48]]sound nuts but I think foundational
+[[6094.88]]model models are overhyped we know
+[[6098.72]]exactly what they can and cannot do and
+[[6102.24]]I don't think we're actually making a
+[[6105.84]]lot of progress there to be honest for
+[[6111.56]]quite a long time not any qualitative
+[[6117.48]]progress I mean not any significant
+[[6121.6]]progress you know I I don't know if it's
+[[6125.88]]underhyped but I find the code
+[[6132.0]]generation and and coding assistance to
+[[6139.16]]be exceedingly useful it's one of
+[[6145.84]]probably the most uh exciting use cases
+[[6152.84]]of this technology so underhyped what's
+[[6158.24]]been the biggest surprise in building
+[[6161.52]]pine cone maybe something that you
+[[6164.68]]thought would work but didn't or
+[[6167.52]]something that you didn't think was
+[[6170.56]]going to work that that ended up working
+[[6176.76]]really well we had a at some point
+[[6182.8]]pretty early I mean not very early on
+[[6186.56]]maybe a year and a half into the
+[[6191.24]]company maybe two I might be off but
+[[6195.24]]what up a year and a half or two into
+[[6199.48]]the life of the company we had a
+[[6204.64]]complete rewrite of the entire database
+[[6209.96]]in Rust everything from like we had C
+[[6215.36]]and python go and control plan and this
+[[6219.84]]that like a million different things and
+[[6224.32]]we just we just rewrote everything in
+[[6229.36]]Rust uh because we
+[[6234.52]]figured like the kind of operational
+[[6238.68]]issues that we were running into were
+[[6241.4]]not going to be we're not going to be
+[[6244.92]]able to scale with them I thought that
+[[6249.8]]was like borderline suicide and it would
+[[6255.08]]take us six months to even like get to
+[[6259.44]]the point where we can
+[[6264.12]]even you know be on par with our
+[[6269.28]]existing system and at that point we'll
+[[6276.4]]be far behind then our CTO Ram Shara was
+[[6284.04]]you know I'm going to we're going to
+[[6288.24]]we're going to complete this turn around
+[[6293.52]]in like a month we're like no
+[[6297.2]]way and uh I was shocked it didn't take
+[[6303.08]]a month it took it took you know two
+[[6309.16]]three months but you know the result was
+[[6314.84]]so much better than than what we had
+[[6319.48]]before that again like rewrites I don't
+[[6323.6]]know if like anybody here whatever
+[[6327.88]]rewrites are always like uh
+[[6332.44]]like whatever this is like companies
+[[6336.48]]literally die because of rewrites this
+[[6341.72]]was like a huge bit uh and oftentimes
+[[6346.52]]they just give you fresh and exciting
+[[6350.04]]new problems often times worse than the
+[[6353.84]]ones you started with this was one of
+[[6358.16]]those like as advertised freites it
+[[6362.76]]actually did what we were supposed to do
+[[6367.04]]and I was just like holy [ __ ] it
+[[6371.08]]actually
+[[6376.32]]worked that's awesome um I guess besides
+[[6381.08]]pine cone what other company do you
+[[6384.88]]think would be most interesting to build
+[[6389.0]]uh AI features at right now I would
+[[6393.2]]probably go build like uh whatever join
+[[6397.88]]either research lab or high performance
+[[6402.96]]optimization like company that really
+[[6411.8]]does sort of like uh compiling for for
+[[6421.24]]these models I think the the fact that
+[[6426.52]]the execution layer and the
+[[6431.0]]training the software for training and
+[[6436.28]]execution is one and the same is sort of
+[[6440.36]]like
+[[6444.4]]insane um so I think there's there's a
+[[6449.68]]lot of fun engineering and science
+[[6454.0]]problems to be solved there when do you
+[[6458.48]]think we'll have agents that really work
+[[6463.64]]don't they work already I mean to the
+[[6468.88]]point where I can say hey AI agent book
+[[6474.6]]me a trip or U something like that it I
+[[6480.12]]don't know it seems like they sometimes
+[[6485.28]]work but sometimes not so much well I
+[[6489.4]]have human assistants that they they
+[[6493.88]]don't work all the time either yeah I'm
+[[6499.64]]not I'm not sure where you set the bar
+[[6505.44]]on on how often they need to work as
+[[6511.12]]much as like we expect from humans to
+[[6516.28]]work they're already doing a decent job
+[[6522.84]]I mean is it kind of I I will say that
+[[6529.2]]when they make a mistake it's more
+[[6534.0]]embarrassing like it's more like it's
+[[6538.24]]it's silly because it's not a mistake a
+[[6543.2]]human would make uh but I think just
+[[6548.92]]like probability of completing the task
+[[6553.16]]I think we're getting close to human
+[[6557.0]]levels awesome well I feel like there's
+[[6560.32]]a ton of threads in this conversation
+[[6562.96]]that folks will want to turn on it's
+[[6566.56]]been a fascinating discussion I'll leave
+[[6570.36]]the word to you like where can folks go
+[[6574.2]]to learn more about you about pine cone
+[[6578.32]]uh feel free to to point folks in any
+[[6582.76]]direction you want um look our website
+[[6587.96]]is always a good place to start uh
+[[6593.28]]there's plenty of material on how to
+[[6599.88]]build stuff examples docks notebooks
+[[6606.36]]like uh you know reference architectures
+[[6611.64]]Integrations with partners and so on
+[[6616.12]]yeah I mean it's always a good place to
+[[6621.8]]start I I I will you know as as a meta
+[[6628.44]]recommendation I would say don't don't
+[[6633.2]]try to learn about pine cone try to go
+[[6638.4]]build something exciting and if that
+[[6644.44]]leads you to needing pine cone great and
+[[6649.56]]if it doesn't great you still have you
+[[6653.64]]know build something else that was
+[[6658.64]]exciting nonetheless right but I think
+[[6663.6]]like going back to the kind of somewhere
+[[6667.32]]in the middle of our conversation the
+[[6672.16]]most common mode of failure is doing
+[[6679.0]]nothing uh and and you know if if you
+[[6685.16]]can overcome that you've already like
+[[6689.68]]outdone most most of the field right
+[[6692.88]]then you just have to make sure you
+[[6695.4]]don't do the cost estimate incorrectly
+[[6699.64]]right yes correctly and then if you
+[[6703.6]]think you're going to pay Pine on too
+[[6707.68]]much uh drop us a line and we'll come
+[[6711.96]]talk to
+[[6715.52]]you amazing well you know this has been
+[[6718.92]]a ton of fun seriously thank you so much
+[[6722.48]]for coming on my pleasure
+[[6727.0]]guys well Pat that was a that was a fun
+[[6732.04]]one yeah super fun he's he's a really
+[[6737.68]]interesting guest very thoughtful and
+[[6743.16]]you know he kind of has this lens at the
+[[6748.36]]infrastructure level but then they see
+[[6752.88]]so much by virtue of everyone building
+[[6756.88]]on top of pine cone so it was uh it was
+[[6761.08]]cool to to hear his perspective yeah I
+[[6764.36]]me what an interesting seat I feel like
+[[6766.8]]he really does see everything right he
+[[6769.68]]sees like the developers messing around
+[[6773.0]]with new applications he sees the really
+[[6776.2]]sophisticated Enterprises and what's
+[[6780.76]]required for them to get rag live uh I
+[[6785.44]]feel like it's a pretty cool uh cool
+[[6789.4]]position to have yeah and he's even more
+[[6793.36]]bullish on the applications and
+[[6796.88]]infrastructure which I thought was funny
+[[6800.36]]yeah I thought that was that was that
+[[6804.44]]was interesting um and I loved the uh
+[[6809.8]]the subtle JB at at VC's who you know uh
+[[6814.84]]poo pooed vetro databases and then came
+[[6818.92]]back in 2023 saying they had years of
+[[6822.56]]conviction nothing nothing we would ever
+[[6826.68]]do obviously yeah of course not us but
+[[6830.24]]you know the other
+[[6833.28]]VCS you know one thing that's just so
+[[6836.6]]interesting about the space as a whole
+[[6839.88]]is I feel like we've seen folks you know
+[[6843.84]]pitching oh we have this sophisticated
+[[6847.16]]embeddings model that works really well
+[[6849.96]]in this context or this retrieval
+[[6852.84]]approach and you know it's very clear
+[[6855.12]]that we're still in such the early
+[[6857.6]]Innings where it's just like folks are
+[[6860.6]]just trying to find ways to make things
+[[6864.04]]work the basics work and then you know
+[[6867.76]]and I mean too's Point like you really
+[[6871.16]]you just got to start building right and
+[[6874.64]]I think if you can make the basics work
+[[6878.32]]I I do wonder when we'll move to the
+[[6882.08]]chapter of maybe more sophisticated
+[[6885.8]]trade-offs and decisions around some of
+[[6889.84]]these uh you know embeddings models and
+[[6894.0]]approaches to retrieval but it certainly
+[[6897.2]]seems like you know it was interesting
+[[6901.32]]to hear him reiterate or reaffirm that
+[[6906.12]]uh that yeah the case today is basically
+[[6909.48]]just can can you get something up and
+[[6913.08]]running and uh he just you know it's
+[[6916.68]]clearly he's Blown Away by the stuff
+[[6919.28]]that that folks have been able to get up
+[[6922.96]]and running he's obviously biased given
+[[6928.16]]where he sits as the CEO of DB company
+[[6932.16]]but he
+[[6936.04]]definitely believes that more of the
+[[6940.32]]intelligence will move towards the
+[[6944.64]]retrieval and you know towards that part
+[[6949.0]]of the stack
+[[6953.44]]versus purely at the kind of generation
+[[6958.92]]and Andor model stage I loved his like
+[[6963.32]]cynicism of like what a surprise the
+[[6966.16]]people that charge per token have
+[[6970.32]]increased the context
+[[6973.28]]window you know I think he's the first
+[[6976.12]]person we' ever had on that says
+[[6979.4]]Foundation models were overhyped um you
+[[6982.8]]know I don't know if he's not a scaling
+[[6986.0]]laws believer or or or whatnot but it's
+[[6991.0]]always fun to uh to to you know to to
+[[6995.52]]get a I mean that's I think what's so
+[[6998.88]]fun about the space is there's just you
+[[7001.92]]know there's so many every time we do
+[[7004.32]]overhype under hype there's like a
+[[7007.76]]different set of things um whereas you
+[[7011.88]]know uh as you know I run a healthcare
+[[7015.08]]podcast and that space is a little bit
+[[7018.4]]more stagnant it's like every time the
+[[7021.76]]same things that are that are over and
+[[7025.68]]underhyped yeah I I liked his underhyped
+[[7031.52]]answer too of of coding assistant and
+[[7036.44]]there's obviously a ton of hype around
+[[7039.56]]them but I do think that is an
+[[7044.0]]incredible application of AI and um uh
+[[7048.76]]and one we're going to see a lot more of
+[[7052.64]]um Shout Out pool side I guess ex
+[[7055.88]]exactly always got to shout out the
+[[7058.76]]portfolio I thought it was interesting
+[[7062.76]]when he was talking about people not
+[[7068.52]]defaulting to open AI um and you know
+[[7075.0]]that is kind of the default now but he
+[[7079.72]]sees smaller models that are potentially
+[[7083.56]]cheaper doing just as well uh I thought
+[[7087.24]]I thought that was interesting um
+[[7090.56]]because I think that's that's not really
+[[7094.64]]something that we see very much where it
+[[7099.88]]kind of most people seem to start with
+[[7105.64]]open AI or you know maybe draw whatever
+[[7110.52]]and uh and then go from there totally I
+[[7113.76]]mean I think he's laser focused on the
+[[7117.72]]economics of of these use cases and you
+[[7121.72]]know if I'm being honest I think a lot
+[[7124.72]]of what we see today is still focus in
+[[7128.12]]like this exploration mode where it's
+[[7130.88]]like well what can you do with these
+[[7133.16]]models and it's like you might as well
+[[7136.4]]start with open AI because if you can't
+[[7139.56]]do it with that you're not going to be
+[[7142.88]]able to do it with with too much more uh
+[[7148.12]]maybe a smaller fune model uh but I
+[[7153.04]]think that you know it'll be interesting
+[[7156.52]]to see one thing I'm super curious to
+[[7160.08]]see is just will folks end up in this
+[[7163.48]]kind of optimization phase as they
+[[7167.0]]deploy this at SC scale probably but at
+[[7170.24]]the same time right when you're ready to
+[[7173.68]]optimize GT5 comes out or the next model
+[[7177.2]]comes out and it's like you're you're
+[[7179.92]]probably right back to just exploring
+[[7183.16]]again like what are the capabilities
+[[7186.56]]that you can do with these models and so
+[[7190.48]]I do Wonder um I'm sure we'll see plenty
+[[7194.88]]of cost optimization but uh this
+[[7199.16]]exploration phase I think is going to be
+[[7203.32]]continuous yeah he seemed a little bit
+[[7209.28]]more bearish on scale than I think some
+[[7216.4]]other folks in the ecosystem where we
+[[7222.24]]hear a lot of bigger bigger more gpus
+[[7226.0]]bigger models
+[[7231.6]]all of this and you know his take
+[[7238.96]]was it's not sustainable and the
+[[7244.28]]Pendulum may swing back towards you know
+[[7249.52]]CPUs and specialized hardware and
+[[7253.88]]potentially specialized models and
+[[7257.76]]smaller models and uh I thought I
+[[7261.76]]thought that was pretty interesting well
+[[7265.32]]Pat that was that was another fun one um
+[[7269.04]]folks should definitely stay tuned uh
+[[7272.84]]and like subscribe uh we are always
+[[7276.48]]trying to get the word out um share with
+[[7279.6]]a friend that you think might enjoy this
+[[7282.48]]and stay tuned next week for another
+[[7286.45]]great AI founder
+[[7305.09]][Music]

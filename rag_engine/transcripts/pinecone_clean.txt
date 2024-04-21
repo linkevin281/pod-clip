@@ -1,0 +1,1512 @@
+today we're joined by EO Liberty CEO and
+founder of pine cone Pine cone's a
+vector database that's raised over $130
+million most recently at a $750 million
+valuation and they've really become a
+core part of the common set of tools
+that folks use to build AI apps we hit
+on a bunch of really interesting areas
+including the vector database landscape
+and how it's evolving common barriers
+that enterprises have to building
+effective AI apps Ando also shared his
+thoughts on the infrastructure and AI
+opportunities ahead in the application
+layer as well I think folks are really
+going to enjoy this definitely stick
+around for patent my debrief here at
+unsupervised learning
+you know thanks so much for uh for
+coming on really appreciate it thank you
+guys you know you were obviously working
+on Pine Cone before this generative AI
+craze and you know the launch of chat
+GPT and what was it like for you guys
+when chat GPT came out I mean was it
+like immediately clear there's going to
+be some spike in usage or when did you
+first kind of start observing just uh
+the insanity that I imagine followed
+I'll start by saying that Vector bases I
+think are uh still vastly underutilized
+for a lot of use cases for semantic
+search for candidate generation for
+ranking for feed ranking for like
+recommendation for a million different
+things right when I started building
+Pine con this was really it was sort of
+like a well-kept secret well a
+well-known secret I should say that the
+bigger companies like Google Amazon you
+know whatever like use that
+internally for search for recommendation
+for feed ranking for anomaly detection
+and so on but then educating the market
+was fairly difficult and I would go to
+you know investors and say you know
+database and they would kind of look at
+me confused and and concerned and I'm
+sure they emailed you in in 2023 and
+they were like we believed all along
+right we've always been fans of the
+category yeah uh actually I'll tell you
+funny a funny thing that I the actual
+emails I got after that but just to make
+matters worse I had just come out of AWS
+where I I helped build a product called
+sag maker which was EML Ops thing and
+like EML Ops was like all the older age
+uh you know before you know AI kind of
+took off right so everybody thought it
+was building a like an mlops product
+right so everybody was very happy to
+meet with me and then be very
+disappointed that I'm building something
+called the vector database what is that
+like it sounds like saying right and
+then with open AI just kind of
+elevating uh the discussion to the
+broader audience like the technology
+really hasn't changed significantly to
+be honest I mean the the the for
+practitioners like nothing very deep has
+changed except for the fact that now
+there was a lot of oomph behind it a lot
+of capital and a lot of energy behind it
+so it started started being accessed by
+the non AI engineer when that started
+happening we started ramping up so
+quickly that we started really
+exhausting whole all kinds of machines
+in in gcp and AWS clouds we started like
+really spending millions of dollars a
+month on our free tier it was complete
+Insanity it was uh the entire team was
+dedicated just like spinning up more and
+more environments and just being able to
+keep up with the demand I think at our
+Peak we started having 10,000 signups
+every day uh which really pushed us to
+really think about scale and effic iy in
+a completely different way like we we
+kind of we had to go back to the drawing
+board and redesign the entire solution
+which later yielded the solution we have
+in place called now called serverless
+which is like maybe two orders of Mag
+more efficient but it kind of came out
+of just necessity we just couldn't we
+literally couldn't handle the
+load uh the funny thing is if you want
+to talk about Investors right I did have
+quite a few different investors write to
+me after like that like vector that
+basis have become like the like a true
+category in some sense we've already
+taken the lead and they say they went
+when they when they wrote to me and said
+hey you know I actually looked back at
+the notes that I took like three years
+ago and you actually said you were going
+to build
+this and I like yeah uh because that
+that's what I was going to build and
+they're like okay like we just that just
+not very common that somebody says
+they're going to build something and
+they actually build it and that's
+actually succeeds like that's just not
+very common I'm like so funny I guess
+they they'd all thought it was uh in
+mlops platform but then they they read
+they read back through their notes and
+they they realized what it was what it
+was all along exactly was there like a
+particular moment that you can remember
+that like spiked usage you know early on
+was it like immediately apparent to
+folks as they were playing around with
+gpt3 that they needed the vector
+database or was there like a tweet or
+something something or uh in the early
+days of that usage spiking I think one
+of one of the kind of moments that
+really just completely blew up there was
+this
+uh
+uh uh there was this open source like
+gadget called a auto GPT that was this
+sort of
+like super like minimalistic but sort of
+like precursor to something we would
+call an agent now and it was sort of
+like
+a a piece of nothing it was really just
+like
+a uh what I think even one python file
+or just a handful of python files with
+some like spit and gum and you know
+whatever but it it like like agents do
+it started like doing something
+potentially interesting it was open
+source and so on that thing just took
+off like
+crazy and you know
+suddenly the people's assorted
+onboarding pine cone were not systems
+engineer building AI platforms and rag
+applications and and so on they were
+like the dentist that remembers python
+from college and wants to play with AI
+right and then like things just
+completely went insane like because
+there's way more
+dentists I guess a lot of dentists that
+uh that remember their luckily enough
+that kind of like normalized again and
+the people who come today oh mostly
+Builders but for a while there it just
+completely went insane yeah it seems
+like there's a a huge breadth of
+applications that are built on top of of
+pine cone what are some of your favorite
+applications or or some of the ones that
+that really stand out to you obviously
+we're talking about notion before and um
+and it sounds like pine cone really
+shines for scale as well when people
+have kind of millions of vectors that um
+that they want to to run workloads on
+top of so Millions is actually the small
+scale today when we speak with customers
+and they have millions of vectos we say
+great
+uh you KN knock yourself out you'll be
+hard pressed to spend more than 100
+bucks a month uh like you really are
+going to have to exert energy to try to
+do that right where we truly shine is at
+the hundreds of millions the billions
+scale where companies themselves are are
+sass uh in and often times like software
+providers notion is a great example gong
+is a great example many others that
+actually they themselves develop AI Q&A
+semantic search like deep AI solutions
+for their own customers data so they
+like each one of their own customers
+might have a million documents right but
+they themselves and have 10,000
+customers and suddenly they find
+themselves needing a vabase that can
+handle 10 billion ineds maybe across a
+thousand partitions
+or 10,000 partitions and do that
+incredibly cost effectively right and
+when you try to do that especially
+nowadays where people really start
+understanding hey I'm not just playing
+in the lab I'm building a tree a true
+product so I really need to care about
+unit economics they want to figure out
+what's like what's that going to cost me
+and then we can come in and say hey
+because of our new architecture because
+we went through this insane spike a year
+and a half ago and we've re architected
+everything and now we've launched it as
+serverless we can run this multi-tenant
+workload such that one of you your cost
+for one of your paying customers on Pine
+Cone might be a dollar a year like like
+sometimes 50 cents a year right for a
+paying user right and then the unit
+economics really shine right so you you
+said you know if you have a million you
+know vector right I mean a a million
+vectors like okay if you have a million
+vectors 10,000 times you really don't
+want that to be 100 bucks each you
+really want each one of them to be 50
+cents each and then that starts making
+sense right uh and that's where we truly
+shine because then you really can can
+operate this thing at scale on the
+application side are most people running
+rag or doing semantic search or um I
+guess what types of applications do you
+see I can imagine you know the Q&A at
+notion that's kind of one and then I can
+imagine there's tons that gong is doing
+as well with with vectors and turning
+videos into vectors yeah Q&A and
+semantic search are very large
+applications very well understood chat
+Bots support Bots uh which are sort of
+like Q&A if you will uh but in special
+flavor of that uh people do uh legal
+Discovery U medical history Discovery
+and all sorts of you know analytics on
+that
+uh which again you can think about them
+as flavors of search in in some sense
+right there's a lot more that has to do
+with images and audio and video and
+anomaly detection and security which is
+starting to become like a big thing
+Pharma and Drug Discovery are you know
+we see some applications like that but
+the kind of meat and potato is really
+just the kind of text and and images and
+search and uh you know rag over that in
+some sense and by the way rag in and of
+itself is sort of like like you know
+based on semantic search it's it's like
+the the kind of the magic sauce happens
+at the ma at the semantic search layer
+not at the reformulation the year that
+makes a lot of sense and and and I guess
+obviously you know I think in the
+beginning folks have used you know
+embeddings for it feels like mostly Text
+data and there's been you know some in
+the image world but I'm wondering you
+know we've had different perspectives on
+on this podcast about you know how much
+multimodal stuff we'll see this year and
+whether you know I'm curious you
+obviously have a firsthand view to it uh
+you know are you seeing lots of folks uh
+working with image and video data and
+and do you think that we have the
+underlying tools required to for those
+use cases today or or you still expected
+to be a text dominant 2024 so look I
+mean I am unfortunately I've been in AI
+or machine learning before that or Big
+Data before that or all that you know
+for 20 years now and
+so
+uh uh I think I have a good mix of uh
+enthusiasm about the the the promise of
+tomorrow and a healthy focus on the
+problems of yesterday right uh even
+today right with the advance
+of foundational models and you know
+General Ai and all that
+stuff the average Company still finds it
+hard to even like train any deep
+learning model at all yeah like anything
+like a million parameter not a billion
+not 10 billion not General AI nothing
+like any model same goes to search and
+and so on so you know I think we need to
+be
+very
+uh kind of realistic about what is
+possible right by the Trailblazers the
+research labs and the technology leaders
+and what is an actual technology that
+companies actually use right and those
+could be five years apart sometimes
+right so can we already see amazing
+things with multimodal for sure right do
+I think multimodal is going to head the
+kind of mainstream technology developer
+in the next year or two unlikely yeah I
+mean I think it's interesting because
+you you are working hand inand with
+these companies that are uh deploying in
+many times their their first generative
+AI products and so I imagine you do see
+these barriers or or the places where
+folks fall down and being able to do
+that like what do you feel like the
+biggest barriers today in terms of
+getting you know these training these
+models and getting them into production
+for some of the classic use cases that
+we're seeing around you know support or
+or search or others I mean one of the
+biggest ones is hallucinations right
+they're just they're not trustworthy
+right they just
+don't whatever they they're compelled
+they're large language models they're
+designed to generate language right uh
+and when you are compelled to write a
+page of text on something you know
+nothing
+about you will write a page of text uh
+and that will contain stuff
+you know Pat and I do that all the time
+I was going to say yeah we've all been
+in like sixth grade
+and I remember that experience very well
+like cold sweat I'm like [ __ ] um that's
+the mode we put these llms in right uh
+and so like and then we're so sort of
+like surprised that what comes out is is
+nonsense right I think that's a huge
+problem and I think that's something
+that we as a technology would have to a
+society I mean not we Pine con I mean we
+the world have to Grapple with and
+really bring really good solutions to I
+think it will start with AI startups and
+technology companies that build on Pine
+Cone build on models and so on that have
+already know how to work with those
+Technologies building great vertical
+solutions for support for medical
+history for legal Discovery for you know
+you name it like that's a very long list
+of applications right right and then I
+think two three years down the line you
+would see maturity in the broader Market
+where now like every large company would
+use some of those tools but would also
+use Vector bases and models and you know
+visibility and like a bunch of other AI
+specific Technologies kind of natively
+for for the own development where this
+has
+become so commonplace so well understood
+so Ironclad and so well like ingrained
+in the developer culture that just
+people whatever there's just enough
+there that people just know how to use
+it well I feel like hallucinations come
+up time and time again I guess have have
+you seen what what do you feel like the
+best way to you know for for folks
+listening they they're also trying to
+figure this out what are what are some
+of the best things you're seeing in
+terms of ways to get around this there
+are a few different really important
+efforts on this front first of all we we
+are only now starting to truly be able
+to even measure hallucinations
+right to even know like you can for
+example you can design a model I can
+write a model uh that never hallucinates
+by just always saying I don't know
+right right that's not hallucinating
+right it's also completely useless but
+it it never makes a mistake and you know
+whatever like it never miss steps right
+uh okay is this worthwhile like should
+we should we uh celebrate that outcome I
+don't think so right okay so you really
+want to measure kind of usefulness and
+correctness and faithfulness to the data
+that you were trained on or the data
+that you have in a vual database to do
+ragon and so on so the just these
+measures of even what is good is is is
+already like a very complicated question
+and I think that there is a uh a another
+huge effort that has to do with frankly
+with Rag and with Vector databases and
+with knowledge layers and capacities and
+people grappling with okay how do I now
+make my data available to the model in a
+way that's secure that is well
+understood that is data governed that
+you know I can maybe delete stuff that I
+whatever like I was gdpr told me that I
+have to delete and somehow I need to
+know for a fact it's not somehow a part
+of model anymore and so on um there's a
+lot of work there and that's you know a
+topic we actually made a lot of progress
+on already so by we again I mean not
+only pine cone but this like Community
+like starts to have pretty good
+solutions for super cool it seems like a
+Hacker News Post in the making an llm
+that will never hallucinate just respond
+with I don't know every single time
+uh like creatively avoid the question
+exactly but we know like we know I mean
+jokes aside we we already today can load
+all of whatever like a oh but a good
+chunk of the
+internet uh into pine cone as as an
+index and basically R run like a
+language model next to it with you know
+not incredibly sophisticated Rag and
+already outperform gp4 like today it's
+we've already ran experiments like this
+so like I I think there's something
+there and I think we're we're going to
+see some significant progress there both
+on sort of like consumer facing products
+and like B2B products vectors are the
+language of AI U or kind of what AI
+speaks and there's this land grab to
+store them everyone wants to store the
+vectors and because of that there's kind
+of been this explosion I mean you would
+know this better than than us but
+there's been this explosion of startups
+uh that are going after storing vectors
+but then also incumbents and folks like
+[ __ ] that are adding support for
+vectors so how do you think about the
+landscape of you know the startups that
+are kind of vying to to store some of
+these workloads and then the incumbents
+as well don't get me started about [ __ ]
+it's a company that freaking heard the
+word AI for the first time a year ago
+and suddenly they're like experts so I
+mean
+don't whatever like storing vectors I
+think is exactly what's happening and I
+think you define it perfectly right
+people understand that now this is a
+data type right next to my sentences or
+my images I'm going to store a semantic
+representation of that object that came
+out of some embedding model right and
+that thing is a float array right it's
+whatever like a thousand floats right
+and if your infrastructure be it like a
+non- AI technology say that rhymes with
+Bongo uh
+you know you need to put that array of
+numbers somewhere and so they have to
+have that as a type really and that's
+basically what's happening there right
+and so you know whatever you there's
+some work that has to be done to do that
+that doesn't make your database natively
+be able to query those things and work
+with that data type at all right what
+people don't understand about Vector
+bases and why they're so unique is that
+that
+that numeric array becomes in some sense
+the key some conceptual way that is the
+primary lookup that is the way you
+organize data on blob storage that's how
+you load segments that's how you you
+know search through the your Universe by
+the way that's how your own brain does
+it right I mean this is an incredibly
+unique and optimized stack that if you
+you know try to somehow bolt on this
+like data type and like pretend that
+it's now a vector database you're going
+to get incredibly poor performance and
+and flank run into like serious issues
+now I mean I think it's it's really
+interesting because um you know I feel
+like obviously yeah a lot of a lot of
+other folks have um have come into the
+space and I think generally there's been
+this question of like you know what's
+the what's the rag stack end up being
+and I feel like you guys get thrown
+around all the time as as a key part of
+that and I'm wondering like if you uh
+you know if you had to go to a company
+today uh and build a rag product like
+what would be your stack besides pine
+cone of course that's interesting I I I
+frankly I think a lot of people default
+to open
+a uh I I wouldn't we actually see really
+good performance out of smaller
+cheaper uh somehow easier to manage
+sometime open source models the there is
+no reason to spend a ton of money on
+that there
+is sort of like like an ml etling part
+of it has to do with bulk
+Transformations and movement of data and
+so on we've really started enjoying any
+scales product and we really like start
+partnering with them closer and we're
+really enjoying their
+stack uh we work with h forel and others
+on kind of uh launching applications and
+and you know building the the you know
+kind of app
+layer uh you know we partner pretty
+closely with coher and AI 21 and and uh
+you know we're put you know others like
+hugging face and others like we're all
+whatever they're all in the mix we see I
+think a good combination of of those
+models both for embedding and for uh
+ranking and summarization and so on I
+really don't have a good vendor for or a
+good technology for evaluation yet that
+I'm you know I'm going to some people
+people are going to write back to me
+that they're angry that I didn't name
+them but uh I think
+that uh uh that'd be very interesting to
+for a a leader to emerge in in that
+stack I think it's it's it's very
+interesting and it's very hard to do
+right and and then as you think about
+kind of like Pine cone's footprint I
+mean obviously I imagine a key part of
+of getting pine cone to work in an
+Enterprise just having the data ready to
+to be put into a vector database right
+and I imagine there's all sorts of you
+know we've obviously met companies that
+are that are focused on that and then
+there's you know the metadata you apply
+to it obviously then the retrieval
+methods you use to to uh to uh take it
+from a vector database like how do you
+think about ultimately like the
+footprint you want to have versus you're
+like I would love I would love there to
+be a best-in-class vendor that's that's
+great at the ETL side and and never have
+to touch that yeah so um you're right I
+mean I and by why I apologize to the the
+the audience I'm like a I'm like a
+infrastructure guy so I I kind of look
+at the raw machines and like very basic
+infrastructure a lot of
+companies that uh are stepping into the
+embedding generation and data generation
+into V datab bases that're actually
+doing really well right uh unstructured
+uh comes to mind but that is becomes a
+viable option like very soon and for
+especially for specific channels right
+so if you have a a fixed
+so if you have a common data Channel say
+you import your data say with five Tran
+from Snowflake and now you have that
+data in a in a table that has a
+unified structure because whatever
+because it's the same table that every
+five Trend customer would have then
+there are companies who would take that
+and and transform it and fit it into a
+vector base so you can rag over your you
+know say you know Salesforce you know
+notes on customers and so on right uh
+and so if people if you understand that
+the data source that you have is like
+standard then it's very likely you will
+find somebody who will have already buil
+that pipeline be very happy to sell it
+to you and you were talking about how uh
+how effective some of the smaller models
+can be relative to an open AI yeah how
+much intelligence do you think will
+happen at the vector DB retrieval step
+versus at the generation step it sounds
+like you know maybe over time people are
+you know they want to run on on their
+own data and and um you know maybe you
+guys are seeing good results with with
+that as well like I'll give an economics
+answer to this right the Market's going
+to have to find like the stable point
+where there's a good tradeoff
+between cost compute and infrastructure
+that you're willing to run and the
+quality of the output right we're
+already at the point where making models
+bigger on gpus is not reasonable you can
+run an experiment you know you can flex
+and say I have you know whatever 100
+billion parameter model and it's
+whatever it's like does XYZ but whatever
+you're not going to run a 100 billion
+parameter model for every API call on
+your platform that's you're going to
+just it's just you're going to go
+bankrupt right and you're going to make
+the planet hotter so like that that's
+not going to work long term and so
+people really have to find better
+Solutions right again what we see is
+that with those model
+models uh if you do things right
+sometimes the the results could even get
+better and if they're even if they're
+not better they're not noticeably worse
+and you might be operating on like you
+know cents on the dollar uh in terms of
+operating costs right so yeah um I have
+no doubt that we would move there that
+doesn't mean the arms raised to whatever
+like bigger better models not going to
+exist I just don't think that's what the
+Market's G to operate with the kind of
+the most of the Market's going to
+operate with it is interesting it feels
+like as these context windows were
+getting longer you know these last few
+months people were like oh well you know
+is is there a future for rag you just
+stuff you know everything you'd want and
+in impr prompt but I mean I'm curious
+your thoughts on that it seems like from
+a cost perspective obviously uh that
+that you know if you're charging per
+token that that can get pricey quickly
+yeah I mean I I think the fact that
+model companies allow you to bring in a
+bigger and a bigger context I mean I
+think this is the least surprising thing
+in the world that's their pricing model
+right what like shockingly enough
+they're willing for you to pay them more
+what what a what a you know what a
+shocker there multiple problems with not
+only is it slow and expensive it doesn't
+actually help more often than not right
+and uh and finally it just runs out of
+steam right you can say Hey you know
+whatever like write me a job description
+and here is an example job description
+to go off of great that's great for a
+context window right if like here like
+10 job descriptions to go off of okay
+that also works he a million job
+descriptions to go off of like okay
+that's not going to work right or
+whatever like write something and then
+get information from the web or get
+information from all of my documentation
+ever right uh that just doesn't work I
+mean just think about that like sending
+all your company data to open
+AI on every query like that clearly is
+not the right thing
+totally I mean it makes it makes all the
+more sense as you focus on these perfect
+uses for pinec con that are hundreds of
+millions of vectors it's like those are
+exactly the ones that you know would
+would never make any sense to stuff in a
+context window yeah but but even even
+even at the small scale I again I'm you
+know I want to paint the extreme because
+like that's where it becomes like almost
+like faral like obviously impossible
+right but even when you can create like
+a whatever put a 100,000 tokens in a in
+in a context
+window I mean putting those documents in
+a vector database you might be able to
+send instead of 100,000 you''ll be able
+to send
+10,000 and that' be just as good if not
+better whatever 3,000 and you'd be
+paying whatever like 10% and not lose
+any performance so why not right and so
+again even small cases where the context
+engine is theoretically workable even
+then it's very rarely that right the
+best solution in terms of cost and
+performance totally and I guess just
+generally as you think about how folks
+are using pine cone today does it feel
+like there's you know folks relatively
+standardized around the embeddings
+models they use or retrieval methods or
+one thing I'm always curious about is
+whether you know uh it feels like at in
+the limit there will be you know
+different retrieval methods for
+different use cases and different
+embedding models that are particularly
+good for you know uh different
+Industries and uh it's hard to tell from
+the outside how much of that is
+happening today versus like hey let's
+just try and get this thing to work you
+know know and and use uh but I'm curious
+what you're seeing frankly most
+companies are trying to get this to work
+right very few companies have done it
+long enough and have like really gotten
+the experience with it that they really
+start to now iterate over the embedding
+models and the retrieval and the
+reranking and the filtering and like
+really get very deep in the application
+stack and and figure out how to build
+this and uh I think we're getting there
+it's a part of the maturity in the
+market like and the same way that any
+search recommendation stack is it's not
+just the retrieval there's like a lot
+that goes before it and a lot that goes
+after it uh to really get the results
+that you need and this is one of the
+main discussions that I have with larger
+companies that I work with that you know
+I tell them hey you know this is going
+to be able to do amazing things but it's
+not Magic I mean it's not you're not
+going to just hook it up and
+everything's going to be perfect this is
+you know this is work you know we're
+going to have scientists and Engineers
+work on this thing for multiple quarters
+and we're going to learn and iterate and
+improve and add stuff and remove stuff
+and we'll get there eventually we'll be
+able to do Q&A incredibly well and you
+know chat support and legal Discovery
+and all that stuff it is possible
+because we've been building these things
+for years now and we know it's possible
+we also know it's
+not trivial like and every use case is
+slightly different and every application
+has different preferences and different
+Comfort zones on the ratio between speed
+and cost and accuracy and and format and
+length of the input and the output and
+like freshness of the data and like you
+you name it there you just really have
+to build up a whole solution around it
+and that takes time and I imagine you
+know one thing that must be interesting
+for you as a business is and I've heard
+this from other folks that selli tools
+and Enterprises is you kind of land in
+and I'm sure they're like oh this is
+amazing we have you know EO and this
+awesome pine cone team like build out
+our Q&A you know product for us or
+something and and you know they're so
+excited to have you there and obviously
+you know I think at at scale you you you
+certainly want to be empowering the
+developers in these companies to you
+know uh to to build these things and to
+tweak things themselves like how have
+you thought about you know where you're
+just hey it's the early days of the
+space like we might as well just come in
+and help them tune the knobs and and
+make this implementation work uh versus
+you know hey we really want to um we're
+kind of about to be a little more
+religious about them just you know being
+playing around with with the different
+things Pine has to offer so for uh the
+first three years of the company's
+existence uh my uh board was uh very
+unhappy with me because we were almost
+religiously not doing that like we would
+get questions and we would whatever
+everything that we
+stood was needed we either documented
+very clearly that we don't do or we made
+it very very easy or maybe completely
+transparent uh and pine con just
+completely something you don't have to
+do at all or something that we don't do
+at all like either we take care of it
+100% or we do zero% of it right and then
+we were very explicit about that right
+we had to often times have very
+uncomfortable conversations with
+potentially large customers that need
+help with XYZ and we know how to do XYZ
+and we tell them no we can't help you
+because we're really busy building a
+Victor database but that
+really panned out in the growth phase of
+the company where you you really started
+having literally thousands of customers
+who not only don't like seek our help
+they're not willing to meet with
+us they're like they're just happy and
+successful and they don't want to waste
+their time it's like hey this [ __ ] works
+I don't I have better things to do I
+don't need to talk to you guys I'm like
+okay and so my sales team is agonizing
+about like hey like this is whatever we
+need to speak with them we don't know
+who they are I'm like I don't know but
+they don't want to talk to us what do
+you want to do for the folks that like
+you know maybe are not talking to you
+and and can't get it to work like is
+there one like thing you wish that
+people tried more like oh if only you
+would like use a different embeddings
+model or I don't know whatever it is
+like is there one kind of common failure
+mode you see for people are that are
+trying this and can't get it to work
+yeah
+so I will say that as a company also
+we've we've grown and evolved then
+companies that do want to help do want
+our help we engage with them we we're
+not like a Professional Services team
+right we won't go and build a whole
+solution but we're very very happy to
+help and and uh consult people on their
+journey and we've started doing that a
+lot more now that we have more capacity
+obviously in a team um
+um I think what people really get wrong
+is is cost estimations right I mean this
+is one of those things that just you
+know people come to me and like oh we
+did the napkin math and like we would
+pay you know $50,000 a month to Pine
+Cone and that doesn't make sense to us
+I'm like how did you compute that and
+then they would tell you and you're like
+oh my God like you know you just kind of
+like just walk them through the the cost
+calculators like 500 bucks a month I'm
+like oh okay like great I'm really I'm
+I'm really happy we had this
+conversation right so yeah designing
+their AI
+solution even if it's it could like seem
+like a small change but that might make
+a huge difference in the cost of the
+infrastructure and latencies and
+freshness and a bunch of other stuff so
+we're very happy to help with that
+people get that wrong on a regular basis
+and for me again as a technologist if
+you use the wrong embedding models sure
+your results might be slightly worse
+slightly better you can fix that if you
+calculated the costs and you now don't
+embark on the journey because you
+figured it was going to be too expensive
+and that calculation was wrong you've
+just like you're not even building
+something that you should be
+building uh and that for me is a is a
+kind of sort of more final failure mode
+which is much more painful and frankly
+annoying because I you know I hear about
+some of those things in hindsight well
+some really large customer would say oh
+we thought about you guys but then uh
+like we figured we can't run this
+project and then you're like W uh on the
+cost side one thing that we see across a
+lot of our infrastructure companies is
+they ship an improvement that makes the
+database or whatever it is is much more
+efficient and then people actually end
+up storing less or there's less compute
+um or it cost customers less my guess is
+with the serverless announcement that
+customers could potentially be paying
+you less than they otherwise would have
+because you know they're now it's a
+totally serverless model like was that
+something uh what was it like shipping
+that change and um you know ultimately
+um the best thing for your customers but
+uh potentially at the expense of some
+short-term Revenue like how did how did
+you think about um kind of moving to the
+the serverless model no it's it's very
+painful for us as a company and like for
+Founders listening this is it's it's a
+hard transition and you know for
+investors to see your Revenue kind of go
+up into the right in exactly the right
+exponent and suddenly that thing
+starting to flatten out and you tell
+them hey look at workloads actually grow
+faster now right but revenue is impacted
+by the fact that our product is so much
+cheaper now right um that is a
+complicated discussion and that like you
+know investors don't necessarily love to
+see that and even though they sort of
+like uh they understand it uh uh of
+course they can rationalize it but they
+still emotionally react badly to
+it right uh my advice to Founders
+is that kind of transition is much
+easier done earlier than later uh and so
+you should really move and do that as
+fast as you can and take the hit as soon
+as possible right um you know uh for
+us we think we're leaving on the table
+more than half of our revenue for some
+of the customers is going to be uh 70 80
+90% uh reduction in cost for extreme
+cases in Pharma and others where the
+workload is like super super super uh
+like storage heavy this could be as as
+little L one or two% of the spend like
+we have companies they used to pay us
+100K they now pay us $2,000 a month a
+year sorry it's like literally almost
+nothing right uh so they're very happy I
+mean un investors are not very happy
+about that but uh at the end of the day
+it's
+uh it's it's it's the right thing for
+the customer and it's the right thing
+for people
+Building Solutions on top of our
+platform and so if we can fit
+really nicely into their own cost
+structure of their own products we're
+not going to be a part of the stack
+right and you know when I think about
+the trajectory of the
+AI
+stack we're really in the very first of
+that like every
+sign shows that the adoption curve is
+such that like we're very early adopters
+you know um you know
+Trailblazers just getting to production
+and so on at the end of the day like
+almost every company is going to have a
+vector base doing something either small
+or medium or
+large uh we're not there yet and so you
+know if that's where we aim if we need
+to fit snuggly into that cost structure
+for like tens of thousands of or
+hundreds of thousands of different
+workloads we just have to do that even
+you you know that there a lot of you
+know pain uh in the medium term well
+yeah one thing you know I I was struck
+by as he he were kind of talking about
+how we're in the early days of you know
+AI infrastructure um you know a question
+that every investor always and and folks
+in the ecosystem are always asking is
+what are kind of net new categories for
+startups versus you know natural places
+for comments to build product obviously
+it seems like Factor databases have been
+one of the space where there's been a
+lot of net new companies you know
+yourselves at the Forefront as you look
+at the other parts of AI infrastructure
+like what parts do you think make sense
+for new players what parts are like the
+existing infrastructure players going to
+provide well uh Curious how you think
+about that you know frankly I much more
+excited about the application and the
+the the solution space more than
+the uh infrastructure layer right I mean
+for new companies right this is uh
+um in infrastructure there's a win or
+take all
+uh
+uh you know
+phenomenon that clearly works great for
+us but but that also just means that the
+you know the the uh where just the space
+for for new companies is is very limited
+right on the solution and application
+side I think there is so much energy and
+so much excitement and so many
+different uh problems that can be solved
+in Creative new ways
+now that uh I frankly think
+every you know every digital native
+has uh whatever like 20 different
+startups that like say now oh like we
+are the new blah with AI right and uh
+now they you know so you have 20
+startups trying to uh usurp uh some some
+some long-term player and you have that
+long-term player trying to reassert
+themselves as an AI uh Native
+solution uh and at the same time you
+have Enterprises both buying those
+Technologies and learning how to use
+them uh and so this it becomes like this
+conveyor belt of innovation from Tiny
+startups all the way down up to
+Enterprises uh that is just teaming with
+with Innovation and and great ideas and
+a ton of value so I I you know again I
+literally see hundreds of customers
+hundreds of like
+companies a week that that work with us
+and so on and like each and every one of
+them does something unique and
+interesting and you're like holy [ __ ]
+there's yet another application wow
+there's more Val this I didn't think
+about this okay amazing that's I guess
+so wow what a fun kit right I mean I I
+know you're an infrastructure guy but if
+you uh if if you couldn't do ponco and
+and had and were instead building an AI
+application what would you build it's G
+to sound uh weird to you but I I just
+really love uh communication like like
+uh email and slack and Twitter and like
+I just love that kind of
+data you know meetings re like
+transcriptions and like conversations
+and uh so there's something about human
+communication written or spoken that
+is uh I feel like just fascinating and
+and and there's like a ton of knowledge
+to be extracted it's all like super
+Missy and exciting and complicated and
+and very rich
+and you know it will be something like
+that whether it's medical records or
+emails or jira tickets or what have you
+like it would be something like that I
+thought you were going to say something
+around surfing but uh Communications
+make sense too I wish I wish there was
+like some yeah this I thought we were
+limiting the scope to Ser to uh tech
+companies if it was probably harder to
+build a really strong software business
+in
+surfing I was like Wonder I was imag
+like embeding surfing videos or
+something you know for technique
+coaching yeah could have a tech company
+where I uh surf every day and then
+pretend to have worked
+uh on something techology there's
+actually just an AI That's running the
+whole time you're surfing there's an
+agent that's doing all the work exactly
+this is like my software company in the
+Mal Dives on yeah I'm I'm honestly
+convinced with some of Pat's
+hallucinations that's what's happening
+on uh on his end
+I I guess you know also I mean you
+obviously were were're previous lit to
+you know interesting places I mean
+curious like your reflection on on maybe
+we'll go back to the most recent one in
+Amazon like how do you kind of think
+they're positioned right now what would
+you be building if you were still there
+uh obviously you did a lot of the
+sagemaker work um any any Reflections on
+that sure I you know I I look I mean
+different companies just need to what
+have the benefits and also like the
+restriction of needing to focus on
+different parts of the stack right uh
+when you run at AWS scale if your
+product doesn't bring in hundreds of
+millions of dollars a year uh it's a
+failed product it doesn't actually move
+the needle at all right startups operate
+in a different mode and so on and you
+know your horizon for Innovation and
+your appetite for risk is different and
+so on so you know I don't know that
+Amazon Frank L Google or Microsoft are
+even working on the things that you know
+we're working on uh I can tell you that
+we are laser focused on stuff that we
+know for a fact is going to be a part of
+the stack and a part of the
+solution uh and is realistically going
+to hit the market in at least you know a
+year and a half or two from now because
+it's that early right in the same way
+that you know five years ago we people
+know didn't know what the hell we were
+saying when we said Victor dat bases you
+know we are now already working on the
+stuff that's going to hit the market in
+two or three years from now so that
+that's that's that's the most exciting
+thing for me to be honest I me this is
+where like the really cool stuff is uh
+kind of happens behind the scenes yeah
+one thing that I think is interesting
+especially around you know how company
+how far in advance companies and
+infrastructure companies like you guys
+need to plan is you know being able to
+skate to where the puck Puck is going
+and you know kind of predict the future
+in in some extent especially in a market
+that is moving so fast where
+infrastructure is changing really really
+quickly and context windows are changing
+what the models can do are changing Are
+there specific kind of Technologies or
+architectures or or maybe even companies
+that you're watching and you're like
+okay that is going to be a really big
+thing in one year or in two years um or
+anything like that that's on your radar
+I think there's going to be a
+significant ific an shift in the kinds
+of Hardware that we use right what is
+happening now with gpus I think
+is not sustainable and it might still go
+up before it goes down but I don't think
+this
+is uh what AI will look like going
+forward right so that's that's on on
+Hardware we're going to have to see some
+something change there um and do you
+think that means more CPU workloads or
+people adapting models to run on CPUs or
+or maybe it's something else it's um
+it's going to be CPUs and gpus and maybe
+specialized uh you know spec servers
+that are really optimize for either
+training or surveying or maybe
+distributed infrastructure for that you
+know I'm I'm sure Vector that Bas is are
+going to pay a play a part in that but
+it's it's not it's not even I'm not even
+suggesting that right now it's really
+just there has to be a change just like
+microeconomic just doesn't make sense
+what's happening now in terms of data
+pipelines and and kind of data
+management and and so on again
+something's going to have to change it's
+it's the tools that we
+had 5 10 years ago just don't cut it
+anymore uh and both the operational
+headache and the actual costs and the
+time they have to wait and so on are
+just not reasonable something's going to
+have to change there
+um and again finally I I think we're
+going to have to start seeing those
+moderating systems where they even if
+you don't own the model or whatever like
+you have to somehow be able to have some
+kind of governance and and visibility
+and ability to control what's happening
+with your stack that today runs open
+loop for for most companies so we're
+going to see I think meaningful changes
+in the stack and in the in the software
+we use for it I'm too intrigued by what
+you said earlier about things you're
+working on that you know will will blow
+our minds in two three years all right I
+don't know if we're allowed to ask but
+I'll ask anyway any hints you can give
+us on some of the research directions or
+or where things are going in in your
+world I
+wish I had to I had to shamelessly uh
+you know give it a go we'll we'll we'll
+have to just reschedule you for 18
+months from now so you can uh you can
+announce it with us I promise I promise
+uh to share we can be the VCS that uh
+that then are saying wow you actually
+said you actually did exactly what
+do exactly um well you know we always
+like to end our conversations with a
+quick fire around where we get your
+thoughts on on a set of common questions
+we ask folks and so maybe to kick it off
+would love your thoughts on one thing
+that's overhyped and one thing that's
+underhyped uh in AI today it's going to
+sound nuts but I think foundational
+model models are overhyped we know
+exactly what they can and cannot do and
+I don't think we're actually making a
+lot of progress there to be honest for
+quite a long time not any qualitative
+progress I mean not any significant
+progress you know I I don't know if it's
+underhyped but I find the code
+generation and and coding assistance to
+be exceedingly useful it's one of
+probably the most uh exciting use cases
+of this technology so underhyped what's
+been the biggest surprise in building
+pine cone maybe something that you
+thought would work but didn't or
+something that you didn't think was
+going to work that that ended up working
+really well we had a at some point
+pretty early I mean not very early on
+maybe a year and a half into the
+company maybe two I might be off but
+what up a year and a half or two into
+the life of the company we had a
+complete rewrite of the entire database
+in Rust everything from like we had C
+and python go and control plan and this
+that like a million different things and
+we just we just rewrote everything in
+Rust uh because we
+figured like the kind of operational
+issues that we were running into were
+not going to be we're not going to be
+able to scale with them I thought that
+was like borderline suicide and it would
+take us six months to even like get to
+the point where we can
+even you know be on par with our
+existing system and at that point we'll
+be far behind then our CTO Ram Shara was
+you know I'm going to we're going to
+we're going to complete this turn around
+in like a month we're like no
+way and uh I was shocked it didn't take
+a month it took it took you know two
+three months but you know the result was
+so much better than than what we had
+before that again like rewrites I don't
+know if like anybody here whatever
+rewrites are always like uh
+like whatever this is like companies
+literally die because of rewrites this
+was like a huge bit uh and oftentimes
+they just give you fresh and exciting
+new problems often times worse than the
+ones you started with this was one of
+those like as advertised freites it
+actually did what we were supposed to do
+and I was just like holy [ __ ] it
+actually
+worked that's awesome um I guess besides
+pine cone what other company do you
+think would be most interesting to build
+uh AI features at right now I would
+probably go build like uh whatever join
+either research lab or high performance
+optimization like company that really
+does sort of like uh compiling for for
+these models I think the the fact that
+the execution layer and the
+training the software for training and
+execution is one and the same is sort of
+like
+insane um so I think there's there's a
+lot of fun engineering and science
+problems to be solved there when do you
+think we'll have agents that really work
+don't they work already I mean to the
+point where I can say hey AI agent book
+me a trip or U something like that it I
+don't know it seems like they sometimes
+work but sometimes not so much well I
+have human assistants that they they
+don't work all the time either yeah I'm
+not I'm not sure where you set the bar
+on on how often they need to work as
+much as like we expect from humans to
+work they're already doing a decent job
+I mean is it kind of I I will say that
+when they make a mistake it's more
+embarrassing like it's more like it's
+it's silly because it's not a mistake a
+human would make uh but I think just
+like probability of completing the task
+I think we're getting close to human
+levels awesome well I feel like there's
+a ton of threads in this conversation
+that folks will want to turn on it's
+been a fascinating discussion I'll leave
+the word to you like where can folks go
+to learn more about you about pine cone
+uh feel free to to point folks in any
+direction you want um look our website
+is always a good place to start uh
+there's plenty of material on how to
+build stuff examples docks notebooks
+like uh you know reference architectures
+Integrations with partners and so on
+yeah I mean it's always a good place to
+start I I I will you know as as a meta
+recommendation I would say don't don't
+try to learn about pine cone try to go
+build something exciting and if that
+leads you to needing pine cone great and
+if it doesn't great you still have you
+know build something else that was
+exciting nonetheless right but I think
+like going back to the kind of somewhere
+in the middle of our conversation the
+most common mode of failure is doing
+nothing uh and and you know if if you
+can overcome that you've already like
+outdone most most of the field right
+then you just have to make sure you
+don't do the cost estimate incorrectly
+right yes correctly and then if you
+think you're going to pay Pine on too
+much uh drop us a line and we'll come
+talk to
+you amazing well you know this has been
+a ton of fun seriously thank you so much
+for coming on my pleasure
+guys well Pat that was a that was a fun
+one yeah super fun he's he's a really
+interesting guest very thoughtful and
+you know he kind of has this lens at the
+infrastructure level but then they see
+so much by virtue of everyone building
+on top of pine cone so it was uh it was
+cool to to hear his perspective yeah I
+me what an interesting seat I feel like
+he really does see everything right he
+sees like the developers messing around
+with new applications he sees the really
+sophisticated Enterprises and what's
+required for them to get rag live uh I
+feel like it's a pretty cool uh cool
+position to have yeah and he's even more
+bullish on the applications and
+infrastructure which I thought was funny
+yeah I thought that was that was that
+was interesting um and I loved the uh
+the subtle JB at at VC's who you know uh
+poo pooed vetro databases and then came
+back in 2023 saying they had years of
+conviction nothing nothing we would ever
+do obviously yeah of course not us but
+you know the other
+VCS you know one thing that's just so
+interesting about the space as a whole
+is I feel like we've seen folks you know
+pitching oh we have this sophisticated
+embeddings model that works really well
+in this context or this retrieval
+approach and you know it's very clear
+that we're still in such the early
+Innings where it's just like folks are
+just trying to find ways to make things
+work the basics work and then you know
+and I mean too's Point like you really
+you just got to start building right and
+I think if you can make the basics work
+I I do wonder when we'll move to the
+chapter of maybe more sophisticated
+trade-offs and decisions around some of
+these uh you know embeddings models and
+approaches to retrieval but it certainly
+seems like you know it was interesting
+to hear him reiterate or reaffirm that
+uh that yeah the case today is basically
+just can can you get something up and
+running and uh he just you know it's
+clearly he's Blown Away by the stuff
+that that folks have been able to get up
+and running he's obviously biased given
+where he sits as the CEO of DB company
+but he
+definitely believes that more of the
+intelligence will move towards the
+retrieval and you know towards that part
+of the stack
+versus purely at the kind of generation
+and Andor model stage I loved his like
+cynicism of like what a surprise the
+people that charge per token have
+increased the context
+window you know I think he's the first
+person we' ever had on that says
+Foundation models were overhyped um you
+know I don't know if he's not a scaling
+laws believer or or or whatnot but it's
+always fun to uh to to you know to to
+get a I mean that's I think what's so
+fun about the space is there's just you
+know there's so many every time we do
+overhype under hype there's like a
+different set of things um whereas you
+know uh as you know I run a healthcare
+podcast and that space is a little bit
+more stagnant it's like every time the
+same things that are that are over and
+underhyped yeah I I liked his underhyped
+answer too of of coding assistant and
+there's obviously a ton of hype around
+them but I do think that is an
+incredible application of AI and um uh
+and one we're going to see a lot more of
+um Shout Out pool side I guess ex
+exactly always got to shout out the
+portfolio I thought it was interesting
+when he was talking about people not
+defaulting to open AI um and you know
+that is kind of the default now but he
+sees smaller models that are potentially
+cheaper doing just as well uh I thought
+I thought that was interesting um
+because I think that's that's not really
+something that we see very much where it
+kind of most people seem to start with
+open AI or you know maybe draw whatever
+and uh and then go from there totally I
+mean I think he's laser focused on the
+economics of of these use cases and you
+know if I'm being honest I think a lot
+of what we see today is still focus in
+like this exploration mode where it's
+like well what can you do with these
+models and it's like you might as well
+start with open AI because if you can't
+do it with that you're not going to be
+able to do it with with too much more uh
+maybe a smaller fune model uh but I
+think that you know it'll be interesting
+to see one thing I'm super curious to
+see is just will folks end up in this
+kind of optimization phase as they
+deploy this at SC scale probably but at
+the same time right when you're ready to
+optimize GT5 comes out or the next model
+comes out and it's like you're you're
+probably right back to just exploring
+again like what are the capabilities
+that you can do with these models and so
+I do Wonder um I'm sure we'll see plenty
+of cost optimization but uh this
+exploration phase I think is going to be
+continuous yeah he seemed a little bit
+more bearish on scale than I think some
+other folks in the ecosystem where we
+hear a lot of bigger bigger more gpus
+bigger models
+all of this and you know his take
+was it's not sustainable and the
+Pendulum may swing back towards you know
+CPUs and specialized hardware and
+potentially specialized models and
+smaller models and uh I thought I
+thought that was pretty interesting well
+Pat that was that was another fun one um
+folks should definitely stay tuned uh
+and like subscribe uh we are always
+trying to get the word out um share with
+a friend that you think might enjoy this
+and stay tuned next week for another
+great AI founder
+[Music]

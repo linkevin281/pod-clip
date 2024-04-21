@@ -1,0 +1,1086 @@
+[[0]][Music]
+[[3.13]]hi listeners welcome to no priers today
+[[7.81]]we have Ivan Z co-founder and CEO of
+[[12.45]]notion the Beloved productivity
+[[16.69]]application for notes tasks and
+[[21.25]]knowledge base they recently launched an
+[[26.57]]AI Q&A interface as well as a calendar
+[[31.25]]application we're super excited to have
+[[35.57]]Ian thanks for being here again Ivan uh
+[[40.17]]we are going to start with the hardest
+[[44.65]]question which is what is notion Notions
+[[48.77]]always pretty hard to Define because can
+[[52.65]]do so many different things um but
+[[56.41]]that's also our goal we want to give
+[[60.25]]people one tool that they can do their
+[[64.73]]most work with for personal user that
+[[69.13]]means all your personal notes all the
+[[73.37]]planning for a trip for for your wedding
+[[77.45]]for business for Enterprise for company
+[[82.17]]that means all your documents all your
+[[87.81]]task all your issues calendaring
+[[93.45]]knowledge basing in one tool um the
+[[97.73]]reason we want to do that because just's
+[[101.45]]just so much fragmentation in the market
+[[105.89]]today we wish like it wouldn't be nice
+[[111.17]]as one place to do your most work and
+[[116.09]]the our approach here is rather than
+[[120.69]]trying to cram all of use cases into one
+[[126.05]]product uh what are the underlying
+[[130.73]]software building blocks what are the
+[[135.45]]Legos that power those use cases can we
+[[141.05]]give users those Legos so they can be
+[[145.73]]creative with software themselves they
+[[150.37]]can create and Tinker their perfect
+[[155.49]]workflow for their personal life or for
+[[160.33]]their company and none of this is new by
+[[165.21]]the way like people back in the
+[[170.49]]80s even' 70s tried this kind of
+[[175.61]]building blocks approach to software
+[[179.57]]we're just trying to take a modern spin
+[[184.69]]with cloud and with AI uh to what it's
+[[191.13]]like to break the prison of application
+[[196.73]]based software it's dramatic to think
+[[201.41]]we've been living in a prison of SAS
+[[206.69]]fragmentation the last two decades but I
+[[213.45]]I do think it's actually um uh you know
+[[219.65]]surprising to hear eight points of view
+[[224.17]]that is so obvious which is like of
+[[227.89]]course we want one tool where the data
+[[232.01]]was interconnected why do you think
+[[237.25]]people um why do you think more people
+[[242.93]]don't try that to have unified tools and
+[[247.17]]UniFi data
+[[250.77]]underneath I think people try for
+[[256.09]]different angles like even fairly
+[[261.53]]recently there's this thing called NOCO
+[[266.13]]right NOCO is like coming from this kind
+[[272.17]]of like power user developer angle of
+[[277.65]]wouldn't be nice everybody can modify
+[[281.09]]this underlying software they use every
+[[284.57]]day that's one angle that it wasn't
+[[288.77]]coming from the angle of the the
+[[292.77]]knowledge and data wants to be in one
+[[297.25]]place right and language model sort of
+[[302.21]]give another angle the underlying
+[[306.45]]knowledge in the bending space wants to
+[[310.89]]be one place wouldn't be nice in one
+[[316.25]]place right and the macro is also coming
+[[322.17]]from the uh the budget place wouldn't be
+[[326.57]]nice rather than pay for five different
+[[330.65]]vendors and all C based business just to
+[[335.29]]pay one vendor and save some money so
+[[338.81]]they have different angles from
+[[344.45]]different times um I would say we are
+[[351.81]]more come from this kind of computing
+[[358.81]]and medium and literacy angle like you
+[[364.69]]and me go through school to learn how to
+[[370.05]]read and write know English and Chinese
+[[375.49]]we spent years to do that we all know
+[[380.69]]how to do that the world the same
+[[387.13]]MacBook for most people are are very
+[[392.69]]rich as I more like a machine to do
+[[399.05]]typew writing or watching YouTube uh not
+[[404.61]]much more beyond that it's not very
+[[409.25]]creative right um wouldn't be more nice
+[[414.49]]that more people can use their software
+[[420.01]]more creatively right because there's a
+[[425.21]]separation be between people who can
+[[429.01]]make software and people who use
+[[433.97]]software that's why sf's rent is so
+[[438.93]]expensive because we're the modern day
+[[443.05]]Detroit or Manchester right we're the
+[[448.29]]factory of the world um Notions largely
+[[454.13]]come from that angle which is the
+[[459.45]]original angle we were inspired by early
+[[463.73]]Computing Pioneer they thought about
+[[467.29]]that angle right they thought about
+[[471.29]]Computing could just be like literacy
+[[475.81]]one day everybody can do it I guess they
+[[481.93]]didn't expect AI might make that even
+[[487.93]]give a really interesting twist to it
+[[493.85]]because now language model AI can not
+[[500.49]]only to create software but also do a
+[[506.01]]lot of thinking working for you so the
+[[511.81]]future is pretty interesting no so for
+[[518.21]]someone who thinks on you know um span
+[[523.97]]of like Decades of you know what should
+[[529.49]]Computing look like and what were um
+[[534.05]]what were the most ambitious plans for
+[[538.65]]personal Computing you know uh three
+[[544.29]]four decades ago like what are you most
+[[549.41]]excited about seeing from AI broadly
+[[554.89]]over the next decade I think 34 decad is
+[[560.49]]bit too long if AGI happen that time
+[[565.05]]like Computing might not be
+[[569.77]]necessary for this
+[[575.53]]decade I think a one sleeper category is
+[[582.01]]the the drag thing embedding space the
+[[586.93]]de case might be too long we're saying
+[[590.53]]the next next year or two now the
+[[594.37]]language model can understand what you
+[[599.33]]put into a computer understanding so
+[[604.89]]rather than you to the organization to
+[[609.33]]make you retrieval retrieve the
+[[613.29]]understanding more easily machine can do
+[[617.33]]that better than anybody else can right
+[[622.21]]so before that uh we use keyword-based
+[[626.85]]search where you find your coworker who
+[[631.49]]remember that that cue where does that
+[[638.01]]information sit now just ask notion Ai
+[[644.89]]and you get that in second so that's one
+[[649.81]]I'm personally really excited about I
+[[653.61]]think not enough people talk about it
+[[658.13]]and of course the other one is like the
+[[663.01]]agent the workflow side that that's has
+[[667.41]]a lot of buzs already so that's
+[[670.61]]interesting
+[[675.17]]too you and Simon uh you said bet the
+[[681.21]]company on AI and are you know have real
+[[686.65]]conviction and as you are building out
+[[691.89]]the team like um what does the talent
+[[697.25]]look like you like have or need to make
+[[702.41]]um notion and AI first company and I
+[[706.09]]kind of argue you folks are one of the
+[[709.41]]earliest adop of AI at scale as an
+[[713.21]]application so part of the question in
+[[716.37]]some sense is you built so many
+[[719.25]]interesting things like what are the
+[[722.21]]people that you now need to sort of
+[[725.13]]build the next level stuff in addition
+[[728.17]]to what you already have on the team in
+[[731.85]]early days kind of just Bo Force slim is
+[[735.85]]really good thing k a lot of thing and
+[[739.77]]learned really quickly right I would say
+[[744.21]]notion is a company where largely people
+[[748.81]]interested in interface and design a lot
+[[754.37]]of full stack front then heavy folks and
+[[760.53]]back and people who scale we have
+[[766.17]]somewhat a small team of search but we
+[[771.57]]don't have too too many ml folks almost
+[[777.21]]nothing and in at least my learning our
+[[781.85]]learning in the past year or so building
+[[787.53]]for AI is okay you m Mo folks
+[[794.69]]are important it's kind of like you no
+[[800.81]]longer do a this deterministic thing
+[[805.41]]that you can see how it works it's
+[[808.73]]almost like a I don't bake but feels
+[[812.49]]like a baking right you have to like do
+[[816.61]]something get the thing ingredients
+[[820.93]]ready run through rinse press the button
+[[824.93]]and wait for a while and see does it
+[[828.25]]come up it's a different way different
+[[831.77]]sense of patience and different type of
+[[836.45]]personality to do that well a lot of
+[[841.09]]massaging a lot of
+[[844.93]]preparing my friends call that
+[[848.77]]probalistic software engineering kind of
+[[852.37]]like I think it's it's morphed into this
+[[856.45]]sort of stochastic world or at least
+[[861.61]]partially stochastic yeah so one is like
+[[866.37]]maybe gardening feels like that way I
+[[871.89]]don't Garden either uh so that's
+[[878.29]]category people are to to me is pretty
+[[883.25]]necessary the other category is like
+[[888.33]]people who are curious and learn really
+[[895.45]]fast right it's like okay um like the
+[[902.41]]group of promp like language prompt
+[[906.85]]engineer language model sort of make
+[[911.93]]everybody like a a real time machine
+[[917.53]]learn learning engineer you just prompt
+[[921.89]]write then you can get your stuff right
+[[925.29]]and there's a lot of trick and
+[[929.65]]techniques uh um and how does that plug
+[[936.17]]into user interface uh I think this
+[[941.45]]category of people call AI engineer or
+[[945.53]]something there's an terminology form
+[[949.93]]they tend to be pretty young they tend
+[[954.21]]to be like we have someone like under
+[[959.93]]drinking age working ocean uh they they
+[[965.61]]fit into that bucket and I think both
+[[970.61]]seems to work quite well um we don't
+[[975.37]]have too many researchers and notion
+[[981.33]]that's another one I think uh um will be
+[[987.85]]important but we're fundamentally sit in
+[[992.25]]the application layer so it's more about
+[[997.29]]apply side of things more manipulating
+[[1002.09]]the models and making sure you can scale
+[[1006.25]]them to like user outcomes and things
+[[1011.25]]about that and another part is like the
+[[1015.97]]scaling part right how do you scale to
+[[1020.65]]like tens of millions 100 million users
+[[1025.57]]it's bit it's a problem on its own to
+[[1029.89]]it's beyond just a demo on Twitter right
+[[1036.49]]It's Tricky no yeah so you have often
+[[1044.49]]said that uh notion is less a
+[[1050.37]]productivity company than an application
+[[1054.69]]Building Company how do you think about
+[[1058.57]]the initial use case and like how what
+[[1062.09]]makes you believe people want to build
+[[1065.09]]more application I don't think people
+[[1069.21]]want to build more applications what got
+[[1073.77]]me started in notion got I started in
+[[1079.41]]notion it's um last year college I read
+[[1085.37]]a paper by uh one of the Computing
+[[1091.01]]Pioneers Douglas angelar and he talked
+[[1096.53]]about his papers name augmenting human
+[[1100.93]]intellect so every day we use software
+[[1104.97]]today is very much like application when
+[[1109.17]]you go into one application do one thing
+[[1113.41]]but for that generation of computing
+[[1118.33]]people in the 60 70 80s computers are a
+[[1122.61]]lot more software are a lot more
+[[1126.09]]malleable you can actually Tinker it
+[[1131.13]]modify right small talk you can go into
+[[1135.49]]and change the how operating system work
+[[1140.81]]on the Fly um that really inspired me
+[[1147.25]]like today people software are so rigid
+[[1152.29]]can we create a new breed of software
+[[1157.25]]that people can modify can and can
+[[1162.53]]change and customize and bring back some
+[[1167.81]]original esos of those early Computing
+[[1173.97]]Pioneers that's why we started notion um
+[[1180.09]]the hard lesson for us is like like you
+[[1183.89]]mentioned most people don't want to
+[[1187.01]]create software they don't wake up said
+[[1190.89]]hey I want to create my perfect project
+[[1194.53]]management tool my project perfect
+[[1198.33]]knowledge base they boss ask for
+[[1201.93]]something they just have to get the work
+[[1207.57]]done right um so the in some sense our
+[[1214.09]]learning and pivot is instead of giving
+[[1220.25]]people those um software building tool
+[[1225.77]]we have to package the software building
+[[1229.65]]blocks together as ready to use
+[[1235.21]]templates as ready to use use cases then
+[[1240.53]]people can adopt really quickly so you
+[[1244.29]]were one of the earliest adopters of AI
+[[1249.17]]in terms of appc with any real scale and
+[[1253.65]]I think it's impressive how quickly noan
+[[1257.29]]ended up starting to work in this area
+[[1261.01]]how do you think about how that impacts
+[[1264.17]]different aspects of what you built and
+[[1267.81]]what you're building going forward and
+[[1271.13]]how does that impact that vision of
+[[1275.01]]saying okay we have this um this
+[[1279.09]]effective platform that allows people to
+[[1283.57]]both interact with uh documents or core
+[[1288.41]]use cases in simple ways add things like
+[[1291.53]]calendar but then also go in very
+[[1294.09]]interesting directions in terms of both
+[[1296.77]]a set of applications and templates they
+[[1300.05]]can use yeah I think we're lucky like I
+[[1303.53]]mentioned we're not trying to build
+[[1306.97]]specific use cases right we're trying to
+[[1311.17]]build a Lego bricks that power those use
+[[1316.65]]cases um what are those Lego bricks text
+[[1322.25]]editing is a one fundamental Lego bricks
+[[1327.21]]most software have that piece relational
+[[1332.17]]database a table is one fundamental Lego
+[[1336.77]]bricks right um different form of
+[[1341.13]]permission commenting so we've been
+[[1345.09]]spent five plus years building those
+[[1349.69]]Lego bricks and feels like boom AI just
+[[1354.33]]jumps in almost like a brand new car
+[[1358.25]]engine and can power those Lego braks in
+[[1363.25]]brand new ways uh so feels very lucky in
+[[1368.17]]that way and that because we've been
+[[1372.09]]building those Lego bricks and refining
+[[1376.57]]those allow us to ship features uh
+[[1381.69]]pluging with AI really quickly we one of
+[[1387.13]]the earlier one to launch AI writing for
+[[1391.89]]productivity software at scale because
+[[1396.05]]we've been spent years building a text
+[[1402.61]]editor uh we can do uh AI power database
+[[1408.53]]table features really quickly because
+[[1411.69]]we've been building a relational
+[[1415.21]]databases um we've been building a
+[[1418.93]]knowledge base for a long time so we
+[[1422.93]]launch AI Q&A really quickly fairly
+[[1428.41]]quickly uh the rack system on top of oce
+[[1433.89]]because we have those Lego breaks uh so
+[[1438.65]]in some sense kind of like at just right
+[[1443.29]]moment right time for us right how did
+[[1448.69]]you um begin to like resource and
+[[1453.37]]prioritize this effort because you're
+[[1456.85]]like ah magic we have this engine it
+[[1461.65]]applies for our Lego bricks um and then
+[[1466.17]]he started shipping pretty quickly but I
+[[1469.25]]think there are a lot of organizations
+[[1471.81]]right now trying to figure out what to
+[[1475.97]]do with AI and so you know in terms of
+[[1481.33]]like designing the features prioritizing
+[[1485.09]]that effort versus everything you're
+[[1488.29]]already doing and a rapidly growing
+[[1494.65]]software company yeah I think I had the
+[[1501.89]]conviction my co-founder Simon actually
+[[1507.77]]they all had the conviction um funny
+[[1512.69]]because we all live in the mission right
+[[1516.73]]and openi initially still is in the
+[[1521.21]]mission and uh some of my friends
+[[1525.41]]especially Simon's friends work at open
+[[1529.13]]remember we go to their office they
+[[1532.61]]during the DOTA days they like what is
+[[1536.69]]this company doing kind of interesting
+[[1542.01]]and Simon and some people in notion saw
+[[1547.09]]early that most gpts like what is this
+[[1552.25]]thing spin out text sometimes gibberish
+[[1557.33]]sometimes useful
+[[1562.29]]um I personally I have to admit I slept
+[[1569.37]]on it on on gpt3 even saw gpt3 feels
+[[1576.25]]like what is this thing useful for it's
+[[1581.21]]like yes for marketing for Content
+[[1585.49]]writing Crea first draft didn't really
+[[1591.65]]click for me um personally for me was uh
+[[1597.37]]fortunate enough to start early preview
+[[1602.33]]gbd4 and that's like oh wow this thing
+[[1607.01]]can think
+[[1611.73]]it can reason it can know how to do
+[[1617.29]]things has this little bit workflow
+[[1622.57]]power to it that's a big a heart for me
+[[1627.21]]and like it just give me it personally
+[[1630.77]]give me so much conviction like this is
+[[1634.81]]going to change everything if you think
+[[1639.33]]about what knowledge work is in right
+[[1645.37]]why do we use software fundamentally SAS
+[[1652.37]]software is all we all in the same
+[[1658.97]]information people paper pushing
+[[1664.41]]activity right it's like a piece of
+[[1669.33]]paper coming in front of you a
+[[1674.89]]human like change a couple bits push to
+[[1680.05]]another human Lang model can do some
+[[1685.57]]form of this now so uh so that just like
+[[1690.17]]give me the conviction like this going
+[[1693.61]]to completely change everything we do
+[[1699.49]]with a computer and after that we sort
+[[1705.89]]of just bet the company on it uh like
+[[1710.21]]we're lucky enough to have those Lego
+[[1713.77]]breaks and then what come which legal
+[[1717.89]]breaks can works well with AI which
+[[1722.45]]doesn't we're trying to figure that out
+[[1727.21]]who inside a company are good with this
+[[1731.77]]technology we have search but it's not
+[[1736.17]]like we don't have a lot of ml folks so
+[[1741.81]]need to hire more ml folks need to get
+[[1747.13]]people inside a company to have similar
+[[1750.69]]convictions so we can move in the same
+[[1754.05]]direction it's quite interesting it's
+[[1757.21]]kind of
+[[1761.49]]like so must dinosaur feels like when
+[[1766.25]]Astro hit the earth and like what do
+[[1769.69]]they do there yeah yeah there's a lot of
+[[1772.93]]change coming for sure it's a lot of
+[[1776.05]]change yeah what do you think is missing
+[[1779.13]]from the capability set because to your
+[[1783.45]]point I think a lot of people weren't
+[[1787.97]]really thinking about AI too much until
+[[1792.09]]chat GPT and gp4 came out and there was
+[[1795.77]]a period of time where three and then
+[[1798.49]]3.5 and you started to see the
+[[1801.81]]capabilities incrementing up and
+[[1805.33]]entirely new businesses are suddenly
+[[1809.01]]able enabled with each sort of step with
+[[1814.17]]the next GPT level model you know GPT 5
+[[1818.65]]or de your point rag adds a lot of
+[[1821.85]]capabilities what are the biggest
+[[1825.81]]missing gaps for you to take full
+[[1829.37]]advantage of this technology is it
+[[1834.93]]future reasoning is it better uh
+[[1840.93]]thinking and knowledge like what's the
+[[1845.33]]yeah I think all about that above to me
+[[1849.01]]it feels
+[[1852.93]]like technology is fun we're in the tech
+[[1857.65]]business technology is fundamentally
+[[1862.81]]about tradeoffs right it's like the
+[[1868.37]]plastic can do things that wood cannot
+[[1872.85]]do and we discover plastic and then we
+[[1876.61]]figure out new things we can bottle
+[[1879.85]]water like this before you cannot bottle
+[[1884.97]]water with a wood table right so um all
+[[1890.25]]of a sudden we have this thing called
+[[1893.69]]language model you have a new
+[[1897.77]]characteristic that deterministic
+[[1904.05]]software cannot do in the past and and
+[[1910.53]]we don't really know how it's made fully
+[[1915.21]]so every month every week if you're on
+[[1919.17]]Twitter people discover new techniques
+[[1924.93]]to get more out of this and for
+[[1931.77]]companies entrepreneurs they're also
+[[1936.89]]making tra off discover what how the
+[[1941.61]]market react to this capabilities of
+[[1946.93]]this new W this new language model and
+[[1951.61]]so it's a constant evolutional cycle
+[[1956.25]]happening really really fast right now
+[[1960.73]]right
+[[1966.33]]um I think if with that mindset uh what
+[[1972.97]]are the dimensions um on the technical
+[[1978.69]]side on the technology side itself yes
+[[1984.25]]the model gets larger context Windows
+[[1990.41]]more reasoning better speed smaller
+[[1996.53]]footprint um those are all great like
+[[2000.33]]like for
+[[2004.45]]notion uh to power the work force I
+[[2009.41]]would really need like we learn like gp4
+[[2014.61]]is smart a cloud to a Smart we need that
+[[2019.65]]intelligent to do reasoning or for a
+[[2024.57]]tech summarization cheap fasts better
+[[2030.93]]right that's the technology side and in
+[[2036.33]]my opinion there's so much about human
+[[2042.09]]behavior as well just like inertia in in
+[[2048.69]]our personal Behavior companies risk
+[[2055.41]]tolerance and that's slowly evolving as
+[[2062.33]]well right like like what Steve Jobs
+[[2066.97]]always was talk about you cannot make
+[[2070.49]]something too new you have to be largely
+[[2074.45]]the same and change one thing and two
+[[2079.37]]thing right virtual Appo the off white
+[[2084.93]]guys is like 3% difference just push the
+[[2089.81]]boundary so people can accept it but
+[[2094.45]]still also new right to me it feels like
+[[2099.13]]language model power application are
+[[2103.29]]kind of in the same pH if it's too
+[[2107.17]]different people like what do they do
+[[2112.01]]with it right such alien Behavior it has
+[[2116.93]]to rag is pretty nice because the larg
+[[2122.01]]the existing Behavior but better output
+[[2127.65]]right can you describe the um the Q&A
+[[2132.45]]product for people who have an
+[[2137.49]]experience right essentially everything
+[[2141.77]]you put in
+[[2145.85]]notion notion help you
+[[2150.53]]remember right and this is not just
+[[2154.37]]apply to notion pretty apply to most
+[[2158.81]]rack systems like why do we use computer
+[[2162.69]]when you to store things I need to
+[[2166.81]]recall things before language model and
+[[2171.49]]rack the recall largely happen based on
+[[2175.77]]keywords right you the keyword has to be
+[[2180.77]]precise or there's some lexical Tech
+[[2187.85]]tricks you can like recall easily um uh
+[[2194.53]]imprecisely what rack happens language
+[[2199.09]]model can actually understand what
+[[2203.53]]you're put into there so you no longer
+[[2207.77]]need to organize your information in
+[[2212.49]]notion whatever you throw in there you
+[[2217.93]]can find it later what that means is for
+[[2223.85]]a person or for a company for a team you
+[[2229.97]]can have perfect memory and not only
+[[2234.69]]have Perfect Memory the the right piece
+[[2238.77]]of information if we design our software
+[[2242.53]]right can push to the right person at
+[[2246.37]]the right time right that's probably
+[[2251.85]]more than 50% knowledge work right we're
+[[2257.33]]still perfecting the system I think
+[[2261.49]]we're one of the first on the market
+[[2265.97]]that apply a skill we still have a some
+[[2270.13]]somewhat a waiting list because it's
+[[2273.77]]hard to do this at scale still um but
+[[2278.69]]for a company for a team before search
+[[2283.25]]one of a weaker point but with rack you
+[[2287.13]]completely change that I changed how I
+[[2291.17]]use notion I can just ask a question to
+[[2296.49]]notion like um how large when I removing
+[[2303.05]]out of the SF office to a new office and
+[[2308.65]]someone in the company wrote in some
+[[2313.05]]documents I don't have to Ping five
+[[2316.49]]different three different people to find
+[[2319.81]]the answers if it's in notion we'll find
+[[2326.45]]it for me right um everyday Engineers
+[[2333.89]]designers operation people just keep
+[[2338.85]]asking each other on slack or in email
+[[2343.01]]such a question each question is 10
+[[2347.41]]minutes writing the answers 20 minutes
+[[2351.89]]to find answers and there's a delay in
+[[2357.05]]the Middle with notion Q&A you can
+[[2362.85]]completely cut that right into in
+[[2367.37]]seconds we're just at the beginning of
+[[2371.25]]what rack can do for work it's pretty
+[[2375.33]]amazing I feel like Rag and edings are
+[[2380.21]]very under discussed or underappreciated
+[[2384.49]]in some sense relative to the impact
+[[2387.21]]they really seem to be having or
+[[2390.25]]starting to have and I think notion um
+[[2393.93]]Q&A is a great example of that I guess
+[[2397.25]]the other thing that you folks just
+[[2400.81]]launched is calendaring and if you can't
+[[2404.57]]talk about it or if there's nothing to
+[[2408.41]]talk about that's fine too but um I feel
+[[2411.77]]like one of the really interesting
+[[2413.93]]things that people are talking
+[[2416.69]]increasingly about is agents and sort of
+[[2419.77]]the agentic world and there's a lot of
+[[2422.53]]capabilities missing to really make
+[[2426.41]]those valuable but in the can context of
+[[2430.49]]a calendaring application you could
+[[2433.85]]think of all sorts of ways that having
+[[2438.49]]AI act on your behalf or help understand
+[[2443.53]]things can be incredibly valuable and so
+[[2446.93]]I curious how you think about the
+[[2450.21]]application of AI relative to calendar
+[[2454.57]]versus you know some of the core um
+[[2458.29]]information related things that you just
+[[2462.29]]talked about maybe we can group AI stuff
+[[2466.69]]into like at least in my mental model
+[[2471.05]]it's the rack the knowledge information
+[[2477.09]]retrieval is one bucket knowledge bucket
+[[2482.69]]then there is this workflow bucket right
+[[2488.97]]use the word agent uh um that's in that
+[[2497.05]]bucket CER somewhat in that bucket um
+[[2503.17]]why do we need to meet why do we need
+[[2506.85]]Canada because we need to meet and we
+[[2509.85]]need to schedule time we need to figure
+[[2513.45]]out exchange some kind of bits between
+[[2518.45]]my brain to your brain right um can that
+[[2523.49]]bit can that exchange be done by a
+[[2528.85]]language model maybe and can the meeting
+[[2534.09]]time be done by scheduling be done
+[[2539.21]]that's like a baby step right um and
+[[2544.21]]most things we do has this kind of time
+[[2548.73]]Dimension to it uh can language model
+[[2553.65]]help us shuffling our schedule yeah it
+[[2557.01]]feels like there's also the information
+[[2559.73]]retrieval piece of it because you know
+[[2563.37]]if my calendar autop populated
+[[2566.61]]everything I need to know about the
+[[2569.45]]meeting or the people attending or other
+[[2573.13]]things that's incredibly valuable as a
+[[2576.85]]user of a calendar and so I just feel
+[[2579.53]]like there's a lot of these things that
+[[2581.89]]kind of tieen together both in terms of
+[[2585.09]]the coordination which you mentioned and
+[[2588.25]]the workflow and then separate from that
+[[2591.81]]there's just what do I know about this
+[[2596.09]]the calendar part it's the simpler part
+[[2600.01]]of the workflow like the holy grills
+[[2604.25]]kind of like can just the agents robots
+[[2608.97]]do all our knowledge work for us right
+[[2612.89]]it's a really interesting framing that I
+[[2616.17]]didn't have before of a bunch of the
+[[2619.57]]work you're doing at notion actually
+[[2624.33]]eating into like communication
+[[2629.09]]right it's it's sort of obvious in
+[[2632.49]]retrospect but like if you look at what
+[[2636.09]]you describe like like am I really going
+[[2639.61]]to slack back and forth about this thing
+[[2643.37]]about you know when we're moving if I
+[[2648.49]]can just know I'm in oce help me know or
+[[2654.25]]with calendaring like you know the most
+[[2658.33]]intelligent version of it is like well
+[[2661.05]]do I need to have that meeting or can
+[[2664.25]]you tell me what I was going to tell me
+[[2667.37]]I know like why do you need to
+[[2671.65]]communicate because there's something
+[[2676.65]]the work cannot be done asynchronously
+[[2680.45]]or by the software itself right then
+[[2684.89]]that's why you talk uh
+[[2689.69]]yeah it's kind of interesting maybe it's
+[[2693.57]]interesting question like are we kind to
+[[2697.73]]communicate more or less with language
+[[2703.25]]model I probably feel it's probably less
+[[2710.17]]uh uh the agent side essentially bet on
+[[2715.77]]language model that's the communication
+[[2718.97]]one question I have for you just going
+[[2723.45]]back to like the implication of rag and
+[[2728.17]]like you can be my brain and do my
+[[2732.53]]Organization for me um like what if my
+[[2737.13]]brain is really disorganized like do you
+[[2741.69]]do you think that uh this changes the
+[[2747.65]]amount of work people should do in
+[[2755.09]]systems like notion at input right like
+[[2761.33]]you know should I be designing my
+[[2765.49]]knowledge base in the same structured
+[[2769.97]]way or can of just dump it all in stream
+[[2774.45]]of Consciousness in theut I think
+[[2779.77]]organization might be we might be moving
+[[2785.85]]away from the organizational world world
+[[2790.33]]why do you need to organize because you
+[[2792.77]]can
+[[2796.45]]retrieve why do you have index like
+[[2802.09]]index initially are file cabinets and
+[[2806.65]]little IND are sitting on top of so you
+[[2810.69]]can find things quickly right and they
+[[2814.37]]index based on
+[[2820.29]]certain uh names or certain Dimensions
+[[2827.13]]but edding and rag sort you just you
+[[2832.21]]have in semantically connection of all
+[[2837.69]]the thing you throw into this file bag
+[[2842.05]]and you can find bring it out however
+[[2846.37]]you like so I think we might be moving
+[[2852.53]]past the need for organization uh that's
+[[2857.85]]really liberating that means on my phone
+[[2861.53]]imagine this experience I'll have a new
+[[2865.45]]idea I see a whiteboard behind me I just
+[[2869.45]]take a picture or write something dump
+[[2873.97]]it and notion going to organize for you
+[[2878.65]]right so that's then that's become my
+[[2882.77]]perfect memory to start later could be
+[[2887.05]]my perfect assistant to help me do
+[[2891.25]]something with this knowledge and that's
+[[2896.37]]the vision we're moving towards right
+[[2903.69]]that's super exciting to me so you are
+[[2910.73]]um this is a question from h m foral
+[[2915.25]]you've been long time friends with you
+[[2918.49]]know you are a student of History you
+[[2922.09]]mentioned duck angelart earlier I know
+[[2925.53]]um you think about you know the
+[[2929.45]]transition in terms of like Alan K and
+[[2933.53]]what he did in terms of simplifying any
+[[2937.09]]of those concepts for like a broader
+[[2941.53]]audience around Computing Vernon's
+[[2946.45]]question was what lessons in history do
+[[2952.33]]you take that um inform your point of
+[[2957.69]]view of like how to treat AI strategy
+[[2962.29]]with notion now like from a prior
+[[2968.37]]revolution in Computing you know how
+[[2975.01]]does it help you decide what to
+[[2981.81]]do a lot is intuition I think understand
+[[2988.01]]understand history give you a sense of
+[[2992.77]]History doesn't repeat itself but Rhymes
+[[2999.57]]so like okay which phase are we in um I
+[[3005.53]]personally think we're sort of in this
+[[3011.09]]kind of bundling phase like um um who
+[[3017.25]]said this like there's only two way to
+[[3022.09]]do business bundling un bundling right
+[[3028.17]]and uh actually the during the breakouts
+[[3035.93]]reading a uh Chinese novel uh Romance of
+[[3042.69]]three kingdoms and the opening sentence
+[[3048.37]]of for that it's uh the Empire long
+[[3054.97]]divided must unite long United must
+[[3060.49]]divide that's has always been business
+[[3066.73]]is the same way too right um we're in
+[[3074.13]]the bundling phase I would say the stas
+[[3079.61]]it's sort of this unboundly
+[[3084.09]]fragmentation phase if we Trace back to
+[[3090.93]]SAS why is SAS happening in the late 2
+[[3097.81]]mid 2000s before that everything's
+[[3102.41]]running on Microsoft that was a bundling
+[[3107.21]]phase early days at PC there's so many
+[[3112.33]]different applications the first version
+[[3117.09]]of the the World Star World perfect
+[[3121.85]]different text editors dbas different
+[[3126.25]]database software the funny fact of
+[[3130.97]]dbase is like they start with dbas 2
+[[3136.21]]because there's so many company go bus
+[[3140.29]]that it sounds like if they start with
+[[3143.85]]dbas 2 people has more credibility it
+[[3147.65]]feels like this this product has been
+[[3152.21]]around for a while so that's the 80s
+[[3157.85]]'90s was this kind of bundling phase
+[[3162.69]]because Microsoft has OS layer on the
+[[3166.45]]line yeah
+[[3171.17]]and the sad is because the web becomes
+[[3176.61]]good enough to run software right then
+[[3181.13]]so then we have this un bundling phase a
+[[3185.85]]fragmentation phase and then with the
+[[3190.97]]the last 10 15 years it easy really the
+[[3195.09]]money is cheap easy to create company
+[[3198.93]]there's there's so
+[[3203.69]]much too much now feels like there's
+[[3208.85]]like information so fragmented and now
+[[3213.45]]the new technology happening is AI
+[[3218.37]]language model and if you build more
+[[3223.17]]with it or just think more with it
+[[3226.73]]language model wants information to be
+[[3231.77]]one place wants the end points to be
+[[3237.73]]connected so it's easier to is it hard
+[[3242.25]]enough to at current version of language
+[[3245.77]]model do do what you want but imagine
+[[3248.93]]talk with different endpoint that's even
+[[3252.41]]harder right
+[[3257.53]]so and so we're in the bundling phase
+[[3262.29]]because the macro but we're also in the
+[[3266.05]]bundling phase because language model I
+[[3270.37]]believe wants the things to be together
+[[3273.65]]think makes sense I also feel like we're
+[[3276.17]]in the bundling phase because the nature
+[[3278.61]]of how Founders think about their
+[[3282.09]]businesses shifted how so um I think
+[[3286.65]]that uh it's interesting because I
+[[3290.45]]remember I don't know 10 years ago I
+[[3293.41]]used to argue with people about oh you
+[[3296.77]]should really buy other companies or
+[[3300.29]]integrate or sort of pull all these
+[[3303.17]]things together and in consumer that
+[[3306.05]]actually happened right like Facebook
+[[3309.81]]bought Instagram and WhatsApp and other
+[[3313.29]]things and they effectively created like
+[[3315.81]]a bundle of social products that they
+[[3318.85]]could cross use in different ways for
+[[3322.77]]distribution or other things but I feel
+[[3326.61]]like what happened is we had a series of
+[[3329.73]]Highly technical Founders because we
+[[3333.33]]shifted in the Facebook era from Cheryl
+[[3338.45]]becoming CEO to coo and you went from
+[[3343.97]]business Centric uh CEO in the 90s in
+[[3347.93]]some cases although there's people like
+[[3351.01]]Bill Gates who learned and adopted as
+[[3354.45]]technologist to very technology and
+[[3358.09]]product Riven Founders who often thought
+[[3361.45]]no matter what product I build it always
+[[3365.89]]has to be better and so I I can't just
+[[3370.85]]think of distribution as my wedge I need
+[[3374.09]]to think of every product as being
+[[3376.53]]Superior and so I'm not going to build
+[[3380.45]]certain things and now I feel like
+[[3384.53]]people are both building great products
+[[3387.17]]as well as bundling them but also
+[[3389.57]]they're much more aggressive about
+[[3393.01]]saying it can be 80% is good it could be
+[[3396.77]]50% is good but I'm going to have a
+[[3400.49]]bundle and that's HubSpot and that's
+[[3405.05]]Rippling and they have very high quality
+[[3408.77]]to their products it's just they realize
+[[3411.45]]they don't need every single edge case
+[[3414.41]]and every feature as long as they're
+[[3418.61]]able to cross sell yeah I think the YC
+[[3422.97]]school's philosophy of build one thing
+[[3426.81]]use internet to find the
+[[3431.93]]distribution that was I think overlap
+[[3437.01]]quite a bit with the rise of internet
+[[3441.81]]right and and feels like there's a value
+[[3446.17]]to create on the other dimension which
+[[3449.85]]is like you mentioned it doesn't have to
+[[3454.69]]be as good 90% that's good but because
+[[3459.17]]the Synergy of things just make a lot
+[[3463.81]]easier a lot cheaper less tabs you open
+[[3468.29]]your browser yeah it's all integrated
+[[3472.21]]you have the information flow or or the
+[[3476.17]]system of record for whatever thing that
+[[3479.37]]you're dealing with yeah I think a lot
+[[3483.93]]of people also just um perhaps lack that
+[[3489.33]]uh sort of historical context right if
+[[3494.57]]you look at the strategy of company is
+[[3500.77]]like horrible right it was very much for
+[[3506.85]]a decade and a half like a dominant at
+[[3511.65]]least commercially attitude of like okay
+[[3515.01]]we're going to buy the second best
+[[3517.89]]product in this additional software
+[[3521.65]]category we want to be in and then sell
+[[3526.21]]the heck out of it worked great right
+[[3530.25]]actually because um was very hard for
+[[3533.41]]customers to deploy these things or
+[[3536.17]]there're just advantages to everything
+[[3539.17]]being attached to a single database at
+[[3543.13]]some point and I I do think there is
+[[3547.49]]some analogy to as you said language
+[[3551.17]]models because having things in the same
+[[3555.25]]edting space is very useful very useful
+[[3559.37]]yeah I think there's bundling of
+[[3564.05]]distribution and bundling of information
+[[3568.57]]the what you're describing to me is more
+[[3572.01]]of Microsoft more like bundling of
+[[3576.85]]distribution langu wants the bundling of
+[[3582.85]]data bundling information so I remember
+[[3589.41]]hearing from Dylan at figma early on
+[[3596.21]]that there was um one crazy user who was
+[[3601.65]]in the product like 14 hours a day it
+[[3606.29]]was you um early on in the uh notion
+[[3611.29]]Journey um being really design obsessed
+[[3615.65]]I think the company has a reputation for
+[[3619.57]]that do you think of notion as like a
+[[3624.09]]design Centric company and um is it
+[[3629.41]]important how do you scale
+[[3635.09]]it I think depends on what you mean by
+[[3641.01]]design design is to us at least to me
+[[3646.53]]it's less about how it looks is how the
+[[3651.85]]system plug together right and then in
+[[3656.41]]that case the trade off you make do you
+[[3659.65]]centralize that thing or do you
+[[3664.61]]decentralize that thing um certain
+[[3669.93]]company work well or certain business of
+[[3674.09]]product work well being decentralized
+[[3678.33]]like operation heavy company could work
+[[3682.45]]that way and notion like I mentioned
+[[3686.25]]we're sort of in the bundling business
+[[3689.69]]our value provided having this one
+[[3693.97]]information space one works space for
+[[3698.13]]people do all different kind of things
+[[3702.21]]so things need to be work well together
+[[3706.09]]it's almost building notion it feels
+[[3709.41]]like building an operating system
+[[3713.81]]building a programming language right
+[[3719.65]]you don't you don't you don't Farm out
+[[3725.41]]to like 50 people to design a
+[[3729.17]]programming language you programming
+[[3732.61]]language are done by one person so that
+[[3736.77]]means the design here is very much
+[[3741.29]]centralized energy so kind of like apple
+[[3746.85]]how they build OS integrated with their
+[[3752.73]]hardware and right like what is the
+[[3757.89]]Apple for software doesn't quite exist
+[[3762.73]]today right it truly doesn't quite
+[[3767.77]]exist so that's what I'm interested in
+[[3772.53]]what we're interested in so in that case
+[[3777.21]]means to build a good product a good
+[[3781.97]]customer user experience we need to
+[[3786.69]]think things more horizontally more
+[[3791.41]]holistically that means the decision-
+[[3795.77]]making tend to be centralized in or
+[[3800.37]]design team or like tend to be
+[[3806.41]]centralized right so um less like more
+[[3812.25]]so more Apple like less Amazon like it's
+[[3815.97]]funny cuz when I first met you it was
+[[3819.29]]just you starting notion and it before
+[[3823.09]]you brought on Simon and and you talked
+[[3826.69]]about things that way even then and I
+[[3830.29]]felt that one of the reasons I was lucky
+[[3834.09]]enough to invest or you know I I came on
+[[3838.41]]board was because you had such a
+[[3842.45]]cohesive view of how you wanted to build
+[[3846.61]]software and you had such a cohesive
+[[3851.61]]design aesthetic and it was your mock
+[[3855.65]]but it was also how you were dressed and
+[[3858.73]]how that reflected into the product I
+[[3862.97]]felt like it was extremely striking you
+[[3867.29]]know like you're one of a very small
+[[3870.09]]number of people I've ever seen where
+[[3872.53]]that design aesthetic has just kind of
+[[3875.73]]permeated everything in a very cohesive
+[[3879.77]]way and so that's one of the things that
+[[3883.13]]got me excited at the time I was like
+[[3888.81]]wow this is capturing a uh aesthetic
+[[3894.65]]that could be an incredible product
+[[3897.25]]platform but you also talked about
+[[3900.09]]things even then I remember in terms of
+[[3904.05]]like okay what's the what's the cohesive
+[[3907.89]]Apple like thing that you can do for
+[[3912.45]]software things so I think it's kind of
+[[3917.13]]amazing to see that consistent thread so
+[[3919.69]]I was just stricken while you were
+[[3922.57]]talking you know by that yeah thank you
+[[3926.89]]yeah like I study cognitive system
+[[3931.09]]cognitive science which is kind of just
+[[3935.17]]like a degree for everything in some
+[[3939.25]]sense it's like a little bit philosophy
+[[3944.09]]a little bit l State computer science I
+[[3949.97]]learned how to Cod when I was a kid and
+[[3956.41]]I did a lot of Art and also in school so
+[[3962.57]]like try not to like there's so many
+[[3966.49]]things you can steal from all of
+[[3970.29]]different places right and it's like the
+[[3975.85]]Bund are sort of man-made
+[[3981.81]]and in notion was most our designer can
+[[3987.49]]call majority of 80% of our designer can
+[[3992.41]]call because the moment you can as a
+[[3996.41]]designer or as engineer you can Cod or
+[[3999.69]]you can design you can make really
+[[4003.05]]interesting tradeoffs right at the end
+[[4007.09]]of the day Technologies at least in my
+[[4010.93]]opinion is about trade-offs what kind of
+[[4017.09]]trade-off you can make that unlock new
+[[4025.01]]user behaviors that's valuable but if
+[[4031.01]]you can do more things you can more make
+[[4034.81]]more interest and trade off the other
+[[4038.45]]people cannot make as a designer if you
+[[4042.65]]can code you know how to change your
+[[4046.09]]design to make easier to build as
+[[4049.57]]engineer if you can design you can like
+[[4053.13]]do the same thing almost like squeeze
+[[4056.81]]the air bubble to whichever direction is
+[[4061.85]]easier to squeeze right um
+[[4067.09]]and therefore I think being more
+[[4071.13]]holistic help at least notion as a
+[[4074.41]]company energy we're trying to be
+[[4078.37]]holistic also help our keep our company
+[[4083.57]]team very small like we're usually one
+[[4088.93]]of the smallest relative to our business
+[[4094.41]]scale because people can think can do
+[[4099.37]]more can be more holistic and people
+[[4103.25]]enjoy that too because they can do more
+[[4107.41]]things it doesn't feels like they have
+[[4111.49]]one role they have to be doing that
+[[4114.97]]repeatedly has a lot of different
+[[4118.45]]benefits but it's much harder to find
+[[4122.77]]such people and important question here
+[[4127.89]]please so if I think about the first
+[[4132.45]]office and this may or may not be uh
+[[4138.45]]true still um no is a no shoes was a no
+[[4144.53]]shoes place did this contribute to the
+[[4147.89]]company
+[[4152.13]]energy I'm Asian so when you go home you
+[[4158.09]]take off your shoes our first office no
+[[4164.81]]shoes lasts us to 10ish people second
+[[4172.09]]office 20ish people no shoes third of us
+[[4178.33]]no shoes it actually has heated floor so
+[[4182.93]]even better oh very those all in the
+[[4187.13]]mission and the fourth office we try to
+[[4193.09]]do no shoes still in the mission um I
+[[4199.17]]think I made a wrong choice in the rock
+[[4204.49]]the rock kind of hard when you it's a h
+[[4208.93]]based Rock so when you step on it
+[[4212.73]]without shoes with socks only it's just
+[[4218.05]]all hurts so we decide not to do no
+[[4223.85]]shoes at forth office and uh so far has
+[[4228.85]]been stuck that way yeah P intuition has
+[[4233.93]]socks and uh slippers at the front so
+[[4239.25]]that way if you need the padding I know
+[[4243.49]]but then where the question is like
+[[4247.21]]where do you store your slippers it
+[[4252.41]]become stinky like it's aesthetic yes if
+[[4257.29]]you come to our office it's like we're
+[[4262.65]]still try to be um not corporate it's
+[[4267.41]]like they we're trying to use the
+[[4270.77]]furniture that people use for homes I'm
+[[4274.65]]pretty picky about what kind of
+[[4278.25]]furniture is in office like ideally
+[[4282.53]]designed classic that last 50 plus years
+[[4287.93]]so Inspire us to build software that way
+[[4292.73]]right so they made they also made
+[[4296.93]]trade-offs people who design a chair
+[[4301.45]]make t they made really interesting
+[[4305.21]]trade off Force to solve certain
+[[4309.29]]problems if you know the history of it
+[[4315.09]]so we try to in the office use good
+[[4321.13]]software good chairs good lighting so
+[[4325.01]]this back to the aesthetic point that I
+[[4328.25]]made earlier I actually felt that in the
+[[4331.77]]offices as well there's that ongoing
+[[4335.49]]cohesion even the music I remember I
+[[4338.89]]think it was in the second office was it
+[[4342.21]]was always jazz in the background and I
+[[4345.85]]just felt like it all kind of was this
+[[4350.49]]consistent Vibe you know so it's pretty
+[[4355.69]]cool within notion are you using a
+[[4361.25]]singular um underlying l l or are you at
+[[4365.85]]this point using multiple different
+[[4368.21]]things for different use cases you
+[[4371.41]]mentioned sort of the highle reasoning
+[[4376.17]]versus the fast Jeep sort of synthesis
+[[4382.57]]we try everything open air and Tropic um
+[[4389.37]]are the high-end model
+[[4395.25]]uh we want reasoning which is we work
+[[4402.01]]with the high-end model right uh yeah
+[[4408.21]]it's kind of like everybody building
+[[4413.49]]different flavors of this MH so yeah
+[[4418.37]]makes sense and then as you look at um
+[[4421.73]]it feels like with no there's a set of
+[[4426.17]]core sort of templates or use cases um
+[[4430.37]]you know there's things around project
+[[4434.05]]management there's other types of almost
+[[4437.89]]like applications that people have built
+[[4441.33]]to use there's knowledge based related
+[[4444.81]]stuff there's the things that you
+[[4448.81]]mentioned um are any of those you feel
+[[4452.69]]differentially impacted in terms of how
+[[4455.81]]you think about future AI R map or
+[[4460.05]]things that you know will really change
+[[4463.97]]the game dramatically in terms of some
+[[4467.17]]of these areas yeah I would say rack
+[[4472.13]]changed all the knowledge say
+[[4478.29]]fundamentally um you no longer need to
+[[4485.13]]organize so the notion one of thing
+[[4491.73]]people love is the life sidebar right
+[[4496.17]]the life sidebar you can organize your
+[[4499.85]]knowledge base organize your personal
+[[4504.05]]workspace maybe the future doesn't have
+[[4510.33]]to have that like what it's like to um
+[[4517.09]]you know not fall into your own
+[[4522.09]]Innovative Dilemma to double down that
+[[4526.73]]your ex Paradigm but just having a
+[[4530.61]]notion that you can just dump things and
+[[4533.93]]retrieve right that's knowledge sty
+[[4536.77]]that's actually really interesting at a
+[[4540.05]]high level to think that um everything
+[[4543.93]]sort of moves to a form of search over
+[[4548.29]]time move over to search over time like
+[[4552.25]]you're kind of losing organ you don't
+[[4555.45]]need to self-organize information
+[[4559.25]]anymore no in this new world you can
+[[4563.49]]just create a mechanism to interrogate
+[[4567.57]]it yeah at least like you you don't
+[[4571.05]]organize your brain you just dump into
+[[4574.41]]it then you wake up all you remember
+[[4578.25]]that thing right so like it's
+[[4582.45]]interesting some people do like the the
+[[4586.05]]art of lowkey the art of memory you
+[[4590.21]]actually or visualize your brain but for
+[[4594.29]]most people it just works without any
+[[4598.09]]organization and magically right what is
+[[4603.25]]like for software we're getting there
+[[4610.13]]right yeah it's kind of fun are there um
+[[4617.05]]areas of uh software more broadly that
+[[4621.61]]you think are outside of notion scope
+[[4624.29]]that you think are going to change a
+[[4630.29]]great deal from AI wow
+[[4635.21]]um in some sense it's kind of a race
+[[4641.21]]there's like the we're in the B Notions
+[[4648.17]]in the bundling business where are
+[[4656.65]]um we are uh we're in the bundling and
+[[4663.17]]front office business front office my
+[[4667.41]]definition our definition is what's
+[[4672.73]]happening in like imagine a 1960s office
+[[4678.73]]right what's in 1960 office on your desk
+[[4682.97]]you have a notepad you write on
+[[4687.69]]something you maybe have a typewriter um
+[[4692.21]]then you have your binders on the left
+[[4695.77]]and right to that's essentially the
+[[4700.09]]notepad is your documents your notes and
+[[4704.81]]notion your binders of things are like
+[[4709.97]]your weeky knowledge based in notion and
+[[4714.81]]behind you will be the file cabinet
+[[4718.89]]that's your relational datab is in Ocean
+[[4722.49]]right and you have a little push card to
+[[4726.33]]put thing into there then there's a back
+[[4730.69]]office whereas like the Librarians
+[[4735.25]]organize all the things and that's
+[[4740.05]]snowflake right that's the back in the
+[[4744.73]]days IBM we don't touch that uh we
+[[4748.73]]largely touch our strength like I
+[[4753.77]]mentioned is software interface UI ux
+[[4758.73]]which is largely what's in front of the
+[[4762.09]]human we're trying to bundle in this in
+[[4767.09]]one space at the same time there's also
+[[4773.97]]largely back office power use cases they
+[[4780.37]]tend to be vertic cides specific to
+[[4787.05]]Health Care specific to some kind of
+[[4793.17]]workflows very specific by very
+[[4797.65]]essential to store somewhere and the
+[[4802.77]]vertical integrate that use cases uh
+[[4807.77]]that could be aifi too and people in
+[[4812.33]]fact we see this in law we see this in a
+[[4817.45]]bunch very specialized thing that people
+[[4821.85]]have that domain knowledge and trying to
+[[4825.73]]figure out how do you um instead of
+[[4830.37]]human shuffling this let language model
+[[4835.89]]help a lot of that right um the front
+[[4840.37]]office type of things it's kind of
+[[4844.01]]open-ended the back office power things
+[[4848.65]]tend to be specific so I think it will
+[[4853.37]]be a race but the market is just so
+[[4858.49]]large and it doesn't it's not Zero Sum
+[[4863.77]]necessarily maybe you can talk about the
+[[4869.17]]market as you see it for notion so you
+[[4874.33]]know when you guys began I think early
+[[4879.53]]adopter startups were the first to um
+[[4885.77]]get onto notion for knowledge base um
+[[4890.69]]you're a much bigger company now we're
+[[4894.41]]also in a different macro where um you
+[[4898.73]]know startup budgets are are uh less
+[[4902.81]]robust like how do you think about the
+[[4906.05]]Enterprise and helping the Enterprise
+[[4909.69]]adopt AI or or you know do Knowledge
+[[4914.81]]Management yeah we're still very uh
+[[4922.61]]early uh not at scale yet um I would say
+[[4930.25]]uh bundling in trans do a lot of good
+[[4935.41]]things one is you don't have to jump
+[[4939.69]]between different tabs to do things
+[[4944.77]]second is save your cost right like we
+[[4950.17]]save a lot of customers bills for their
+[[4955.61]]project management Tool uh around their
+[[4962.65]]issue tracking tool and and that's
+[[4968.41]]Enterprise really care about that it's
+[[4973.69]]the very CFO friendly today um with this
+[[4980.77]]macro so yeah spond only has many good
+[[4986.61]]benefits besides M besides information
+[[4990.77]]there is also money well Ian I mean this
+[[4993.85]]conversation has spent so many
+[[4995.93]]interesting topics thanks so much for
+[[4998.85]]joining us today thank you yeah great to
+[[5002.69]]see you good to see you find us on
+[[5007.41]]Twitter at no prior pod subscribe to our
+[[5011.49]]YouTube channel if you want to see our
+[[5015.89]]faces follow the show on Apple podcast
+[[5020.73]]Spotify or wherever you listen that way
+[[5024.49]]you get a new episode every week and
+[[5028.13]]sign up for emails or find transcripts
+[[5034.41]]for every episode at nopi.com
