@@ -73,12 +73,12 @@
             color: #ddd;
         }
         .podcast {
-            background: #252525;
-            padding: 15px;
-            margin-top: 10px;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            animation: slideIn 0.5s ease-out;
+        background: #252525;
+        padding: 15px;
+        margin-top: 10px;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        animation: slideIn 0.5s ease-out;
         }
         #loader {
         border: 8px solid #f3f3f3;
@@ -184,25 +184,65 @@
                     <p id="loader-text">Generating your podcast...</p>
                 </div>
             </div>
-            <div class="podcasts">
+            <div class="podcasts" style="display: none;">
                 <h2>Library</h2>
-                {% for podcast in podcasts %}
-                    <div class="podcast">
-                        <h3>{{ podcast.title }}</h3>
-                        <p>{{ podcast.created_at|date:"d M Y H:i" }}</p>
-                        <audio controls>
-                            <source src="{{ podcast.audio_file.url }}" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
-                    </div>
-                {% empty %}
-                    <p>No podcasts generated yet.</p>
-                {% endfor %}
+                <div class="podcast">
+                    <h3>{{ podcast.title }}</h3>
+                    <p>{{ podcast.created_at|date:"d M Y H:i" }}</p>
+                    <audio controls>
+                        <source src="{{ podcast.audio_file.url }}" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
             </div>
+
         </div>
     </div>
 
     <script>
+
+
+    // Example array of podcasts
+    const podcast = 
+        {
+            "thumbnail": "a16z",
+            "topics": ["clean energy", "technology", "startups"],
+            "url": "https://hackathon24s.s3.amazonaws.com/test/1_clip.wav"
+        };
+
+    let user_query = "";
+
+
+    function updatePodcast(podcast) {
+    // Ensure the thumbnail URL is correctly prefixed with the static URL path
+    const thumbnailSrc = `/static/${podcast.thumbnail}.png`;  // assuming thumbnail contains the rest of the path from /static/
+
+    console.log("thumbnailSrc: ", thumbnailSrc);
+
+    const podcastContainer = document.querySelector('.podcasts');
+
+    let htmlContent = '';
+
+    const title = user_query || 'Podcast Title'; // Use user query as title if available, otherwise use default title
+
+    htmlContent += `
+        <div class="podcast">
+            <img src="${thumbnailSrc}" alt="${title} Thumbnail" style="width:100px;height:auto;">
+            <h3>${title}</h3>
+            <p>Topics: ${podcast.topics.join(', ')}</p>
+            <audio controls>
+                <source src="${podcast.url}" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+    `;
+
+    podcastContainer.innerHTML = htmlContent;
+
+    podcastContainer.style.display = 'block'; // Show the podcast container
+    }
+
+
 
     function showLoader() {
         document.getElementById('loader-container').style.display = 'flex'; // Show loader, text, and backdrop
@@ -213,14 +253,30 @@
     }
 
         document.getElementById('generateButton').addEventListener("click", function(event) {
-            console.log("in here!");
+            console.log("in response to generate button!");
             event.preventDefault();
+            // Capture the text input value
+            var inputText = document.querySelector('input[name="topic"]').value;
+            
+            if (inputText.trim() !== '') {
+            user_query = inputText;
+            console.log("User query added:", user_query);
+            showLoader();
+            updatePodcast(podcast);
+            hideLoader();
+        } else {
+            user_query = ""; // Reset user query if input is empty
+            showLoader();
+            updatePodcast(podcast);
+            hideLoader();
+        }
+
+
             //const formData = new FormData(this);
 
             //const loader = document.getElementById('loader');
             //loader.style.display = 'block'; // Show loader
-
-            showLoader();
+            
             
             // fetch('your-server-endpoint', {
             //     method: 'POST',

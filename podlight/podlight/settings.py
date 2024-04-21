@@ -15,6 +15,13 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# URL to use when referring to static files located in STATIC_ROOT
+STATIC_URL = '/static/'
+
+# Additional locations of static files
+STATICFILES_DIRS = [
+    BASE_DIR / 'main' / 'assets',  # Use the '/' operator for path concatenation with Path objects
+]
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
