@@ -1,6 +1,7 @@
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModel
 from pydub import AudioSegment
+import pandas as pd
 
 import torch, boto3, dotenv, os, asyncio
 
@@ -72,3 +73,17 @@ def query_pinecone_from_embedding(embedding, pc_index):
         pc_response.append((id, score, metadata['channel'], metadata['chapter']))
 
     return pc_response
+
+def get_topics_from_ids(ids):
+    """
+    Function to get the topics from the ids
+    """
+
+    ids_set = set(ids)
+    topics = []
+    df = pd.read_csv("true_data.csv")
+
+    for row in df.itertuples():
+        if str(row[0]) in ids_set:
+            topics.append(row[11])
+    return topics 
