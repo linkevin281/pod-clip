@@ -33,5 +33,10 @@
         "link": "https://www.youtube.com/watch?v=1gLHnRDiIms",
         "name": "pinecone",
         "podcast": "unsupervised_learning"
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=dX7d6bRJI9k",
+        "name": "future_tech",
+        "podcast": "a16z"
     }
 ]
