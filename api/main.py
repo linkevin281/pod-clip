@@ -39,9 +39,9 @@ def query_controller(query_text, model):
 async def merge_audio(ids):
     """
     Function to merge all audio files given ids into one"""
-    merged_track = AudioSegment.from_file(f"{MERGED_AUDIO_PATH}/{ids[0]}_{SUFFIX}.wav")
+    merged_track = AudioSegment.from_file(f"{MERGED_AUDIO_PATH}/{ids[0]}_merge.wav")
     for i in range(1, len(ids)):
-        merged_track += AudioSegment.from_file(f"{MERGED_AUDIO_PATH}/{ids[i]}_{SUFFIX}.wav")
+        merged_track += AudioSegment.from_file(f"{MERGED_AUDIO_PATH}/{ids[i]}_merged.wav")
     
      # Construct the output filename
     name = f"custom_{'_'.join(ids)}"
