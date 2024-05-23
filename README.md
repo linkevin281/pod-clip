@@ -21,7 +21,7 @@ Prompt: "Please make me a podcast about nuclear energy and venture capital."
 - Database: SQLLite, Pinecone, S3
 - AI: Mistral8x7b, Snowflake Arctic Embed, Huggingface, Suno, Google Cloud TTS
 
-![Podlite](assets/podlite.png)
+![Podlite](assets/demo.gif)
 
 ## Architecture
 
